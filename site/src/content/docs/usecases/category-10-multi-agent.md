@@ -284,13 +284,13 @@ cd team-agents
 docker-compose up -d
 
 # 2. 오케스트레이터 설정 (예시)
-openclaw config set orchestrator.enabled=true
+openclaw config set orchestrator.enabled true
 
 # 3. 에이전트 등록 (예시)
-openclaw agent register --name builder --role code-generation
-openclaw agent register --name reviewer --role code-review
-openclaw agent register --name tester --role testing
-openclaw agent register --name deployer --role deployment
+openclaw agents add builder
+openclaw agents add reviewer
+openclaw agents add tester
+openclaw agents add deployer
 ```
 
 > ⚠️ 참고: 위 설정은 멀티 에이전트 아키텍처의 예시입니다. 실제 OpenClaw의 멀티 에이전트 기능은 커뮤니티 기반 구현(Clawctl, Clawe 등)을 활용하거나 직접 개발이 필요합니다. [팀 에이전트 상세 가이드](/usecases/team-agents)를 참조하세요.
@@ -299,13 +299,13 @@ cd team-agents
 docker-compose up -d
 
 # 2. 오케스트레이터 설정
-openclaw config set orchestrator.enabled=true
+openclaw config set orchestrator.enabled true
 
 # 3. 에이전트 등록
-openclaw agent register --name builder --role code-generation
-openclaw agent register --name reviewer --role code-review
-openclaw agent register --name tester --role testing
-openclaw agent register --name deployer --role deployment
+openclaw agents add builder
+openclaw agents add reviewer
+openclaw agents add tester
+openclaw agents add deployer
 ```
 
 ### 2. 프롬프트 예시

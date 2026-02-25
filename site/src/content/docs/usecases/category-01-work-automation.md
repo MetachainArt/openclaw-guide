@@ -1,206 +1,206 @@
 ---
-title: "01. ¾÷¹« ÀÚµ¿È­ ±âº»±â"
-description: ÀÌ¸ÞÀÏ, ÀÏÁ¤, ¹®¼­, È¸ÀÇ·Ï ÀÚµ¿È­ - ¾÷¹« È¿À²ÀÇ ±âÃÊ
+title: "01. ì—…ë¬´ ìžë™í™” ê¸°ë³¸ê¸°"
+description: ì´ë©”ì¼, ì¼ì •, ë¬¸ì„œ, íšŒì˜ë¡ ìžë™í™” - ì—…ë¬´ íš¨ìœ¨ì˜ ê¸°ì´ˆ
 ---
 
-> ?? ÃÊ±Þ ·¹º§  
-> ?? ÀÌ¸ÞÀÏºÎÅÍ È¸ÀÇ·Ï±îÁö, °¡Àå ¸¹ÀÌ ¾²ÀÌ´Â ¾÷¹« ÀÚµ¿È­ »ç·Ê  
-> ?? ¼³Á¤ ½Ã°£: °¢ 15-30ºÐ
+> ?? ì´ˆê¸‰ ë ˆë²¨  
+> ?? ì´ë©”ì¼ë¶€í„° íšŒì˜ë¡ê¹Œì§€, ê°€ìž¥ ë§Žì´ ì“°ì´ëŠ” ì—…ë¬´ ìžë™í™” ì‚¬ë¡€  
+> ?? ì„¤ì • ì‹œê°„: ê° 15-30ë¶„
 
 ---
 
-## ?? »ç·Ê ¸ñ·Ï (ÃÑ 8°³)
+## ?? ì‚¬ë¡€ ëª©ë¡ (ì´ 8ê°œ)
 
 <div class="case-list">
 
-### 1. ¸ÂÃãÇü ¾ÆÄ§ ºê¸®ÇÎ ÀÚµ¿È­
-<a href="#case-1" class="case-link">ÀÚ¼¼È÷ º¸±â ¡æ</a>
+### 1. ë§žì¶¤í˜• ì•„ì¹¨ ë¸Œë¦¬í•‘ ìžë™í™”
+<a href="#case-1" class="case-link">ìžì„¸ížˆ ë³´ê¸° â†’</a>
 
-ÇÑ ÁÙ ¿ä¾à: ¸ÅÀÏ ¾ÆÄ§ Á¤ÇØÁø ½Ã°£¿¡ ÀÌ¸ÞÀÏ ¿ä¾à, ÀÏÁ¤, ´º½º, ³¯¾¾¸¦ ÇÑ´«¿¡
+í•œ ì¤„ ìš”ì•½: ë§¤ì¼ ì•„ì¹¨ ì •í•´ì§„ ì‹œê°„ì— ì´ë©”ì¼ ìš”ì•½, ì¼ì •, ë‰´ìŠ¤, ë‚ ì”¨ë¥¼ í•œëˆˆì—
 
-ÇÙ½É È¿°ú: 
-- ¸ÅÀÏ 15-20ºÐ Àý¾à
-- Áß¿äÇÑ ÀÌ¸ÞÀÏ ³õÄ§ ¹æÁö
-- ÇÏ·ç °èÈ¹ ¼ö¸³ ½Ã°£ ´ÜÃà
+í•µì‹¬ íš¨ê³¼: 
+- ë§¤ì¼ 15-20ë¶„ ì ˆì•½
+- ì¤‘ìš”í•œ ì´ë©”ì¼ ë†“ì¹¨ ë°©ì§€
+- í•˜ë£¨ ê³„íš ìˆ˜ë¦½ ì‹œê°„ ë‹¨ì¶•
 
-ÇÊ¿ä ½ºÅ³: `email`, `calendar`, `weather`, `news`
-
----
-
-### 2. ÀÌ¸ÞÀÏ ÀÎ¹Ú½º Á¦·Î (Inbox Zero)
-<a href="#case-2" class="case-link">ÀÚ¼¼È÷ º¸±â ¡æ</a>
-
-ÇÑ ÁÙ ¿ä¾à: ¼ö¹é °³ÀÇ ÀÌ¸ÞÀÏÀ» ÀÚµ¿ ºÐ·ùÇÏ¿© Áß¿äÇÑ °Í¸¸ ³²±â±â
-
-ÇÙ½É È¿°ú:
-- ÀÎ¹Ú½º 0°³ À¯Áö
-- Áß¿ä ¸ÞÀÏ ³õÄ§ ¹æÁö
-- ¸ÞÀÏ È®ÀÎ ½Ã°£ 70% ´ÜÃà
-
-ÇÊ¿ä ½ºÅ³: `gmail`, `filter`, `classifier`
+í•„ìš” ìŠ¤í‚¬: `email`, `calendar`, `weather`, `news`
 
 ---
 
-### 3. ÀÚµ¿ ÀÌ¸ÞÀÏ ÃÊ¾È ÀÛ¼º
-<a href="#case-3" class="case-link">ÀÚ¼¼È÷ º¸±â ¡æ</a>
+### 2. ì´ë©”ì¼ ì¸ë°•ìŠ¤ ì œë¡œ (Inbox Zero)
+<a href="#case-2" class="case-link">ìžì„¸ížˆ ë³´ê¸° â†’</a>
 
-ÇÑ ÁÙ ¿ä¾à: ³» ¸»Åõ¸¦ ÇÐ½ÀÇÏ¿© ´äÀå ÃÊ¾ÈÀ» ÀÚµ¿À¸·Î ÀÛ¼º
+í•œ ì¤„ ìš”ì•½: ìˆ˜ë°± ê°œì˜ ì´ë©”ì¼ì„ ìžë™ ë¶„ë¥˜í•˜ì—¬ ì¤‘ìš”í•œ ê²ƒë§Œ ë‚¨ê¸°ê¸°
 
-ÇÙ½É È¿°ú:
-- ´äÀå ÀÛ¼º ½Ã°£ 50% ´ÜÃà
-- ÀÏ°üµÈ Ä¿¹Â´ÏÄÉÀÌ¼Ç Åæ À¯Áö
-- ¹ø°Å·Î¿î Á¤ÁßÇÑ Ç¥Çö ÀÚµ¿ »ý¼º
+í•µì‹¬ íš¨ê³¼:
+- ì¸ë°•ìŠ¤ 0ê°œ ìœ ì§€
+- ì¤‘ìš” ë©”ì¼ ë†“ì¹¨ ë°©ì§€
+- ë©”ì¼ í™•ì¸ ì‹œê°„ 70% ë‹¨ì¶•
 
-ÇÊ¿ä ½ºÅ³: `gmail`, `memory`, `composer`
-
----
-
-### 4. Ä¶¸°´õ ÀÚµ¿ °ü¸®
-<a href="#case-4" class="case-link">ÀÚ¼¼È÷ º¸±â ¡æ</a>
-
-ÇÑ ÁÙ ¿ä¾à: "´ÙÀ½ ÁÖ È­¿äÀÏ 3½Ã¿¡ ¹ÌÆÃ"ÀÌ¶ó°í ¸»ÇÏ¸é ÀÚµ¿À¸·Î ÀÏÁ¤ µî·Ï
-
-ÇÙ½É È¿°ú:
-- ÀÏÁ¤ ÀÔ·Â ½Ã°£ 80% ´ÜÃà
-- ÀÏÁ¤ Ãæµ¹ »çÀü ¹æÁö
-- ÀÚµ¿ ¾Ë¸²À¸·Î Áö°¢ ¹æÁö
-
-ÇÊ¿ä ½ºÅ³: `calendar`, `nlp`, `reminder`
+í•„ìš” ìŠ¤í‚¬: `gmail`, `filter`, `classifier`
 
 ---
 
-### 5. ÇÒ ÀÏ ¸ñ·Ï(To-Do) ÅëÇÕ °ü¸®
-<a href="#case-5" class="case-link">ÀÚ¼¼È÷ º¸±â ¡æ</a>
+### 3. ìžë™ ì´ë©”ì¼ ì´ˆì•ˆ ìž‘ì„±
+<a href="#case-3" class="case-link">ìžì„¸ížˆ ë³´ê¸° â†’</a>
 
-ÇÑ ÁÙ ¿ä¾à: Todoist, Notion, Google Tasks¸¦ ÇÑ°÷¿¡¼­ °ü¸®
+í•œ ì¤„ ìš”ì•½: ë‚´ ë§íˆ¬ë¥¼ í•™ìŠµí•˜ì—¬ ë‹µìž¥ ì´ˆì•ˆì„ ìžë™ìœ¼ë¡œ ìž‘ì„±
 
-ÇÙ½É È¿°ú:
-- ¿©·¯ ¾Û °£ ÇÒ ÀÏ µ¿±âÈ­
-- ¿ì¼±¼øÀ§ ÀÚµ¿ Á¶Á¤
-- ¸¶°¨ÀÏ ¾Ë¸²À¸·Î ¹Ì·ç±â ¹æÁö
+í•µì‹¬ íš¨ê³¼:
+- ë‹µìž¥ ìž‘ì„± ì‹œê°„ 50% ë‹¨ì¶•
+- ì¼ê´€ëœ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ í†¤ ìœ ì§€
+- ë²ˆê±°ë¡œìš´ ì •ì¤‘í•œ í‘œí˜„ ìžë™ ìƒì„±
 
-ÇÊ¿ä ½ºÅ³: `todoist`, `notion`, `tasks`
-
----
-
-### 6. È¸ÀÇ ³ìÀ½ Àü»ç ¹× ¾×¼Ç ¾ÆÀÌÅÛ ÃßÃâ
-<a href="#case-6" class="case-link">ÀÚ¼¼È÷ º¸±â ¡æ</a>
-
-ÇÑ ÁÙ ¿ä¾à: È¸ÀÇ ³ìÀ½À» ¾÷·ÎµåÇÏ¸é Àü»ç + ¿ä¾à + ÇÒ ÀÏ ÃßÃâ
-
-ÇÙ½É È¿°ú:
-- È¸ÀÇ·Ï ÀÛ¼º ½Ã°£ 80% Àý¾à
-- ¾×¼Ç ¾ÆÀÌÅÛ ´©¶ô ¹æÁö
-- È­ÀÚº° ¹ß¾ð ³»¿ë ÃßÀû
-
-ÇÊ¿ä ½ºÅ³: `audio`, `whisper`, `summarizer`, `tasks`
+í•„ìš” ìŠ¤í‚¬: `gmail`, `memory`, `composer`
 
 ---
 
-### 7. ¹®¼­ ÀÚµ¿ ÀÛ¼º ¹× Á¤¸®
-<a href="#case-7" class="case-link">ÀÚ¼¼È÷ º¸±â ¡æ</a>
+### 4. ìº˜ë¦°ë” ìžë™ ê´€ë¦¬
+<a href="#case-4" class="case-link">ìžì„¸ížˆ ë³´ê¸° â†’</a>
 
-ÇÑ ÁÙ ¿ä¾à: º¸°í¼­, Á¦¾È¼­ ÃÊ¾ÈÀ» ÀÚµ¿À¸·Î ÀÛ¼ºÇÏ°í Çü½Ä Á¤¸®
+í•œ ì¤„ ìš”ì•½: "ë‹¤ìŒ ì£¼ í™”ìš”ì¼ 3ì‹œì— ë¯¸íŒ…"ì´ë¼ê³  ë§í•˜ë©´ ìžë™ìœ¼ë¡œ ì¼ì • ë“±ë¡
 
-ÇÙ½É È¿°ú:
-- ¹®¼­ ÀÛ¼º ½Ã°£ 60% ´ÜÃà
-- ÀÏ°üµÈ ¼­½Ä À¯Áö
-- ÀÚ·á Á¶»ç ÀÚµ¿È­
+í•µì‹¬ íš¨ê³¼:
+- ì¼ì • ìž…ë ¥ ì‹œê°„ 80% ë‹¨ì¶•
+- ì¼ì • ì¶©ëŒ ì‚¬ì „ ë°©ì§€
+- ìžë™ ì•Œë¦¼ìœ¼ë¡œ ì§€ê° ë°©ì§€
 
-ÇÊ¿ä ½ºÅ³: `docs`, `research`, `formatter`
+í•„ìš” ìŠ¤í‚¬: `calendar`, `nlp`, `reminder`
 
 ---
 
-### 8. ÅÃ¹è ¹× ¹è¼Û »óÅÂ ÃßÀû
-<a href="#case-8" class="case-link">ÀÚ¼¼È÷ º¸±â ¡æ</a>
+### 5. í•  ì¼ ëª©ë¡(To-Do) í†µí•© ê´€ë¦¬
+<a href="#case-5" class="case-link">ìžì„¸ížˆ ë³´ê¸° â†’</a>
 
-ÇÑ ÁÙ ¿ä¾à: ¿©·¯ ¼îÇÎ¸ô ÅÃ¹è¸¦ ÇÑ´«¿¡ ÃßÀûÇÏ°í ¾Ë¸² ¹Þ±â
+í•œ ì¤„ ìš”ì•½: Todoist, Notion, Google Tasksë¥¼ í•œê³³ì—ì„œ ê´€ë¦¬
 
-ÇÙ½É È¿°ú:
-- ¹è¼Û Á¶È¸ ½Ã°£ Àý¾à
-- ½Ç½Ã°£ ¹è¼Û ¾Ë¸²
-- ¹è¼Û ¹®Á¦ Á¶±â ¹ß°ß
+í•µì‹¬ íš¨ê³¼:
+- ì—¬ëŸ¬ ì•± ê°„ í•  ì¼ ë™ê¸°í™”
+- ìš°ì„ ìˆœìœ„ ìžë™ ì¡°ì •
+- ë§ˆê°ì¼ ì•Œë¦¼ìœ¼ë¡œ ë¯¸ë£¨ê¸° ë°©ì§€
 
-ÇÊ¿ä ½ºÅ³: `tracking`, `cron`, `notify`
+í•„ìš” ìŠ¤í‚¬: `todoist`, `notion`, `tasks`
+
+---
+
+### 6. íšŒì˜ ë…¹ìŒ ì „ì‚¬ ë° ì•¡ì…˜ ì•„ì´í…œ ì¶”ì¶œ
+<a href="#case-6" class="case-link">ìžì„¸ížˆ ë³´ê¸° â†’</a>
+
+í•œ ì¤„ ìš”ì•½: íšŒì˜ ë…¹ìŒì„ ì—…ë¡œë“œí•˜ë©´ ì „ì‚¬ + ìš”ì•½ + í•  ì¼ ì¶”ì¶œ
+
+í•µì‹¬ íš¨ê³¼:
+- íšŒì˜ë¡ ìž‘ì„± ì‹œê°„ 80% ì ˆì•½
+- ì•¡ì…˜ ì•„ì´í…œ ëˆ„ë½ ë°©ì§€
+- í™”ìžë³„ ë°œì–¸ ë‚´ìš© ì¶”ì 
+
+í•„ìš” ìŠ¤í‚¬: `audio`, `whisper`, `summarizer`, `tasks`
+
+---
+
+### 7. ë¬¸ì„œ ìžë™ ìž‘ì„± ë° ì •ë¦¬
+<a href="#case-7" class="case-link">ìžì„¸ížˆ ë³´ê¸° â†’</a>
+
+í•œ ì¤„ ìš”ì•½: ë³´ê³ ì„œ, ì œì•ˆì„œ ì´ˆì•ˆì„ ìžë™ìœ¼ë¡œ ìž‘ì„±í•˜ê³  í˜•ì‹ ì •ë¦¬
+
+í•µì‹¬ íš¨ê³¼:
+- ë¬¸ì„œ ìž‘ì„± ì‹œê°„ 60% ë‹¨ì¶•
+- ì¼ê´€ëœ ì„œì‹ ìœ ì§€
+- ìžë£Œ ì¡°ì‚¬ ìžë™í™”
+
+í•„ìš” ìŠ¤í‚¬: `docs`, `research`, `formatter`
+
+---
+
+### 8. íƒë°° ë° ë°°ì†¡ ìƒíƒœ ì¶”ì 
+<a href="#case-8" class="case-link">ìžì„¸ížˆ ë³´ê¸° â†’</a>
+
+í•œ ì¤„ ìš”ì•½: ì—¬ëŸ¬ ì‡¼í•‘ëª° íƒë°°ë¥¼ í•œëˆˆì— ì¶”ì í•˜ê³  ì•Œë¦¼ ë°›ê¸°
+
+í•µì‹¬ íš¨ê³¼:
+- ë°°ì†¡ ì¡°íšŒ ì‹œê°„ ì ˆì•½
+- ì‹¤ì‹œê°„ ë°°ì†¡ ì•Œë¦¼
+- ë°°ì†¡ ë¬¸ì œ ì¡°ê¸° ë°œê²¬
+
+í•„ìš” ìŠ¤í‚¬: `tracking`, `cron`, `notify`
 
 </div>
 
 ---
 
-## ?? ºñ±³ ¿ä¾à
+## ?? ë¹„êµ ìš”ì•½
 
-| # | »ç·Ê | ³­ÀÌµµ | ¼Ò¿ä½Ã°£ | È¿°ú |
+| # | ì‚¬ë¡€ | ë‚œì´ë„ | ì†Œìš”ì‹œê°„ | íš¨ê³¼ |
 |---|------|--------|---------|------|
-| 1 | ¾ÆÄ§ ºê¸®ÇÎ | ?? | 20ºÐ | ¸ÅÀÏ 15ºÐ Àý¾à |
-| 2 | ÀÎ¹Ú½º Á¦·Î | ?? | 15ºÐ | ¸ÞÀÏ ½Ã°£ 70%¡é |
-| 3 | ÀÌ¸ÞÀÏ ÃÊ¾È | ?? | 15ºÐ | ´äÀå 50%¡é |
-| 4 | Ä¶¸°´õ °ü¸® | ?? | 20ºÐ | ÀÔ·Â 80%¡é |
-| 5 | ÇÒ ÀÏ ÅëÇÕ | ?? | 25ºÐ | µ¿±âÈ­ ÀÚµ¿È­ |
-| 6 | È¸ÀÇ·Ï Àü»ç | ?? | 30ºÐ | 80% Àý¾à |
-| 7 | ¹®¼­ ÀÛ¼º | ?? | 30ºÐ | 60% Àý¾à |
-| 8 | ÅÃ¹è ÃßÀû | ?? | 15ºÐ | ½Ç½Ã°£ ¾Ë¸² |
+| 1 | ì•„ì¹¨ ë¸Œë¦¬í•‘ | ?? | 20ë¶„ | ë§¤ì¼ 15ë¶„ ì ˆì•½ |
+| 2 | ì¸ë°•ìŠ¤ ì œë¡œ | ?? | 15ë¶„ | ë©”ì¼ ì‹œê°„ 70%â†“ |
+| 3 | ì´ë©”ì¼ ì´ˆì•ˆ | ?? | 15ë¶„ | ë‹µìž¥ 50%â†“ |
+| 4 | ìº˜ë¦°ë” ê´€ë¦¬ | ?? | 20ë¶„ | ìž…ë ¥ 80%â†“ |
+| 5 | í•  ì¼ í†µí•© | ?? | 25ë¶„ | ë™ê¸°í™” ìžë™í™” |
+| 6 | íšŒì˜ë¡ ì „ì‚¬ | ?? | 30ë¶„ | 80% ì ˆì•½ |
+| 7 | ë¬¸ì„œ ìž‘ì„± | ?? | 30ë¶„ | 60% ì ˆì•½ |
+| 8 | íƒë°° ì¶”ì  | ?? | 15ë¶„ | ì‹¤ì‹œê°„ ì•Œë¦¼ |
 
 ---
 
-## ?? ¹Ù·Î ½ÃÀÛÇÏ±â
+## ?? ë°”ë¡œ ì‹œìž‘í•˜ê¸°
 
-ÃßÃµ ¼ø¼­:
-1. Ä¶¸°´õ °ü¸® (4¹ø) - °¡Àå ½±°í È¿°úÀû
-2. ¾ÆÄ§ ºê¸®ÇÎ (1¹ø) - ¸ÅÀÏÀÇ »ý»ê¼º Çâ»ó
-3. ÀÎ¹Ú½º Á¦·Î (2¹ø) - ÀÌ¸ÞÀÏ ½ºÆ®·¹½º ÇØ¼Ò
-4. È¸ÀÇ·Ï Àü»ç (6¹ø) - Áß±ÞÀ¸·Î ÁøÀÔ
-
----
-
-## »ó¼¼ °¡ÀÌµå
+ì¶”ì²œ ìˆœì„œ:
+1. ìº˜ë¦°ë” ê´€ë¦¬ (4ë²ˆ) - ê°€ìž¥ ì‰½ê³  íš¨ê³¼ì 
+2. ì•„ì¹¨ ë¸Œë¦¬í•‘ (1ë²ˆ) - ë§¤ì¼ì˜ ìƒì‚°ì„± í–¥ìƒ
+3. ì¸ë°•ìŠ¤ ì œë¡œ (2ë²ˆ) - ì´ë©”ì¼ ìŠ¤íŠ¸ë ˆìŠ¤ í•´ì†Œ
+4. íšŒì˜ë¡ ì „ì‚¬ (6ë²ˆ) - ì¤‘ê¸‰ìœ¼ë¡œ ì§„ìž…
 
 ---
 
-<h2 id="case-1">1. ¸ÂÃãÇü ¾ÆÄ§ ºê¸®ÇÎ ÀÚµ¿È­</h2>
+## ìƒì„¸ ê°€ì´ë“œ
 
-### ?? »ó¼¼ ¼³¸í
+---
 
-¸ÅÀÏ ¾ÆÄ§ Á¤ÇØÁø ½Ã°£(¿¹: 6½Ã 30ºÐ)¿¡ ÀÌ¸ÞÀÏ ¿ä¾à, ¿À´Ã ÀÏÁ¤, °ü½É ´º½º, ³¯¾¾, ¾îÁ¦ ÇÏ´ø ÀÛ¾÷ÀÇ ¸Æ¶ôÀ» ¸Þ½ÅÀú·Î ÀÚµ¿ Àü¼ÛÇÕ´Ï´Ù. ÇÏ·ç¸¦ ½ÃÀÛÇÏ±â Àü Áß¿äÇÑ Á¤º¸¸¦ ÇÑ´«¿¡ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù.
+<h2 id="case-1">1. ë§žì¶¤í˜• ì•„ì¹¨ ë¸Œë¦¬í•‘ ìžë™í™”</h2>
 
-¾î¶² Á¤º¸°¡ Æ÷ÇÔµÇ³ª¿ä?
-- ??? ¿À´Ã ³¯¾¾ (±â¿Â, °­¼öÈ®·ü, ¹Ì¼¼¸ÕÁö)
-- ?? ¹ÌÈ®ÀÎ ÀÌ¸ÞÀÏ ¿ä¾à (Áß¿äµµº° ºÐ·ù)
-- ?? ¿À´ÃÀÇ ÀÏÁ¤ (È¸ÀÇ, ¸¶°¨, ¾à¼Ó)
-- ?? ÁÖ¿ä ´º½º (¼³Á¤ÇÑ Å°¿öµå ±â¹Ý)
-- ?? ¾îÁ¦ÀÇ ¾÷¹« ÇöÈ² (¿Ï·á/ÁøÇàÁß)
-- ?? ¿À´Ã ÇØ¾ß ÇÒ ÀÏ ÃßÃµ
+### ?? ìƒì„¸ ì„¤ëª…
 
-### ?? È°¿ë È¿°ú
+ë§¤ì¼ ì•„ì¹¨ ì •í•´ì§„ ì‹œê°„(ì˜ˆ: 6ì‹œ 30ë¶„)ì— ì´ë©”ì¼ ìš”ì•½, ì˜¤ëŠ˜ ì¼ì •, ê´€ì‹¬ ë‰´ìŠ¤, ë‚ ì”¨, ì–´ì œ í•˜ë˜ ìž‘ì—…ì˜ ë§¥ë½ì„ ë©”ì‹ ì €ë¡œ ìžë™ ì „ì†¡í•©ë‹ˆë‹¤. í•˜ë£¨ë¥¼ ì‹œìž‘í•˜ê¸° ì „ ì¤‘ìš”í•œ ì •ë³´ë¥¼ í•œëˆˆì— í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
 
-- ¸ÅÀÏ 15-20ºÐ Àý¾à: Á¤º¸ ¼öÁý ¹× Á¤¸® ½Ã°£ °¨¼Ò
-- Áß¿äÇÑ ÀÌ¸ÞÀÏ ³õÄ§ ¹æÁö: AI°¡ Áß¿äµµ ÆÇ´ÜÇÏ¿© ¾Ë¸²
-- ÇÏ·ç °èÈ¹ ¼ö¸³ ½Ã°£ ´ÜÃà: ¸ðµç Á¤º¸°¡ ÇÑ ¸Þ½ÃÁö¿¡
+ì–´ë–¤ ì •ë³´ê°€ í¬í•¨ë˜ë‚˜ìš”?
+- ??? ì˜¤ëŠ˜ ë‚ ì”¨ (ê¸°ì˜¨, ê°•ìˆ˜í™•ë¥ , ë¯¸ì„¸ë¨¼ì§€)
+- ?? ë¯¸í™•ì¸ ì´ë©”ì¼ ìš”ì•½ (ì¤‘ìš”ë„ë³„ ë¶„ë¥˜)
+- ?? ì˜¤ëŠ˜ì˜ ì¼ì • (íšŒì˜, ë§ˆê°, ì•½ì†)
+- ?? ì£¼ìš” ë‰´ìŠ¤ (ì„¤ì •í•œ í‚¤ì›Œë“œ ê¸°ë°˜)
+- ?? ì–´ì œì˜ ì—…ë¬´ í˜„í™© (ì™„ë£Œ/ì§„í–‰ì¤‘)
+- ?? ì˜¤ëŠ˜ í•´ì•¼ í•  ì¼ ì¶”ì²œ
 
-### ??? ÇÊ¿ä ½ºÅ³
+### ?? í™œìš© íš¨ê³¼
 
-| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
+- ë§¤ì¼ 15-20ë¶„ ì ˆì•½: ì •ë³´ ìˆ˜ì§‘ ë° ì •ë¦¬ ì‹œê°„ ê°ì†Œ
+- ì¤‘ìš”í•œ ì´ë©”ì¼ ë†“ì¹¨ ë°©ì§€: AIê°€ ì¤‘ìš”ë„ íŒë‹¨í•˜ì—¬ ì•Œë¦¼
+- í•˜ë£¨ ê³„íš ìˆ˜ë¦½ ì‹œê°„ ë‹¨ì¶•: ëª¨ë“  ì •ë³´ê°€ í•œ ë©”ì‹œì§€ì—
+
+### ??? í•„ìš” ìŠ¤í‚¬
+
+| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
 |------|------|------------|
-| email | ÀÌ¸ÞÀÏ ¿ä¾à | `clawhub install email` |
-| calendar | ÀÏÁ¤ È®ÀÎ | `clawhub install calendar` |
-| weather | ³¯¾¾ Á¤º¸ | `clawhub install weather` |
-| news | ´º½º ¼öÁý | `clawhub install news` |
+| email | ì´ë©”ì¼ ìš”ì•½ | `clawhub install email` |
+| calendar | ì¼ì • í™•ì¸ | `clawhub install calendar` |
+| weather | ë‚ ì”¨ ì •ë³´ | `clawhub install weather` |
+| news | ë‰´ìŠ¤ ìˆ˜ì§‘ | `clawhub install news` |
 
-?? ½ºÅ³ ¼³Ä¡ Àü [º¸¾È Ã¼Å©¸®½ºÆ®](/security/skill-checklist) È®ÀÎ ÇÊ¼ö!
+?? ìŠ¤í‚¬ ì„¤ì¹˜ ì „ [ë³´ì•ˆ ì²´í¬ë¦¬ìŠ¤íŠ¸](/security/skill-checklist) í™•ì¸ í•„ìˆ˜!
 
-### ?? ´Ü°èº° ¼³Á¤
+### ?? ë‹¨ê³„ë³„ ì„¤ì •
 
-Step 1: ½ºÅ³ ¼³Ä¡
+Step 1: ìŠ¤í‚¬ ì„¤ì¹˜
 
 ```bash
-# ¸ðµç ÇÊ¿äÇÑ ½ºÅ³ ÇÑ¹ø¿¡ ¼³Ä¡
+# ëª¨ë“  í•„ìš”í•œ ìŠ¤í‚¬ í•œë²ˆì— ì„¤ì¹˜
 clawhub install email calendar weather news
 ```
 
-Step 2: API Å° ¼³Á¤
+Step 2: API í‚¤ ì„¤ì •
 
 ```bash
-# ¼³Á¤ ÆÄÀÏ ¿­±â
-openclaw config edit
+# ì„¤ì • íŒŒì¼ ì—´ê¸°
+openclaw config
 ```
 
 ```json
@@ -209,7 +209,7 @@ openclaw config edit
     "email": {
       "provider": "gmail",
       "maxSummary": 5,
-      "priorityKeywords": ["±ä±Þ", "Áß¿ä", "¸¶°¨", "È¸ÀÇ"]
+      "priorityKeywords": ["ê¸´ê¸‰", "ì¤‘ìš”", "ë§ˆê°", "íšŒì˜"]
     },
     "calendar": {
       "provider": "google",
@@ -224,14 +224,14 @@ openclaw config edit
     "news": {
       "provider": "newsapi",
       "apiKey": "${NEWSAPI_KEY}",
-      "keywords": ["AI", "Å×Å©", "°æÁ¦"],
+      "keywords": ["AI", "í…Œí¬", "ê²½ì œ"],
       "maxArticles": 3
     }
   }
 }
 ```
 
-Step 3: ºê¸®ÇÎ ÅÛÇÃ¸´ ÀÛ¼º
+Step 3: ë¸Œë¦¬í•‘ í…œí”Œë¦¿ ìž‘ì„±
 
 ```javascript
 // ~/.openclaw/skills/briefing/template.js
@@ -243,7 +243,7 @@ module.exports = async (agent) => {
     day: 'numeric'
   });
   
-  // º´·Ä·Î µ¥ÀÌÅÍ ¼öÁý
+  // ë³‘ë ¬ë¡œ ë°ì´í„° ìˆ˜ì§‘
   const [emails, calendar, weather, news] = await Promise.all([
     agent.email.getUnread({ limit: 5, prioritize: true }),
     agent.calendar.getToday(),
@@ -251,46 +251,46 @@ module.exports = async (agent) => {
     agent.news.getByKeywords()
   ]);
   
-  // ¾îÁ¦ ÀÛ¾÷ °¡Á®¿À±â
+  // ì–´ì œ ìž‘ì—… ê°€ì ¸ì˜¤ê¸°
   const yesterdayTasks = await agent.memory.getYesterdaySummary();
   
   return `
-?? ¾ÆÄ§ ºê¸®ÇÎ (${today})
+?? ì•„ì¹¨ ë¸Œë¦¬í•‘ (${today})
 
-??? ¿À´ÃÀÇ ³¯¾¾
-${weather.condition}, ${weather.temp}¡ÆC
-Ã¼°¨¿Âµµ ${weather.feelsLike}¡ÆC, °­¼öÈ®·ü ${weather.precipitation}%
+??? ì˜¤ëŠ˜ì˜ ë‚ ì”¨
+${weather.condition}, ${weather.temp}Â°C
+ì²´ê°ì˜¨ë„ ${weather.feelsLike}Â°C, ê°•ìˆ˜í™•ë¥  ${weather.precipitation}%
 
-?? ¹ÌÈ®ÀÎ ÀÌ¸ÞÀÏ ${emails.total}°³
+?? ë¯¸í™•ì¸ ì´ë©”ì¼ ${emails.total}ê°œ
 ${emails.items.map(e => `? ${e.priority === 'high' ? '??' : '?'} ${e.from}: ${e.subject}`).join('\n')}
 
-?? ¿À´Ã ÀÏÁ¤ (${calendar.events.length}°³)
+?? ì˜¤ëŠ˜ ì¼ì • (${calendar.events.length}ê°œ)
 ${calendar.events.map(e => `? ${e.time} ${e.title} ${e.location ? '@' + e.location : ''}`).join('\n')}
 
-?? ÁÖ¿ä ´º½º
+?? ì£¼ìš” ë‰´ìŠ¤
 ${news.articles.map(a => `? ${a.title}`).join('\n')}
 
-?? ¾îÁ¦ ÇÑ ÀÏ
-${yesterdayTasks.completed}°³ ¿Ï·á, ${yesterdayTasks.inProgress.length}°³ ÁøÇàÁß
-ÁøÇàÁß: ${yesterdayTasks.inProgress.map(t => t.title).join(', ')}
+?? ì–´ì œ í•œ ì¼
+${yesterdayTasks.completed}ê°œ ì™„ë£Œ, ${yesterdayTasks.inProgress.length}ê°œ ì§„í–‰ì¤‘
+ì§„í–‰ì¤‘: ${yesterdayTasks.inProgress.map(t => t.title).join(', ')}
 
-?? ¿À´ÃÀÇ ÃßÃµ
+?? ì˜¤ëŠ˜ì˜ ì¶”ì²œ
 ${await agent.memory.suggestTodayTasks()}
   `;
 };
 ```
 
-Step 4: Å©·Ð ÀÛ¾÷ ¼³Á¤ (¸ÅÀÏ 6:30)
+Step 4: í¬ë¡  ìž‘ì—… ì„¤ì • (ë§¤ì¼ 6:30)
 
 ```bash
-# Å©·Ð ÀÛ¾÷ Ãß°¡
+# í¬ë¡  ìž‘ì—… ì¶”ê°€
 openclaw cron add "morning-briefing" \
   --schedule "30 6 * * *" \
   --command "skill:briefing:send" \
   --channel telegram
 ```
 
-¶Ç´Â ¼³Á¤ ÆÄÀÏ¿¡ Ãß°¡:
+ë˜ëŠ” ì„¤ì • íŒŒì¼ì— ì¶”ê°€:
 
 ```json
 {
@@ -314,108 +314,108 @@ openclaw cron add "morning-briefing" \
 }
 ```
 
-### ?? ½ÇÁ¦ »ç¿ë ¿¹½Ã
+### ?? ì‹¤ì œ ì‚¬ìš© ì˜ˆì‹œ
 
-ÅÚ·¹±×·¥¿¡¼­ ¹Þ´Â ¸Þ½ÃÁö:
+í…”ë ˆê·¸ëž¨ì—ì„œ ë°›ëŠ” ë©”ì‹œì§€:
 
 ```
-?? ¾ÆÄ§ ºê¸®ÇÎ (2026³â 2¿ù 26ÀÏ ¼ö¿äÀÏ)
+?? ì•„ì¹¨ ë¸Œë¦¬í•‘ (2026ë…„ 2ì›” 26ì¼ ìˆ˜ìš”ì¼)
 
-??? ¿À´ÃÀÇ ³¯¾¾
-¸¼À½, 8¡ÆC
-Ã¼°¨¿Âµµ 5¡ÆC, °­¼öÈ®·ü 0%
-¹Ì¼¼¸ÕÁö: ÁÁÀ½
+??? ì˜¤ëŠ˜ì˜ ë‚ ì”¨
+ë§‘ìŒ, 8Â°C
+ì²´ê°ì˜¨ë„ 5Â°C, ê°•ìˆ˜í™•ë¥  0%
+ë¯¸ì„¸ë¨¼ì§€: ì¢‹ìŒ
 
-?? ¹ÌÈ®ÀÎ ÀÌ¸ÞÀÏ 3°³
-?? boss@company.com: Q1 ¸ñÇ¥ °ËÅä ¿äÃ»
-? marketing@company.com: 2¿ù Ä·ÆäÀÎ ¸®Æ÷Æ®
-? noreply@github.com: PR ¸®ºä ¿äÃ»
+?? ë¯¸í™•ì¸ ì´ë©”ì¼ 3ê°œ
+?? boss@company.com: Q1 ëª©í‘œ ê²€í†  ìš”ì²­
+? marketing@company.com: 2ì›” ìº íŽ˜ì¸ ë¦¬í¬íŠ¸
+? noreply@github.com: PR ë¦¬ë·° ìš”ì²­
 
-?? ¿À´Ã ÀÏÁ¤ (4°³)
-? 10:00 ÆÀ ÁÖ°£ ¹ÌÆÃ @È¸ÀÇ½Ç A
-? 14:00 Å¬¶óÀÌ¾ðÆ® ÅëÈ­ (Zoom)
-? 16:00 ÄÚµå ¸®ºä
-? 18:00 Çï½º
+?? ì˜¤ëŠ˜ ì¼ì • (4ê°œ)
+? 10:00 íŒ€ ì£¼ê°„ ë¯¸íŒ… @íšŒì˜ì‹¤ A
+? 14:00 í´ë¼ì´ì–¸íŠ¸ í†µí™” (Zoom)
+? 16:00 ì½”ë“œ ë¦¬ë·°
+? 18:00 í—¬ìŠ¤
 
-?? ÁÖ¿ä ´º½º
-? OpenAI, GPT-5 ¹ßÇ¥ ¿¹Á¤
-? ±¹³» AI ½ºÅ¸Æ®¾÷ ÅõÀÚ ±ÞÁõ
-? ¿ø°Ý±Ù¹« È®´ë ±â¾÷ 30% Áõ°¡
+?? ì£¼ìš” ë‰´ìŠ¤
+? OpenAI, GPT-5 ë°œí‘œ ì˜ˆì •
+? êµ­ë‚´ AI ìŠ¤íƒ€íŠ¸ì—… íˆ¬ìž ê¸‰ì¦
+? ì›ê²©ê·¼ë¬´ í™•ëŒ€ ê¸°ì—… 30% ì¦ê°€
 
-?? ¾îÁ¦ ÇÑ ÀÏ
-5°³ ¿Ï·á, 2°³ ÁøÇàÁß
-ÁøÇàÁß: ¸¶ÄÉÆÃ º¸°í¼­, API ¹®¼­È­
+?? ì–´ì œ í•œ ì¼
+5ê°œ ì™„ë£Œ, 2ê°œ ì§„í–‰ì¤‘
+ì§„í–‰ì¤‘: ë§ˆì¼€íŒ… ë³´ê³ ì„œ, API ë¬¸ì„œí™”
 
-?? ¿À´ÃÀÇ ÃßÃµ
-1. Q1 ¸ñÇ¥ °ËÅä ÀÌ¸ÞÀÏ ´äÀå (30ºÐ)
-2. ¸¶ÄÉÆÃ º¸°í¼­ ¸¶¹«¸® (1½Ã°£)
-3. Å¬¶óÀÌ¾ðÆ® ÅëÈ­ ÁØºñ (30ºÐ)
+?? ì˜¤ëŠ˜ì˜ ì¶”ì²œ
+1. Q1 ëª©í‘œ ê²€í†  ì´ë©”ì¼ ë‹µìž¥ (30ë¶„)
+2. ë§ˆì¼€íŒ… ë³´ê³ ì„œ ë§ˆë¬´ë¦¬ (1ì‹œê°„)
+3. í´ë¼ì´ì–¸íŠ¸ í†µí™” ì¤€ë¹„ (30ë¶„)
 ```
 
-### ?? °í±Þ ¼³Á¤
+### ?? ê³ ê¸‰ ì„¤ì •
 
-¸ÂÃãÇü ±ÔÄ¢ Ãß°¡:
+ë§žì¶¤í˜• ê·œì¹™ ì¶”ê°€:
 
 ```javascript
-// Æ¯Á¤ ¹ß½ÅÀÚ Áß¿äµµ Á¶Á¤
+// íŠ¹ì • ë°œì‹ ìž ì¤‘ìš”ë„ ì¡°ì •
 const priorityRules = [
   { from: 'boss@company.com', priority: 'critical' },
   { from: '*@company.com', priority: 'high' },
   { from: '*@github.com', priority: 'medium' },
-  { subject: '*¸¶°¨*', priority: 'high' }
+  { subject: '*ë§ˆê°*', priority: 'high' }
 ];
 
-// Å°¿öµå ±â¹Ý ´º½º ÇÊÅÍ¸µ
+// í‚¤ì›Œë“œ ê¸°ë°˜ ë‰´ìŠ¤ í•„í„°ë§
 const newsKeywords = {
-  'AI/Å×Å©': ['AI', 'ÀÎ°øÁö´É', 'GPT', 'Å¬¶ó¿ìµå'],
-  '°æÁ¦/ºñÁî´Ï½º': ['½ºÅ¸Æ®¾÷', 'ÅõÀÚ', '°æÁ¦'],
-  '¾÷°è¼Ò½Ä': ['SaaS', '°³¹ßÀÚ', 'ÇÁ·Î´öÆ®']
+  'AI/í…Œí¬': ['AI', 'ì¸ê³µì§€ëŠ¥', 'GPT', 'í´ë¼ìš°ë“œ'],
+  'ê²½ì œ/ë¹„ì¦ˆë‹ˆìŠ¤': ['ìŠ¤íƒ€íŠ¸ì—…', 'íˆ¬ìž', 'ê²½ì œ'],
+  'ì—…ê³„ì†Œì‹': ['SaaS', 'ê°œë°œìž', 'í”„ë¡œë•íŠ¸']
 };
 ```
 
 ---
 
-<h2 id="case-2">2. ÀÌ¸ÞÀÏ ÀÎ¹Ú½º Á¦·Î (Inbox Zero)</h2>
+<h2 id="case-2">2. ì´ë©”ì¼ ì¸ë°•ìŠ¤ ì œë¡œ (Inbox Zero)</h2>
 
-### ?? »ó¼¼ ¼³¸í
+### ?? ìƒì„¸ ì„¤ëª…
 
-¼ö¸¹Àº ÀÌ¸ÞÀÏÀ» ÀÚµ¿À¸·Î ºÐ¼®ÇÏ¿© Áß¿äÇÑ ¸ÞÀÏ¸¸ °ñ¶ó ¿ä¾àÇÏ°í, ´º½º·¹ÅÍ´Â ÀÚµ¿À¸·Î ¾ÆÄ«ÀÌºêÇÏ¸ç, ½ºÆÔÀº Á¤¸®ÇÕ´Ï´Ù. ¸ÅÀÏ ¼ö½Ê °³¾¿ ½×ÀÌ´Â ÀÌ¸ÞÀÏ¿¡¼­ ÇÙ½É¸¸ ÃßÃâÇÏ¿© ÀÎ¹Ú½º¸¦ ±ò²ûÇÏ°Ô À¯ÁöÇÕ´Ï´Ù.
+ìˆ˜ë§Žì€ ì´ë©”ì¼ì„ ìžë™ìœ¼ë¡œ ë¶„ì„í•˜ì—¬ ì¤‘ìš”í•œ ë©”ì¼ë§Œ ê³¨ë¼ ìš”ì•½í•˜ê³ , ë‰´ìŠ¤ë ˆí„°ëŠ” ìžë™ìœ¼ë¡œ ì•„ì¹´ì´ë¸Œí•˜ë©°, ìŠ¤íŒ¸ì€ ì •ë¦¬í•©ë‹ˆë‹¤. ë§¤ì¼ ìˆ˜ì‹­ ê°œì”© ìŒ“ì´ëŠ” ì´ë©”ì¼ì—ì„œ í•µì‹¬ë§Œ ì¶”ì¶œí•˜ì—¬ ì¸ë°•ìŠ¤ë¥¼ ê¹”ë”í•˜ê²Œ ìœ ì§€í•©ë‹ˆë‹¤.
 
-¾î¶»°Ô ÀÛµ¿ÇÏ³ª¿ä?
-1. AI°¡ ÀÌ¸ÞÀÏ ³»¿ëÀ» ºÐ¼®
-2. Áß¿äµµ ÆÇ´Ü (±ä±Þ/Áß¿ä/ÀÏ¹Ý/´º½º·¹ÅÍ/½ºÆÔ)
-3. ÀÚµ¿ ºÐ·ù ¹× Á¤¸®
-4. Áß¿ä ¸ÞÀÏ¸¸ ¿ä¾àÇÏ¿© ¾Ë¸²
+ì–´ë–»ê²Œ ìž‘ë™í•˜ë‚˜ìš”?
+1. AIê°€ ì´ë©”ì¼ ë‚´ìš©ì„ ë¶„ì„
+2. ì¤‘ìš”ë„ íŒë‹¨ (ê¸´ê¸‰/ì¤‘ìš”/ì¼ë°˜/ë‰´ìŠ¤ë ˆí„°/ìŠ¤íŒ¸)
+3. ìžë™ ë¶„ë¥˜ ë° ì •ë¦¬
+4. ì¤‘ìš” ë©”ì¼ë§Œ ìš”ì•½í•˜ì—¬ ì•Œë¦¼
 
-### ?? È°¿ë È¿°ú
+### ?? í™œìš© íš¨ê³¼
 
-- ÀÎ¹Ú½º 0°³ À¯Áö: ÀÚµ¿ Á¤¸®·Î ±ò²ûÇÑ ¸ÞÀÏÇÔ
-- Áß¿ä ¸ÞÀÏ ³õÄ§ ¹æÁö: AI°¡ Áß¿äµµ ÆÇ´Ü
-- ¸ÞÀÏ È®ÀÎ ½Ã°£ 70% ´ÜÃà: ºÒÇÊ¿äÇÑ ¸ÞÀÏ ÇÊÅÍ¸µ
+- ì¸ë°•ìŠ¤ 0ê°œ ìœ ì§€: ìžë™ ì •ë¦¬ë¡œ ê¹”ë”í•œ ë©”ì¼í•¨
+- ì¤‘ìš” ë©”ì¼ ë†“ì¹¨ ë°©ì§€: AIê°€ ì¤‘ìš”ë„ íŒë‹¨
+- ë©”ì¼ í™•ì¸ ì‹œê°„ 70% ë‹¨ì¶•: ë¶ˆí•„ìš”í•œ ë©”ì¼ í•„í„°ë§
 
-### ??? ÇÊ¿ä ½ºÅ³
+### ??? í•„ìš” ìŠ¤í‚¬
 
-| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
+| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
 |------|------|------------|
-| gmail | Gmail ¿¬µ¿ | `clawhub install gmail` |
-| filter | ¸ÞÀÏ ÇÊÅÍ¸µ | `clawhub install filter` |
-| classifier | ¸ÞÀÏ ºÐ·ù AI | `clawhub install classifier` |
+| gmail | Gmail ì—°ë™ | `clawhub install gmail` |
+| filter | ë©”ì¼ í•„í„°ë§ | `clawhub install filter` |
+| classifier | ë©”ì¼ ë¶„ë¥˜ AI | `clawhub install classifier` |
 
-### ?? ´Ü°èº° ¼³Á¤
+### ?? ë‹¨ê³„ë³„ ì„¤ì •
 
-Step 1: Gmail API ÀÎÁõ
+Step 1: Gmail API ì¸ì¦
 
 ```bash
-# Gmail ½ºÅ³ ¼³Ä¡
+# Gmail ìŠ¤í‚¬ ì„¤ì¹˜
 clawhub install gmail
 
-# ÀÎÁõ ÁøÇà
-openclaw skill auth gmail
+# ì¸ì¦ ì§„í–‰
+openclaw config
 ```
 
-ºê¶ó¿ìÀú¿¡¼­ Google ·Î±×ÀÎ ÈÄ ÅäÅ« º¹»çÇÏ¿© ºÙ¿©³Ö±â
+ë¸Œë¼ìš°ì €ì—ì„œ Google ë¡œê·¸ì¸ í›„ í† í° ë³µì‚¬í•˜ì—¬ ë¶™ì—¬ë„£ê¸°
 
-Step 2: ºÐ·ù ±ÔÄ¢ ¼³Á¤
+Step 2: ë¶„ë¥˜ ê·œì¹™ ì„¤ì •
 
 ```json
 {
@@ -425,25 +425,25 @@ Step 2: ºÐ·ù ±ÔÄ¢ ¼³Á¤
       "schedule": "*/30 * * * *",
       "rules": [
         {
-          "name": "º¸¾È ¾Ë¸²",
-          "condition": "from:*@security* OR subject:*·Î±×ÀÎ*",
+          "name": "ë³´ì•ˆ ì•Œë¦¼",
+          "condition": "from:*@security* OR subject:*ë¡œê·¸ì¸*",
           "action": "flag_important",
           "priority": 1
         },
         {
-          "name": "´º½º·¹ÅÍ ¾ÆÄ«ÀÌºê",
+          "name": "ë‰´ìŠ¤ë ˆí„° ì•„ì¹´ì´ë¸Œ",
           "condition": "from:*@newsletter* OR from:*@marketing* OR label:promotions",
           "action": "archive",
           "priority": 2
         },
         {
-          "name": "ÀÚµ¿ÀÀ´ä ¸ÞÀÏ »èÁ¦",
-          "condition": "subject:*ÀÚµ¿ÀÀ´ä* OR subject:*out of office*",
+          "name": "ìžë™ì‘ë‹µ ë©”ì¼ ì‚­ì œ",
+          "condition": "subject:*ìžë™ì‘ë‹µ* OR subject:*out of office*",
           "action": "delete",
           "priority": 3
         },
         {
-          "name": "´ë¿ë·® Ã·ºÎÆÄÀÏ ¶óº§¸µ",
+          "name": "ëŒ€ìš©ëŸ‰ ì²¨ë¶€íŒŒì¼ ë¼ë²¨ë§",
           "condition": "has:attachment AND size:>10MB",
           "action": "label:attachments",
           "priority": 4
@@ -459,7 +459,7 @@ Step 2: ºÐ·ù ±ÔÄ¢ ¼³Á¤
 }
 ```
 
-Step 3: ÀÚµ¿È­ ½ºÅ©¸³Æ®
+Step 3: ìžë™í™” ìŠ¤í¬ë¦½íŠ¸
 
 ```javascript
 // ~/.openclaw/skills/inbox-zero/processor.js
@@ -474,7 +474,7 @@ module.exports = async (agent) => {
   };
   
   for (const email of emails) {
-    // AI ºÐ·ù
+    // AI ë¶„ë¥˜
     const category = await agent.classifier.categorize(email, [
       'critical',
       'important',
@@ -486,7 +486,7 @@ module.exports = async (agent) => {
     switch(category) {
       case 'critical':
         await agent.gmail.flag(email.id, 'urgent');
-        await agent.notify(`?? ±ä±Þ ¸ÞÀÏ: ${email.subject}`, {
+        await agent.notify(`?? ê¸´ê¸‰ ë©”ì¼: ${email.subject}`, {
           priority: 'high'
         });
         results.important.push(email);
@@ -509,23 +509,23 @@ module.exports = async (agent) => {
         break;
         
       default:
-        // normal - ±×´ë·Î À¯Áö
+        // normal - ê·¸ëŒ€ë¡œ ìœ ì§€
         break;
     }
     
     results.processed++;
   }
   
-  // ¿ä¾à ¸®Æ÷Æ®
+  // ìš”ì•½ ë¦¬í¬íŠ¸
   if (results.processed > 0) {
     await agent.notify({
-      title: '?? ÀÎ¹Ú½º Á¤¸® ¿Ï·á',
+      title: '?? ì¸ë°•ìŠ¤ ì •ë¦¬ ì™„ë£Œ',
       message: `
-Ã³¸®: ${results.processed}°³
-?? ±ä±Þ: ${results.important.filter(e => e.priority === 'urgent').length}°³
-? Áß¿ä: ${results.important.filter(e => e.priority !== 'urgent').length}°³
-?? ¾ÆÄ«ÀÌºê: ${results.archived.length}°³
-??? »èÁ¦: ${results.deleted.length}°³
+ì²˜ë¦¬: ${results.processed}ê°œ
+?? ê¸´ê¸‰: ${results.important.filter(e => e.priority === 'urgent').length}ê°œ
+? ì¤‘ìš”: ${results.important.filter(e => e.priority !== 'urgent').length}ê°œ
+?? ì•„ì¹´ì´ë¸Œ: ${results.archived.length}ê°œ
+??? ì‚­ì œ: ${results.deleted.length}ê°œ
       `,
       channel: 'telegram'
     });
@@ -535,63 +535,63 @@ module.exports = async (agent) => {
 };
 ```
 
-### ?? ½ÇÁ¦ »ç¿ë ¿¹½Ã
+### ?? ì‹¤ì œ ì‚¬ìš© ì˜ˆì‹œ
 
-Á¤¸® ¿Ï·á ¾Ë¸²:
+ì •ë¦¬ ì™„ë£Œ ì•Œë¦¼:
 
 ```
-?? ÀÎ¹Ú½º Á¤¸® ¿Ï·á (14:30)
+?? ì¸ë°•ìŠ¤ ì •ë¦¬ ì™„ë£Œ (14:30)
 
-Ã³¸®: 23°³
+ì²˜ë¦¬: 23ê°œ
 
-?? ±ä±Þ 1°³ (Áï½Ã È®ÀÎ ÇÊ¿ä)
-  ¡æ º¸¾ÈÆÀ: "ºñÁ¤»óÀûÀÎ ·Î±×ÀÎ ½Ãµµ °¨Áö"
+?? ê¸´ê¸‰ 1ê°œ (ì¦‰ì‹œ í™•ì¸ í•„ìš”)
+  â†’ ë³´ì•ˆíŒ€: "ë¹„ì •ìƒì ì¸ ë¡œê·¸ì¸ ì‹œë„ ê°ì§€"
 
-? Áß¿ä 2°³
-  ¡æ ÆÀÀå´Ô: "Q1 ¸ñÇ¥ °ËÅä ¿äÃ»"
-  ¡æ Å¬¶óÀÌ¾ðÆ®: "°è¾à¼­ È®ÀÎ"
+? ì¤‘ìš” 2ê°œ
+  â†’ íŒ€ìž¥ë‹˜: "Q1 ëª©í‘œ ê²€í†  ìš”ì²­"
+  â†’ í´ë¼ì´ì–¸íŠ¸: "ê³„ì•½ì„œ í™•ì¸"
 
-?? ´º½º·¹ÅÍ ¾ÆÄ«ÀÌºê 12°³
-  ¡æ tech-daily@, product-weekly@ µî
+?? ë‰´ìŠ¤ë ˆí„° ì•„ì¹´ì´ë¸Œ 12ê°œ
+  â†’ tech-daily@, product-weekly@ ë“±
 
-??? ÀÚµ¿ÀÀ´ä/½ºÆÔ »èÁ¦ 5°³
+??? ìžë™ì‘ë‹µ/ìŠ¤íŒ¸ ì‚­ì œ 5ê°œ
 
-?? ÀÎ¹Ú½º ÇöÈ²
-³²Àº ¸ÞÀÏ: 3°³ (¸ðµÎ Áß¿ä)
+?? ì¸ë°•ìŠ¤ í˜„í™©
+ë‚¨ì€ ë©”ì¼: 3ê°œ (ëª¨ë‘ ì¤‘ìš”)
 ```
 
 ---
 
-<h2 id="case-3">3. ÀÚµ¿ ÀÌ¸ÞÀÏ ÃÊ¾È ÀÛ¼º</h2>
+<h2 id="case-3">3. ìžë™ ì´ë©”ì¼ ì´ˆì•ˆ ìž‘ì„±</h2>
 
-### ?? »ó¼¼ ¼³¸í
+### ?? ìƒì„¸ ì„¤ëª…
 
-³» Æò¼Ò ¸»Åõ¿Í ½ºÅ¸ÀÏÀ» ÇÐ½ÀÇÏ¿© Áß¿ä ¸ÞÀÏ¿¡ ´ëÇÑ ´äÀå ÃÊ¾ÈÀ» ÀÚµ¿À¸·Î ÀÛ¼ºÇÕ´Ï´Ù. »ç¿ëÀÚÀÇ °ú°Å ÀÌ¸ÞÀÏ ÆÐÅÏÀ» ºÐ¼®ÇØ ÀÚ¿¬½º·¯¿î ÅæÀ¸·Î ÃÊ¾ÈÀ» ¸¸µé¾î Á¦½ÃÇÕ´Ï´Ù.
+ë‚´ í‰ì†Œ ë§íˆ¬ì™€ ìŠ¤íƒ€ì¼ì„ í•™ìŠµí•˜ì—¬ ì¤‘ìš” ë©”ì¼ì— ëŒ€í•œ ë‹µìž¥ ì´ˆì•ˆì„ ìžë™ìœ¼ë¡œ ìž‘ì„±í•©ë‹ˆë‹¤. ì‚¬ìš©ìžì˜ ê³¼ê±° ì´ë©”ì¼ íŒ¨í„´ì„ ë¶„ì„í•´ ìžì—°ìŠ¤ëŸ¬ìš´ í†¤ìœ¼ë¡œ ì´ˆì•ˆì„ ë§Œë“¤ì–´ ì œì‹œí•©ë‹ˆë‹¤.
 
-### ?? È°¿ë È¿°ú
+### ?? í™œìš© íš¨ê³¼
 
-- ´äÀå ÀÛ¼º ½Ã°£ 50% ´ÜÃà
-- ÀÏ°üµÈ Ä¿¹Â´ÏÄÉÀÌ¼Ç Åæ À¯Áö
-- ¹ø°Å·Î¿î Á¤ÁßÇÑ Ç¥Çö ÀÚµ¿ »ý¼º
+- ë‹µìž¥ ìž‘ì„± ì‹œê°„ 50% ë‹¨ì¶•
+- ì¼ê´€ëœ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ í†¤ ìœ ì§€
+- ë²ˆê±°ë¡œìš´ ì •ì¤‘í•œ í‘œí˜„ ìžë™ ìƒì„±
 
-### ??? ÇÊ¿ä ½ºÅ³
+### ??? í•„ìš” ìŠ¤í‚¬
 
-| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
+| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
 |------|------|------------|
-| gmail | Gmail ¿¬µ¿ | `clawhub install gmail` |
-| memory | »ç¿ëÀÚ ½ºÅ¸ÀÏ ÇÐ½À | `clawhub install memory` |
-| composer | ¸ÞÀÏ ÀÛ¼º AI | `clawhub install composer` |
+| gmail | Gmail ì—°ë™ | `clawhub install gmail` |
+| memory | ì‚¬ìš©ìž ìŠ¤íƒ€ì¼ í•™ìŠµ | `clawhub install memory` |
+| composer | ë©”ì¼ ìž‘ì„± AI | `clawhub install composer` |
 
-### ?? ´Ü°èº° ¼³Á¤
+### ?? ë‹¨ê³„ë³„ ì„¤ì •
 
-Step 1: ÇÐ½À µ¥ÀÌÅÍ Á¦°ø
+Step 1: í•™ìŠµ ë°ì´í„° ì œê³µ
 
 ```bash
-# °ú°Å ¸ÞÀÏ 100°³·Î ÇÐ½À
-openclaw memory train --source gmail --limit 100 --style communication
+# ê³¼ê±° ë©”ì¼ 100ê°œë¡œ í•™ìŠµ
+openclaw memory index
 ```
 
-Step 2: ÃÊ¾È »ý¼º ±ÔÄ¢
+Step 2: ì´ˆì•ˆ ìƒì„± ê·œì¹™
 
 ```json
 {
@@ -600,7 +600,7 @@ Step 2: ÃÊ¾È »ý¼º ±ÔÄ¢
       "tone": "professional_but_friendly",
       "formality": "business_casual",
       "maxLength": 300,
-      "signature": "\n\n°¨»çÇÕ´Ï´Ù.\n${user.name}",
+      "signature": "\n\nê°ì‚¬í•©ë‹ˆë‹¤.\n${user.name}",
       "templates": {
         "meeting_request": "meeting_template",
         "follow_up": "followup_template",
@@ -611,57 +611,57 @@ Step 2: ÃÊ¾È »ý¼º ±ÔÄ¢
 }
 ```
 
-### ?? »ç¿ë ¿¹½Ã
+### ?? ì‚¬ìš© ì˜ˆì‹œ
 
 ```
-User: ÀÌ ¸ÞÀÏ ´äÀå ÃÊ¾È ½áÁà
-(Ã·ºÎ: "È¸ÀÇ ÀÏÁ¤ º¯°æ" ¸ÞÀÏ)
+User: ì´ ë©”ì¼ ë‹µìž¥ ì´ˆì•ˆ ì¨ì¤˜
+(ì²¨ë¶€: "íšŒì˜ ì¼ì • ë³€ê²½" ë©”ì¼)
 
 OpenClaw:
-?? ´äÀå ÃÊ¾È ÀÛ¼º ¿Ï·á
+?? ë‹µìž¥ ì´ˆì•ˆ ìž‘ì„± ì™„ë£Œ
 
 ---
-Á¦¸ñ: RE: È¸ÀÇ ÀÏÁ¤ º¯°æ
+ì œëª©: RE: íšŒì˜ ì¼ì • ë³€ê²½
 
-¾È³çÇÏ¼¼¿ä ±è´ë¸®´Ô,
+ì•ˆë…•í•˜ì„¸ìš” ê¹€ëŒ€ë¦¬ë‹˜,
 
-¸ÞÀÏ È®ÀÎÇß½À´Ï´Ù. 
-¼ö¿äÀÏ ¿ÀÈÄ 2½Ã·Î º¯°æ È®ÀÎÇßÀ¸¸ç, ±× ½Ã°£¿¡ ¸ÂÃç
-È¸ÀÇ½Ç B·Î Âü¼®ÇÏ°Ú½À´Ï´Ù.
+ë©”ì¼ í™•ì¸í–ˆìŠµë‹ˆë‹¤. 
+ìˆ˜ìš”ì¼ ì˜¤í›„ 2ì‹œë¡œ ë³€ê²½ í™•ì¸í–ˆìœ¼ë©°, ê·¸ ì‹œê°„ì— ë§žì¶°
+íšŒì˜ì‹¤ Bë¡œ ì°¸ì„í•˜ê² ìŠµë‹ˆë‹¤.
 
-È¤½Ã È¸ÀÇ ¾È°Ç ¹Ì¸® °øÀ¯ °¡´ÉÇÏ½Ã¸é 
-°ËÅäÇÏ°í ÁØºñÇØ °¡°Ú½À´Ï´Ù.
+í˜¹ì‹œ íšŒì˜ ì•ˆê±´ ë¯¸ë¦¬ ê³µìœ  ê°€ëŠ¥í•˜ì‹œë©´ 
+ê²€í† í•˜ê³  ì¤€ë¹„í•´ ê°€ê² ìŠµë‹ˆë‹¤.
 
-°¨»çÇÕ´Ï´Ù.
-È«±æµ¿
+ê°ì‚¬í•©ë‹ˆë‹¤.
+í™ê¸¸ë™
 ---
 
-?? ¸»Åõ ºÐ¼®:
-? Æò¼Ò ºñ½ÁÇÑ »óÈ²¿¡¼­ »ç¿ëÇÑ Ç¥Çö ¹Ý¿µ
-? Á¤ÁßÇÏ¸é¼­µµ Ä£±ÙÇÑ Åæ
-? Ãß°¡ ¾×¼Ç Á¦¾È Æ÷ÇÔ
+?? ë§íˆ¬ ë¶„ì„:
+? í‰ì†Œ ë¹„ìŠ·í•œ ìƒí™©ì—ì„œ ì‚¬ìš©í•œ í‘œí˜„ ë°˜ì˜
+? ì •ì¤‘í•˜ë©´ì„œë„ ì¹œê·¼í•œ í†¤
+? ì¶”ê°€ ì•¡ì…˜ ì œì•ˆ í¬í•¨
 
-[? ½ÂÀÎ ÈÄ Àü¼Û] [?? Á÷Á¢ ¼öÁ¤] [?? ´Ù½Ã ÀÛ¼º]
+[? ìŠ¹ì¸ í›„ ì „ì†¡] [?? ì§ì ‘ ìˆ˜ì •] [?? ë‹¤ì‹œ ìž‘ì„±]
 ```
 
 ---
 
-<h2 id="case-4">4. Ä¶¸°´õ ÀÚµ¿ °ü¸®</h2>
+<h2 id="case-4">4. ìº˜ë¦°ë” ìžë™ ê´€ë¦¬</h2>
 
-### ?? »ó¼¼ ¼³¸í
+### ?? ìƒì„¸ ì„¤ëª…
 
-¸Þ½ÅÀú¿¡¼­ "´ÙÀ½ ÁÖ È­¿äÀÏ 3½Ã¿¡ ÆÀ ¹ÌÆÃ"ÀÌ¶ó°í ¸»ÇÏ¸é ÀÚµ¿À¸·Î Google Calendar¿¡ µî·ÏµË´Ï´Ù. ÀÏÁ¤ Ãæµ¹À» È®ÀÎÇÏ°í, Âü¼®ÀÚ¿¡°Ô ÃÊ´ëÀåÀ» º¸³»¸ç, ¹ÌÆÃ 10ºÐ Àü ¾Ë¸²À» Á¦°øÇÕ´Ï´Ù.
+ë©”ì‹ ì €ì—ì„œ "ë‹¤ìŒ ì£¼ í™”ìš”ì¼ 3ì‹œì— íŒ€ ë¯¸íŒ…"ì´ë¼ê³  ë§í•˜ë©´ ìžë™ìœ¼ë¡œ Google Calendarì— ë“±ë¡ë©ë‹ˆë‹¤. ì¼ì • ì¶©ëŒì„ í™•ì¸í•˜ê³ , ì°¸ì„ìžì—ê²Œ ì´ˆëŒ€ìž¥ì„ ë³´ë‚´ë©°, ë¯¸íŒ… 10ë¶„ ì „ ì•Œë¦¼ì„ ì œê³µí•©ë‹ˆë‹¤.
 
-### ?? ´Ü°èº° ¼³Á¤
+### ?? ë‹¨ê³„ë³„ ì„¤ì •
 
-Step 1: Google Calendar ¿¬µ¿
+Step 1: Google Calendar ì—°ë™
 
 ```bash
 clawhub install calendar
-openclaw skill auth calendar
+openclaw config
 ```
 
-Step 2: ¼³Á¤
+Step 2: ì„¤ì •
 
 ```json
 {
@@ -675,200 +675,200 @@ Step 2: ¼³Á¤
 }
 ```
 
-### ?? »ç¿ë ¿¹½Ã
+### ?? ì‚¬ìš© ì˜ˆì‹œ
 
 ```
-User: ³»ÀÏ ¿ÀÈÄ 2½Ã¿¡ ÆÀ ¹ÌÆÃ Àâ¾ÆÁà
+User: ë‚´ì¼ ì˜¤í›„ 2ì‹œì— íŒ€ ë¯¸íŒ… ìž¡ì•„ì¤˜
 
 OpenClaw:
-?? ÀÏÁ¤ µî·Ï ¿Ï·á
+?? ì¼ì • ë“±ë¡ ì™„ë£Œ
 
-Á¦¸ñ: ÆÀ ¹ÌÆÃ
-³¯Â¥: 2026³â 2¿ù 26ÀÏ (¼ö)
-½Ã°£: 14:00 - 15:00
-Àå¼Ò: ¹ÌÁ¤
+ì œëª©: íŒ€ ë¯¸íŒ…
+ë‚ ì§œ: 2026ë…„ 2ì›” 26ì¼ (ìˆ˜)
+ì‹œê°„: 14:00 - 15:00
+ìž¥ì†Œ: ë¯¸ì •
 
-?? Ãæµ¹ °¨Áö: 13:30¿¡ ´Ù¸¥ ¹ÌÆÃ ÀÖÀ½
-   30ºÐ °£°ÝÀÌ Á¼½À´Ï´Ù. 15:00·Î º¯°æÇÒ±î¿ä?
+?? ì¶©ëŒ ê°ì§€: 13:30ì— ë‹¤ë¥¸ ë¯¸íŒ… ìžˆìŒ
+   30ë¶„ ê°„ê²©ì´ ì¢ìŠµë‹ˆë‹¤. 15:00ë¡œ ë³€ê²½í• ê¹Œìš”?
 
-User: ÀÀ º¯°æÇØÁà
+User: ì‘ ë³€ê²½í•´ì¤˜
 
 OpenClaw:
-? º¯°æ ¿Ï·á: 15:00 - 16:00
-?? ¾Ë¸² ¼³Á¤: ¹ÌÆÃ 10ºÐ Àü
-?? ÆÀ¿ø ÃÊ´ëÀå ¹ß¼Û ¿Ï·á (3¸í)
+? ë³€ê²½ ì™„ë£Œ: 15:00 - 16:00
+?? ì•Œë¦¼ ì„¤ì •: ë¯¸íŒ… 10ë¶„ ì „
+?? íŒ€ì› ì´ˆëŒ€ìž¥ ë°œì†¡ ì™„ë£Œ (3ëª…)
 ```
 
 ---
 
-<h2 id="case-5">5. ÇÒ ÀÏ ¸ñ·Ï(To-Do) ÅëÇÕ °ü¸®</h2>
+<h2 id="case-5">5. í•  ì¼ ëª©ë¡(To-Do) í†µí•© ê´€ë¦¬</h2>
 
-### ?? »ó¼¼ ¼³¸í
+### ?? ìƒì„¸ ì„¤ëª…
 
-Todoist, Notion, Google Tasks µî ¿©·¯ ÇÒ ÀÏ ¾Û°ú ¿¬µ¿ÇÏ¿© Ã¤ÆÃ ÇÑ ÁÙ·Î ÀÏÁ¤À» Ãß°¡ÇÏ°í ¿ì¼±¼øÀ§¸¦ Àç±¸¼ºÇÕ´Ï´Ù.
+Todoist, Notion, Google Tasks ë“± ì—¬ëŸ¬ í•  ì¼ ì•±ê³¼ ì—°ë™í•˜ì—¬ ì±„íŒ… í•œ ì¤„ë¡œ ì¼ì •ì„ ì¶”ê°€í•˜ê³  ìš°ì„ ìˆœìœ„ë¥¼ ìž¬êµ¬ì„±í•©ë‹ˆë‹¤.
 
-### ?? »ç¿ë ¿¹½Ã
+### ?? ì‚¬ìš© ì˜ˆì‹œ
 
 ```
-User: ÇÒ ÀÏ Ãß°¡: ¸¶ÄÉÆÃ º¸°í¼­ ÀÛ¼º, ¸¶°¨ÀÏ ±Ý¿äÀÏ
+User: í•  ì¼ ì¶”ê°€: ë§ˆì¼€íŒ… ë³´ê³ ì„œ ìž‘ì„±, ë§ˆê°ì¼ ê¸ˆìš”ì¼
 
 OpenClaw:
-? ÇÒ ÀÏ Ãß°¡µÊ
+? í•  ì¼ ì¶”ê°€ë¨
 
-Á¦¸ñ: ¸¶ÄÉÆÃ º¸°í¼­ ÀÛ¼º
-¸¶°¨ÀÏ: 2¿ù 28ÀÏ (±Ý) 18:00
-¿ì¼±¼øÀ§: ³ôÀ½ (D-3)
+ì œëª©: ë§ˆì¼€íŒ… ë³´ê³ ì„œ ìž‘ì„±
+ë§ˆê°ì¼: 2ì›” 28ì¼ (ê¸ˆ) 18:00
+ìš°ì„ ìˆœìœ„: ë†’ìŒ (D-3)
 
-?? µ¿±âÈ­ ¿Ï·á:
+?? ë™ê¸°í™” ì™„ë£Œ:
    - Todoist ?
    - Notion ?
    - Google Tasks ?
    
-?? ¾Ë¸² ¼³Á¤:
-   - ¸¶°¨ 1ÀÏ Àü (2/27 ¿ÀÀü 9½Ã)
-   - ¸¶°¨ ´çÀÏ (2/28 ¿ÀÈÄ 2½Ã)
+?? ì•Œë¦¼ ì„¤ì •:
+   - ë§ˆê° 1ì¼ ì „ (2/27 ì˜¤ì „ 9ì‹œ)
+   - ë§ˆê° ë‹¹ì¼ (2/28 ì˜¤í›„ 2ì‹œ)
 ```
 
 ---
 
-<h2 id="case-6">6. È¸ÀÇ ³ìÀ½ Àü»ç ¹× ¾×¼Ç ¾ÆÀÌÅÛ ÃßÃâ</h2>
+<h2 id="case-6">6. íšŒì˜ ë…¹ìŒ ì „ì‚¬ ë° ì•¡ì…˜ ì•„ì´í…œ ì¶”ì¶œ</h2>
 
-### ?? »ó¼¼ ¼³¸í
+### ?? ìƒì„¸ ì„¤ëª…
 
-Zoom È¸ÀÇ³ª ¿ÀÇÁ¶óÀÎ ¹ÌÆÃÀÇ ³ìÀ½ ÆÄÀÏÀ» ¾÷·ÎµåÇÏ¸é È­ÀÚ¸¦ ±¸ºÐÇÏ¿© Àü»çÇÏ°í, ÇÙ½É ³»¿ëÀ» ¿ä¾àÇÏ¸ç, ¾×¼Ç ¾ÆÀÌÅÛ(ÇÒ ÀÏ, ´ã´çÀÚ, ¸¶°¨ÀÏ)À» ÀÚµ¿À¸·Î ÃßÃâÇÕ´Ï´Ù.
+Zoom íšŒì˜ë‚˜ ì˜¤í”„ë¼ì¸ ë¯¸íŒ…ì˜ ë…¹ìŒ íŒŒì¼ì„ ì—…ë¡œë“œí•˜ë©´ í™”ìžë¥¼ êµ¬ë¶„í•˜ì—¬ ì „ì‚¬í•˜ê³ , í•µì‹¬ ë‚´ìš©ì„ ìš”ì•½í•˜ë©°, ì•¡ì…˜ ì•„ì´í…œ(í•  ì¼, ë‹´ë‹¹ìž, ë§ˆê°ì¼)ì„ ìžë™ìœ¼ë¡œ ì¶”ì¶œí•©ë‹ˆë‹¤.
 
-### ??? ÇÊ¿ä ½ºÅ³
+### ??? í•„ìš” ìŠ¤í‚¬
 
-| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
+| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
 |------|------|------------|
-| audio | ¿Àµð¿À Ã³¸® | `clawhub install audio` |
-| whisper | À½¼º ÀÎ½Ä | `clawhub install whisper` |
-| speaker-diarization | È­ÀÚ ±¸ºÐ | `clawhub install speaker-diarization` |
-| summarizer | ¿ä¾à | `clawhub install summarizer` |
+| audio | ì˜¤ë””ì˜¤ ì²˜ë¦¬ | `clawhub install audio` |
+| whisper | ìŒì„± ì¸ì‹ | `clawhub install whisper` |
+| speaker-diarization | í™”ìž êµ¬ë¶„ | `clawhub install speaker-diarization` |
+| summarizer | ìš”ì•½ | `clawhub install summarizer` |
 
-### ?? »ç¿ë ¿¹½Ã
+### ?? ì‚¬ìš© ì˜ˆì‹œ
 
 ```
-User: (È¸ÀÇ ³ìÀ½ ÆÄÀÏ 25ºÐ Ã·ºÎ)
+User: (íšŒì˜ ë…¹ìŒ íŒŒì¼ 25ë¶„ ì²¨ë¶€)
 
 OpenClaw:
-??? È¸ÀÇ Àü»ç ¿Ï·á
+??? íšŒì˜ ì „ì‚¬ ì™„ë£Œ
 
-?? ºÐ¼® °á°ú:
-- ÃÑ ½Ã°£: 25ºÐ 30ÃÊ
-- È­ÀÚ: 4¸í (±è´ë¸®, ÀÌ°úÀå, ¹ÚÂ÷Àå, ¿ÜºÎ ±è»ó¹«)
-- ¹ß¾ð·®: ÀÌ°úÀå(40%), ¹ÚÂ÷Àå(25%), ±è´ë¸®(20%), ±è»ó¹«(15%)
+?? ë¶„ì„ ê²°ê³¼:
+- ì´ ì‹œê°„: 25ë¶„ 30ì´ˆ
+- í™”ìž: 4ëª… (ê¹€ëŒ€ë¦¬, ì´ê³¼ìž¥, ë°•ì°¨ìž¥, ì™¸ë¶€ ê¹€ìƒë¬´)
+- ë°œì–¸ëŸ‰: ì´ê³¼ìž¥(40%), ë°•ì°¨ìž¥(25%), ê¹€ëŒ€ë¦¬(20%), ê¹€ìƒë¬´(15%)
 
-?? ¿ä¾à:
-Q2 ¸¶ÄÉÆÃ Àü·« È¸ÀÇ. 
-½Å±Ô Ä·ÆäÀÎ 2°³ ½ÂÀÎ, ¿¹»ê \5¾ï È®Á¤.
-¹ÚÂ÷ÀåÀÌ ÃÑ°ýÇÏ¸ç 3¿ù Ã¹Â° ÁÖ ·ÐÄª ¿¹Á¤.
+?? ìš”ì•½:
+Q2 ë§ˆì¼€íŒ… ì „ëžµ íšŒì˜. 
+ì‹ ê·œ ìº íŽ˜ì¸ 2ê°œ ìŠ¹ì¸, ì˜ˆì‚° \5ì–µ í™•ì •.
+ë°•ì°¨ìž¥ì´ ì´ê´„í•˜ë©° 3ì›” ì²«ì§¸ ì£¼ ë¡ ì¹­ ì˜ˆì •.
 
-? ¾×¼Ç ¾ÆÀÌÅÛ:
-1. ?? Ä·ÆäÀÎ ±âÈ¹¾È ÀÛ¼º
-   ´ã´ç: ±è´ë¸®
-   ¸¶°¨: 3¿ù 1ÀÏ
+? ì•¡ì…˜ ì•„ì´í…œ:
+1. ?? ìº íŽ˜ì¸ ê¸°íšì•ˆ ìž‘ì„±
+   ë‹´ë‹¹: ê¹€ëŒ€ë¦¬
+   ë§ˆê°: 3ì›” 1ì¼
    
-2. ?? ¿¹»ê ¼¼ºÎ¾È »êÃâ
-   ´ã´ç: ÀÌ°úÀå
-   ¸¶°¨: 2¿ù 28ÀÏ
+2. ?? ì˜ˆì‚° ì„¸ë¶€ì•ˆ ì‚°ì¶œ
+   ë‹´ë‹¹: ì´ê³¼ìž¥
+   ë§ˆê°: 2ì›” 28ì¼
 
-3. ?? ¿ÜºÎ ¿¡ÀÌÀü½Ã °è¾à
-   ´ã´ç: ¹ÚÂ÷Àå
-   ¸¶°¨: 3¿ù 5ÀÏ
+3. ?? ì™¸ë¶€ ì—ì´ì „ì‹œ ê³„ì•½
+   ë‹´ë‹¹: ë°•ì°¨ìž¥
+   ë§ˆê°: 3ì›” 5ì¼
 ```
 
 ---
 
-<h2 id="case-7">7. ¹®¼­ ÀÚµ¿ ÀÛ¼º ¹× Á¤¸®</h2>
+<h2 id="case-7">7. ë¬¸ì„œ ìžë™ ìž‘ì„± ë° ì •ë¦¬</h2>
 
-### ?? »ó¼¼ ¼³¸í
+### ?? ìƒì„¸ ì„¤ëª…
 
-º¸°í¼­, Á¦¾È¼­ ÃÊ¾ÈÀ» ÀÚµ¿À¸·Î ÀÛ¼ºÇÏ°í Çü½ÄÀ» Á¤¸®ÇÕ´Ï´Ù. ¾ÆÀÌµð¾î³ª Å°¿öµå¸¸ ÀÔ·ÂÇÏ¸é Àü¹®ÀûÀÎ ¹®¼­ ÃÊ¾ÈÀ» »ý¼ºÇÕ´Ï´Ù.
+ë³´ê³ ì„œ, ì œì•ˆì„œ ì´ˆì•ˆì„ ìžë™ìœ¼ë¡œ ìž‘ì„±í•˜ê³  í˜•ì‹ì„ ì •ë¦¬í•©ë‹ˆë‹¤. ì•„ì´ë””ì–´ë‚˜ í‚¤ì›Œë“œë§Œ ìž…ë ¥í•˜ë©´ ì „ë¬¸ì ì¸ ë¬¸ì„œ ì´ˆì•ˆì„ ìƒì„±í•©ë‹ˆë‹¤.
 
-### ?? »ç¿ë ¿¹½Ã
+### ?? ì‚¬ìš© ì˜ˆì‹œ
 
 ```
-User: "Q1 ¸¶ÄÉÆÃ ¼º°ú º¸°í¼­" ÃÊ¾È ½áÁà
-ÁÖ¿ä ³»¿ë: SNS Ä·ÆäÀÎ 3°³, ÀüÈ¯À² 15% »ó½Â, ¿¹»ê ´ëºñ ROI 250%
+User: "Q1 ë§ˆì¼€íŒ… ì„±ê³¼ ë³´ê³ ì„œ" ì´ˆì•ˆ ì¨ì¤˜
+ì£¼ìš” ë‚´ìš©: SNS ìº íŽ˜ì¸ 3ê°œ, ì „í™˜ìœ¨ 15% ìƒìŠ¹, ì˜ˆì‚° ëŒ€ë¹„ ROI 250%
 
 OpenClaw:
-?? º¸°í¼­ ÃÊ¾È ÀÛ¼º ¿Ï·á
+?? ë³´ê³ ì„œ ì´ˆì•ˆ ìž‘ì„± ì™„ë£Œ
 
 ---
-?? Q1 ¸¶ÄÉÆÃ ¼º°ú º¸°í¼­
+?? Q1 ë§ˆì¼€íŒ… ì„±ê³¼ ë³´ê³ ì„œ
 
 Executive Summary
-2026³â Q1 ¸¶ÄÉÆÃ ºÎ¹®Àº Àü¹ÝÀûÀ¸·Î ¸ñÇ¥¸¦ »óÈ¸ÇÏ´Â 
-¼º°ú¸¦ ´Þ¼ºÇß½À´Ï´Ù. Æ¯È÷ SNS Ä·ÆäÀÎÀ» Áß½ÉÀ¸·Î ÇÑ 
-µðÁöÅÐ ¸¶ÄÉÆÃ Àü·«ÀÌ Å« ¼º°øÀ» °ÅµÎ¾ú½À´Ï´Ù.
+2026ë…„ Q1 ë§ˆì¼€íŒ… ë¶€ë¬¸ì€ ì „ë°˜ì ìœ¼ë¡œ ëª©í‘œë¥¼ ìƒíšŒí•˜ëŠ” 
+ì„±ê³¼ë¥¼ ë‹¬ì„±í–ˆìŠµë‹ˆë‹¤. íŠ¹ížˆ SNS ìº íŽ˜ì¸ì„ ì¤‘ì‹¬ìœ¼ë¡œ í•œ 
+ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµì´ í° ì„±ê³µì„ ê±°ë‘ì—ˆìŠµë‹ˆë‹¤.
 
-ÁÖ¿ä ¼º°ú ÁöÇ¥
-? Ä·ÆäÀÎ ½ÇÇà: 3°³
-? ÀüÈ¯À² °³¼±: 15% »ó½Â (¸ñÇ¥: 10%)
-? ROI: 250% (¿¹»ê ´ëºñ ¼öÀÍ)
+ì£¼ìš” ì„±ê³¼ ì§€í‘œ
+? ìº íŽ˜ì¸ ì‹¤í–‰: 3ê°œ
+? ì „í™˜ìœ¨ ê°œì„ : 15% ìƒìŠ¹ (ëª©í‘œ: 10%)
+? ROI: 250% (ì˜ˆì‚° ëŒ€ë¹„ ìˆ˜ìµ)
 
-»ó¼¼ ³»¿ë...
+ìƒì„¸ ë‚´ìš©...
 ---
 
-? ±¸±Û Docs¿¡ ÀúÀå ¿Ï·á
-? ¼­½Ä Àû¿ë ¿Ï·á
-? Â÷Æ® »ðÀÔ À§Ä¡ Ç¥½Ã
+? êµ¬ê¸€ Docsì— ì €ìž¥ ì™„ë£Œ
+? ì„œì‹ ì ìš© ì™„ë£Œ
+? ì°¨íŠ¸ ì‚½ìž… ìœ„ì¹˜ í‘œì‹œ
 
-[?? Docs¿¡¼­ ¿­±â] [?? ´Ù¿î·Îµå] [?? ¼öÁ¤ÇÏ±â]
+[?? Docsì—ì„œ ì—´ê¸°] [?? ë‹¤ìš´ë¡œë“œ] [?? ìˆ˜ì •í•˜ê¸°]
 ```
 
 ---
 
-<h2 id="case-8">8. ÅÃ¹è ¹× ¹è¼Û »óÅÂ ÃßÀû</h2>
+<h2 id="case-8">8. íƒë°° ë° ë°°ì†¡ ìƒíƒœ ì¶”ì </h2>
 
-### ?? »ó¼¼ ¼³¸í
+### ?? ìƒì„¸ ì„¤ëª…
 
-¿©·¯ ¼îÇÎ¸ôÀÇ ¹è¼Û ÇöÈ²À» ½Ç½Ã°£À¸·Î ÃßÀûÇÏ°í, ¹è¼ÛÀÌ ½ÃÀÛµÇ°Å³ª µµÂøÇÒ ¶§, ¹®Á¦ ¹ß»ý ½Ã ÀÚµ¿À¸·Î ¾Ë¸²À» º¸³»ÁÝ´Ï´Ù.
+ì—¬ëŸ¬ ì‡¼í•‘ëª°ì˜ ë°°ì†¡ í˜„í™©ì„ ì‹¤ì‹œê°„ìœ¼ë¡œ ì¶”ì í•˜ê³ , ë°°ì†¡ì´ ì‹œìž‘ë˜ê±°ë‚˜ ë„ì°©í•  ë•Œ, ë¬¸ì œ ë°œìƒ ì‹œ ìžë™ìœ¼ë¡œ ì•Œë¦¼ì„ ë³´ë‚´ì¤ë‹ˆë‹¤.
 
-### ?? »ç¿ë ¿¹½Ã
+### ?? ì‚¬ìš© ì˜ˆì‹œ
 
 ```
-User: ¹è¼Û ÃßÀû: CJ´ëÇÑÅë¿î 1234567890
-»óÇ°¸í: ³ëÆ®ºÏ °ÅÄ¡´ë
+User: ë°°ì†¡ ì¶”ì : CJëŒ€í•œí†µìš´ 1234567890
+ìƒí’ˆëª…: ë…¸íŠ¸ë¶ ê±°ì¹˜ëŒ€
 
 OpenClaw:
-?? ¹è¼Û µî·Ï ¿Ï·á
+?? ë°°ì†¡ ë“±ë¡ ì™„ë£Œ
 
-»óÇ°: ³ëÆ®ºÏ °ÅÄ¡´ë
-ÅÃ¹è»ç: CJ´ëÇÑÅë¿î
-¿î¼ÛÀå: 1234567890
+ìƒí’ˆ: ë…¸íŠ¸ë¶ ê±°ì¹˜ëŒ€
+íƒë°°ì‚¬: CJëŒ€í•œí†µìš´
+ìš´ì†¡ìž¥: 1234567890
 
-?? ¾Ë¸² ¼³Á¤:
-- ¹è¼Û Ãâ¹ß
-- ¹è´Þ Áß (¿À´Ã µµÂø ¿¹Á¤)
-- ¹è´Þ ¿Ï·á
-- ¹®Á¦ ¹ß»ý ½Ã
+?? ì•Œë¦¼ ì„¤ì •:
+- ë°°ì†¡ ì¶œë°œ
+- ë°°ë‹¬ ì¤‘ (ì˜¤ëŠ˜ ë„ì°© ì˜ˆì •)
+- ë°°ë‹¬ ì™„ë£Œ
+- ë¬¸ì œ ë°œìƒ ì‹œ
 
-¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 
-OpenClaw (´ÙÀ½³¯ ÀÚµ¿ ¾Ë¸²):
-?? ¹è¼Û »óÅÂ º¯°æ
+OpenClaw (ë‹¤ìŒë‚  ìžë™ ì•Œë¦¼):
+?? ë°°ì†¡ ìƒíƒœ ë³€ê²½
 
-»óÇ°: ³ëÆ®ºÏ °ÅÄ¡´ë
-¿î¼ÛÀå: 1234567890
+ìƒí’ˆ: ë…¸íŠ¸ë¶ ê±°ì¹˜ëŒ€
+ìš´ì†¡ìž¥: 1234567890
 
-?? ÇöÀç »óÅÂ: ¹è´Þ Áß
-?? À§Ä¡: ¼­¿ï °­³² hub
-? ¿¹»ó µµÂø: ¿À´Ã ¿ÀÈÄ 3-5½Ã
-?? ¹è´Þ±â»ç: ±èOO (010-1234-5678)
+?? í˜„ìž¬ ìƒíƒœ: ë°°ë‹¬ ì¤‘
+?? ìœ„ì¹˜: ì„œìš¸ ê°•ë‚¨ hub
+? ì˜ˆìƒ ë„ì°©: ì˜¤ëŠ˜ ì˜¤í›„ 3-5ì‹œ
+?? ë°°ë‹¬ê¸°ì‚¬: ê¹€OO (010-1234-5678)
 
-?? ÆÁ:
-ºÎÀç ½Ã ¹® ¾Õ¿¡ ³õ¾Æ´Þ¶ó°í 
-±â»ç´Ô²² ¿¬¶ôÇÏ½Ã°Ú¾î¿ä?
-[¿¹] [¾Æ´Ï¿À]
+?? íŒ:
+ë¶€ìž¬ ì‹œ ë¬¸ ì•žì— ë†“ì•„ë‹¬ë¼ê³  
+ê¸°ì‚¬ë‹˜ê»˜ ì—°ë½í•˜ì‹œê² ì–´ìš”?
+[ì˜ˆ] [ì•„ë‹ˆì˜¤]
 ```
 
 ---
 
-## ´ÙÀ½ Ä«Å×°í¸®
+## ë‹¤ìŒ ì¹´í…Œê³ ë¦¬
 
-[02. °³ÀÎ »ý»ê¼º & Áö½Ä°ü¸® ¡æ](/usecases/category-02-personal-productivity)
+[02. ê°œì¸ ìƒì‚°ì„± & ì§€ì‹ê´€ë¦¬ â†’](/usecases/category-02-personal-productivity)
 
 <style>
 .case-list {

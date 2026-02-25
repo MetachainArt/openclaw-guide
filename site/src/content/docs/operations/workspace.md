@@ -39,7 +39,7 @@ description: 프로젝트별 격리, 권한 분리, 서브 에이전트 구축�
 
 | 분리 레벨 | 사용 사례 | 구현 방법 |
 |-----------|----------|----------|
-| 프로필 분리 | 개인 vs 업무 | `openclaw profile` |
+| 프로필 관리 | 개인 vs 업무 | `openclaw profiles` |
 | 워크스페이스 분리 | 프로젝트별 | 디렉토리 격리 |
 | 서브 에이전트 | 역할 기반 | 멀티 인스턴스 |
 | 환경 분리 | 개발/스테이징/프로덕션 | 설정 파일 분리 |
@@ -65,26 +65,26 @@ description: 프로젝트별 격리, 권한 분리, 서브 에이전트 구축�
 
 ```bash
 # 기본 프로필 확인
-openclaw profile list
+ls ~/.openclaw/profiles
 # 출력: default
 
 # 새 프로필 생성
-openclaw profile create work
+openclaw profiles create-profile work
 # work 프로필이 생성됨
 
 # 개인용 프로필 생성
-openclaw profile create personal
+openclaw profiles create-profile personal
 
 # 프로젝트별 프로필 생성
-openclaw profile create project-alpha
-openclaw profile create project-beta
+openclaw profiles create-profile project-alpha
+openclaw profiles create-profile project-beta
 ```
 
 #### 프로필 전환
 
 ```bash
 # 프로필 전환
-openclaw profile use work
+export OPENCLAW_PROFILE=work
 # 이제 모든 명령은 work 프로필에서 실행됨
 
 # 특정 프로필로 한 번만 실행
@@ -93,7 +93,7 @@ openclaw --profile work gateway status
 OPENCLAW_PROFILE=work openclaw status
 
 # 현재 프로필 확인
-openclaw profile current
+echo $OPENCLAW_PROFILE
 # 출력: work
 ```
 
@@ -141,11 +141,11 @@ Step 1: 개인용 프로필 설정
 
 ```bash
 # 개인용 프로필 생성 및 전환
-openclaw profile create personal
-openclaw profile use personal
+openclaw profiles create-profile personal
+export OPENCLAW_PROFILE=personal
 
 # 설정 파일 편집
-openclaw config edit
+openclaw config
 ```
 
 ```json
@@ -192,11 +192,11 @@ Step 2: 업무용 프로필 설정
 
 ```bash
 # 업무용 프로필 생성 및 전환
-openclaw profile create work
-openclaw profile use work
+openclaw profiles create-profile work
+export OPENCLAW_PROFILE=work
 
 # 설정 파일 편집
-openclaw config edit
+openclaw config
 ```
 
 ```json
@@ -518,11 +518,11 @@ Step 1: 마스터 게이트웨이 설정
 
 ```bash
 # 마스터 프로필 생성
-openclaw profile create dev-team-master
-openclaw profile use dev-team-master
+openclaw profiles create-profile dev-team-master
+export OPENCLAW_PROFILE=dev-team-master
 
 # 설정 파일
-openclaw config edit
+openclaw config
 ```
 
 ```json
@@ -570,8 +570,8 @@ Step 2: 각 서브 에이전트 설정
 
 ```bash
 # Builder 에이전트
-openclaw subagent create builder
-openclaw subagent config builder
+openclaw agents add builder
+openclaw config
 ```
 
 ```json
@@ -870,20 +870,20 @@ class AuditLogger {
 
 ```bash
 # 특정 서브 에이전트 로그 확인
-openclaw logs --agent builder --follow
+openclaw logs
 
 # 모든 서브 에이전트 상태 확인
-openclaw subagent status --all
+openclaw agents list
 
 # 워크플로우 재실행
-openclaw workflow rerun <workflow-id>
+openclaw message "Rerun workflow <workflow-id>"
 ```
 
 ### 6.2 백업
 
 ```bash
 # 프로필 백업
-openclaw profile export work > work-backup.json
+cp -r ~/.openclaw/profiles/work ./work-backup
 
 # 워크스페이스 전체 백업
 tar -czf workspace-backup.tar.gz ~/workspaces/company-a/
@@ -895,13 +895,13 @@ tar -czf workspace-backup.tar.gz ~/workspaces/company-a/
 
 ```bash
 # 1. 상태 확인
-openclaw subagent health builder
+openclaw health
 
 # 2. 재시작
-openclaw subagent restart builder
+openclaw message "Restart builder agent"
 
 # 3. 로그 확인
-openclaw logs --agent builder --lines 100
+openclaw logs --lines 100
 ```
 
 ---

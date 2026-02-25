@@ -958,24 +958,24 @@ class AgentDashboard {
 
 ```bash
 # 에이전트 재시작 (예시)
-openclaw agent restart builder
+openclaw agents list
 
 # 워크플로우 강제 중지 (예시)
-openclaw workflow cancel <workflow-id>
+openclaw message "Cancel workflow <workflow-id>"
 
 # 롤백 (예시)
-openclaw deploy rollback <deployment-id>
+openclaw message "Rollback deployment <deployment-id>"
 ```
 
 > ⚠️ 참고: 위 명령어는 멀티 에이전트 워크플로우의 예시입니다. 실제 OpenClaw CLI 명령어는 공식 문서를 참조하세요.
 # 에이전트 재시작
-openclaw agent restart builder
+openclaw agents list
 
 # 워크플로우 강제 중지
-openclaw workflow cancel <workflow-id>
+openclaw message "Cancel workflow <workflow-id>"
 
 # 롤백
-openclaw deploy rollback <deployment-id>
+openclaw message "Rollback deployment <deployment-id>"
 ```
 
 ---

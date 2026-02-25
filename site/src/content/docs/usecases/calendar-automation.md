@@ -1,57 +1,57 @@
 ---
-title: ÃÊ±Þ - ÀÏÁ¤ ÀÚµ¿ µî·Ï
-description: ¸Þ½ÅÀú¿¡¼­ ÀÏÁ¤À» Ãß°¡ÇÏ¸é ÀÚµ¿À¸·Î Ä¶¸°´õ¿¡ µî·Ï
+title: ì´ˆê¸‰ - ì¼ì • ìžë™ ë“±ë¡
+description: ë©”ì‹ ì €ì—ì„œ ì¼ì •ì„ ì¶”ê°€í•˜ë©´ ìžë™ìœ¼ë¡œ ìº˜ë¦°ë”ì— ë“±ë¡
 ---
 
-> ?? ÃÊ±Þ ·¹º§  
-> ?? ¿¹»ó ¼Ò¿ä½Ã°£: 20ºÐ  
-> ?? ¸ñÇ¥: ¸Þ½ÅÀú·Î ÀÏÁ¤ Ãß°¡ÇÏ±â
+> ?? ì´ˆê¸‰ ë ˆë²¨  
+> ?? ì˜ˆìƒ ì†Œìš”ì‹œê°„: 20ë¶„  
+> ?? ëª©í‘œ: ë©”ì‹ ì €ë¡œ ì¼ì • ì¶”ê°€í•˜ê¸°
 
-## °³¿ä
+## ê°œìš”
 
-"´ÙÀ½ ÁÖ È­¿äÀÏ 3½Ã¿¡ ¹ÌÆÃ"ÀÌ¶ó°í ¸Þ½ÅÀú·Î º°³½ ´ÙÀ½, ÀÚµ¿À¸·Î Google Calendar¿¡ µî·ÏµË´Ï´Ù.
+"ë‹¤ìŒ ì£¼ í™”ìš”ì¼ 3ì‹œì— ë¯¸íŒ…"ì´ë¼ê³  ë©”ì‹ ì €ë¡œ ë³„ë‚¸ ë‹¤ìŒ, ìžë™ìœ¼ë¡œ Google Calendarì— ë“±ë¡ë©ë‹ˆë‹¤.
 
-## ÀüÁ¦ Á¶°Ç
+## ì „ì œ ì¡°ê±´
 
-- Google Calendar °èÁ¤
-- Google Calendar API Å°
+- Google Calendar ê³„ì •
+- Google Calendar API í‚¤
 
-## ¼³Á¤
+## ì„¤ì •
 
-### 1. ½ºÅ³ ¼³Ä¡
+### 1. ìŠ¤í‚¬ ì„¤ì¹˜
 
 ```bash
 clawhub install calendar
 ```
 
-### 2. ÀÎÁõ
+### 2. ì¸ì¦
 
 ```bash
-openclaw skill auth calendar
+openclaw config
 ```
 
-## »ç¿ë ¿¹½Ã
+## ì‚¬ìš© ì˜ˆì‹œ
 
-### ¸Þ½ÅÀú ´ëÈ­
-
-```
-User: ³»ÀÏ ¿ÀÈÄ 2½Ã¿¡ ÆÀ ¹ÌÆÃ ÀÖ¾î
-
-OpenClaw: ?? ÀÏÁ¤À» µî·ÏÇß½À´Ï´Ù:
-- Á¦¸ñ: ÆÀ ¹ÌÆÃ
-- ³¯Â¥: 2026-02-26
-- ½Ã°£: 14:00
-```
-
-### ¸í·É¾î
+### ë©”ì‹ ì € ëŒ€í™”
 
 ```
-Ä¶¸°´õ¿¡ "ÇÁ·ÎÁ§Æ® ¹ßÇ¥" 3¿ù 1ÀÏ ¿ÀÀü 10½Ã·Î µî·ÏÇØÁà
+User: ë‚´ì¼ ì˜¤í›„ 2ì‹œì— íŒ€ ë¯¸íŒ… ìžˆì–´
+
+OpenClaw: ?? ì¼ì •ì„ ë“±ë¡í–ˆìŠµë‹ˆë‹¤:
+- ì œëª©: íŒ€ ë¯¸íŒ…
+- ë‚ ì§œ: 2026-02-26
+- ì‹œê°„: 14:00
 ```
 
-## °í±Þ ¼³Á¤
+### ëª…ë ¹ì–´
 
-### ¾Ë¸² ¼³Á¤
+```
+ìº˜ë¦°ë”ì— "í”„ë¡œì íŠ¸ ë°œí‘œ" 3ì›” 1ì¼ ì˜¤ì „ 10ì‹œë¡œ ë“±ë¡í•´ì¤˜
+```
+
+## ê³ ê¸‰ ì„¤ì •
+
+### ì•Œë¦¼ ì„¤ì •
 
 ```json
 {
@@ -67,6 +67,6 @@ OpenClaw: ?? ÀÏÁ¤À» µî·ÏÇß½À´Ï´Ù:
 
 ---
 
-## ´ÙÀ½ ´Ü°è
+## ë‹¤ìŒ ë‹¨ê³„
 
-- [¹®¼­ ÀÛ¼º + ½ºÅ©¸°¼¦](/usecases/document-with-screenshots)
+- [ë¬¸ì„œ ìž‘ì„± + ìŠ¤í¬ë¦°ìƒ·](/usecases/document-with-screenshots)
