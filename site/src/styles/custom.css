@@ -184,7 +184,8 @@ body {
 
 /* ── Tables ── */
 .sl-markdown-content table {
-  width: 100%;
+  width: 100% !important;
+  min-width: 100% !important;
   border-collapse: separate;
   border-spacing: 0;
   margin: 1.75rem 0;
@@ -195,8 +196,16 @@ body {
   font-size: var(--sl-text-sm);
 }
 
+/* Starlight이 테이블을 감싸는 스크롤 컨테이너 */
+.sl-markdown-content .table-container,
+.sl-markdown-content [role='region'],
+.sl-markdown-content div:has(> table) {
+  width: 100% !important;
+  overflow-x: auto;
+}
+
 .sl-markdown-content th {
-  background: #f8f9fc;
+  background: #f0f2f5;
   font-weight: 600;
   padding: 0.875rem 1.15rem;
   text-align: left;
@@ -210,6 +219,10 @@ body {
 
 .sl-markdown-content tr:last-child td {
   border-bottom: none;
+}
+
+.sl-markdown-content tbody tr:hover td {
+  background: #f8fafc;
 }
 
 /* ── Sidebar ── */
