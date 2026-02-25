@@ -238,19 +238,20 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
   display: block;
   padding: 1.5rem;
   border-radius: 12px;
-  background: linear-gradient(135deg, #1e1e2e 0%, #2d2d44 100%);
-  border: 1px solid #3d3d5c;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
   text-decoration: none;
   color: inherit;
   transition: all 0.3s ease;
   position: relative;
   overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
 .category-card:hover {
   transform: translateY(-4px);
-  border-color: #6366f1;
-  box-shadow: 0 10px 40px rgba(99, 102, 241, 0.2);
+  border-color: #1a56db;
+  box-shadow: 0 10px 40px rgba(26, 86, 219, 0.15);
 }
 
 .category-card::before {
@@ -260,7 +261,7 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
   left: 0;
   right: 0;
   height: 3px;
-  background: linear-gradient(90deg, #6366f1, #8b5cf6, #d946ef);
+  background: linear-gradient(90deg, #1a56db, #3b82f6, #60a5fa);
   opacity: 0;
   transition: opacity 0.3s;
 }
@@ -280,8 +281,8 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
   right: 1rem;
   font-size: 0.875rem;
   font-weight: 700;
-  color: #6366f1;
-  background: rgba(99, 102, 241, 0.1);
+  color: #1a56db;
+  background: #e8f0fe;
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
 }
@@ -289,11 +290,12 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
 .category-card h3 {
   margin: 0.5rem 0;
   font-size: 1.25rem;
-  color: #f1f5f9;
+  color: #111827 !important;
+  -webkit-text-fill-color: #111827 !important;
 }
 
 .category-desc {
-  color: #94a3b8;
+  color: #4b5563;
   font-size: 0.875rem;
   margin-bottom: 1rem;
 }
@@ -306,10 +308,11 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
 
 .case-count {
   font-size: 0.75rem;
-  color: #64748b;
-  background: rgba(100, 116, 139, 0.1);
+  color: #1a56db;
+  background: #e8f0fe;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
+  font-weight: 500;
 }
 
 .difficulty {
@@ -324,10 +327,11 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
 
 .category-preview span {
   font-size: 0.75rem;
-  color: #cbd5e1;
-  background: rgba(203, 213, 225, 0.1);
+  color: #374151;
+  background: #f3f4f6;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
+  border: 1px solid #e5e7eb;
 }
 
 .stats-container {
@@ -341,8 +345,9 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
   text-align: center;
   padding: 1.5rem;
   border-radius: 12px;
-  background: linear-gradient(135deg, #1e1e2e 0%, #2d2d44 100%);
-  border: 1px solid #3d3d5c;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
 .stat-icon {
@@ -353,18 +358,18 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
 .stat-number {
   font-size: 2.5rem;
   font-weight: 700;
-  color: #f1f5f9;
+  color: #111827;
 }
 
 .stat-label {
   font-size: 1rem;
-  color: #94a3b8;
+  color: #374151;
   margin-top: 0.25rem;
 }
 
 .stat-desc {
   font-size: 0.75rem;
-  color: #64748b;
+  color: #6b7280;
   margin-top: 0.5rem;
 }
 
