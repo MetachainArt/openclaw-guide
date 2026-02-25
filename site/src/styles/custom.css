@@ -1,21 +1,503 @@
-/* Custom styles for OpenClaw Webbook */
+/* ========================================
+   OpenClaw Premium Design System
+   Astro Starlight Custom Overrides
+   ======================================== */
 
-/* Mobile optimizations */
+/* ── Google Fonts Import Fallback ── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+KR:wght@300;400;500;600;700;800&display=swap');
+
+/* ── Starlight Theme Variable Overrides ── */
+:root {
+  /* Typography */
+  --sl-font: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --sl-font-mono: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+
+  /* Font sizes - 더 넉넉하고 읽기 편한 크기 */
+  --sl-text-xs: 0.8125rem;
+  --sl-text-sm: 0.9rem;
+  --sl-text-base: 1.05rem;
+  --sl-text-lg: 1.2rem;
+  --sl-text-xl: 1.4rem;
+  --sl-text-2xl: 1.75rem;
+  --sl-text-3xl: 2.15rem;
+  --sl-text-4xl: 2.75rem;
+  --sl-text-5xl: 3.5rem;
+
+  /* Light mode colors - 세련된 블루 톤 */
+  --sl-color-accent-low: #e8f0fe;
+  --sl-color-accent: #1a56db;
+  --sl-color-accent-high: #0f3490;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #f8f9fc;
+  --sl-color-gray-2: #eef1f6;
+  --sl-color-gray-3: #d1d5e0;
+  --sl-color-gray-4: #8b92a5;
+  --sl-color-gray-5: #545b6e;
+  --sl-color-gray-6: #2d3142;
+  --sl-color-black: #181b25;
+
+  /* Content width */
+  --sl-content-width: 52rem;
+  --sl-sidebar-width: 18rem;
+
+  /* Line height */
+  --sl-line-height: 1.8;
+  --sl-line-height-headings: 1.3;
+}
+
+/* Dark mode overrides */
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #172554;
+  --sl-color-accent: #60a5fa;
+  --sl-color-accent-high: #bfdbfe;
+  --sl-color-white: #0f1219;
+  --sl-color-gray-1: #181d28;
+  --sl-color-gray-2: #1e2433;
+  --sl-color-gray-3: #2a3146;
+  --sl-color-gray-4: #6b7a99;
+  --sl-color-gray-5: #a0aec0;
+  --sl-color-gray-6: #e2e8f0;
+  --sl-color-black: #f7fafc;
+}
+
+/* ── Global Typography ── */
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  scroll-behavior: smooth;
+}
+
+body {
+  letter-spacing: -0.011em;
+}
+
+/* ── Headings ── */
+.sl-markdown-content h1 {
+  font-size: var(--sl-text-4xl);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  line-height: var(--sl-line-height-headings);
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  background: linear-gradient(135deg, var(--sl-color-black), var(--sl-color-accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+:root[data-theme='dark'] .sl-markdown-content h1 {
+  background: linear-gradient(135deg, #f1f5f9, var(--sl-color-accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.sl-markdown-content h2 {
+  font-size: var(--sl-text-2xl);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: var(--sl-line-height-headings);
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid var(--sl-color-gray-2);
+}
+
+.sl-markdown-content h3 {
+  font-size: var(--sl-text-xl);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: var(--sl-line-height-headings);
+  margin-top: 2.25rem;
+  margin-bottom: 0.875rem;
+}
+
+.sl-markdown-content h4 {
+  font-size: var(--sl-text-lg);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin-top: 1.75rem;
+  margin-bottom: 0.625rem;
+}
+
+/* ── Body Text ── */
+.sl-markdown-content p {
+  font-size: var(--sl-text-base);
+  line-height: var(--sl-line-height);
+  margin-bottom: 1.25rem;
+  color: var(--sl-color-gray-6);
+  word-break: keep-all;
+}
+
+.sl-markdown-content li {
+  font-size: var(--sl-text-base);
+  line-height: 1.75;
+  margin-bottom: 0.35rem;
+}
+
+.sl-markdown-content ul,
+.sl-markdown-content ol {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+/* ── Blockquotes - 프리미엄 스타일 ── */
+.sl-markdown-content blockquote {
+  border-left: 3px solid var(--sl-color-accent);
+  background: linear-gradient(135deg, var(--sl-color-accent-low), transparent);
+  padding: 1.15rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 10px 10px 0;
+  font-size: var(--sl-text-base);
+  color: var(--sl-color-gray-5);
+}
+
+.sl-markdown-content blockquote p {
+  margin-bottom: 0.35rem;
+}
+
+/* ── Code Blocks - 세련된 코드 ── */
+.sl-markdown-content pre {
+  border-radius: 12px !important;
+  border: 1px solid var(--sl-color-gray-2) !important;
+  padding: 1.25rem 1.5rem !important;
+  margin: 1.5rem 0 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.7 !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  transition: box-shadow 0.3s ease;
+}
+
+.sl-markdown-content pre:hover {
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+}
+
+:root[data-theme='dark'] .sl-markdown-content pre {
+  border: 1px solid var(--sl-color-gray-3) !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+:root[data-theme='dark'] .sl-markdown-content pre:hover {
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
+}
+
+.sl-markdown-content code {
+  font-family: var(--sl-font-mono);
+  font-size: 0.88em;
+  font-weight: 500;
+}
+
+/* Inline code */
+.sl-markdown-content :not(pre) > code {
+  background: var(--sl-color-gray-2);
+  padding: 0.2em 0.45em;
+  border-radius: 6px;
+  font-size: 0.88em;
+  font-weight: 500;
+  border: 1px solid var(--sl-color-gray-3);
+}
+
+:root[data-theme='dark'] .sl-markdown-content :not(pre) > code {
+  background: var(--sl-color-gray-2);
+  border-color: var(--sl-color-gray-3);
+}
+
+/* ── Tables - 깔끔한 테이블 ── */
+.sl-markdown-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.75rem 0;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--sl-color-gray-2);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  font-size: var(--sl-text-sm);
+}
+
+.sl-markdown-content th {
+  background: var(--sl-color-gray-1);
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0;
+  padding: 0.875rem 1.15rem;
+  font-size: var(--sl-text-sm);
+  color: var(--sl-color-gray-6);
+  text-align: left;
+  border-bottom: 2px solid var(--sl-color-gray-2);
+}
+
+:root[data-theme='dark'] .sl-markdown-content th {
+  background: var(--sl-color-gray-2);
+}
+
+.sl-markdown-content td {
+  padding: 0.75rem 1.15rem;
+  border-bottom: 1px solid var(--sl-color-gray-2);
+}
+
+.sl-markdown-content tr:last-child td {
+  border-bottom: none;
+}
+
+.sl-markdown-content tr:hover td {
+  background: var(--sl-color-accent-low);
+  transition: background 0.2s ease;
+}
+
+/* ── Sidebar - 세련된 네비게이션 ── */
+nav.sidebar {
+  font-size: 0.92rem;
+}
+
+nav.sidebar a {
+  border-radius: 8px;
+  padding: 0.4rem 0.75rem;
+  transition: all 0.2s ease;
+}
+
+nav.sidebar a:hover {
+  background: var(--sl-color-accent-low);
+}
+
+nav.sidebar a[aria-current='page'] {
+  font-weight: 600;
+  background: var(--sl-color-accent-low);
+  border-left: 3px solid var(--sl-color-accent);
+}
+
+.sidebar-content summary {
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--sl-color-gray-5);
+}
+
+/* ── Header - 프리미엄 헤더 ── */
+header.header {
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  background: rgba(255, 255, 255, 0.85) !important;
+  border-bottom: 1px solid var(--sl-color-gray-2);
+}
+
+:root[data-theme='dark'] header.header {
+  background: rgba(15, 18, 25, 0.85) !important;
+  border-bottom: 1px solid var(--sl-color-gray-3);
+}
+
+/* Site title */
+.site-title {
+  font-weight: 700 !important;
+  font-size: 1.15rem !important;
+  letter-spacing: -0.02em;
+}
+
+/* ── TOC (Table of Contents) - 우측 목차 ── */
+starlight-toc a {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  transition: color 0.2s ease;
+}
+
+starlight-toc a[aria-current='true'] {
+  font-weight: 600;
+  color: var(--sl-color-accent);
+}
+
+/* ── Starlight Asides (Tip, Caution, Danger 등) ── */
+.starlight-aside {
+  border-radius: 10px;
+  padding: 1.15rem 1.35rem;
+  margin: 1.5rem 0;
+  border-width: 0;
+  border-left-width: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.starlight-aside--tip {
+  background: linear-gradient(135deg, #ecfdf5, #f0fdf4);
+  border-color: #10b981;
+}
+
+.starlight-aside--caution {
+  background: linear-gradient(135deg, #fffbeb, #fef3c7);
+  border-color: #f59e0b;
+}
+
+.starlight-aside--danger {
+  background: linear-gradient(135deg, #fef2f2, #fee2e2);
+  border-color: #ef4444;
+}
+
+.starlight-aside--note {
+  background: linear-gradient(135deg, #eff6ff, #dbeafe);
+  border-color: var(--sl-color-accent);
+}
+
+:root[data-theme='dark'] .starlight-aside--tip {
+  background: linear-gradient(135deg, #052e1660, #04251540);
+  border-color: #34d399;
+}
+
+:root[data-theme='dark'] .starlight-aside--caution {
+  background: linear-gradient(135deg, #44220960, #33190740);
+  border-color: #fbbf24;
+}
+
+:root[data-theme='dark'] .starlight-aside--danger {
+  background: linear-gradient(135deg, #3b101360, #2e0a0c40);
+  border-color: #f87171;
+}
+
+:root[data-theme='dark'] .starlight-aside--note {
+  background: linear-gradient(135deg, #0c1d3d60, #0a164040);
+  border-color: var(--sl-color-accent);
+}
+
+.starlight-aside__title {
+  font-weight: 700;
+  font-size: var(--sl-text-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* ── Links ── */
+.sl-markdown-content a {
+  color: var(--sl-color-accent);
+  text-decoration: none;
+  font-weight: 500;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.sl-markdown-content a:hover {
+  border-bottom-color: var(--sl-color-accent);
+}
+
+/* ── HR (Horizontal Rule) ── */
+.sl-markdown-content hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--sl-color-gray-3),
+    transparent
+  );
+  margin: 2.5rem 0;
+}
+
+/* ── Checklist styling ── */
+.sl-markdown-content input[type='checkbox'] {
+  margin-right: 0.6rem;
+  width: 1.1em;
+  height: 1.1em;
+  accent-color: var(--sl-color-accent);
+  border-radius: 3px;
+}
+
+/* ── Pagination - 하단 ── */
+.pagination-links a {
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--sl-color-gray-2);
+  transition: all 0.25s ease;
+}
+
+.pagination-links a:hover {
+  border-color: var(--sl-color-accent);
+  box-shadow: 0 4px 12px rgba(26, 86, 219, 0.1);
+  transform: translateY(-1px);
+}
+
+/* ── Search ── */
+site-search button {
+  border-radius: 10px !important;
+  transition: all 0.2s ease;
+}
+
+/* ── Scrollbar - 깔끔한 스크롤바 ── */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--sl-color-gray-3);
+  border-radius: 99px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--sl-color-gray-4);
+}
+
+/* ── Selection ── */
+::selection {
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-accent-high);
+}
+
+/* ── Content max width for readability ── */
+.content-panel {
+  max-width: var(--sl-content-width);
+}
+
+/* ── Smooth animations ── */
+* {
+  transition-property: color, background-color, border-color;
+  transition-duration: 0.15s;
+  transition-timing-function: ease;
+}
+
+/* Don't animate everything, exclude layout */
+*, *::before, *::after {
+  transition-property: color, background-color, border-color, box-shadow, opacity;
+}
+
+/* ── Mobile Optimizations ── */
 @media (max-width: 768px) {
-  .sl-container {
-    padding: 0 1rem;
+  :root {
+    --sl-text-4xl: 2rem;
+    --sl-text-3xl: 1.65rem;
+    --sl-text-2xl: 1.4rem;
+    --sl-text-xl: 1.2rem;
+    --sl-text-base: 1rem;
+  }
+
+  .sl-markdown-content pre {
+    border-radius: 8px !important;
+    padding: 1rem !important;
+    font-size: 0.85rem !important;
+  }
+
+  .sl-markdown-content table {
+    font-size: 0.85rem;
+  }
+
+  .sl-markdown-content th,
+  .sl-markdown-content td {
+    padding: 0.6rem 0.75rem;
   }
 }
 
-/* Security warning box styling */
-.danger {
-  border-left: 4px solid #dc2626;
-  background-color: #fef2f2;
-  padding: 1rem;
-  margin: 1rem 0;
-}
+/* ── Print styles ── */
+@media print {
+  header.header,
+  nav.sidebar,
+  starlight-toc,
+  .pagination-links {
+    display: none !important;
+  }
 
-/* Checklist styling */
-input[type="checkbox"] {
-  margin-right: 0.5rem;
+  .sl-markdown-content {
+    max-width: 100% !important;
+  }
 }

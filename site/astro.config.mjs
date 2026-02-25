@@ -103,6 +103,28 @@ export default defineConfig({
             content: 'OpenClaw 설치 가이드 및 활용 사례 모음. 초급자부터 중급자까지 따라 할 수 있는 웹북',
           },
         },
+        {
+          tag: 'link',
+          attrs: {
+            rel: 'preconnect',
+            href: 'https://fonts.googleapis.com',
+          },
+        },
+        {
+          tag: 'link',
+          attrs: {
+            rel: 'preconnect',
+            href: 'https://fonts.gstatic.com',
+            crossorigin: true,
+          },
+        },
+        {
+          tag: 'link',
+          attrs: {
+            rel: 'stylesheet',
+            href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+KR:wght@300;400;500;600;700;800&display=swap',
+          },
+        },
       ],
       locales: {
         root: {
