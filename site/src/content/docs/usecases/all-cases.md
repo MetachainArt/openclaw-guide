@@ -1,17 +1,17 @@
----
+﻿---
 title: 60가지 활용 사례 모음
 description: OpenClaw로 할 수 있는 60가지 실제 활용 사례 - 초급부터 고급까지 상세 가이드
 ---
 
-> 📌 **출처**: 커뮤니티 사례 + 공식 쇼케이스 + 사용자 리서치  
-> 🏷️ **난이도**: 🟢 초급 / 🟡 중급 / 🔴 고급  
-> 📚 **총 60개 사례**: 단계별 설정 가이드 포함
+> 📌 출처: 커뮤니티 사례 + 공식 쇼케이스 + 사용자 리서치  
+> 🏷️ 난이도: 🟢 초급 / 🟡 중급 / 🔴 고급  
+> 📚 총 60개 사례: 단계별 설정 가이드 포함
 
 ---
 
 ## 🟢 초급 레벨 (1-25)
 
-> **시작하기 전에**: OpenClaw가 설치되어 있고, 기본 설정이 완료되어 있다고 가정합니다. [빠른 시작 가이드](/quickstart)를 참고하세요.
+> 시작하기 전에: OpenClaw가 설치되어 있고, 기본 설정이 완료되어 있다고 가정합니다. [빠른 시작 가이드](/quickstart)를 참고하세요.
 
 ---
 
@@ -19,15 +19,15 @@ description: OpenClaw로 할 수 있는 60가지 실제 활용 사례 - 초급�
 
 #### 1. 맞춤형 아침 브리핑 (Morning Briefing) 🟢
 
-**📖 설명**
+📖 설명
 매일 아침 정해진 시간(예: 6시 30분)에 이메일 요약, 오늘 일정, 관심 뉴스, 날씨, 어제 하던 작업의 맥락을 메신저로 자동 전송합니다. 하루를 시작하기 전 중요한 정보를 한눈에 확인할 수 있습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 매일 15-20분 절약
 - 중요한 이메일 놓침 방지
 - 하루 계획 수립 시간 단축
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | email | 이메일 요약 | `openclaw skill install email` |
@@ -35,9 +35,9 @@ description: OpenClaw로 할 수 있는 60가지 실제 활용 사례 - 초급�
 | weather | 날씨 정보 | `openclaw skill install weather` |
 | news | 뉴스 수집 | `openclaw skill install news` |
 
-**⚠️ 주의**: 스킬 설치 전 [보안 체크리스트](/security/skill-checklist) 확인 필수!
+⚠️ 주의: 스킬 설치 전 [보안 체크리스트](/security/skill-checklist) 확인 필수!
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 스킬 설치
 ```bash
@@ -87,7 +87,7 @@ module.exports = async (agent) => {
 };
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 오늘 브리핑 해줘
 
@@ -118,22 +118,22 @@ OpenClaw:
 
 #### 2. 이메일 인박스 제로 (Inbox Zero) 관리 🟢
 
-**📖 설명**
+📖 설명
 수많은 이메일을 자동으로 분석하여 중요한 메일만 골라 요약하고, 뉴스레터는 자동으로 아카이브하며, 스팸은 정리합니다. 매일 수십 개씩 쌓이는 이메일에서 핵심만 추출하여 인박스를 깔끔하게 유지합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 인박스 0개 유지
 - 중요 메일 놓침 방지
 - 메일 확인 시간 70% 단축
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | gmail | Gmail 연동 | `openclaw skill install gmail` |
 | filter | 메일 필터링 | `openclaw skill install filter` |
 | classifier | 메일 분류 AI | `openclaw skill install classifier` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: Gmail API 인증
 ```bash
@@ -188,7 +188,7 @@ module.exports = async (agent) => {
 };
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 인박스 정리해줘
 
@@ -212,22 +212,22 @@ OpenClaw:
 
 #### 3. 자동 이메일 초안 작성 🟢
 
-**📖 설명**
+📖 설명
 내 평소 말투와 스타일을 학습하여 중요 메일에 대한 답장 초안을 자동으로 작성합니다. 사용자의 과거 이메일 패턴을 분석해 자연스러운 톤으로 초안을 만들어 제시합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 답장 작성 시간 50% 단축
 - 일관된 커뮤니케이션 톤 유지
 - 번거로운 정중한 표현 자동 생성
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | gmail | Gmail 연동 | `openclaw skill install gmail` |
 | memory | 사용자 스타일 학습 | `openclaw skill install memory` |
 | composer | 메일 작성 AI | `openclaw skill install composer` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 스킬 설치
 ```bash
@@ -251,7 +251,7 @@ openclaw memory train --source gmail --limit 100
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 이 메일 답장 초안 써줘
 (첨부: "회의 일정 변경" 메일)
@@ -281,22 +281,22 @@ OpenClaw:
 
 #### 4. 캘린더 자동 관리 🟢
 
-**📖 설명**
+📖 설명
 메신저에서 "다음 주 화요일 3시에 팀 미팅"이라고 말하면 자동으로 Google Calendar에 등록됩니다. 일정 충돌을 확인하고, 참석자에게 초대장을 보내며, 미팅 10분 전 알림을 제공합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 일정 입력 시간 80% 단축
 - 일정 충돌 사전 방지
 - 자동 알림으로 지각 방지
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | calendar | 캘린더 연동 | `openclaw skill install calendar` |
 | nlp | 자연어 파싱 | `openclaw skill install nlp` |
 | reminder | 알림 설정 | `openclaw skill install reminder` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: Google Calendar API 연동
 ```bash
@@ -340,22 +340,22 @@ OpenClaw:
 
 #### 5. 할 일 목록(To-Do) 통합 관리 🟢
 
-**📖 설명**
+📖 설명
 Todoist, Notion, Google Tasks 등 여러 할 일 앱과 연동하여 채팅 한 줄로 일정을 추가하고 우선순위를 재구성합니다. 모든 할 일을 한 곳에서 관리하고, 마감일이 다가오면 자동으로 알림을 받습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 여러 앱 간 할 일 동기화
 - 우선순위 자동 조정
 - 마감일 알림으로 미루기 방지
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | todoist | Todoist 연동 | `openclaw skill install todoist` |
 | notion | Notion 연동 | `openclaw skill install notion` |
 | tasks | Google Tasks 연동 | `openclaw skill install tasks` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 여러 서비스 연동
 ```bash
@@ -381,7 +381,7 @@ openclaw skill auth notion
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 할 일 추가: 마케팅 보고서 작성, 마감일 금요일
 
@@ -411,15 +411,15 @@ OpenClaw:
 
 #### 6. 두 번째 뇌(Second Brain) 구축 🟢
 
-**📖 설명**
+📖 설명
 번뜩이는 아이디어나 링크, 메모를 채팅으로 별낸 다음, 자동으로 맥락과 함께 분류하여 저장합니다. 나중에 검색할 때 관련성 높은 과거 기록도 함께 찾아주어 개인 지식베이스를 구축합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 아이디어 유실 방지
 - 관련 정보 자동 연결
 - 검색 시간 단축
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | memory | 메모 저장 | `openclaw skill install memory` |
@@ -427,7 +427,7 @@ OpenClaw:
 | search | 벡터 검색 | `openclaw skill install search` |
 | embedding | 의미 기반 임베딩 | `openclaw skill install embedding` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 저장소 설정 (Obsidian 권장)
 ```bash
@@ -469,15 +469,15 @@ OpenClaw:
 
 #### 7. 음성 메모 → 일기 자동 변환 🟢
 
-**📖 설명**
+📖 설명
 길 가다가 남긴 30초짜리 짧은 음성 메모를 AI가 전사하여 "오늘의 하이라이트" 형태로 멋진 일기로 정리합니다. 음성 톤에서 감정을 분석하고, 관련 사진을 자동으로 찾아 삽입합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 일기 작성 부담 감소
 - 일상 기록 습관 형성
 - 음성 기반 빠른 입력
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | audio | 음성 녹음 | `openclaw skill install audio` |
@@ -485,7 +485,7 @@ OpenClaw:
 | notes | 노트 작성 | `openclaw skill install notes` |
 | photos | 사진 검색 | `openclaw skill install photos` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 음성 인식 설정
 ```bash
@@ -503,7 +503,7 @@ openclaw skill install audio whisper notes
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: (음성 메모 30초)
 "오늘 회사에서 프레젠테이션 잘 마쳤어. 
@@ -535,15 +535,15 @@ OpenClaw:
 
 #### 8. 영수증 사진 → 엑셀 자동 입력 🟢
 
-**📖 설명**
+📖 설명
 영수증 사진을 찍어 별낸 다음, 결제처, 날짜, 금액, 카테고리를 자동으로 인식하여 Google Sheets에 지출 내역을 입력합니다. 세무나 회계 정산 시 모든 영수증이 정리되어 있어 업무 효율이 크게 향상됩니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 영수증 정리 시간 90% 절약
 - 실시간 지출 추적
 - 세무 신고 시 증빙 자료 완비
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | vision | 이미지 인식 | `openclaw skill install vision` |
@@ -551,7 +551,7 @@ OpenClaw:
 | sheets | Google Sheets | `openclaw skill install sheets` |
 | classifier | 카테고리 분류 | `openclaw skill install classifier` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 스킬 설치
 ```bash
@@ -579,7 +579,7 @@ openclaw skill auth sheets
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: (영수증 사진 첨부)
 
@@ -609,22 +609,22 @@ OpenClaw:
 
 #### 9. 택배 및 배송 상태 추적 🟢
 
-**📖 설명**
+📖 설명
 여러 쇼핑몰의 배송 현황을 실시간으로 추적하고, 배송이 시작되거나 도착할 때, 문제 발생 시 자동으로 알림을 보내줍니다. 여러 택배사의 배송 정보를 한눈에 확인할 수 있습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 배송 조회 시간 절약
 - 실시간 배송 알림
 - 배송 문제 조기 발견
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | tracking | 배송 추적 | `openclaw skill install tracking` |
 | cron | 주기적 확인 | `openclaw skill install cron` |
 | notify | 알림 발송 | `openclaw skill install notify` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 스킬 설치
 ```bash
@@ -653,7 +653,7 @@ User: 배송 추적: CJ대한통운 1234567890
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 OpenClaw (자동 알림):
 📦 배송 상태 변경
@@ -674,22 +674,22 @@ OpenClaw (자동 알림):
 
 #### 10. 부재중 슬랙/팀즈 채널 요약 🟢
 
-**📖 설명**
+📖 설명
 자리를 비운 사이 대화가 많이 오간 시끄러운 업무 채널의 핵심 내용만 요약해서 알려줍니다. 100개가 넘는 메시지를 읽지 않고도 중요한 결정사항과 액션 아이템을 파악할 수 있습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 업무 복귀 시간 단축
 - 중요 결정사항 놓침 방지
 - 팀 상황 빠른 파악
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | slack | Slack 연동 | `openclaw skill install slack` |
 | teams | Teams 연동 | `openclaw skill install teams` |
 | summarizer | 요약 AI | `openclaw skill install summarizer` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 스킬 설치 및 인증
 ```bash
@@ -708,7 +708,7 @@ openclaw skill auth slack
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 슬랙 #dev-team 채널 요약해줘 (점심시간 동안)
 
@@ -743,22 +743,22 @@ OpenClaw:
 
 #### 11. 스마트홈 자연어 제어 🟢
 
-**📖 설명**
+📖 설명
 "거실 불 꺼" "에어컨 24도로 해줘"와 같은 자연어 명령으로 Home Assistant나 IoT 기기를 제어합니다. 앱을 열 필요 없이 메신저로 집안의 모든 기기를 제어할 수 있습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 앱 전환 없는 빠른 제어
 - 가족 공용 AI 리모컨
 - 음성/텍스트 모두 지원
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | homeassistant | HA 연동 | `openclaw skill install homeassistant` |
 | iot | IoT 제어 | `openclaw skill install iot` |
 | nlp | 명령어 파싱 | `openclaw skill install nlp` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: Home Assistant 설정
 ```bash
@@ -781,7 +781,7 @@ openclaw skill config homeassistant
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 거실 불 꺼고 에어컨 24도로 해줘
 
@@ -814,22 +814,22 @@ OpenClaw:
 
 #### 12. 가족 공용 AI 비서 (iMessage) 🟢
 
-**📖 설명**
+📖 설명
 애플의 iMessage와 연동해 가족들이 따로 앱을 설치하거나 가입할 필요 없이 문자로 AI 비서를 편하게 활용합니다. 가족 공용 쇼핑 리스트, 일정 공유, 알림 등을 문자로 관리할 수 있습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 가족 모두가 익숙한 문자 인터페이스
 - 별도 앱 설치 불필요
 - 실시간 가족 공유 기능
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | imessage | iMessage 연동 | `openclaw skill install imessage` |
 | bluebubbles | BlueBubbles 연동 | `openclaw skill install bluebubbles` |
 | family | 가족 관리 | `openclaw skill install family` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: BlueBubbles 서버 설정 (Mac 필요)
 ```bash
@@ -854,7 +854,7 @@ openclaw skill config bluebubbles
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 엄마 (iMessage): 우유 사와
 
@@ -879,15 +879,15 @@ OpenClaw:
 
 #### 13. 스크린샷 → Markdown 자동 변환 🟢
 
-**📖 설명**
+📖 설명
 특정 영역을 캡처하면 이미지에서 텍스트와 구조를 인식하여 마크다운 형식으로 자동 변환합니다. 문서 작성, 회의록 정리, 자료 정리 시 매우 유용합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 문서 작성 시간 60% 단축
 - 표/코드 블록 정확한 변환
 - 클립보드에 바로 복사
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | screenshot | 화면 캡처 | `openclaw skill install screenshot` |
@@ -895,7 +895,7 @@ OpenClaw:
 | markdown | 마크다운 변환 | `openclaw skill install markdown` |
 | clipboard | 클립보드 | `openclaw skill install clipboard` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 핫키 설정
 ```bash
@@ -917,7 +917,7 @@ openclaw skill config screenshot
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: (웹사이트 표 영역 캡처)
 
@@ -942,22 +942,22 @@ OpenClaw:
 
 #### 14. 다국어 실시간 번역 🟢
 
-**📖 설명**
+📖 설명
 해외 클라이언트나 친구와 소통할 때, 메신저 상에서 실시간으로 자연스러운 번역을 제공합니다. 비즈니스 메일, 문서, 채팅 모두 번역 가능하며, 전문 용어 사전도 학습할 수 있습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 언어 장벽 해소
 - 비즈니스 커뮤니케이션 원활
 - 전문 문서 번역 시간 단축
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | translate | 번역 엔진 | `openclaw skill install translate` |
 | deepl | DeepL API | `openclaw skill install deepl` |
 | glossary | 용어 사전 | `openclaw skill install glossary` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 번역 스킬 설정
 ```bash
@@ -981,7 +981,7 @@ openclaw skill config translate
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 번역: Please find the attached proposal for your review.
 
@@ -1006,7 +1006,7 @@ OpenClaw:
 
 ## 🟡 중급 레벨 (26-50)
 
-> **권장**: 초급 사례 3개 이상 경험 후 도전하세요. 추가 설정과 API 키가 필요합니다.
+> 권장: 초급 사례 3개 이상 경험 후 도전하세요. 추가 설정과 API 키가 필요합니다.
 
 ---
 
@@ -1014,15 +1014,15 @@ OpenClaw:
 
 #### 15. 회의 녹음 전사 + 액션 아이템 추출 🟡
 
-**📖 설명**
+📖 설명
 Zoom 회의나 오프라인 미팅의 녹음 파일을 업로드하면 화자를 구분하여 전사하고, 핵심 내용을 요약하며, 액션 아이템(할 일, 담당자, 마감일)을 자동으로 추출합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 회의록 작성 시간 80% 절약
 - 액션 아이템 누락 방지
 - 화자별 발언 내용 추적
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | audio | 오디오 처리 | `openclaw skill install audio` |
@@ -1031,7 +1031,7 @@ Zoom 회의나 오프라인 미팅의 녹음 파일을 업로드하면 화자를
 | summarizer | 요약 | `openclaw skill install summarizer` |
 | tasks | 할 일 관리 | `openclaw skill install tasks` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 고급 음성 처리 설정
 ```bash
@@ -1079,7 +1079,7 @@ module.exports = async (agent, transcript) => {
 };
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: (회의 녹음 파일 25분 첨부)
 
@@ -1125,15 +1125,15 @@ Q2 마케팅 전략 회의.
 
 #### 16. GitHub PR 코드 리뷰 자동화 🟡
 
-**📖 설명**
+📖 설명
 GitHub PR 링크를 주면 변경사항을 분석하여 코드 품질 문제점을 지적하고, 리뷰 코멘트 초안을 작성하며, 승인/거부 판단까지 Telegram이나 Slack으로 전송합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 코드 리뷰 시간 50% 단축
 - 일관된 리뷰 품질
 - 보안 취약점 조기 발견
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | github | GitHub API | `openclaw skill install github` |
@@ -1141,7 +1141,7 @@ GitHub PR 링크를 주면 변경사항을 분석하여 코드 품질 문제점�
 | security | 보안 검사 | `openclaw skill install security` |
 | telegram | Telegram 알림 | `openclaw skill install telegram` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: GitHub 연동
 ```bash
@@ -1198,7 +1198,7 @@ module.exports = async (agent, pr) => {
 };
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 GitHub Webhook (자동):
 📦 새 PR 생성됨
@@ -1242,15 +1242,15 @@ OpenClaw (자동 리뷰):
 
 #### 17. 신규 고객 온보딩 풀 자동화 🟡
 
-**📖 설명**
+📖 설명
 새 고객 정보가 입력되면 폴더 생성 → 환영 이메일 발송 → 미팅 예약 → 태스크 생성 → CRM 업데이트까지 자동으로 처리합니다. 고객이 전화를 끊는 순간 모든 준비가 완료됩니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 온보딩 시간 80% 단축
 - 고객 경험 향상
 - 업무 누락 방지
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | crm | CRM 연동 | `openclaw skill install crm` |
@@ -1259,7 +1259,7 @@ OpenClaw (자동 리뷰):
 | drive | 구글 드라이브 | `openclaw skill install drive` |
 | tasks | 할 일 관리 | `openclaw skill install tasks` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 통합 설정
 ```bash
@@ -1299,7 +1299,7 @@ openclaw skill auth drive
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 CRM (자동 트리거):
 🆕 신규 고객 등록: (주)테크솔루션
@@ -1346,15 +1346,15 @@ OpenClaw (자동 실행):
 
 #### 18. DevOps 반복업무 메신저 자동화 🟡
 
-**📖 설명**
+📖 설명
 에러 로그 모니터링, 의존성 업데이트 알림, 서버 상태 체크 등 반복적인 DevOps 작업을 터미널 없이 메신저로 처리합니다. 서버 문제 발생 시 즉시 알림을 받고 간단한 명령으로 대응할 수 있습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 장애 대응 시간 단축
 - 반복 작업 자동화
 - 24/7 모니터링
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | monitoring | 서버 모니터링 | `openclaw skill install monitoring` |
@@ -1362,7 +1362,7 @@ OpenClaw (자동 실행):
 | terminal | 명령 실행 | `openclaw skill install terminal` |
 | slack | Slack 알림 | `openclaw skill install slack` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 모니터링 설정
 ```bash
@@ -1389,7 +1389,7 @@ openclaw skill install monitoring logs terminal slack
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 OpenClaw (자동 알림):
 🚨 장애 감지: production-api
@@ -1430,15 +1430,15 @@ CPU 정상화: 85% → 35%
 
 #### 19. 서버·홈랩 헬스 체크 & 자가 치유 🟡
 
-**📖 설명**
+📖 설명
 CPU, 메모리, 디스크 사용량을 지속적으로 모니터링하고, 이상이 감지되면 자동으로 알림을 보내고 재시작이나 롤백 등의 조치를 취합니다. 무인 운영이 가능한 자가 치유 시스템을 구축합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 24/7 서버 안정성 확보
 - 장애 자동 복구
 - 관리자 개입 최소화
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | health | 헬스 체크 | `openclaw skill install health` |
@@ -1446,7 +1446,7 @@ CPU, 메모리, 디스크 사용량을 지속적으로 모니터링하고, 이�
 | systemd | 서비스 관리 | `openclaw skill install systemd` |
 | healing | 자동 복구 | `openclaw skill install healing` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 헬스 체크 설정
 ```bash
@@ -1479,7 +1479,7 @@ openclaw skill install health docker systemd healing
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 OpenClaw (자동 감지):
 ⚠️ 헬스 체크 경고: homeserver
@@ -1508,15 +1508,15 @@ OpenClaw (자동 감지):
 
 #### 20. Home Assistant 고급 연동 🟡
 
-**📖 설명**
+📖 설명
 OpenClaw를 Home Assistant OS에서 운영하고, 복잡한 자동화 규칙을 자연어로 제어합니다. "점심시간에 에어컨 켜고, 퇴근하면 불 켜줘" 같은 복합 조건을 쉽게 설정할 수 있습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 복잡한 자동화 규칙 자연어 설정
 - 여러 기기 연동
 - 상황 인지형 스마트홈
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | homeassistant | HA 연동 | `openclaw skill install homeassistant` |
@@ -1524,7 +1524,7 @@ OpenClaw를 Home Assistant OS에서 운영하고, 복잡한 자동화 규칙을 
 | geolocation | 위치 기반 | `openclaw skill install geolocation` |
 | time | 시간 기반 | `openclaw skill install time` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: HA Add-on 설치
 ```bash
@@ -1550,7 +1550,7 @@ module.exports = {
 };
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 새 자동화 만들어줘
 
@@ -1593,15 +1593,15 @@ OpenClaw:
 
 #### 21. 콘텐츠 멀티 플랫폼 재활용 🟡
 
-**📖 설명**
+📖 설명
 하나의 포스트를 입력하면 X(트위터) 스레드, LinkedIn, Instagram 캡션, YouTube Shorts 스크립트 등 각 플랫폼에 맞게 자동으로 변환합니다. 한 번의 글쓰기로 모든 채널을 커버합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 콘텐츠 제작 시간 70% 단축
 - 플랫폼별 최적화
 - 일관된 브랜딩 유지
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | content | 콘텐츠 생성 | `openclaw skill install content` |
@@ -1610,7 +1610,7 @@ OpenClaw:
 | instagram | Instagram | `openclaw skill install instagram` |
 | youtube | YouTube | `openclaw skill install youtube` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 소셜 미디어 연동
 ```bash
@@ -1637,7 +1637,7 @@ openclaw skill auth linkedin
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 블로그 글 멀티플랫폼 변환해줘
 (첨부: "OpenClaw로 개발 생산성 2배 높이기" 블로그)
@@ -1688,15 +1688,15 @@ AI 시대의 개발자 생산성 혁명 🚀
 
 #### 22. 브랜드 멘션 실시간 모니터링 🟡
 
-**📖 설명**
+📖 설명
 X(트위터), Reddit 등에서 브랜드나 키워드가 언급되면 실시간으로 감지하고, 감정 분석(긍정/부정/중립)을 수행하며, 매일 리포트를 전송합니다. 위기 상황을 조기에 발견할 수 있습니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 실시간 브랜드 모니터링
 - 감성 분석 트렌드 파악
 - 위기 대응 시간 단축
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | monitoring | 소셜 모니터링 | `openclaw skill install monitoring` |
@@ -1705,7 +1705,7 @@ X(트위터), Reddit 등에서 브랜드나 키워드가 언급되면 실시간�
 | reddit | Reddit API | `openclaw skill install reddit` |
 | report | 리포트 생성 | `openclaw skill install report` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 모니터링 설정
 ```bash
@@ -1731,7 +1731,7 @@ openclaw skill install monitoring sentiment twitter reddit report
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 OpenClaw (실시간 알림):
 🔴 긴급: 부정적 멘션 급증
@@ -1783,7 +1783,7 @@ OpenClaw (일일 리포트):
 
 ## 🔴 고급 레벨 (51-60)
 
-> **전제조건**: 중급 사례 5개 이상 경험, 프로그래밍 지식, 서버 관리 능력 필요
+> 전제조건: 중급 사례 5개 이상 경험, 프로그래밍 지식, 서버 관리 능력 필요
 
 ---
 
@@ -1791,15 +1791,15 @@ OpenClaw (일일 리포트):
 
 #### 23. 멀티 에이전트 드림팀 🔴
 
-**📖 설명**
+📖 설명
 하나의 요청을 오케스트레이터가 Builder, Reviewer, Deployer 등 전문화된 에이전트에게 나누어 3분 만에 완료하는 시스템입니다. 소프트웨어 개발 전 과정을 AI 에이전트가 협업하여 처리합니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 개발 속도 10배 향상
 - 24/7 자동 개발 파이프라인
 - 인적 오류 최소화
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | orchestrator | 작업 분배 | `openclaw skill install orchestrator` |
@@ -1808,7 +1808,7 @@ OpenClaw (일일 리포트):
 | tester | 테스트 | `openclaw skill install tester` |
 | deployer | 배포 | `openclaw skill install deployer` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 에이전트 프로필 생성
 ```bash
@@ -1847,7 +1847,7 @@ module.exports = {
 };
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: @orchestrator 로그인 기능에 2FA 추가해줘
 
@@ -1926,15 +1926,15 @@ Deployer 🚀:
 
 #### 24. 개발자 워크플로우 전체 자동화 🔴
 
-**📖 설명**
+📖 설명
 "이 기능 추가해"라고 말하면 코드 작성 → 테스트 → PR 생성 → 코드 리뷰 → 배포까지 모든 과정을 AI가 혼자 처리합니다. 개발자는 요구사항만 설명하고 결과를 검증하기만 하면 됩니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 개발 주기 80% 단축
 - 아이디어 → 프로덕션 1시간 이내
 - 반복 작업 제로
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | fullstack | 풀스택 개발 | `openclaw skill install fullstack` |
@@ -1942,7 +1942,7 @@ Deployer 🚀:
 | cicd | CI/CD | `openclaw skill install cicd` |
 | github | GitHub 관리 | `openclaw skill install github` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 개발 환경 설정
 ```bash
@@ -1968,7 +1968,7 @@ openclaw skill install fullstack testing cicd github
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: 사용자 프로필 페이지 만들어줘
 - 이름, 이메일, 프로필 사진 표시
@@ -2042,15 +2042,15 @@ OpenClaw:
 
 #### 25. 비즈니스 자율 운영 🔴
 
-**📖 설명**
+📖 설명
 $1,000 초기 자금을 주고 "사업 만들어"라고 하면, 웹사이트 제작 → 제품 소싱 → SNS 계정 운영 → 마케팅 캠페인 실행까지 스스로 운영하여 실제 수익을 창출하는 자율 비즈니스 에이전트입니다.
 
-**🎯 활용 효과**
+🎯 활용 효과
 - 완전 자율 비즈니스 운영
 - 24/7 수익 창출
 - 인건비 절감
 
-**🛠️ 필요 스킬**
+🛠️ 필요 스킬
 | 스킬 | 용도 | 설치 명령어 |
 |------|------|------------|
 | business | 비즈니스 기획 | `openclaw skill install business` |
@@ -2059,7 +2059,7 @@ $1,000 초기 자금을 주고 "사업 만들어"라고 하면, 웹사이트 제
 | ecommerce | 이커머스 | `openclaw skill install ecommerce` |
 | analytics | 분석 | `openclaw skill install analytics` |
 
-**📝 단계별 설정 방법**
+📝 단계별 설정 방법
 
 1단계: 비즈니스 에이전트 설정
 ```bash
@@ -2080,7 +2080,7 @@ openclaw skill install business webdev marketing ecommerce analytics
 }
 ```
 
-**💬 사용 예시**
+💬 사용 예시
 ```
 User: $1000으로 친환경 제품 사업 시작해줘
 
@@ -2196,4 +2196,4 @@ WEEK 4+: 운영 & 최적화
 
 ---
 
-> 💡 **팁**: 모든 사례는 조합하여 사용할 수 있습니다. 예를 들어 "아침 브리핑"에 "이메일 인박스 제로" 기능을 통합하거나, "멀티 에이전트"에 "회의 전사"를 연결할 수 있습니다.
+> 💡 팁: 모든 사례는 조합하여 사용할 수 있습니다. 예를 들어 "아침 브리핑"에 "이메일 인박스 제로" 기능을 통합하거나, "멀티 에이전트"에 "회의 전사"를 연결할 수 있습니다.

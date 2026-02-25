@@ -1,9 +1,9 @@
----
+﻿---
 title: "02. 개인 생산성 & 지식관리"
 description: 옵시디언 연동, 태스크 정리, 리마인더 - 나만의 두뇌 만들기
 ---
 
-> 🟢 **초급 레벨**  
+> 🟢 초급 레벨  
 > 🧠 내 생각과 정보를 체계적으로 관리하는 방법  
 > ⏱️ 설정 시간: 각 15-30분
 
@@ -14,83 +14,83 @@ description: 옵시디언 연동, 태스크 정리, 리마인더 - 나만의 두
 ### 1. 두 번째 뇌(Second Brain) 구축
 <a href="#case-1" class="case-link">자세히 보기 →</a>
 
-**한 줄 요약**: 번뜩이는 아이디어와 정보를 자동으로 분류하여 개인 지식베이스 구축
+한 줄 요약: 번뜩이는 아이디어와 정보를 자동으로 분류하여 개인 지식베이스 구축
 
-**핵심 효과**:
+핵심 효과:
 - 아이디어 유실 방지
 - 관련 정보 자동 연결
 - 검색 시간 단축
 
-**필요 스킬**: `memory`, `notes`, `search`, `embedding`
+필요 스킬: `memory`, `notes`, `search`, `embedding`
 
 ---
 
 ### 2. 음성 메모 → 일기 자동 변환
 <a href="#case-2" class="case-link">자세히 보기 →</a>
 
-**한 줄 요약**: 30초 음성 메모를 AI가 전사하여 멋진 일기로 정리
+한 줄 요약: 30초 음성 메모를 AI가 전사하여 멋진 일기로 정리
 
-**핵심 효과**:
+핵심 효과:
 - 일기 작성 부담 감소
 - 일상 기록 습관 형성
 - 음성 기반 빠른 입력
 
-**필요 스킬**: `audio`, `whisper`, `notes`, `photos`
+필요 스킬: `audio`, `whisper`, `notes`, `photos`
 
 ---
 
 ### 3. 할 일 목록(To-Do) 통합 관리
 <a href="#case-3" class="case-link">자세히 보기 →</a>
 
-**한 줄 요약**: Todoist, Notion, Google Tasks를 한곳에서 관리
+한 줄 요약: Todoist, Notion, Google Tasks를 한곳에서 관리
 
-**필요 스킬**: `todoist`, `notion`, `tasks`
+필요 스킬: `todoist`, `notion`, `tasks`
 
 ---
 
 ### 4. 집중 모드 가디언 (Focus Mode Guardian)
 <a href="#case-4" class="case-link">자세히 보기 →</a>
 
-**한 줄 요약**: 딥워크 시간에 방해 차단하고 긴급 연락만 선별
+한 줄 요약: 딥워크 시간에 방해 차단하고 긴급 연락만 선별
 
-**핵심 효과**:
+핵심 효과:
 - 집중력 향상
 - 긴급한 일 놓침 방지
 - 자동으로 집중 시간 기록
 
-**필요 스킬**: `notifications`, `focus`, `calendar`
+필요 스킬: `notifications`, `focus`, `calendar`
 
 ---
 
 ### 5. 작업 시간 자동 추적 (Time Tracking)
 <a href="#case-5" class="case-link">자세히 보기 →</a>
 
-**한 줄 요약**: 어떤 앱을 얼마나 썼는지 자동으로 기록하고 리포트 생성
+한 줄 요약: 어떤 앱을 얼마나 썼는지 자동으로 기록하고 리포트 생성
 
-**핵심 효과**:
+핵심 효과:
 - 시간 사용 현황 파악
 - 생산성 분석
 - 클라이언트 과금 시간 자동 계산
 
-**필요 스킬**: `activity`, `tracking`, `reports`
+필요 스킬: `activity`, `tracking`, `reports`
 
 ---
 
 ### 6. 리마인더 & 알림 체계
 <a href="#case-6" class="case-link">자세히 보기 →</a>
 
-**한 줄 요약**: 스마트한 알림 시스템으로 중요한 일을 절대 잊지 않기
+한 줄 요약: 스마트한 알림 시스템으로 중요한 일을 절대 잊지 않기
 
-**필요 스킬**: `reminder`, `calendar`, `location`
+필요 스킬: `reminder`, `calendar`, `location`
 
 ---
 
 ### 7. 가족 공용 AI 비서 (iMessage)
 <a href="#case-7" class="case-link">자세히 보기 →</a>
 
-**한 줄 요약**: 가족들이 별도 앱 설치 없이 문자로 AI 비서 활용
+한 줄 요약: 가족들이 별도 앱 설치 없이 문자로 AI 비서 활용
 
-**필요 스킬**: `imessage`, `bluebubbles`, `family`
+필요 스킬: `imessage`, `bluebubbles`, `family`
 
 ---
 
@@ -100,7 +100,7 @@ description: 옵시디언 연동, 태스크 정리, 리마인더 - 나만의 두
 
 번뜩이는 아이디어나 링크, 메모를 채팅으로 별낸 다음, 자동으로 맥락과 함께 분류하여 저장합니다. 나중에 검색할 때 관련성 높은 과거 기록도 함께 찾아주어 개인 지식베이스를 구축합니다.
 
-**어떻게 작동하나요?**
+어떻게 작동하나요?
 1. 메신저로 아이디어/링크/메모 전송
 2. AI가 내용 분석 및 자동 분류
 3. 벡터 임베딩으로 의미 기반 저장
@@ -117,14 +117,14 @@ description: 옵시디언 연동, 태스크 정리, 리마인더 - 나만의 두
 
 ### 📝 단계별 설정
 
-**Step 1: Obsidian 연동**
+Step 1: Obsidian 연동
 
 ```bash
 openclaw skill install memory notes
 # Obsidian 볼트 경로 설정
 ```
 
-**Step 2: 자동 분류 설정**
+Step 2: 자동 분류 설정
 
 ```json
 {
@@ -144,7 +144,7 @@ openclaw skill install memory notes
 
 ### 💬 사용 예시
 
-**메모 저장:**
+메모 저장:
 ```
 User: 아이디어: AI로 이력서 자동 분석해서 합격률 예측하는 서비스
 
@@ -165,7 +165,7 @@ OpenClaw:
 [📝 메모 보기] [🔍 유사 아이디어] [📊 시장조사 시작]
 ```
 
-**검색:**
+검색:
 ```
 User: 이력서 관련 아이디어 찾아줘
 

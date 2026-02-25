@@ -1,17 +1,17 @@
----
+﻿---
 title: 문제 해결
 description: OpenClaw 설치 및 실행 시 흔한 문제와 해결책
 ---
 
-> 🛠️ **흔한 문제들과 해결 방법**
+> 🛠️ 흔한 문제들과 해결 방법
 
 ## 설치 문제
 
 ### 'openclaw' 명령어를 찾을 수 없음
 
-**원인**: npm 전역 경로가 PATH에 없음
+원인: npm 전역 경로가 PATH에 없음
 
-**해결책**:
+해결책:
 ```bash
 # PATH 확인
 echo $PATH
@@ -29,9 +29,9 @@ source ~/.bashrc
 
 ### Node.js 버전 오류
 
-**원인**: Node.js 22+ 필요
+원인: Node.js 22+ 필요
 
-**해결책**:
+해결책:
 ```bash
 # 버전 확인
 node --version
@@ -46,9 +46,9 @@ nvm use 22
 
 ### 포트 충돌
 
-**에러**: `EADDRINUSE: address already in use :::18789`
+에러: `EADDRINUSE: address already in use :::18789`
 
-**해결책**:
+해결책:
 ```bash
 # 사용 중인 프로세스 확인
 lsof -i :18789
@@ -59,7 +59,7 @@ openclaw gateway --port 18790
 
 ### 설정 파일 오류
 
-**해결책**:
+해결책:
 ```bash
 # 설정 검증
 openclaw config validate
@@ -73,12 +73,12 @@ openclaw config reset
 
 ### 게이트웨이 접속 불가
 
-**확인사항**:
+확인사항:
 1. 방화벽 설정 확인
 2. 포트 개방 확인
 3. `openclaw status`로 상태 확인
 
-**해결책**:
+해결책:
 ```bash
 # 방화벽 포트 개방 (Ubuntu)
 sudo ufw allow 18789/tcp
@@ -91,12 +91,12 @@ sudo setenforce 0
 
 ### Telegram 봇 응답 없음
 
-**확인사항**:
+확인사항:
 1. 봇 토큰 정확성
 2. Webhook 설정
 3. 방화벽
 
-**디버그**:
+디버그:
 ```bash
 openclaw gateway --verbose
 ```

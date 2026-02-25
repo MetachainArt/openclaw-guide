@@ -1,10 +1,10 @@
----
+﻿---
 title: macOS 설치
 description: macOS에서 OpenClaw를 설치하는 방법
 ---
 
-> ⏱️ **예상 소요시간**: 20-30분  
-> 🎯 **목표**: macOS에 OpenClaw 설치 및 실행
+> ⏱️ 예상 소요시간: 20-30분  
+> 🎯 목표: macOS에 OpenClaw 설치 및 실행
 
 ## 시스템 요구사항
 
@@ -93,9 +93,9 @@ openclaw onboard --install-daemon
 ### macOS 특화 옵션
 
 온볼딩 마법사에서:
-- **데몬 설치**: `launchd` 서비스로 자동 시작
-- **메뉴 바 앱**: (선택) macOS 메뉴 바에서 제어
-- **Voice Wake**: (Apple Silicon 권장) 음성 명령 활성화
+- 데몬 설치: `launchd` 서비스로 자동 시작
+- 메뉴 바 앱: (선택) macOS 메뉴 바에서 제어
+- Voice Wake: (Apple Silicon 권장) 음성 명령 활성화
 
 ---
 
@@ -148,16 +148,16 @@ openclaw settings set voice.wake.phrase "컴퓨터"
 
 ### 문제: "sharp" 빌드 오류
 
-**원인**: libvips 충돌
+원인: libvips 충돌
 
-**해결책**:
+해결책:
 ```bash
 SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm install -g openclaw@latest
 ```
 
 ### 문제: 개발자를 확인할 수 없음
 
-**해결책**:
+해결책:
 1. 시스템 설정 → 개인정보 보호 및 보안
 2. "OpenClaw가 차단되었습니다" → "그래도 열기"
 
@@ -168,7 +168,7 @@ xattr -dr com.apple.quarantine /path/to/openclaw
 
 ### 문제: 포트 18789 충돌
 
-**해결책**:
+해결책:
 ```bash
 # 사용 중인 프로세스 확인
 lsof -i :18789

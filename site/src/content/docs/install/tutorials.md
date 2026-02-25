@@ -1,9 +1,9 @@
----
+﻿---
 title: 설치 튜토리얼 모음
 description: YouTube 및 블로그 설치 가이드 모음
 ---
 
-> 📺 **동영상과 블로그 튜토리얼로 쉽게 설치하기**
+> 📺 동영상과 블로그 튜토리얼로 쉽게 설치하기
 
 이 페이지에서는 OpenClaw 설치에 도움이 되는 다양한 튜토리얼을 소개합니다.
 
@@ -12,8 +12,8 @@ description: YouTube 및 블로그 설치 가이드 모음
 ## 🎥 YouTube 튜토리얼
 
 ### 1. Metics Media - Full OpenClaw Setup Tutorial
-**조회수**: 119K | **길이**: 17분  
-**링크**: [youtu.be/fcZMmP5dsl4](https://www.youtube.com/watch?v=fcZMmP5dsl4)
+조회수: 119K | 길이: 17분  
+링크: [youtu.be/fcZMmP5dsl4](https://www.youtube.com/watch?v=fcZMmP5dsl4)
 
 - Clawdbot을 활용한 상세 설치 가이드
 - 단계별 설정 방법
@@ -22,8 +22,8 @@ description: YouTube 및 블로그 설치 가이드 모음
 ---
 
 ### 2. Adrian Twarog - OpenClaw Crash Course
-**조회수**: 120K | **길이**: 8분  
-**링크**: [youtu.be/u4ydH-QvPeg](https://www.youtube.com/watch?v=u4ydH-QvPeg)
+조회수: 120K | 길이: 8분  
+링크: [youtu.be/u4ydH-QvPeg](https://www.youtube.com/watch?v=u4ydH-QvPeg)
 
 - 초보자를 위한 빠른 시작
 - MCP 및 스킬 설정
@@ -32,8 +32,8 @@ description: YouTube 및 블로그 설치 가이드 모음
 ---
 
 ### 3. Kevin Jeppesen - 10분 설치 가이드
-**조회수**: 8.2K | **길이**: 10분  
-**링크**: [youtu.be/khTA_AfJ01Y](https://www.youtube.com/watch?v=khTA_AfJ01Y)
+조회수: 8.2K | 길이: 10분  
+링크: [youtu.be/khTA_AfJ01Y](https://www.youtube.com/watch?v=khTA_AfJ01Y)
 
 - VPS 설치 방법
 - 일반적인 문제 해결
@@ -42,8 +42,8 @@ description: YouTube 및 블로그 설치 가이드 모음
 ---
 
 ### 4. TechTimeFly - Beginner's Guide
-**조회수**: 219 | **길이**: 42분  
-**링크**: [youtu.be/IbdiJqP4VRQ](https://www.youtube.com/watch?v=IbdiJqP4VRQ)
+조회수: 219 | 길이: 42분  
+링크: [youtu.be/IbdiJqP4VRQ](https://www.youtube.com/watch?v=IbdiJqP4VRQ)
 
 - 초보자를 위한 상세 가이드
 - 설정 및 첫 테스트
@@ -52,8 +52,8 @@ description: YouTube 및 블로그 설치 가이드 모음
 ---
 
 ### 5. ProgrammingKnowledge - Mac 설치
-**조회수**: 268 | **길이**: 25분  
-**링크**: [youtu.be/YSJ61RiO7As](https://www.youtube.com/watch?v=YSJ61RiO7As)
+조회수: 268 | 길이: 25분  
+링크: [youtu.be/YSJ61RiO7As](https://www.youtube.com/watch?v=YSJ61RiO7As)
 
 - macOS 설치 (M1/M2/M3/M4/M5)
 - MacBook Pro/Air & iMac 지원
@@ -66,9 +66,9 @@ description: YouTube 및 블로그 설치 가이드 모음
 ### Windows 설치
 
 #### 코딩오페라 - Windows 완벽 가이드
-**링크**: [codingopera.tistory.com/86](https://codingopera.tistory.com/86)
+링크: [codingopera.tistory.com/86](https://codingopera.tistory.com/86)
 
-**주요 내용**:
+주요 내용:
 - Windows 네이티브 설치 방법
 - WSL2 설치 상세 가이드
 - 설치 중 발생하는 에러 해결책
@@ -77,9 +77,9 @@ description: YouTube 및 블로그 설치 가이드 모음
 ---
 
 #### Tars 블로그 - WSL2 설치
-**링크**: [tars.tistory.com](https://tars.tistory.com/m/entry/OpenClaw-%EC%84%A4%EC%B9%98%ED%95%B4%EB%B3%B4%EA%B8%B0)
+링크: [tars.tistory.com](https://tars.tistory.com/m/entry/OpenClaw-%EC%84%A4%EC%B9%98%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
-**주요 내용**:
+주요 내용:
 - Windows 11 WSL2 설치
 - Ubuntu 24.04 설정
 - Node.js 설치 및 환경 설정
@@ -88,9 +88,9 @@ description: YouTube 및 블로그 설치 가이드 모음
 ---
 
 #### 블로그허브 - WSL2 완벽 가이드
-**링크**: [bloghub.co.kr](https://bloghub.co.kr/openclaw-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-wsl2%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
+링크: [bloghub.co.kr](https://bloghub.co.kr/openclaw-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-wsl2%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 
-**주요 내용**:
+주요 내용:
 - WSL2를 사용해야 하는 이유
 - 10분 완성 설치법
 - 네이티브 vs WSL2 비교
@@ -100,9 +100,9 @@ description: YouTube 및 블로그 설치 가이드 모음
 ### Docker 설치
 
 #### Leenit 기술블로그 - Docker 5분 설치
-**링크**: [blog.leenit.kr](https://blog.leenit.kr/install-openclaw-with-docker/)
+링크: [blog.leenit.kr](https://blog.leenit.kr/install-openclaw-with-docker/)
 
-**주요 내용**:
+주요 내용:
 - Docker 설치의 장점
 - Docker Compose 설정
 - macOS/Windows 공통 가이드
@@ -113,9 +113,9 @@ description: YouTube 및 블로그 설치 가이드 모음
 ### 온볼딩 및 설정
 
 #### 장욱님 블로그 - 설치부터 첫 대화까지
-**링크**: [jangwook.net](https://jangwook.net/ko/blog/ko/openclaw-installation-tutorial/)
+링크: [jangwook.net](https://jangwook.net/ko/blog/ko/openclaw-installation-tutorial/)
 
-**주요 내용**:
+주요 내용:
 - Node.js 설치 (Volta/nvm/fnm)
 - 첫 실행 및 온볼딩
 - Telegram 봇 연결
@@ -124,9 +124,9 @@ description: YouTube 및 블로그 설치 가이드 모음
 ---
 
 #### 콩쓰s - 온볼딩 위저드 가이드
-**링크**: [tikongs.tistory.com/1130](https://tikongs.tistory.com/1130)
+링크: [tikongs.tistory.com/1130](https://tikongs.tistory.com/1130)
 
-**주요 내용**:
+주요 내용:
 - QuickStart vs Advanced 모드
 - 모델 및 인증 설정
 - Workspace 설정
@@ -137,9 +137,9 @@ description: YouTube 및 블로그 설치 가이드 모음
 ## 📚 공식 문서
 
 ### OpenClaw 공식 문서
-**링크**: [docs.openclaw.ai](https://docs.openclaw.ai)
+링크: [docs.openclaw.ai](https://docs.openclaw.ai)
 
-**주요 내용**:
+주요 내용:
 - 공식 설치 가이드
 - API 문서
 - 스킬 개발 가이드
@@ -150,27 +150,27 @@ description: YouTube 및 블로그 설치 가이드 모음
 ## 🔗 외국어 리소스
 
 ### Medium - 완벽 설치 가이드 (영어)
-**링크**: [Medium Article](https://medium.com/@guljabeen222/how-to-install-openclaw-2026-the-complete-step-by-step-guide-516b74c163b9)
+링크: [Medium Article](https://medium.com/@guljabeen222/how-to-install-openclaw-2026-the-complete-step-by-step-guide-516b74c163b9)
 
 - 단계별 설치 프로세스
 - 스크린샷 포함
 - 문제 해결 팁
 
 ### Codecademy - 튜토리얼 (영어)
-**링크**: [Codecademy](https://www.codecademy.com/article/open-claw-tutorial-installation-to-first-chat-setup)
+링크: [Codecademy](https://www.codecademy.com/article/open-claw-tutorial-installation-to-first-chat-setup)
 
 - 초보자 친화적 설명
 - AI Agents 과정과 연계
 
 ### Clawctl 블로그 - 완벽 가이드 (영어)
-**링크**: [clawctl.com](https://www.clawctl.com/blog/setup-openclaw-complete-guide)
+링크: [clawctl.com](https://www.clawctl.com/blog/setup-openclaw-complete-guide)
 
 - 관리형 배포 (Clawctl)
 - 보안 설정
 - 프로덕션 배포
 
 ### The CAIO - 30분 자동화 (영어)
-**링크**: [thecaio.ai](https://www.thecaio.ai/blog/openclaw-tutorial)
+링크: [thecaio.ai](https://www.thecaio.ai/blog/openclaw-tutorial)
 
 - 이메일 자동 분류
 - 캘린더 브리핑
@@ -178,7 +178,7 @@ description: YouTube 및 블로그 설치 가이드 모음
 - 커스텀 워크플로우
 
 ### Reddit - 커뮤니티 가이드 (영어)
-**링크**: [reddit.com/r/AiForSmallBusiness](https://www.reddit.com/r/AiForSmallBusiness/comments/1r4uyrh/the_ultimate_openclaw_setup_guide/)
+링크: [reddit.com/r/AiForSmallBusiness](https://www.reddit.com/r/AiForSmallBusiness/comments/1r4uyrh/the_ultimate_openclaw_setup_guide/)
 
 - Jarvis 같은 개인 AI 비서 구축
 - WhatsApp/Telegram/Discord/Slack 연동

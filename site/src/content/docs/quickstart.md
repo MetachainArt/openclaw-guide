@@ -1,10 +1,10 @@
----
+﻿---
 title: 빠른 시작 (30분 컷)
 description: 30분 만에 OpenClaw를 설치하고 첫 대화를 나누는 방법
 ---
 
-> ⏱️ **예상 소요시간**: 30분  
-> 🎯 **목표**: OpenClaw 설치 → 첫 실행 → 메신저 연결
+> ⏱️ 예상 소요시간: 30분  
+> 🎯 목표: OpenClaw 설치 → 첫 실행 → 메신저 연결
 
 ## ✅ 사전 체크리스트
 
@@ -14,7 +14,7 @@ description: 30분 만에 OpenClaw를 설치하고 첫 대화를 나누는 방�
 - [ ] 30분 여유 시간
 
 :::tip[Windows 사용자 주의]
-Windows에서는 **WSL2 사용을 강력히 권장**합니다.  
+Windows에서는 WSL2 사용을 강력히 권장합니다.  
 [WSL2 설치 가이드](/install/windows)를 먼저 확인하세요.
 :::
 
@@ -54,16 +54,16 @@ openclaw onboard --install-daemon
 
 ### 마법사에서 설정할 내용
 
-1. **게이트웨이 포트**: 기본값 `18789` 권장
-2. **인증 방식**: 
+1. 게이트웨이 포트: 기본값 `18789` 권장
+2. 인증 방식: 
    - 개인용: `token` (기본)
    - 팀용: `oauth` 또는 `password`
-3. **모델 프로바이더 선택**:
+3. 모델 프로바이더 선택:
    - OpenAI (GPT-4o 등)
    - Anthropic (Claude 3.5 Sonnet/Opus 권장)
    - Groq, Gemini, 로컬 모델 등
-4. **API 키 입력**: 선택한 프로바이더의 키 입력
-5. **데몬 설치**: `Yes` (권장)
+4. API 키 입력: 선택한 프로바이더의 키 입력
+5. 데몬 설치: `Yes` (권장)
 
 ### 온볼딩 완료 확인
 
@@ -158,9 +158,9 @@ http://example.com 웹사이트 요약해줘
 
 | 목표 | 가이드 |
 |------|--------|
-| **더 많은 채널 연결** | [채널 설정 가이드](/install/channels) |
-| **스킬 설치** | ⚠️ [보안 체크리스트](/security/skill-checklist) 먼저! |
-| **일정 자동화** | [활용 사례: 캘린더](/usecases/calendar-automation) |
+| 더 많은 채널 연결 | [채널 설정 가이드](/install/channels) |
+| 스킬 설치 | ⚠️ [보안 체크리스트](/security/skill-checklist) 먼저! |
+| 일정 자동화 | [활용 사례: 캘린더](/usecases/calendar-automation) |
 
 ---
 
@@ -168,16 +168,16 @@ http://example.com 웹사이트 요약해줘
 
 ### 일반적인 문제
 
-**Q: `openclaw: command not found`**  
+Q: `openclaw: command not found`  
 A: PATH에 npm 전역 바이너리 경로가 없습니다.
 ```bash
 export PATH="$(npm prefix -g)/bin:$PATH"
 ```
 
-**Q: 온볼딩 중 API 키 오류**  
+Q: 온볼딩 중 API 키 오류  
 A: 키가 유효한지, 해당 프로바이더의 크레딧이 있는지 확인하세요.
 
-**Q: 게이트웨이가 시작되지 않음**  
+Q: 게이트웨이가 시작되지 않음  
 A: 포트 18789가 이미 사용 중일 수 있습니다.
 ```bash
 openclaw gateway --port 18790  # 다른 포트 사용

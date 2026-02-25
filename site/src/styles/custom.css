@@ -62,6 +62,26 @@
   --sl-color-black: #f0f6fc;
   --sl-color-text: #f0f6fc;
   --sl-color-text-invert: #0d1117;
+  --sl-color-bg: #0d1117;
+  --sl-color-bg-nav: #161b22;
+  --sl-color-bg-sidebar: #161b22;
+  --sl-color-hairline-shade: #21262d;
+  --sl-color-hairline-light: #30363d;
+  --sl-color-bg-inline-code: #21262d;
+}
+
+/* 다크모드 배경 강제 적용 */
+:root[data-theme='dark'] body,
+:root[data-theme='dark'] main {
+  background-color: #0d1117 !important;
+}
+
+:root[data-theme='dark'] .main-frame {
+  background-color: #0d1117 !important;
+}
+
+:root[data-theme='dark'] .content-panel {
+  background-color: #0d1117 !important;
 }
 
 /* ══════════════════════════════════

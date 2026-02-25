@@ -1,10 +1,10 @@
----
+﻿---
 title: Linux 설치
 description: Linux에서 OpenClaw를 설치하는 방법
 ---
 
-> ⏱️ **예상 소요시간**: 20-30분  
-> 🎯 **목표**: Linux에 OpenClaw 설치 및 실행
+> ⏱️ 예상 소요시간: 20-30분  
+> 🎯 목표: Linux에 OpenClaw 설치 및 실행
 
 ## 지원 배포판
 
@@ -216,7 +216,7 @@ docker run -d \
 
 ### 문제: Permission denied
 
-**해결책**:
+해결책:
 ```bash
 # npm 전역 디렉토리 변경
 mkdir ~/.npm-global
@@ -227,7 +227,7 @@ source ~/.bashrc
 
 ### 문제: 포트 충돌
 
-**해결책**:
+해결책:
 ```bash
 # 사용 중인 프로세스 확인
 sudo lsof -i :18789
@@ -239,7 +239,7 @@ openclaw gateway --port 18790
 
 ### 문제: 메모리 부족
 
-**해결책**:
+해결책:
 - 스왑 공간 추가
 - 가벼운 모델 사용 (Groq 등)
 - 로컬 모델 대신 API 사용

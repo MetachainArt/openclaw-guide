@@ -1,15 +1,15 @@
----
+﻿---
 title: Windows/WSL2 설치
 description: Windows에서 OpenClaw를 설치하는 방법 (WSL2 권장)
 ---
 
-> ⏱️ **예상 소요시간**: 45분 - 1시간  
-> 🎯 **목표**: WSL2 환경에 OpenClaw 설치
+> ⏱️ 예상 소요시간: 45분 - 1시간  
+> 🎯 목표: WSL2 환경에 OpenClaw 설치
 
 :::danger[중요: WSL2 필수]
-Windows에서 OpenClaw를 실행하려면 **WSL2 (Windows Subsystem for Linux)**가 필요합니다.
+Windows에서 OpenClaw를 실행하려면 WSL2 (Windows Subsystem for Linux)가 필요합니다.
 
-네이티브 Windows 설치는 **지원되지 않거나** 심각한 제약이 있습니다.
+네이티브 Windows 설치는 지원되지 않거나 심각한 제약이 있습니다.
 :::
 
 ## WSL2란?
@@ -45,7 +45,7 @@ wsl --install
 
 ### 수동 설치 (Windows 10)
 
-1. **Windows 기능 켜기/끄기** 실행
+1. Windows 기능 켜기/끄기 실행
    - Windows 키 + R → `optionalfeatures` 입력
    - 또는 제어판 → 프로그램 → Windows 기능 켜기/끄기
 
@@ -56,13 +56,13 @@ wsl --install
 
 3. 컴퓨터 재부팅
 
-3. **WSL2를 기본 버전으로 설정**:
+3. WSL2를 기본 버전으로 설정:
 
 ```powershell
 wsl --set-default-version 2
 ```
 
-4. **Ubuntu 설치**:
+4. Ubuntu 설치:
 
 Microsoft Store에서 "Ubuntu 22.04 LTS" 검색 후 설치
 
@@ -93,8 +93,8 @@ wsl --status
 
 ```
 Enter new UNIX username: yourname
-New password: ********
-Retype new password: ********
+New password: 
+Retype new password: 
 ```
 
 ### 시스템 업데이트
@@ -168,7 +168,7 @@ mkdir -p /mnt/c/Users/YourName/openclaw-workspace
 
 WSL2는 Windows 재부팅 시 자동으로 시작되지 않습니다.
 
-**자동 시작 설정 (선택)**:
+자동 시작 설정 (선택):
 
 ```bash
 # Windows 작업 스케줄러에 등록
@@ -202,24 +202,24 @@ Microsoft Store에서 "Windows Terminal" 설치
 
 ### 문제: WSL2 설치 후 재부팅 루프
 
-**해결책**: BIOS에서 가상화(VT-x/AMD-V) 활성화 확인
+해결책: BIOS에서 가상화(VT-x/AMD-V) 활성화 확인
 
 ### 문제: "WSL 2 requires an update to its kernel component"
 
-**해결책**:
+해결책:
 ```powershell
 wsl --update
 ```
 
 ### 문제: Windows 방화벽 차단
 
-**해결책**:
+해결책:
 Windows Defender 방화벽 → 고급 설정 → 인바운드 규칙
 - 포트 18789 허용 규칙 추가
 
 ### 문제: 파일 권한 오류
 
-**해결책**:
+해결책:
 ```bash
 # WSL2에서 Windows 파일 작업 시
 sudo umount /mnt/c
