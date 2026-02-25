@@ -1,0 +1,6 @@
+# Unnecessary files for deployment
+node_modules
+.git
+scripts/
+*.md
+!src/**/*.md

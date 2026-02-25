@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://openclaw-guide.netlify.app',
+  site: 'https://openclaw.dmssolution.co.kr',
   base: '/',
   integrations: [
     starlight({
@@ -81,9 +81,6 @@ export default defineConfig({
           label: '📚 부록',
           items: [
             { label: '❓ 자주 묻는 질문', slug: 'appendix/faq' },
-            { label: '용어집', slug: 'appendix/glossary' },
-            { label: '체크리스트 PDF', slug: 'appendix/checklist-pdf' },
-            { label: '참고 링크/레포', slug: 'appendix/references' },
             { label: '용어집', slug: 'appendix/glossary' },
             { label: '체크리스트 PDF', slug: 'appendix/checklist-pdf' },
             { label: '참고 링크/레포', slug: 'appendix/references' },
