@@ -1,216 +1,216 @@
-ï»¿---
-title: ìŠ¤í‚¬ ì„¤ì¹˜ ì²´í¬ë¦¬ìŠ¤íŠ¸
-description: OpenClaw ìŠ¤í‚¬ì„ ì•ˆì „í•˜ê²Œ ì„¤ì¹˜í•˜ê¸° ìœ„í•œ ì²´í¬ë¦¬ìŠ¤íŠ¸
+---
+title: ½ºÅ³ ¼³Ä¡ Ã¼Å©¸®½ºÆ®
+description: OpenClaw ½ºÅ³À» ¾ÈÀüÇÏ°Ô ¼³Ä¡ÇÏ±â À§ÇÑ Ã¼Å©¸®½ºÆ®
 ---
 
-> âš ï¸ 2026ë…„ 2ì›” ClawHubì—ì„œ 341ê°œ ì´ìƒì˜ ì•…ì„± ìŠ¤í‚¬ì´ ë°œê²¬ë˜ì—ˆìŠµë‹ˆë‹¤.
-> ì´ ì²´í¬ë¦¬ìŠ¤íŠ¸ë¥¼ ë°˜ë“œì‹œ ì™„ë£Œí•œ í›„ ìŠ¤í‚¬ì„ ì„¤ì¹˜í•˜ì„¸ìš”.
-
----
-
-## ì„¤ì¹˜ ì „ ì²´í¬ë¦¬ìŠ¤íŠ¸
-
-### 1ë‹¨ê³„: ì¶œì²˜ í™•ì¸ âœ…
-
-- [ ] GitHub ì €ìž¥ì†Œ í™•ì¸: ìŠ¤í‚¬ì´ ì˜¤í”ˆì†ŒìŠ¤ì¸ê°€?
-- [ ] ìŠ¤íƒ€ ìˆ˜: 10ê°œ ì´ìƒ (ì‹ ë¢°ë„ ì§€í‘œ)
-- [ ] ìµœê·¼ ì—…ë°ì´íŠ¸: 6ê°œì›” ì´ë‚´ í™œë™
-- [ ] ê°œë°œìž í”„ë¡œí•„: GitHub í”„ë¡œí•„ í™•ì¸, ë‹¤ë¥¸ í”„ë¡œì íŠ¸ ì¡´ìž¬
-- [ ] ì´ìŠˆ í™•ì¸: ë³´ì•ˆ ê´€ë ¨ ì´ìŠˆëŠ” ì—†ëŠ”ê°€?
-
-### 2ë‹¨ê³„: ì½”ë“œ ê²€í†  âœ…
-
-- [ ] `index.ts`/`index.js` ì½ê¸°: ë©”ì¸ ë¡œì§ í™•ì¸
-- [ ] ì™¸ë¶€ URL í™•ì¸: ì˜ì‹¬ìŠ¤ëŸ¬ìš´ API í˜¸ì¶œ ì—†ìŒ
-- [ ] í™˜ê²½ ë³€ìˆ˜ ì ‘ê·¼: `process.env` ì ‘ê·¼ ë²”ìœ„ í™•ì¸
-- [ ] íŒŒì¼ ì‹œìŠ¤í…œ ì ‘ê·¼: ì–´ë–¤ íŒŒì¼ì„ ì½ê³ /ì“°ëŠ”ê°€?
-- [ ] ë„¤íŠ¸ì›Œí¬ ìš”ì²­: `fetch`/`axios` í˜¸ì¶œ ëŒ€ìƒ í™•ì¸
-
-### 3ë‹¨ê³„: ê¶Œí•œ ê²€í†  âœ…
-
-- [ ] skill.json/manifest í™•ì¸: ìš”êµ¬ ê¶Œí•œ ë‚˜ì—´
-- [ ] ë¶ˆí•„ìš”í•œ ê¶Œí•œ: ìš”êµ¬ ê¶Œí•œì´ ê¸°ëŠ¥ì— ë¹„í•´ ê³¼ë„í•˜ì§€ ì•Šì€ê°€?
-- [ ] ë„¤íŠ¸ì›Œí¬ ê¶Œí•œ: ì¸í„°ë„· ì ‘ê·¼ì´ í•„ìš”í•œ ì´ìœ  í™•ì¸
-
-### 4ë‹¨ê³„: ìƒŒë“œë°•ìŠ¤ í…ŒìŠ¤íŠ¸ âœ…
-
-- [ ] ê²©ë¦¬ í™˜ê²½: WSL2/ë„ì»¤/VMì—ì„œ ë¨¼ì € í…ŒìŠ¤íŠ¸
-- [ ] ê°€ì§œ ë°ì´í„°: ë¯¼ê° ì •ë³´ ì—†ì´ í…ŒìŠ¤íŠ¸
-- [ ] ë„¤íŠ¸ì›Œí¬ ëª¨ë‹ˆí„°ë§: `wireshark` ë˜ëŠ” `tcpdump`ë¡œ íŠ¸ëž˜í”½ í™•ì¸
-- [ ] ë¡œê·¸ í™•ì¸: ì–´ë–¤ ë¡œê·¸ë¥¼ ë‚¨ê¸°ëŠ”ê°€?
+> ?? 2026³â 2¿ù ClawHub¿¡¼­ 341°³ ÀÌ»óÀÇ ¾Ç¼º ½ºÅ³ÀÌ ¹ß°ßµÇ¾ú½À´Ï´Ù.
+> ÀÌ Ã¼Å©¸®½ºÆ®¸¦ ¹Ýµå½Ã ¿Ï·áÇÑ ÈÄ ½ºÅ³À» ¼³Ä¡ÇÏ¼¼¿ä.
 
 ---
 
-## ë¹¨ê°„ ê¹ƒë°œ (ì„¤ì¹˜ ê¸ˆì§€)
+## ¼³Ä¡ Àü Ã¼Å©¸®½ºÆ®
 
-ë‹¤ìŒ ì¤‘ í•˜ë‚˜ë¼ë„ í•´ë‹¹ë˜ë©´ ì„¤ì¹˜í•˜ì§€ ë§ˆì„¸ìš”:
+### 1´Ü°è: ÃâÃ³ È®ÀÎ ?
 
-ðŸ”´ ì‹¬ê°í•œ ìœ„í—˜
-- ë°”ì´ë„ˆë¦¬ íŒŒì¼ í¬í•¨ (`.exe`, `.bin`, `.so` ë“±)
-- ë‚œë…í™”ëœ ì½”ë“œ
-- `eval()` ë˜ëŠ” ë™ì  ì½”ë“œ ì‹¤í–‰
-- ì™¸ë¶€ ìŠ¤í¬ë¦½íŠ¸ ë‹¤ìš´ë¡œë“œ/ì‹¤í–‰
+- [ ] GitHub ÀúÀå¼Ò È®ÀÎ: ½ºÅ³ÀÌ ¿ÀÇÂ¼Ò½ºÀÎ°¡?
+- [ ] ½ºÅ¸ ¼ö: 10°³ ÀÌ»ó (½Å·Úµµ ÁöÇ¥)
+- [ ] ÃÖ±Ù ¾÷µ¥ÀÌÆ®: 6°³¿ù ÀÌ³» È°µ¿
+- [ ] °³¹ßÀÚ ÇÁ·ÎÇÊ: GitHub ÇÁ·ÎÇÊ È®ÀÎ, ´Ù¸¥ ÇÁ·ÎÁ§Æ® Á¸Àç
+- [ ] ÀÌ½´ È®ÀÎ: º¸¾È °ü·Ã ÀÌ½´´Â ¾ø´Â°¡?
 
-ðŸŸ  ì£¼ì˜ í•„ìš”
-- API í‚¤ ìš”êµ¬ (íŠ¹ížˆ í´ë¦½ë³´ë“œ ì ‘ê·¼)
-- ëª¨ë“  íŒŒì¼ ì‹œìŠ¤í…œ ì ‘ê·¼ ê¶Œí•œ
-- ê´€ë¦¬ìž/root ê¶Œí•œ ìš”êµ¬
-- ìµœê·¼ ìƒì„±ëœ GitHub ê³„ì • (2026ë…„ ì´í›„)
+### 2´Ü°è: ÄÚµå °ËÅä ?
 
-ðŸŸ¡ ì˜ì‹¬ìŠ¤ëŸ¬ì›€
-- READMEê°€ ì—†ê±°ë‚˜ í˜•íŽ¸ì—†ìŒ
-- ë²„ì „ ê´€ë¦¬ ì—†ìŒ
-- ì´ìŠˆ/PR ë¹„í™œì„±í™”
-- ê°œë°œìž ì—°ë½ì²˜ ì—†ìŒ
+- [ ] `index.ts`/`index.js` ÀÐ±â: ¸ÞÀÎ ·ÎÁ÷ È®ÀÎ
+- [ ] ¿ÜºÎ URL È®ÀÎ: ÀÇ½É½º·¯¿î API È£Ãâ ¾øÀ½
+- [ ] È¯°æ º¯¼ö Á¢±Ù: `process.env` Á¢±Ù ¹üÀ§ È®ÀÎ
+- [ ] ÆÄÀÏ ½Ã½ºÅÛ Á¢±Ù: ¾î¶² ÆÄÀÏÀ» ÀÐ°í/¾²´Â°¡?
+- [ ] ³×Æ®¿öÅ© ¿äÃ»: `fetch`/`axios` È£Ãâ ´ë»ó È®ÀÎ
+
+### 3´Ü°è: ±ÇÇÑ °ËÅä ?
+
+- [ ] skill.json/manifest È®ÀÎ: ¿ä±¸ ±ÇÇÑ ³ª¿­
+- [ ] ºÒÇÊ¿äÇÑ ±ÇÇÑ: ¿ä±¸ ±ÇÇÑÀÌ ±â´É¿¡ ºñÇØ °úµµÇÏÁö ¾ÊÀº°¡?
+- [ ] ³×Æ®¿öÅ© ±ÇÇÑ: ÀÎÅÍ³Ý Á¢±ÙÀÌ ÇÊ¿äÇÑ ÀÌÀ¯ È®ÀÎ
+
+### 4´Ü°è: »÷µå¹Ú½º Å×½ºÆ® ?
+
+- [ ] °Ý¸® È¯°æ: WSL2/µµÄ¿/VM¿¡¼­ ¸ÕÀú Å×½ºÆ®
+- [ ] °¡Â¥ µ¥ÀÌÅÍ: ¹Î°¨ Á¤º¸ ¾øÀÌ Å×½ºÆ®
+- [ ] ³×Æ®¿öÅ© ¸ð´ÏÅÍ¸µ: `wireshark` ¶Ç´Â `tcpdump`·Î Æ®·¡ÇÈ È®ÀÎ
+- [ ] ·Î±× È®ÀÎ: ¾î¶² ·Î±×¸¦ ³²±â´Â°¡?
 
 ---
 
-## ì•ˆì „í•œ ì„¤ì¹˜ ì ˆì°¨
+## »¡°£ ±ê¹ß (¼³Ä¡ ±ÝÁö)
 
-### 1. ë°±ì—…
+´ÙÀ½ Áß ÇÏ³ª¶óµµ ÇØ´çµÇ¸é ¼³Ä¡ÇÏÁö ¸¶¼¼¿ä:
+
+?? ½É°¢ÇÑ À§Çè
+- ¹ÙÀÌ³Ê¸® ÆÄÀÏ Æ÷ÇÔ (`.exe`, `.bin`, `.so` µî)
+- ³­µ¶È­µÈ ÄÚµå
+- `eval()` ¶Ç´Â µ¿Àû ÄÚµå ½ÇÇà
+- ¿ÜºÎ ½ºÅ©¸³Æ® ´Ù¿î·Îµå/½ÇÇà
+
+?? ÁÖÀÇ ÇÊ¿ä
+- API Å° ¿ä±¸ (Æ¯È÷ Å¬¸³º¸µå Á¢±Ù)
+- ¸ðµç ÆÄÀÏ ½Ã½ºÅÛ Á¢±Ù ±ÇÇÑ
+- °ü¸®ÀÚ/root ±ÇÇÑ ¿ä±¸
+- ÃÖ±Ù »ý¼ºµÈ GitHub °èÁ¤ (2026³â ÀÌÈÄ)
+
+?? ÀÇ½É½º·¯¿ò
+- README°¡ ¾ø°Å³ª ÇüÆí¾øÀ½
+- ¹öÀü °ü¸® ¾øÀ½
+- ÀÌ½´/PR ºñÈ°¼ºÈ­
+- °³¹ßÀÚ ¿¬¶ôÃ³ ¾øÀ½
+
+---
+
+## ¾ÈÀüÇÑ ¼³Ä¡ ÀýÂ÷
+
+### 1. ¹é¾÷
 
 ```bash
-# ì„¤ì • ë°±ì—…
+# ¼³Á¤ ¹é¾÷
 cp -r ~/.openclaw ~/.openclaw.backup.$(date +%Y%m%d)
 
-# API í‚¤ ëª©ë¡ ë‚´ë³´ë‚´ê¸°
+# API Å° ¸ñ·Ï ³»º¸³»±â
 openclaw config export --keys > ~/openclaw-keys-backup.json
 ```
 
-### 2. ê²©ë¦¬ í…ŒìŠ¤íŠ¸
+### 2. °Ý¸® Å×½ºÆ®
 
 ```bash
-# WSL2/ë„ì»¤ì—ì„œ í…ŒìŠ¤íŠ¸ ì¸ìŠ¤í„´ìŠ¤ ìƒì„±
+# WSL2/µµÄ¿¿¡¼­ Å×½ºÆ® ÀÎ½ºÅÏ½º »ý¼º
 docker run -it --rm \
   -v $(pwd)/test-data:/data \
   openclaw/openclaw:latest
 
-# í…ŒìŠ¤íŠ¸ í™˜ê²½ì—ì„œ ìŠ¤í‚¬ ì„¤ì¹˜
-openclaw skill install suspect-skill --workspace test
+# Å×½ºÆ® È¯°æ¿¡¼­ ½ºÅ³ ¼³Ä¡
+clawhub install suspect-skill --workspace test
 ```
 
-### 3. ë„¤íŠ¸ì›Œí¬ ëª¨ë‹ˆí„°ë§
+### 3. ³×Æ®¿öÅ© ¸ð´ÏÅÍ¸µ
 
 ```bash
-# WSL2ì—ì„œ
+# WSL2¿¡¼­
 sudo tcpdump -i any -w /tmp/openclaw-skill.pcap
 
-# ë˜ëŠ”
+# ¶Ç´Â
 sudo netstat -tulpn | grep openclaw
 ```
 
-### 4. ê¶Œí•œ ì œí•œ
+### 4. ±ÇÇÑ Á¦ÇÑ
 
 ```bash
-# ì½ê¸° ì „ìš© ìž‘ì—… ê³µê°„ ìƒì„±
+# ÀÐ±â Àü¿ë ÀÛ¾÷ °ø°£ »ý¼º
 mkdir -p ~/openclaw-sandbox
 chmod 500 ~/openclaw-sandbox
 
-# ìŠ¤í‚¬ ì „ìš© í”„ë¡œí•„ ì‚¬ìš©
-openclaw skill install <skill> --profile sandbox
+# ½ºÅ³ Àü¿ë ÇÁ·ÎÇÊ »ç¿ë
+clawhub install <skill> --profile sandbox
 ```
 
 ---
 
-## ì„¤ì¹˜ í›„ ëª¨ë‹ˆí„°ë§
+## ¼³Ä¡ ÈÄ ¸ð´ÏÅÍ¸µ
 
-### ì¦‰ì‹œ í™•ì¸ (ì„¤ì¹˜ í›„ 1ì‹œê°„ ë‚´)
+### Áï½Ã È®ÀÎ (¼³Ä¡ ÈÄ 1½Ã°£ ³»)
 
 ```bash
-# í”„ë¡œì„¸ìŠ¤ í™•ì¸
+# ÇÁ·Î¼¼½º È®ÀÎ
 ps aux | grep openclaw
 
-# ë„¤íŠ¸ì›Œí¬ ì—°ê²° í™•ì¸
+# ³×Æ®¿öÅ© ¿¬°á È®ÀÎ
 ss -tulpn | grep openclaw
 
-# ë¡œê·¸ í™•ì¸
+# ·Î±× È®ÀÎ
 openclaw logs --follow
 ```
 
-### ì •ê¸° í™•ì¸ (ë§¤ì¼/ë§¤ì£¼)
+### Á¤±â È®ÀÎ (¸ÅÀÏ/¸ÅÁÖ)
 
-- [ ] ì„¤ì¹˜ëœ ìŠ¤í‚¬ ëª©ë¡ í™•ì¸: `openclaw skill list`
-- [ ] ë„¤íŠ¸ì›Œí¬ íŠ¸ëž˜í”½ ì´ìƒ ìœ ë¬´
-- [ ] API í‚¤ ì‚¬ìš©ëŸ‰ ê¸‰ì¦ ì—¬ë¶€
-- [ ] ë¶ˆí•„ìš”í•œ íŒŒì¼ ìƒì„± ì—¬ë¶€
+- [ ] ¼³Ä¡µÈ ½ºÅ³ ¸ñ·Ï È®ÀÎ: `openclaw skill list`
+- [ ] ³×Æ®¿öÅ© Æ®·¡ÇÈ ÀÌ»ó À¯¹«
+- [ ] API Å° »ç¿ë·® ±ÞÁõ ¿©ºÎ
+- [ ] ºÒÇÊ¿äÇÑ ÆÄÀÏ »ý¼º ¿©ºÎ
 
 ---
 
-## ìŠ¤í‚¬ ê°ì‚¬ ëª…ë ¹ì–´
+## ½ºÅ³ °¨»ç ¸í·É¾î
 
 ```bash
-# ì„¤ì¹˜ëœ ëª¨ë“  ìŠ¤í‚¬ ëª©ë¡
+# ¼³Ä¡µÈ ¸ðµç ½ºÅ³ ¸ñ·Ï
 openclaw skill list --all
 
-# íŠ¹ì • ìŠ¤í‚¬ ì •ë³´
+# Æ¯Á¤ ½ºÅ³ Á¤º¸
 openclaw skill info <skill-name>
 
-# ìŠ¤í‚¬ ê¶Œí•œ í™•ì¸
+# ½ºÅ³ ±ÇÇÑ È®ÀÎ
 openclaw skill permissions <skill-name>
 
-# ìŠ¤í‚¬ ì œê±°
+# ½ºÅ³ Á¦°Å
 openclaw skill remove <skill-name>
 
-# ì˜ì‹¬ìŠ¤ëŸ¬ìš´ ìŠ¤í‚¬ ì œê±°
-openclaw skill remove <skill-name> --purge  # ë°ì´í„°ë„ ì‚­ì œ
+# ÀÇ½É½º·¯¿î ½ºÅ³ Á¦°Å
+openclaw skill remove <skill-name> --purge  # µ¥ÀÌÅÍµµ »èÁ¦
 ```
 
 ---
 
-## ë¬¸ì œ ë°œê²¬ ì‹œ ëŒ€ì‘
+## ¹®Á¦ ¹ß°ß ½Ã ´ëÀÀ
 
-### 1. ì¦‰ì‹œ ì¤‘ì§€
+### 1. Áï½Ã ÁßÁö
 
 ```bash
-# ê²Œì´íŠ¸ì›¨ì´ ì¤‘ì§€
+# °ÔÀÌÆ®¿þÀÌ ÁßÁö
 openclaw gateway stop
 
-# ë˜ëŠ” ìŠ¤í‚¬ë§Œ ë¹„í™œì„±í™”
+# ¶Ç´Â ½ºÅ³¸¸ ºñÈ°¼ºÈ­
 openclaw skill disable <skill-name>
 ```
 
-### 2. ë„¤íŠ¸ì›Œí¬ ì°¨ë‹¨
+### 2. ³×Æ®¿öÅ© Â÷´Ü
 
 ```bash
 # WSL2
 sudo iptables -A OUTPUT -p tcp --dport 443 -j DROP
 
-# ë˜ëŠ” í˜¸ìŠ¤íŠ¸ì—ì„œ
+# ¶Ç´Â È£½ºÆ®¿¡¼­
 wsl --terminate Ubuntu-22.04
 ```
 
-### 3. API í‚¤ íê¸°
+### 3. API Å° Æó±â
 
-- ì¦‰ì‹œ ëª¨ë“  API í‚¤ íê¸°
-- ìƒˆ í‚¤ ë°œê¸‰
-- `.env` íŒŒì¼ ì‚­ì œ
+- Áï½Ã ¸ðµç API Å° Æó±â
+- »õ Å° ¹ß±Þ
+- `.env` ÆÄÀÏ »èÁ¦
 
-### 4. ë³´ê³ 
+### 4. º¸°í
 
-- GitHub Security Advisory ì œì¶œ
-- OpenClaw Discord #security ì±„ë„
-- Koi Security ë“± ë³´ì•ˆ ì—…ì²´
+- GitHub Security Advisory Á¦Ãâ
+- OpenClaw Discord #security Ã¤³Î
+- Koi Security µî º¸¾È ¾÷Ã¼
 
 ---
 
-## ì•ˆì „í•œ ìŠ¤í‚¬ ì¶œì²˜
+## ¾ÈÀüÇÑ ½ºÅ³ ÃâÃ³
 
-| ì¶œì²˜ | ì‹ ë¢°ë„ | ë¹„ê³  |
+| ÃâÃ³ | ½Å·Úµµ | ºñ°í |
 |------|--------|------|
-| ê³µì‹ ë²ˆë“¤ ìŠ¤í‚¬ | â­â­â­â­â­ | OpenClawì— ê¸°ë³¸ í¬í•¨ |
-| ê²€ì¦ëœ ê´€ë¦¬ ìŠ¤í‚¬ | â­â­â­â­â˜† | ì˜¤í”ˆì†ŒìŠ¤, ì»¤ë®¤ë‹ˆí‹° ê²€ì¦ |
-| GitHub ì§ì ‘ ì„¤ì¹˜ | â­â­â­â˜†â˜† | ì§ì ‘ ì½”ë“œ ê²€í†  í•„ìš” |
-| ClawHub | â­â­â˜†â˜†â˜† | 2026.02 ê¸°ì¤€ ì£¼ì˜ í•„ìš” |
-| ê¸°íƒ€ ì¶œì²˜ | â­â˜†â˜†â˜†â˜† | ì„¤ì¹˜ ê¸ˆì§€ |
+| °ø½Ä ¹øµé ½ºÅ³ | ????? | OpenClaw¿¡ ±âº» Æ÷ÇÔ |
+| °ËÁõµÈ °ü¸® ½ºÅ³ | ????¡Ù | ¿ÀÇÂ¼Ò½º, Ä¿¹Â´ÏÆ¼ °ËÁõ |
+| GitHub Á÷Á¢ ¼³Ä¡ | ???¡Ù¡Ù | Á÷Á¢ ÄÚµå °ËÅä ÇÊ¿ä |
+| ClawHub | ??¡Ù¡Ù¡Ù | 2026.02 ±âÁØ ÁÖÀÇ ÇÊ¿ä |
+| ±âÅ¸ ÃâÃ³ | ?¡Ù¡Ù¡Ù¡Ù | ¼³Ä¡ ±ÝÁö |
 
 ---
 
-## ìš”ì•½
+## ¿ä¾à
 
-| ë‹¨ê³„ | í–‰ë™ | ì‹œê°„ |
+| ´Ü°è | Çàµ¿ | ½Ã°£ |
 |------|------|------|
-| ì„¤ì¹˜ ì „ | ì¶œì²˜/ì½”ë“œ/ê¶Œí•œ í™•ì¸ | 10-30ë¶„ |
-| ì„¤ì¹˜ ì¤‘ | ìƒŒë“œë°•ìŠ¤ í…ŒìŠ¤íŠ¸ | 15-30ë¶„ |
-| ì„¤ì¹˜ í›„ | ëª¨ë‹ˆí„°ë§ | ì§€ì†ì  |
+| ¼³Ä¡ Àü | ÃâÃ³/ÄÚµå/±ÇÇÑ È®ÀÎ | 10-30ºÐ |
+| ¼³Ä¡ Áß | »÷µå¹Ú½º Å×½ºÆ® | 15-30ºÐ |
+| ¼³Ä¡ ÈÄ | ¸ð´ÏÅÍ¸µ | Áö¼ÓÀû |
 
-í•µì‹¬ ì›ì¹™: *ë¶ˆí™•ì‹¤í•˜ë©´ ì„¤ì¹˜í•˜ì§€ ë§ˆì„¸ìš”*
+ÇÙ½É ¿øÄ¢: *ºÒÈ®½ÇÇÏ¸é ¼³Ä¡ÇÏÁö ¸¶¼¼¿ä*

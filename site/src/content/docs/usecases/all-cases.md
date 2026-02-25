@@ -1,50 +1,50 @@
-ï»¿---
-title: 60ê°€ì§€ í™œìš© ì‚¬ë¡€ ëª¨ìŒ
-description: OpenClawë¡œ í•  ìˆ˜ ìžˆëŠ” 60ê°€ì§€ ì‹¤ì œ í™œìš© ì‚¬ë¡€ - ì´ˆê¸‰ë¶€í„° ê³ ê¸‰ê¹Œì§€ ìƒì„¸ ê°€ì´ë“œ
+---
+title: 60°¡Áö È°¿ë »ç·Ê ¸ðÀ½
+description: OpenClaw·Î ÇÒ ¼ö ÀÖ´Â 60°¡Áö ½ÇÁ¦ È°¿ë »ç·Ê - ÃÊ±ÞºÎÅÍ °í±Þ±îÁö »ó¼¼ °¡ÀÌµå
 ---
 
-> ðŸ“Œ ì¶œì²˜: ì»¤ë®¤ë‹ˆí‹° ì‚¬ë¡€ + ê³µì‹ ì‡¼ì¼€ì´ìŠ¤ + ì‚¬ìš©ìž ë¦¬ì„œì¹˜  
-> ðŸ·ï¸ ë‚œì´ë„: ðŸŸ¢ ì´ˆê¸‰ / ðŸŸ¡ ì¤‘ê¸‰ / ðŸ”´ ê³ ê¸‰  
-> ðŸ“š ì´ 60ê°œ ì‚¬ë¡€: ë‹¨ê³„ë³„ ì„¤ì • ê°€ì´ë“œ í¬í•¨
-
----
-
-## ðŸŸ¢ ì´ˆê¸‰ ë ˆë²¨ (1-25)
-
-> ì‹œìž‘í•˜ê¸° ì „ì—: OpenClawê°€ ì„¤ì¹˜ë˜ì–´ ìžˆê³ , ê¸°ë³¸ ì„¤ì •ì´ ì™„ë£Œë˜ì–´ ìžˆë‹¤ê³  ê°€ì •í•©ë‹ˆë‹¤. [ë¹ ë¥¸ ì‹œìž‘ ê°€ì´ë“œ](/quickstart)ë¥¼ ì°¸ê³ í•˜ì„¸ìš”.
+> ?? ÃâÃ³: Ä¿¹Â´ÏÆ¼ »ç·Ê + °ø½Ä ¼îÄÉÀÌ½º + »ç¿ëÀÚ ¸®¼­Ä¡  
+> ??? ³­ÀÌµµ: ?? ÃÊ±Þ / ?? Áß±Þ / ?? °í±Þ  
+> ?? ÃÑ 60°³ »ç·Ê: ´Ü°èº° ¼³Á¤ °¡ÀÌµå Æ÷ÇÔ
 
 ---
 
-### ðŸ“§ ì´ë©”ì¼ & ë©”ì‹œì§€ ìžë™í™”
+## ?? ÃÊ±Þ ·¹º§ (1-25)
 
-#### 1. ë§žì¶¤í˜• ì•„ì¹¨ ë¸Œë¦¬í•‘ (Morning Briefing) ðŸŸ¢
+> ½ÃÀÛÇÏ±â Àü¿¡: OpenClaw°¡ ¼³Ä¡µÇ¾î ÀÖ°í, ±âº» ¼³Á¤ÀÌ ¿Ï·áµÇ¾î ÀÖ´Ù°í °¡Á¤ÇÕ´Ï´Ù. [ºü¸¥ ½ÃÀÛ °¡ÀÌµå](/quickstart)¸¦ Âü°íÇÏ¼¼¿ä.
 
-ðŸ“– ì„¤ëª…
-ë§¤ì¼ ì•„ì¹¨ ì •í•´ì§„ ì‹œê°„(ì˜ˆ: 6ì‹œ 30ë¶„)ì— ì´ë©”ì¼ ìš”ì•½, ì˜¤ëŠ˜ ì¼ì •, ê´€ì‹¬ ë‰´ìŠ¤, ë‚ ì”¨, ì–´ì œ í•˜ë˜ ìž‘ì—…ì˜ ë§¥ë½ì„ ë©”ì‹ ì €ë¡œ ìžë™ ì „ì†¡í•©ë‹ˆë‹¤. í•˜ë£¨ë¥¼ ì‹œìž‘í•˜ê¸° ì „ ì¤‘ìš”í•œ ì •ë³´ë¥¼ í•œëˆˆì— í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+---
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ë§¤ì¼ 15-20ë¶„ ì ˆì•½
-- ì¤‘ìš”í•œ ì´ë©”ì¼ ë†“ì¹¨ ë°©ì§€
-- í•˜ë£¨ ê³„íš ìˆ˜ë¦½ ì‹œê°„ ë‹¨ì¶•
+### ?? ÀÌ¸ÞÀÏ & ¸Þ½ÃÁö ÀÚµ¿È­
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+#### 1. ¸ÂÃãÇü ¾ÆÄ§ ºê¸®ÇÎ (Morning Briefing) ??
+
+?? ¼³¸í
+¸ÅÀÏ ¾ÆÄ§ Á¤ÇØÁø ½Ã°£(¿¹: 6½Ã 30ºÐ)¿¡ ÀÌ¸ÞÀÏ ¿ä¾à, ¿À´Ã ÀÏÁ¤, °ü½É ´º½º, ³¯¾¾, ¾îÁ¦ ÇÏ´ø ÀÛ¾÷ÀÇ ¸Æ¶ôÀ» ¸Þ½ÅÀú·Î ÀÚµ¿ Àü¼ÛÇÕ´Ï´Ù. ÇÏ·ç¸¦ ½ÃÀÛÇÏ±â Àü Áß¿äÇÑ Á¤º¸¸¦ ÇÑ´«¿¡ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù.
+
+?? È°¿ë È¿°ú
+- ¸ÅÀÏ 15-20ºÐ Àý¾à
+- Áß¿äÇÑ ÀÌ¸ÞÀÏ ³õÄ§ ¹æÁö
+- ÇÏ·ç °èÈ¹ ¼ö¸³ ½Ã°£ ´ÜÃà
+
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| email | ì´ë©”ì¼ ìš”ì•½ | `openclaw skill install email` |
-| calendar | ì¼ì • í™•ì¸ | `openclaw skill install calendar` |
-| weather | ë‚ ì”¨ ì •ë³´ | `openclaw skill install weather` |
-| news | ë‰´ìŠ¤ ìˆ˜ì§‘ | `openclaw skill install news` |
+| email | ÀÌ¸ÞÀÏ ¿ä¾à | `clawhub install email` |
+| calendar | ÀÏÁ¤ È®ÀÎ | `clawhub install calendar` |
+| weather | ³¯¾¾ Á¤º¸ | `clawhub install weather` |
+| news | ´º½º ¼öÁý | `clawhub install news` |
 
-âš ï¸ ì£¼ì˜: ìŠ¤í‚¬ ì„¤ì¹˜ ì „ [ë³´ì•ˆ ì²´í¬ë¦¬ìŠ¤íŠ¸](/security/skill-checklist) í™•ì¸ í•„ìˆ˜!
+?? ÁÖÀÇ: ½ºÅ³ ¼³Ä¡ Àü [º¸¾È Ã¼Å©¸®½ºÆ®](/security/skill-checklist) È®ÀÎ ÇÊ¼ö!
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ìŠ¤í‚¬ ì„¤ì¹˜
+1´Ü°è: ½ºÅ³ ¼³Ä¡
 ```bash
-openclaw skill install email calendar weather news
+clawhub install email calendar weather news
 ```
 
-2ë‹¨ê³„: API í‚¤ ì„¤ì •
+2´Ü°è: API Å° ¼³Á¤
 ```bash
 openclaw config edit
 ```
@@ -64,12 +64,12 @@ openclaw config edit
 }
 ```
 
-3ë‹¨ê³„: í¬ë¡  ìž‘ì—… ì„¤ì • (ë§¤ì¼ 6:30)
+3´Ü°è: Å©·Ð ÀÛ¾÷ ¼³Á¤ (¸ÅÀÏ 6:30)
 ```bash
 openclaw cron add "30 6 * * *" "briefing"
 ```
 
-4ë‹¨ê³„: ë¸Œë¦¬í•‘ í…œí”Œë¦¿ ìž‘ì„±
+4´Ü°è: ºê¸®ÇÎ ÅÛÇÃ¸´ ÀÛ¼º
 ```javascript
 // ~/.openclaw/skills/briefing/template.js
 module.exports = async (agent) => {
@@ -78,70 +78,70 @@ module.exports = async (agent) => {
   const weather = await agent.weather.getCurrent();
   
   return `
-ðŸŒ… ì•„ì¹¨ ë¸Œë¦¬í•‘
+?? ¾ÆÄ§ ºê¸®ÇÎ
 
-ðŸŒ¤ï¸ ë‚ ì”¨: ${weather.condition}, ${weather.temp}Â°C
-ðŸ“§ ë¯¸í™•ì¸ ì´ë©”ì¼: ${email.count}ê°œ
-ðŸ“… ì˜¤ëŠ˜ ì¼ì •: ${calendar.events.length}ê°œ
+??? ³¯¾¾: ${weather.condition}, ${weather.temp}¡ÆC
+?? ¹ÌÈ®ÀÎ ÀÌ¸ÞÀÏ: ${email.count}°³
+?? ¿À´Ã ÀÏÁ¤: ${calendar.events.length}°³
   `;
 };
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: ì˜¤ëŠ˜ ë¸Œë¦¬í•‘ í•´ì¤˜
+User: ¿À´Ã ºê¸®ÇÎ ÇØÁà
 
 OpenClaw: 
-ðŸŒ… ì•„ì¹¨ ë¸Œë¦¬í•‘ (2ì›” 25ì¼ í™”ìš”ì¼)
+?? ¾ÆÄ§ ºê¸®ÇÎ (2¿ù 25ÀÏ È­¿äÀÏ)
 
-ðŸŒ¤ï¸ ë‚ ì”¨: ë§‘ìŒ, 8Â°C
-   ì²´ê°ì˜¨ë„ 5Â°C, ê°•ìˆ˜í™•ë¥  0%
+??? ³¯¾¾: ¸¼À½, 8¡ÆC
+   Ã¼°¨¿Âµµ 5¡ÆC, °­¼öÈ®·ü 0%
 
-ðŸ“§ ë¯¸í™•ì¸ ì´ë©”ì¼: 3ê°œ
-   - ì¤‘ìš”: 1ê°œ (boss@company.com)
-   - ë‰´ìŠ¤ë ˆí„°: 2ê°œ
+?? ¹ÌÈ®ÀÎ ÀÌ¸ÞÀÏ: 3°³
+   - Áß¿ä: 1°³ (boss@company.com)
+   - ´º½º·¹ÅÍ: 2°³
 
-ðŸ“… ì˜¤ëŠ˜ ì¼ì •:
-   10:00 íŒ€ ë¯¸íŒ…
-   14:00 í´ë¼ì´ì–¸íŠ¸ í†µí™”
-   16:00 ì½”ë“œ ë¦¬ë·°
+?? ¿À´Ã ÀÏÁ¤:
+   10:00 ÆÀ ¹ÌÆÃ
+   14:00 Å¬¶óÀÌ¾ðÆ® ÅëÈ­
+   16:00 ÄÚµå ¸®ºä
 
-ðŸ“° ì£¼ìš” ë‰´ìŠ¤:
-   - OpenClaw 2026.2 ì—…ë°ì´íŠ¸
-   - AI ê·œì œ ë²•ì•ˆ í†µê³¼
+?? ÁÖ¿ä ´º½º:
+   - OpenClaw 2026.2 ¾÷µ¥ÀÌÆ®
+   - AI ±ÔÁ¦ ¹ý¾È Åë°ú
 
-ì–´ì œ í•˜ë˜ ìž‘ì—…:
-   - ë§ˆì¼€íŒ… ë³´ê³ ì„œ (80% ì™„ë£Œ)
+¾îÁ¦ ÇÏ´ø ÀÛ¾÷:
+   - ¸¶ÄÉÆÃ º¸°í¼­ (80% ¿Ï·á)
 ```
 
 ---
 
-#### 2. ì´ë©”ì¼ ì¸ë°•ìŠ¤ ì œë¡œ (Inbox Zero) ê´€ë¦¬ ðŸŸ¢
+#### 2. ÀÌ¸ÞÀÏ ÀÎ¹Ú½º Á¦·Î (Inbox Zero) °ü¸® ??
 
-ðŸ“– ì„¤ëª…
-ìˆ˜ë§Žì€ ì´ë©”ì¼ì„ ìžë™ìœ¼ë¡œ ë¶„ì„í•˜ì—¬ ì¤‘ìš”í•œ ë©”ì¼ë§Œ ê³¨ë¼ ìš”ì•½í•˜ê³ , ë‰´ìŠ¤ë ˆí„°ëŠ” ìžë™ìœ¼ë¡œ ì•„ì¹´ì´ë¸Œí•˜ë©°, ìŠ¤íŒ¸ì€ ì •ë¦¬í•©ë‹ˆë‹¤. ë§¤ì¼ ìˆ˜ì‹­ ê°œì”© ìŒ“ì´ëŠ” ì´ë©”ì¼ì—ì„œ í•µì‹¬ë§Œ ì¶”ì¶œí•˜ì—¬ ì¸ë°•ìŠ¤ë¥¼ ê¹”ë”í•˜ê²Œ ìœ ì§€í•©ë‹ˆë‹¤.
+?? ¼³¸í
+¼ö¸¹Àº ÀÌ¸ÞÀÏÀ» ÀÚµ¿À¸·Î ºÐ¼®ÇÏ¿© Áß¿äÇÑ ¸ÞÀÏ¸¸ °ñ¶ó ¿ä¾àÇÏ°í, ´º½º·¹ÅÍ´Â ÀÚµ¿À¸·Î ¾ÆÄ«ÀÌºêÇÏ¸ç, ½ºÆÔÀº Á¤¸®ÇÕ´Ï´Ù. ¸ÅÀÏ ¼ö½Ê °³¾¿ ½×ÀÌ´Â ÀÌ¸ÞÀÏ¿¡¼­ ÇÙ½É¸¸ ÃßÃâÇÏ¿© ÀÎ¹Ú½º¸¦ ±ò²ûÇÏ°Ô À¯ÁöÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì¸ë°•ìŠ¤ 0ê°œ ìœ ì§€
-- ì¤‘ìš” ë©”ì¼ ë†“ì¹¨ ë°©ì§€
-- ë©”ì¼ í™•ì¸ ì‹œê°„ 70% ë‹¨ì¶•
+?? È°¿ë È¿°ú
+- ÀÎ¹Ú½º 0°³ À¯Áö
+- Áß¿ä ¸ÞÀÏ ³õÄ§ ¹æÁö
+- ¸ÞÀÏ È®ÀÎ ½Ã°£ 70% ´ÜÃà
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| gmail | Gmail ì—°ë™ | `openclaw skill install gmail` |
-| filter | ë©”ì¼ í•„í„°ë§ | `openclaw skill install filter` |
-| classifier | ë©”ì¼ ë¶„ë¥˜ AI | `openclaw skill install classifier` |
+| gmail | Gmail ¿¬µ¿ | `clawhub install gmail` |
+| filter | ¸ÞÀÏ ÇÊÅÍ¸µ | `clawhub install filter` |
+| classifier | ¸ÞÀÏ ºÐ·ù AI | `clawhub install classifier` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: Gmail API ì¸ì¦
+1´Ü°è: Gmail API ÀÎÁõ
 ```bash
 openclaw skill auth gmail
-# ë¸Œë¼ìš°ì €ì—ì„œ Google ë¡œê·¸ì¸ í›„ í† í° ë³µì‚¬
+# ºê¶ó¿ìÀú¿¡¼­ Google ·Î±×ÀÎ ÈÄ ÅäÅ« º¹»ç
 ```
 
-2ë‹¨ê³„: ë¶„ë¥˜ ê·œì¹™ ì„¤ì •
+2´Ü°è: ºÐ·ù ±ÔÄ¢ ¼³Á¤
 ```json
 {
   "gmail": {
@@ -163,7 +163,7 @@ openclaw skill auth gmail
 }
 ```
 
-3ë‹¨ê³„: ìžë™í™” ìŠ¤í¬ë¦½íŠ¸
+3´Ü°è: ÀÚµ¿È­ ½ºÅ©¸³Æ®
 ```javascript
 // inbox-zero.js
 module.exports = async (agent) => {
@@ -175,7 +175,7 @@ module.exports = async (agent) => {
     switch(category) {
       case 'important':
         await agent.gmail.flag(email.id);
-        await agent.notify(`ðŸ“§ ì¤‘ìš” ë©”ì¼: ${email.subject}`);
+        await agent.notify(`?? Áß¿ä ¸ÞÀÏ: ${email.subject}`);
         break;
       case 'newsletter':
         await agent.gmail.archive(email.id);
@@ -188,122 +188,122 @@ module.exports = async (agent) => {
 };
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: ì¸ë°•ìŠ¤ ì •ë¦¬í•´ì¤˜
+User: ÀÎ¹Ú½º Á¤¸®ÇØÁà
 
 OpenClaw: 
-ðŸ“§ ì¸ë°•ìŠ¤ ì •ë¦¬ ì™„ë£Œ
+?? ÀÎ¹Ú½º Á¤¸® ¿Ï·á
 
-ì²˜ë¦¬ ê²°ê³¼:
-- ì¤‘ìš” ë©”ì¼ í”Œëž˜ê·¸: 2ê°œ
-  â†’ "í”„ë¡œì íŠ¸ ì œì•ˆì„œ ê²€í†  ìš”ì²­"
-  â†’ "ë‚´ì¼ ë¯¸íŒ… ìž¥ì†Œ ë³€ê²½"
+Ã³¸® °á°ú:
+- Áß¿ä ¸ÞÀÏ ÇÃ·¡±×: 2°³
+  ¡æ "ÇÁ·ÎÁ§Æ® Á¦¾È¼­ °ËÅä ¿äÃ»"
+  ¡æ "³»ÀÏ ¹ÌÆÃ Àå¼Ò º¯°æ"
   
-- ë‰´ìŠ¤ë ˆí„° ì•„ì¹´ì´ë¸Œ: 12ê°œ
-  â†’ tech-daily@, marketing-weekly@ ë“±
+- ´º½º·¹ÅÍ ¾ÆÄ«ÀÌºê: 12°³
+  ¡æ tech-daily@, marketing-weekly@ µî
   
-- ìŠ¤íŒ¸ ì‚­ì œ: 5ê°œ
+- ½ºÆÔ »èÁ¦: 5°³
   
-ë‚¨ì€ ë©”ì¼: 3ê°œ (ëª¨ë‘ ì¤‘ìš”)
+³²Àº ¸ÞÀÏ: 3°³ (¸ðµÎ Áß¿ä)
 ```
 
 ---
 
-#### 3. ìžë™ ì´ë©”ì¼ ì´ˆì•ˆ ìž‘ì„± ðŸŸ¢
+#### 3. ÀÚµ¿ ÀÌ¸ÞÀÏ ÃÊ¾È ÀÛ¼º ??
 
-ðŸ“– ì„¤ëª…
-ë‚´ í‰ì†Œ ë§íˆ¬ì™€ ìŠ¤íƒ€ì¼ì„ í•™ìŠµí•˜ì—¬ ì¤‘ìš” ë©”ì¼ì— ëŒ€í•œ ë‹µìž¥ ì´ˆì•ˆì„ ìžë™ìœ¼ë¡œ ìž‘ì„±í•©ë‹ˆë‹¤. ì‚¬ìš©ìžì˜ ê³¼ê±° ì´ë©”ì¼ íŒ¨í„´ì„ ë¶„ì„í•´ ìžì—°ìŠ¤ëŸ¬ìš´ í†¤ìœ¼ë¡œ ì´ˆì•ˆì„ ë§Œë“¤ì–´ ì œì‹œí•©ë‹ˆë‹¤.
+?? ¼³¸í
+³» Æò¼Ò ¸»Åõ¿Í ½ºÅ¸ÀÏÀ» ÇÐ½ÀÇÏ¿© Áß¿ä ¸ÞÀÏ¿¡ ´ëÇÑ ´äÀå ÃÊ¾ÈÀ» ÀÚµ¿À¸·Î ÀÛ¼ºÇÕ´Ï´Ù. »ç¿ëÀÚÀÇ °ú°Å ÀÌ¸ÞÀÏ ÆÐÅÏÀ» ºÐ¼®ÇØ ÀÚ¿¬½º·¯¿î ÅæÀ¸·Î ÃÊ¾ÈÀ» ¸¸µé¾î Á¦½ÃÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ë‹µìž¥ ìž‘ì„± ì‹œê°„ 50% ë‹¨ì¶•
-- ì¼ê´€ëœ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ í†¤ ìœ ì§€
-- ë²ˆê±°ë¡œìš´ ì •ì¤‘í•œ í‘œí˜„ ìžë™ ìƒì„±
+?? È°¿ë È¿°ú
+- ´äÀå ÀÛ¼º ½Ã°£ 50% ´ÜÃà
+- ÀÏ°üµÈ Ä¿¹Â´ÏÄÉÀÌ¼Ç Åæ À¯Áö
+- ¹ø°Å·Î¿î Á¤ÁßÇÑ Ç¥Çö ÀÚµ¿ »ý¼º
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| gmail | Gmail ì—°ë™ | `openclaw skill install gmail` |
-| memory | ì‚¬ìš©ìž ìŠ¤íƒ€ì¼ í•™ìŠµ | `openclaw skill install memory` |
-| composer | ë©”ì¼ ìž‘ì„± AI | `openclaw skill install composer` |
+| gmail | Gmail ¿¬µ¿ | `clawhub install gmail` |
+| memory | »ç¿ëÀÚ ½ºÅ¸ÀÏ ÇÐ½À | `clawhub install memory` |
+| composer | ¸ÞÀÏ ÀÛ¼º AI | `clawhub install composer` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ìŠ¤í‚¬ ì„¤ì¹˜
+1´Ü°è: ½ºÅ³ ¼³Ä¡
 ```bash
-openclaw skill install gmail memory composer
+clawhub install gmail memory composer
 ```
 
-2ë‹¨ê³„: í•™ìŠµ ë°ì´í„° ì œê³µ
+2´Ü°è: ÇÐ½À µ¥ÀÌÅÍ Á¦°ø
 ```bash
-# ê³¼ê±° ë©”ì¼ 100ê°œë¡œ í•™ìŠµ
+# °ú°Å ¸ÞÀÏ 100°³·Î ÇÐ½À
 openclaw memory train --source gmail --limit 100
 ```
 
-3ë‹¨ê³„: ì´ˆì•ˆ ìƒì„± ê·œì¹™
+3´Ü°è: ÃÊ¾È »ý¼º ±ÔÄ¢
 ```json
 {
   "composer": {
     "tone": "professional_but_friendly",
     "maxLength": 300,
-    "signature": "\n\nê°ì‚¬í•©ë‹ˆë‹¤.\n[ì´ë¦„]"
+    "signature": "\n\n°¨»çÇÕ´Ï´Ù.\n[ÀÌ¸§]"
   }
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: ì´ ë©”ì¼ ë‹µìž¥ ì´ˆì•ˆ ì¨ì¤˜
-(ì²¨ë¶€: "íšŒì˜ ì¼ì • ë³€ê²½" ë©”ì¼)
+User: ÀÌ ¸ÞÀÏ ´äÀå ÃÊ¾È ½áÁà
+(Ã·ºÎ: "È¸ÀÇ ÀÏÁ¤ º¯°æ" ¸ÞÀÏ)
 
 OpenClaw:
-ðŸ“§ ë‹µìž¥ ì´ˆì•ˆ ìž‘ì„± ì™„ë£Œ
+?? ´äÀå ÃÊ¾È ÀÛ¼º ¿Ï·á
 
 ---
-ì œëª©: RE: íšŒì˜ ì¼ì • ë³€ê²½
+Á¦¸ñ: RE: È¸ÀÇ ÀÏÁ¤ º¯°æ
 
-ì•ˆë…•í•˜ì„¸ìš” ê¹€ëŒ€ë¦¬ë‹˜,
+¾È³çÇÏ¼¼¿ä ±è´ë¸®´Ô,
 
-ë©”ì¼ í™•ì¸í–ˆìŠµë‹ˆë‹¤. 
-ìˆ˜ìš”ì¼ ì˜¤í›„ 2ì‹œë¡œ ë³€ê²½ í™•ì¸í–ˆìœ¼ë©°, ê·¸ ì‹œê°„ì— ë§žì¶°
-íšŒì˜ì‹¤ Bë¡œ ì°¸ì„í•˜ê² ìŠµë‹ˆë‹¤.
+¸ÞÀÏ È®ÀÎÇß½À´Ï´Ù. 
+¼ö¿äÀÏ ¿ÀÈÄ 2½Ã·Î º¯°æ È®ÀÎÇßÀ¸¸ç, ±× ½Ã°£¿¡ ¸ÂÃç
+È¸ÀÇ½Ç B·Î Âü¼®ÇÏ°Ú½À´Ï´Ù.
 
-ê°ì‚¬í•©ë‹ˆë‹¤.
-í™ê¸¸ë™
+°¨»çÇÕ´Ï´Ù.
+È«±æµ¿
 ---
 
-âœ… ìŠ¹ì¸ í›„ ì „ì†¡ | âœï¸ ìˆ˜ì • | ðŸ”„ ë‹¤ì‹œ ìž‘ì„±
+? ½ÂÀÎ ÈÄ Àü¼Û | ?? ¼öÁ¤ | ?? ´Ù½Ã ÀÛ¼º
 ```
 
 ---
 
-### ðŸ“… ì¼ì • & ìƒì‚°ì„± ê´€ë¦¬
+### ?? ÀÏÁ¤ & »ý»ê¼º °ü¸®
 
-#### 4. ìº˜ë¦°ë” ìžë™ ê´€ë¦¬ ðŸŸ¢
+#### 4. Ä¶¸°´õ ÀÚµ¿ °ü¸® ??
 
-ðŸ“– ì„¤ëª…
-ë©”ì‹ ì €ì—ì„œ "ë‹¤ìŒ ì£¼ í™”ìš”ì¼ 3ì‹œì— íŒ€ ë¯¸íŒ…"ì´ë¼ê³  ë§í•˜ë©´ ìžë™ìœ¼ë¡œ Google Calendarì— ë“±ë¡ë©ë‹ˆë‹¤. ì¼ì • ì¶©ëŒì„ í™•ì¸í•˜ê³ , ì°¸ì„ìžì—ê²Œ ì´ˆëŒ€ìž¥ì„ ë³´ë‚´ë©°, ë¯¸íŒ… 10ë¶„ ì „ ì•Œë¦¼ì„ ì œê³µí•©ë‹ˆë‹¤.
+?? ¼³¸í
+¸Þ½ÅÀú¿¡¼­ "´ÙÀ½ ÁÖ È­¿äÀÏ 3½Ã¿¡ ÆÀ ¹ÌÆÃ"ÀÌ¶ó°í ¸»ÇÏ¸é ÀÚµ¿À¸·Î Google Calendar¿¡ µî·ÏµË´Ï´Ù. ÀÏÁ¤ Ãæµ¹À» È®ÀÎÇÏ°í, Âü¼®ÀÚ¿¡°Ô ÃÊ´ëÀåÀ» º¸³»¸ç, ¹ÌÆÃ 10ºÐ Àü ¾Ë¸²À» Á¦°øÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì¼ì • ìž…ë ¥ ì‹œê°„ 80% ë‹¨ì¶•
-- ì¼ì • ì¶©ëŒ ì‚¬ì „ ë°©ì§€
-- ìžë™ ì•Œë¦¼ìœ¼ë¡œ ì§€ê° ë°©ì§€
+?? È°¿ë È¿°ú
+- ÀÏÁ¤ ÀÔ·Â ½Ã°£ 80% ´ÜÃà
+- ÀÏÁ¤ Ãæµ¹ »çÀü ¹æÁö
+- ÀÚµ¿ ¾Ë¸²À¸·Î Áö°¢ ¹æÁö
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| calendar | ìº˜ë¦°ë” ì—°ë™ | `openclaw skill install calendar` |
-| nlp | ìžì—°ì–´ íŒŒì‹± | `openclaw skill install nlp` |
-| reminder | ì•Œë¦¼ ì„¤ì • | `openclaw skill install reminder` |
+| calendar | Ä¶¸°´õ ¿¬µ¿ | `clawhub install calendar` |
+| nlp | ÀÚ¿¬¾î ÆÄ½Ì | `clawhub install nlp` |
+| reminder | ¾Ë¸² ¼³Á¤ | `clawhub install reminder` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: Google Calendar API ì—°ë™
+1´Ü°è: Google Calendar API ¿¬µ¿
 ```bash
 openclaw skill auth calendar
 ```
 
-2ë‹¨ê³„: ê¸°ë³¸ ìº˜ë¦°ë” ì„¤ì •
+2´Ü°è: ±âº» Ä¶¸°´õ ¼³Á¤
 ```json
 {
   "calendar": {
@@ -314,61 +314,61 @@ openclaw skill auth calendar
 }
 ```
 
-3ë‹¨ê³„: ëª…ë ¹ì–´ ì˜ˆì‹œ
+3´Ü°è: ¸í·É¾î ¿¹½Ã
 ```
-User: ë‚´ì¼ ì˜¤í›„ 2ì‹œì— íŒ€ ë¯¸íŒ… ìž¡ì•„ì¤˜
+User: ³»ÀÏ ¿ÀÈÄ 2½Ã¿¡ ÆÀ ¹ÌÆÃ Àâ¾ÆÁà
 
 OpenClaw: 
-ðŸ“… ì¼ì • ë“±ë¡ ì™„ë£Œ
+?? ÀÏÁ¤ µî·Ï ¿Ï·á
 
-ì œëª©: íŒ€ ë¯¸íŒ…
-ë‚ ì§œ: 2026ë…„ 2ì›” 26ì¼ (ìˆ˜)
-ì‹œê°„: 14:00 - 15:00
-ìž¥ì†Œ: ë¯¸ì •
+Á¦¸ñ: ÆÀ ¹ÌÆÃ
+³¯Â¥: 2026³â 2¿ù 26ÀÏ (¼ö)
+½Ã°£: 14:00 - 15:00
+Àå¼Ò: ¹ÌÁ¤
 
-âš ï¸ ì¶©ëŒ ê°ì§€: 13:30ì— ë‹¤ë¥¸ ë¯¸íŒ… ìžˆìŒ
-   30ë¶„ ê°„ê²©ì´ ì¢ìŠµë‹ˆë‹¤. 15:00ë¡œ ë³€ê²½í• ê¹Œìš”?
+?? Ãæµ¹ °¨Áö: 13:30¿¡ ´Ù¸¥ ¹ÌÆÃ ÀÖÀ½
+   30ºÐ °£°ÝÀÌ Á¼½À´Ï´Ù. 15:00·Î º¯°æÇÒ±î¿ä?
 
-User: ì‘ ë³€ê²½í•´ì¤˜
+User: ÀÀ º¯°æÇØÁà
 
 OpenClaw: 
-âœ… ë³€ê²½ ì™„ë£Œ: 15:00 - 16:00
-ðŸ”” ì•Œë¦¼ ì„¤ì •: ë¯¸íŒ… 10ë¶„ ì „
+? º¯°æ ¿Ï·á: 15:00 - 16:00
+?? ¾Ë¸² ¼³Á¤: ¹ÌÆÃ 10ºÐ Àü
 ```
 
 ---
 
-#### 5. í•  ì¼ ëª©ë¡(To-Do) í†µí•© ê´€ë¦¬ ðŸŸ¢
+#### 5. ÇÒ ÀÏ ¸ñ·Ï(To-Do) ÅëÇÕ °ü¸® ??
 
-ðŸ“– ì„¤ëª…
-Todoist, Notion, Google Tasks ë“± ì—¬ëŸ¬ í•  ì¼ ì•±ê³¼ ì—°ë™í•˜ì—¬ ì±„íŒ… í•œ ì¤„ë¡œ ì¼ì •ì„ ì¶”ê°€í•˜ê³  ìš°ì„ ìˆœìœ„ë¥¼ ìž¬êµ¬ì„±í•©ë‹ˆë‹¤. ëª¨ë“  í•  ì¼ì„ í•œ ê³³ì—ì„œ ê´€ë¦¬í•˜ê³ , ë§ˆê°ì¼ì´ ë‹¤ê°€ì˜¤ë©´ ìžë™ìœ¼ë¡œ ì•Œë¦¼ì„ ë°›ìŠµë‹ˆë‹¤.
+?? ¼³¸í
+Todoist, Notion, Google Tasks µî ¿©·¯ ÇÒ ÀÏ ¾Û°ú ¿¬µ¿ÇÏ¿© Ã¤ÆÃ ÇÑ ÁÙ·Î ÀÏÁ¤À» Ãß°¡ÇÏ°í ¿ì¼±¼øÀ§¸¦ Àç±¸¼ºÇÕ´Ï´Ù. ¸ðµç ÇÒ ÀÏÀ» ÇÑ °÷¿¡¼­ °ü¸®ÇÏ°í, ¸¶°¨ÀÏÀÌ ´Ù°¡¿À¸é ÀÚµ¿À¸·Î ¾Ë¸²À» ¹Þ½À´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì—¬ëŸ¬ ì•± ê°„ í•  ì¼ ë™ê¸°í™”
-- ìš°ì„ ìˆœìœ„ ìžë™ ì¡°ì •
-- ë§ˆê°ì¼ ì•Œë¦¼ìœ¼ë¡œ ë¯¸ë£¨ê¸° ë°©ì§€
+?? È°¿ë È¿°ú
+- ¿©·¯ ¾Û °£ ÇÒ ÀÏ µ¿±âÈ­
+- ¿ì¼±¼øÀ§ ÀÚµ¿ Á¶Á¤
+- ¸¶°¨ÀÏ ¾Ë¸²À¸·Î ¹Ì·ç±â ¹æÁö
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| todoist | Todoist ì—°ë™ | `openclaw skill install todoist` |
-| notion | Notion ì—°ë™ | `openclaw skill install notion` |
-| tasks | Google Tasks ì—°ë™ | `openclaw skill install tasks` |
+| todoist | Todoist ¿¬µ¿ | `clawhub install todoist` |
+| notion | Notion ¿¬µ¿ | `clawhub install notion` |
+| tasks | Google Tasks ¿¬µ¿ | `clawhub install tasks` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ì—¬ëŸ¬ ì„œë¹„ìŠ¤ ì—°ë™
+1´Ü°è: ¿©·¯ ¼­ºñ½º ¿¬µ¿
 ```bash
-openclaw skill install todoist notion tasks
+clawhub install todoist notion tasks
 ```
 
-2ë‹¨ê³„: API í‚¤ ì„¤ì •
+2´Ü°è: API Å° ¼³Á¤
 ```bash
 openclaw skill auth todoist
 openclaw skill auth notion
 ```
 
-3ë‹¨ê³„: ë™ê¸°í™” ê·œì¹™
+3´Ü°è: µ¿±âÈ­ ±ÔÄ¢
 ```json
 {
   "tasks": {
@@ -381,61 +381,61 @@ openclaw skill auth notion
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: í•  ì¼ ì¶”ê°€: ë§ˆì¼€íŒ… ë³´ê³ ì„œ ìž‘ì„±, ë§ˆê°ì¼ ê¸ˆìš”ì¼
+User: ÇÒ ÀÏ Ãß°¡: ¸¶ÄÉÆÃ º¸°í¼­ ÀÛ¼º, ¸¶°¨ÀÏ ±Ý¿äÀÏ
 
 OpenClaw:
-âœ… í•  ì¼ ì¶”ê°€ë¨
+? ÇÒ ÀÏ Ãß°¡µÊ
 
-ì œëª©: ë§ˆì¼€íŒ… ë³´ê³ ì„œ ìž‘ì„±
-ë§ˆê°ì¼: 2ì›” 28ì¼ (ê¸ˆ) 18:00
-ìš°ì„ ìˆœìœ„: ë†’ìŒ (D-3)
+Á¦¸ñ: ¸¶ÄÉÆÃ º¸°í¼­ ÀÛ¼º
+¸¶°¨ÀÏ: 2¿ù 28ÀÏ (±Ý) 18:00
+¿ì¼±¼øÀ§: ³ôÀ½ (D-3)
 
-ðŸ“‹ ë™ê¸°í™” ì™„ë£Œ:
-   - Todoist âœ…
-   - Notion âœ…
+?? µ¿±âÈ­ ¿Ï·á:
+   - Todoist ?
+   - Notion ?
    
-ðŸ”” ì•Œë¦¼ ì„¤ì •:
-   - ë§ˆê° 1ì¼ ì „ (2/27 ì˜¤ì „ 9ì‹œ)
-   - ë§ˆê° ë‹¹ì¼ (2/28 ì˜¤í›„ 2ì‹œ)
+?? ¾Ë¸² ¼³Á¤:
+   - ¸¶°¨ 1ÀÏ Àü (2/27 ¿ÀÀü 9½Ã)
+   - ¸¶°¨ ´çÀÏ (2/28 ¿ÀÈÄ 2½Ã)
 
-ðŸ“ ê´€ë ¨ ë…¸íŠ¸:
-   Notionì—ì„œ "ë§ˆì¼€íŒ… ë³´ê³ ì„œ í…œí”Œë¦¿"ì„ ì°¾ì•˜ìŠµë‹ˆë‹¤.
-   ë°”ë¡œ ì—´ì–´ë³¼ê¹Œìš”?
+?? °ü·Ã ³ëÆ®:
+   Notion¿¡¼­ "¸¶ÄÉÆÃ º¸°í¼­ ÅÛÇÃ¸´"À» Ã£¾Ò½À´Ï´Ù.
+   ¹Ù·Î ¿­¾îº¼±î¿ä?
 ```
 
 ---
 
-### ðŸ“ ë©”ëª¨ & ê¸°ë¡ ê´€ë¦¬
+### ?? ¸Þ¸ð & ±â·Ï °ü¸®
 
-#### 6. ë‘ ë²ˆì§¸ ë‡Œ(Second Brain) êµ¬ì¶• ðŸŸ¢
+#### 6. µÎ ¹øÂ° ³ú(Second Brain) ±¸Ãà ??
 
-ðŸ“– ì„¤ëª…
-ë²ˆëœ©ì´ëŠ” ì•„ì´ë””ì–´ë‚˜ ë§í¬, ë©”ëª¨ë¥¼ ì±„íŒ…ìœ¼ë¡œ ë³„ë‚¸ ë‹¤ìŒ, ìžë™ìœ¼ë¡œ ë§¥ë½ê³¼ í•¨ê»˜ ë¶„ë¥˜í•˜ì—¬ ì €ìž¥í•©ë‹ˆë‹¤. ë‚˜ì¤‘ì— ê²€ìƒ‰í•  ë•Œ ê´€ë ¨ì„± ë†’ì€ ê³¼ê±° ê¸°ë¡ë„ í•¨ê»˜ ì°¾ì•„ì£¼ì–´ ê°œì¸ ì§€ì‹ë² ì´ìŠ¤ë¥¼ êµ¬ì¶•í•©ë‹ˆë‹¤.
+?? ¼³¸í
+¹ø¶àÀÌ´Â ¾ÆÀÌµð¾î³ª ¸µÅ©, ¸Þ¸ð¸¦ Ã¤ÆÃÀ¸·Î º°³½ ´ÙÀ½, ÀÚµ¿À¸·Î ¸Æ¶ô°ú ÇÔ²² ºÐ·ùÇÏ¿© ÀúÀåÇÕ´Ï´Ù. ³ªÁß¿¡ °Ë»öÇÒ ¶§ °ü·Ã¼º ³ôÀº °ú°Å ±â·Ïµµ ÇÔ²² Ã£¾ÆÁÖ¾î °³ÀÎ Áö½Äº£ÀÌ½º¸¦ ±¸ÃàÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì•„ì´ë””ì–´ ìœ ì‹¤ ë°©ì§€
-- ê´€ë ¨ ì •ë³´ ìžë™ ì—°ê²°
-- ê²€ìƒ‰ ì‹œê°„ ë‹¨ì¶•
+?? È°¿ë È¿°ú
+- ¾ÆÀÌµð¾î À¯½Ç ¹æÁö
+- °ü·Ã Á¤º¸ ÀÚµ¿ ¿¬°á
+- °Ë»ö ½Ã°£ ´ÜÃà
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| memory | ë©”ëª¨ ì €ìž¥ | `openclaw skill install memory` |
-| notes | ë…¸íŠ¸ ê´€ë¦¬ | `openclaw skill install notes` |
-| search | ë²¡í„° ê²€ìƒ‰ | `openclaw skill install search` |
-| embedding | ì˜ë¯¸ ê¸°ë°˜ ìž„ë² ë”© | `openclaw skill install embedding` |
+| memory | ¸Þ¸ð ÀúÀå | `clawhub install memory` |
+| notes | ³ëÆ® °ü¸® | `clawhub install notes` |
+| search | º¤ÅÍ °Ë»ö | `clawhub install search` |
+| embedding | ÀÇ¹Ì ±â¹Ý ÀÓº£µù | `clawhub install embedding` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ì €ìž¥ì†Œ ì„¤ì • (Obsidian ê¶Œìž¥)
+1´Ü°è: ÀúÀå¼Ò ¼³Á¤ (Obsidian ±ÇÀå)
 ```bash
-openclaw skill install memory notes
-# Obsidian ë³¼íŠ¸ ê²½ë¡œ ì„¤ì •
+clawhub install memory notes
+# Obsidian º¼Æ® °æ·Î ¼³Á¤
 ```
 
-2ë‹¨ê³„: ìžë™ ë¶„ë¥˜ ì„¤ì •
+2´Ü°è: ÀÚµ¿ ºÐ·ù ¼³Á¤
 ```json
 {
   "memory": {
@@ -446,53 +446,53 @@ openclaw skill install memory notes
 }
 ```
 
-3ë‹¨ê³„: ë©”ëª¨ ì €ìž¥ ì˜ˆì‹œ
+3´Ü°è: ¸Þ¸ð ÀúÀå ¿¹½Ã
 ```
-User: ì•„ì´ë””ì–´: AIë¡œ ì´ë ¥ì„œ ìžë™ ë¶„ì„í•´ì„œ í•©ê²©ë¥  ì˜ˆì¸¡í•˜ëŠ” ì„œë¹„ìŠ¤
+User: ¾ÆÀÌµð¾î: AI·Î ÀÌ·Â¼­ ÀÚµ¿ ºÐ¼®ÇØ¼­ ÇÕ°Ý·ü ¿¹ÃøÇÏ´Â ¼­ºñ½º
 
 OpenClaw:
-ðŸ§  ë©”ëª¨ ì €ìž¥ ì™„ë£Œ
+?? ¸Þ¸ð ÀúÀå ¿Ï·á
 
-ðŸ“ ì €ìž¥ ìœ„ì¹˜: Inbox/ì•„ì´ë””ì–´.md
-ðŸ·ï¸ ìžë™ íƒœê·¸: #ì•„ì´ë””ì–´ #AI #ì„œë¹„ìŠ¤ #ì´ë ¥ì„œ
-ðŸ”— ìœ ì‚¬ ë©”ëª¨: 
-   - "AI ë©´ì ‘ ì½”ì¹˜ ì•± ì•„ì´ë””ì–´" (85% ìœ ì‚¬)
-   - "êµ¬ì§ ë§¤ì¹­ í”Œëž«í¼ êµ¬ìƒ" (72% ìœ ì‚¬)
+?? ÀúÀå À§Ä¡: Inbox/¾ÆÀÌµð¾î.md
+??? ÀÚµ¿ ÅÂ±×: #¾ÆÀÌµð¾î #AI #¼­ºñ½º #ÀÌ·Â¼­
+?? À¯»ç ¸Þ¸ð: 
+   - "AI ¸éÁ¢ ÄÚÄ¡ ¾Û ¾ÆÀÌµð¾î" (85% À¯»ç)
+   - "±¸Á÷ ¸ÅÄª ÇÃ·§Æû ±¸»ó" (72% À¯»ç)
 
-ðŸ’¡ ë‹¤ìŒ í–‰ë™ ì œì•ˆ:
-   1. ì‹œìž¥ì¡°ì‚¬ í…œí”Œë¦¿ ì—´ê¸°
-   2. ê´€ë ¨ ê¸°ì‚¬ ê²€ìƒ‰
-   3. ê²½ìŸì‚¬ ë¶„ì„
+?? ´ÙÀ½ Çàµ¿ Á¦¾È:
+   1. ½ÃÀåÁ¶»ç ÅÛÇÃ¸´ ¿­±â
+   2. °ü·Ã ±â»ç °Ë»ö
+   3. °æÀï»ç ºÐ¼®
 ```
 
 ---
 
-#### 7. ìŒì„± ë©”ëª¨ â†’ ì¼ê¸° ìžë™ ë³€í™˜ ðŸŸ¢
+#### 7. À½¼º ¸Þ¸ð ¡æ ÀÏ±â ÀÚµ¿ º¯È¯ ??
 
-ðŸ“– ì„¤ëª…
-ê¸¸ ê°€ë‹¤ê°€ ë‚¨ê¸´ 30ì´ˆì§œë¦¬ ì§§ì€ ìŒì„± ë©”ëª¨ë¥¼ AIê°€ ì „ì‚¬í•˜ì—¬ "ì˜¤ëŠ˜ì˜ í•˜ì´ë¼ì´íŠ¸" í˜•íƒœë¡œ ë©‹ì§„ ì¼ê¸°ë¡œ ì •ë¦¬í•©ë‹ˆë‹¤. ìŒì„± í†¤ì—ì„œ ê°ì •ì„ ë¶„ì„í•˜ê³ , ê´€ë ¨ ì‚¬ì§„ì„ ìžë™ìœ¼ë¡œ ì°¾ì•„ ì‚½ìž…í•©ë‹ˆë‹¤.
+?? ¼³¸í
+±æ °¡´Ù°¡ ³²±ä 30ÃÊÂ¥¸® ÂªÀº À½¼º ¸Þ¸ð¸¦ AI°¡ Àü»çÇÏ¿© "¿À´ÃÀÇ ÇÏÀÌ¶óÀÌÆ®" ÇüÅÂ·Î ¸ÚÁø ÀÏ±â·Î Á¤¸®ÇÕ´Ï´Ù. À½¼º Åæ¿¡¼­ °¨Á¤À» ºÐ¼®ÇÏ°í, °ü·Ã »çÁøÀ» ÀÚµ¿À¸·Î Ã£¾Æ »ðÀÔÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì¼ê¸° ìž‘ì„± ë¶€ë‹´ ê°ì†Œ
-- ì¼ìƒ ê¸°ë¡ ìŠµê´€ í˜•ì„±
-- ìŒì„± ê¸°ë°˜ ë¹ ë¥¸ ìž…ë ¥
+?? È°¿ë È¿°ú
+- ÀÏ±â ÀÛ¼º ºÎ´ã °¨¼Ò
+- ÀÏ»ó ±â·Ï ½À°ü Çü¼º
+- À½¼º ±â¹Ý ºü¸¥ ÀÔ·Â
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| audio | ìŒì„± ë…¹ìŒ | `openclaw skill install audio` |
-| whisper | ìŒì„± ì¸ì‹ | `openclaw skill install whisper` |
-| notes | ë…¸íŠ¸ ìž‘ì„± | `openclaw skill install notes` |
-| photos | ì‚¬ì§„ ê²€ìƒ‰ | `openclaw skill install photos` |
+| audio | À½¼º ³ìÀ½ | `clawhub install audio` |
+| whisper | À½¼º ÀÎ½Ä | `clawhub install whisper` |
+| notes | ³ëÆ® ÀÛ¼º | `clawhub install notes` |
+| photos | »çÁø °Ë»ö | `clawhub install photos` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ìŒì„± ì¸ì‹ ì„¤ì •
+1´Ü°è: À½¼º ÀÎ½Ä ¼³Á¤
 ```bash
-openclaw skill install audio whisper notes
+clawhub install audio whisper notes
 ```
 
-2ë‹¨ê³„: ì¼ê¸° í…œí”Œë¦¿ ì„¤ì •
+2´Ü°è: ÀÏ±â ÅÛÇÃ¸´ ¼³Á¤
 ```json
 {
   "diary": {
@@ -503,141 +503,141 @@ openclaw skill install audio whisper notes
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: (ìŒì„± ë©”ëª¨ 30ì´ˆ)
-"ì˜¤ëŠ˜ íšŒì‚¬ì—ì„œ í”„ë ˆì  í…Œì´ì…˜ ìž˜ ë§ˆì³¤ì–´. 
-íŒ€ìž¥ë‹˜ì´ ì¹­ì°¬í•˜ì…¨ê³ , í´ë¼ì´ì–¸íŠ¸ë„ ë§Œì¡±í•œ ê²ƒ ê°™ì•„. 
-ì ì‹¬ì€ ë™ë£Œë“¤ì´ëž‘ ìƒˆë¡œ ìƒê¸´ íŒŒìŠ¤íƒ€ì§‘ì—ì„œ ë¨¹ì—ˆëŠ”ë° ë§›ìžˆì—ˆì–´."
+User: (À½¼º ¸Þ¸ð 30ÃÊ)
+"¿À´Ã È¸»ç¿¡¼­ ÇÁ·¹Á¨Å×ÀÌ¼Ç Àß ¸¶ÃÆ¾î. 
+ÆÀÀå´ÔÀÌ ÄªÂùÇÏ¼Ì°í, Å¬¶óÀÌ¾ðÆ®µµ ¸¸Á·ÇÑ °Í °°¾Æ. 
+Á¡½ÉÀº µ¿·áµéÀÌ¶û »õ·Î »ý±ä ÆÄ½ºÅ¸Áý¿¡¼­ ¸Ô¾ú´Âµ¥ ¸ÀÀÖ¾ú¾î."
 
 OpenClaw:
-ðŸ“” ì˜¤ëŠ˜ì˜ ì¼ê¸° (2ì›” 25ì¼ í™”ìš”ì¼)
+?? ¿À´ÃÀÇ ÀÏ±â (2¿ù 25ÀÏ È­¿äÀÏ)
 
-ðŸŽ¯ í•˜ì´ë¼ì´íŠ¸:
-í”„ë ˆì  í…Œì´ì…˜ ì„±ê³µì ìœ¼ë¡œ ë§ˆë¬´ë¦¬! 
-íŒ€ìž¥ë‹˜ì˜ ì¹­ì°¬ê³¼ í´ë¼ì´ì–¸íŠ¸ì˜ ê¸ì •ì  ë°˜ì‘ì„ ì–»ì—ˆë‹¤.
-ì—…ë¬´ ì„±ì·¨ê°ì´ í° í•˜ë£¨.
+?? ÇÏÀÌ¶óÀÌÆ®:
+ÇÁ·¹Á¨Å×ÀÌ¼Ç ¼º°øÀûÀ¸·Î ¸¶¹«¸®! 
+ÆÀÀå´ÔÀÇ ÄªÂù°ú Å¬¶óÀÌ¾ðÆ®ÀÇ ±àÁ¤Àû ¹ÝÀÀÀ» ¾ò¾ú´Ù.
+¾÷¹« ¼ºÃë°¨ÀÌ Å« ÇÏ·ç.
 
-ðŸ½ï¸ ì˜¤ëŠ˜ì˜ ì‹ì‚¬:
-ë™ë£Œë“¤ê³¼ í•¨ê»˜í•œ íŒŒìŠ¤íƒ€ - ë§Œì¡±ìŠ¤ëŸ¬ìš´ ì ì‹¬ ì‹œê°„
+??? ¿À´ÃÀÇ ½Ä»ç:
+µ¿·áµé°ú ÇÔ²²ÇÑ ÆÄ½ºÅ¸ - ¸¸Á·½º·¯¿î Á¡½É ½Ã°£
 
-ðŸ˜Š ê°ì • ë¶„ì„: ê¸ì •ì  (85%)
-   ìžì‹ ê°, ì„±ì·¨ê°, ë§Œì¡±ê°
+?? °¨Á¤ ºÐ¼®: ±àÁ¤Àû (85%)
+   ÀÚ½Å°¨, ¼ºÃë°¨, ¸¸Á·°¨
 
-ðŸ“¸ ì˜¤ëŠ˜ì˜ ì‚¬ì§„:
-   (í”„ë ˆì  í…Œì´ì…˜ ìž¥ë©´, ì ì‹¬ ì‚¬ì§„ ìžë™ ì—°ê²°)
+?? ¿À´ÃÀÇ »çÁø:
+   (ÇÁ·¹Á¨Å×ÀÌ¼Ç Àå¸é, Á¡½É »çÁø ÀÚµ¿ ¿¬°á)
 
-âœ¨ í•œ ì¤„ í‰:
-"ì„±ì·¨ì˜ ë§›ì„ ë³¸ í™”ìš”ì¼"
+? ÇÑ ÁÙ Æò:
+"¼ºÃëÀÇ ¸ÀÀ» º» È­¿äÀÏ"
 ```
 
 ---
 
-#### 8. ì˜ìˆ˜ì¦ ì‚¬ì§„ â†’ ì—‘ì…€ ìžë™ ìž…ë ¥ ðŸŸ¢
+#### 8. ¿µ¼öÁõ »çÁø ¡æ ¿¢¼¿ ÀÚµ¿ ÀÔ·Â ??
 
-ðŸ“– ì„¤ëª…
-ì˜ìˆ˜ì¦ ì‚¬ì§„ì„ ì°ì–´ ë³„ë‚¸ ë‹¤ìŒ, ê²°ì œì²˜, ë‚ ì§œ, ê¸ˆì•¡, ì¹´í…Œê³ ë¦¬ë¥¼ ìžë™ìœ¼ë¡œ ì¸ì‹í•˜ì—¬ Google Sheetsì— ì§€ì¶œ ë‚´ì—­ì„ ìž…ë ¥í•©ë‹ˆë‹¤. ì„¸ë¬´ë‚˜ íšŒê³„ ì •ì‚° ì‹œ ëª¨ë“  ì˜ìˆ˜ì¦ì´ ì •ë¦¬ë˜ì–´ ìžˆì–´ ì—…ë¬´ íš¨ìœ¨ì´ í¬ê²Œ í–¥ìƒë©ë‹ˆë‹¤.
+?? ¼³¸í
+¿µ¼öÁõ »çÁøÀ» Âï¾î º°³½ ´ÙÀ½, °áÁ¦Ã³, ³¯Â¥, ±Ý¾×, Ä«Å×°í¸®¸¦ ÀÚµ¿À¸·Î ÀÎ½ÄÇÏ¿© Google Sheets¿¡ ÁöÃâ ³»¿ªÀ» ÀÔ·ÂÇÕ´Ï´Ù. ¼¼¹«³ª È¸°è Á¤»ê ½Ã ¸ðµç ¿µ¼öÁõÀÌ Á¤¸®µÇ¾î ÀÖ¾î ¾÷¹« È¿À²ÀÌ Å©°Ô Çâ»óµË´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì˜ìˆ˜ì¦ ì •ë¦¬ ì‹œê°„ 90% ì ˆì•½
-- ì‹¤ì‹œê°„ ì§€ì¶œ ì¶”ì 
-- ì„¸ë¬´ ì‹ ê³  ì‹œ ì¦ë¹™ ìžë£Œ ì™„ë¹„
+?? È°¿ë È¿°ú
+- ¿µ¼öÁõ Á¤¸® ½Ã°£ 90% Àý¾à
+- ½Ç½Ã°£ ÁöÃâ ÃßÀû
+- ¼¼¹« ½Å°í ½Ã Áõºù ÀÚ·á ¿Ïºñ
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| vision | ì´ë¯¸ì§€ ì¸ì‹ | `openclaw skill install vision` |
-| ocr | í…ìŠ¤íŠ¸ ì¶”ì¶œ | `openclaw skill install ocr` |
-| sheets | Google Sheets | `openclaw skill install sheets` |
-| classifier | ì¹´í…Œê³ ë¦¬ ë¶„ë¥˜ | `openclaw skill install classifier` |
+| vision | ÀÌ¹ÌÁö ÀÎ½Ä | `clawhub install vision` |
+| ocr | ÅØ½ºÆ® ÃßÃâ | `clawhub install ocr` |
+| sheets | Google Sheets | `clawhub install sheets` |
+| classifier | Ä«Å×°í¸® ºÐ·ù | `clawhub install classifier` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ìŠ¤í‚¬ ì„¤ì¹˜
+1´Ü°è: ½ºÅ³ ¼³Ä¡
 ```bash
-openclaw skill install vision ocr sheets classifier
+clawhub install vision ocr sheets classifier
 ```
 
-2ë‹¨ê³„: Google Sheets ì„¤ì •
+2´Ü°è: Google Sheets ¼³Á¤
 ```bash
 openclaw skill auth sheets
-# ìŠ¤í”„ë ˆë“œì‹œíŠ¸ IDì™€ ì—°ë™
+# ½ºÇÁ·¹µå½ÃÆ® ID¿Í ¿¬µ¿
 ```
 
-3ë‹¨ê³„: ìžë™í™” ê·œì¹™
+3´Ü°è: ÀÚµ¿È­ ±ÔÄ¢
 ```json
 {
   "expense": {
     "spreadsheetId": "YOUR_SPREADSHEET_ID",
     "sheetName": "2026_Expenses",
     "categories": {
-      "ì‹ë¹„": ["restaurant", "cafe", "food"],
-      "êµí†µ": ["taxi", "subway", "bus"],
-      "ì—…ë¬´": ["office", "stationery", "software"]
+      "½Äºñ": ["restaurant", "cafe", "food"],
+      "±³Åë": ["taxi", "subway", "bus"],
+      "¾÷¹«": ["office", "stationery", "software"]
     }
   }
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: (ì˜ìˆ˜ì¦ ì‚¬ì§„ ì²¨ë¶€)
+User: (¿µ¼öÁõ »çÁø Ã·ºÎ)
 
 OpenClaw:
-ðŸ“¸ ì˜ìˆ˜ì¦ ë¶„ì„ ì™„ë£Œ
+?? ¿µ¼öÁõ ºÐ¼® ¿Ï·á
 
-ðŸ’° ì¶”ì¶œ ì •ë³´:
-- ìƒí˜¸: ìŠ¤íƒ€ë²…ìŠ¤ ê°•ë‚¨ì 
-- ë‚ ì§œ: 2026-02-25
-- ê¸ˆì•¡: â‚©8,500
-- í’ˆëª©: ì¹´íŽ˜ë¼ë–¼(Tall)
+?? ÃßÃâ Á¤º¸:
+- »óÈ£: ½ºÅ¸¹÷½º °­³²Á¡
+- ³¯Â¥: 2026-02-25
+- ±Ý¾×: \8,500
+- Ç°¸ñ: Ä«Æä¶ó¶¼(Tall)
 
-ðŸ·ï¸ ì¹´í…Œê³ ë¦¬: ì‹ë¹„/ì»¤í”¼ (ìžë™ ë¶„ë¥˜)
+??? Ä«Å×°í¸®: ½Äºñ/Ä¿ÇÇ (ÀÚµ¿ ºÐ·ù)
 
-âœ… Google Sheets ì €ìž¥ ì™„ë£Œ
-   í–‰ 47ì— ì¶”ê°€ë¨
+? Google Sheets ÀúÀå ¿Ï·á
+   Çà 47¿¡ Ãß°¡µÊ
 
-ðŸ“Š ì´ë²ˆ ë‹¬ ì‹ë¹„ í˜„í™©:
-   ì´ ì§€ì¶œ: â‚©127,500
-   ì˜ˆì‚° ëŒ€ë¹„: 85% ì‚¬ìš©
-   âš ï¸ ì˜ˆì‚° ì´ˆê³¼ ì˜ˆìƒ (3ì¼ ë‚¨ìŒ)
+?? ÀÌ¹ø ´Þ ½Äºñ ÇöÈ²:
+   ÃÑ ÁöÃâ: \127,500
+   ¿¹»ê ´ëºñ: 85% »ç¿ë
+   ?? ¿¹»ê ÃÊ°ú ¿¹»ó (3ÀÏ ³²À½)
 ```
 
 ---
 
-### ðŸŒ ì •ë³´ ìˆ˜ì§‘ & ëª¨ë‹ˆí„°ë§
+### ?? Á¤º¸ ¼öÁý & ¸ð´ÏÅÍ¸µ
 
-#### 9. íƒë°° ë° ë°°ì†¡ ìƒíƒœ ì¶”ì  ðŸŸ¢
+#### 9. ÅÃ¹è ¹× ¹è¼Û »óÅÂ ÃßÀû ??
 
-ðŸ“– ì„¤ëª…
-ì—¬ëŸ¬ ì‡¼í•‘ëª°ì˜ ë°°ì†¡ í˜„í™©ì„ ì‹¤ì‹œê°„ìœ¼ë¡œ ì¶”ì í•˜ê³ , ë°°ì†¡ì´ ì‹œìž‘ë˜ê±°ë‚˜ ë„ì°©í•  ë•Œ, ë¬¸ì œ ë°œìƒ ì‹œ ìžë™ìœ¼ë¡œ ì•Œë¦¼ì„ ë³´ë‚´ì¤ë‹ˆë‹¤. ì—¬ëŸ¬ íƒë°°ì‚¬ì˜ ë°°ì†¡ ì •ë³´ë¥¼ í•œëˆˆì— í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+?? ¼³¸í
+¿©·¯ ¼îÇÎ¸ôÀÇ ¹è¼Û ÇöÈ²À» ½Ç½Ã°£À¸·Î ÃßÀûÇÏ°í, ¹è¼ÛÀÌ ½ÃÀÛµÇ°Å³ª µµÂøÇÒ ¶§, ¹®Á¦ ¹ß»ý ½Ã ÀÚµ¿À¸·Î ¾Ë¸²À» º¸³»ÁÝ´Ï´Ù. ¿©·¯ ÅÃ¹è»çÀÇ ¹è¼Û Á¤º¸¸¦ ÇÑ´«¿¡ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ë°°ì†¡ ì¡°íšŒ ì‹œê°„ ì ˆì•½
-- ì‹¤ì‹œê°„ ë°°ì†¡ ì•Œë¦¼
-- ë°°ì†¡ ë¬¸ì œ ì¡°ê¸° ë°œê²¬
+?? È°¿ë È¿°ú
+- ¹è¼Û Á¶È¸ ½Ã°£ Àý¾à
+- ½Ç½Ã°£ ¹è¼Û ¾Ë¸²
+- ¹è¼Û ¹®Á¦ Á¶±â ¹ß°ß
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| tracking | ë°°ì†¡ ì¶”ì  | `openclaw skill install tracking` |
-| cron | ì£¼ê¸°ì  í™•ì¸ | `openclaw skill install cron` |
-| notify | ì•Œë¦¼ ë°œì†¡ | `openclaw skill install notify` |
+| tracking | ¹è¼Û ÃßÀû | `clawhub install tracking` |
+| cron | ÁÖ±âÀû È®ÀÎ | `clawhub install cron` |
+| notify | ¾Ë¸² ¹ß¼Û | `clawhub install notify` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ìŠ¤í‚¬ ì„¤ì¹˜
+1´Ü°è: ½ºÅ³ ¼³Ä¡
 ```bash
-openclaw skill install tracking cron notify
+clawhub install tracking cron notify
 ```
 
-2ë‹¨ê³„: ì¶”ì í•  íƒë°° ë“±ë¡
+2´Ü°è: ÃßÀûÇÒ ÅÃ¹è µî·Ï
 ```
-User: ë°°ì†¡ ì¶”ì : CJëŒ€í•œí†µìš´ 1234567890
-ìƒí’ˆëª…: ë…¸íŠ¸ë¶ ê±°ì¹˜ëŒ€
+User: ¹è¼Û ÃßÀû: CJ´ëÇÑÅë¿î 1234567890
+»óÇ°¸í: ³ëÆ®ºÏ °ÅÄ¡´ë
 ```
 
-3ë‹¨ê³„: ì•Œë¦¼ ì„¤ì •
+3´Ü°è: ¾Ë¸² ¼³Á¤
 ```json
 {
   "tracking": {
@@ -653,51 +653,51 @@ User: ë°°ì†¡ ì¶”ì : CJëŒ€í•œí†µìš´ 1234567890
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-OpenClaw (ìžë™ ì•Œë¦¼):
-ðŸ“¦ ë°°ì†¡ ìƒíƒœ ë³€ê²½
+OpenClaw (ÀÚµ¿ ¾Ë¸²):
+?? ¹è¼Û »óÅÂ º¯°æ
 
-ìƒí’ˆ: ë…¸íŠ¸ë¶ ê±°ì¹˜ëŒ€
-íƒë°°ì‚¬: CJëŒ€í•œí†µìš´
-ìš´ì†¡ìž¥: 1234567890
+»óÇ°: ³ëÆ®ºÏ °ÅÄ¡´ë
+ÅÃ¹è»ç: CJ´ëÇÑÅë¿î
+¿î¼ÛÀå: 1234567890
 
-ðŸšš í˜„ìž¬ ìƒíƒœ: ë°°ì†¡ ì¶œë°œ
-ðŸ“ ìœ„ì¹˜: ì„œìš¸ ê°•ë‚¨ hub
-â° ì˜ˆìƒ ë„ì°©: ì˜¤ëŠ˜ ì˜¤í›„ 3-5ì‹œ
+?? ÇöÀç »óÅÂ: ¹è¼Û Ãâ¹ß
+?? À§Ä¡: ¼­¿ï °­³² hub
+? ¿¹»ó µµÂø: ¿À´Ã ¿ÀÈÄ 3-5½Ã
 
-ðŸ—ºï¸ ì‹¤ì‹œê°„ ìœ„ì¹˜ ë³´ê¸°:
-[ì§€ë„ ë§í¬]
+??? ½Ç½Ã°£ À§Ä¡ º¸±â:
+[Áöµµ ¸µÅ©]
 ```
 
 ---
 
-#### 10. ë¶€ìž¬ì¤‘ ìŠ¬ëž™/íŒ€ì¦ˆ ì±„ë„ ìš”ì•½ ðŸŸ¢
+#### 10. ºÎÀçÁß ½½·¢/ÆÀÁî Ã¤³Î ¿ä¾à ??
 
-ðŸ“– ì„¤ëª…
-ìžë¦¬ë¥¼ ë¹„ìš´ ì‚¬ì´ ëŒ€í™”ê°€ ë§Žì´ ì˜¤ê°„ ì‹œë„ëŸ¬ìš´ ì—…ë¬´ ì±„ë„ì˜ í•µì‹¬ ë‚´ìš©ë§Œ ìš”ì•½í•´ì„œ ì•Œë ¤ì¤ë‹ˆë‹¤. 100ê°œê°€ ë„˜ëŠ” ë©”ì‹œì§€ë¥¼ ì½ì§€ ì•Šê³ ë„ ì¤‘ìš”í•œ ê²°ì •ì‚¬í•­ê³¼ ì•¡ì…˜ ì•„ì´í…œì„ íŒŒì•…í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+?? ¼³¸í
+ÀÚ¸®¸¦ ºñ¿î »çÀÌ ´ëÈ­°¡ ¸¹ÀÌ ¿À°£ ½Ã²ô·¯¿î ¾÷¹« Ã¤³ÎÀÇ ÇÙ½É ³»¿ë¸¸ ¿ä¾àÇØ¼­ ¾Ë·ÁÁÝ´Ï´Ù. 100°³°¡ ³Ñ´Â ¸Þ½ÃÁö¸¦ ÀÐÁö ¾Ê°íµµ Áß¿äÇÑ °áÁ¤»çÇ×°ú ¾×¼Ç ¾ÆÀÌÅÛÀ» ÆÄ¾ÇÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì—…ë¬´ ë³µê·€ ì‹œê°„ ë‹¨ì¶•
-- ì¤‘ìš” ê²°ì •ì‚¬í•­ ë†“ì¹¨ ë°©ì§€
-- íŒ€ ìƒí™© ë¹ ë¥¸ íŒŒì•…
+?? È°¿ë È¿°ú
+- ¾÷¹« º¹±Í ½Ã°£ ´ÜÃà
+- Áß¿ä °áÁ¤»çÇ× ³õÄ§ ¹æÁö
+- ÆÀ »óÈ² ºü¸¥ ÆÄ¾Ç
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| slack | Slack ì—°ë™ | `openclaw skill install slack` |
-| teams | Teams ì—°ë™ | `openclaw skill install teams` |
-| summarizer | ìš”ì•½ AI | `openclaw skill install summarizer` |
+| slack | Slack ¿¬µ¿ | `clawhub install slack` |
+| teams | Teams ¿¬µ¿ | `clawhub install teams` |
+| summarizer | ¿ä¾à AI | `clawhub install summarizer` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ìŠ¤í‚¬ ì„¤ì¹˜ ë° ì¸ì¦
+1´Ü°è: ½ºÅ³ ¼³Ä¡ ¹× ÀÎÁõ
 ```bash
-openclaw skill install slack teams summarizer
+clawhub install slack teams summarizer
 openclaw skill auth slack
 ```
 
-2ë‹¨ê³„: ëª¨ë‹ˆí„°ë§í•  ì±„ë„ ì„¤ì •
+2´Ü°è: ¸ð´ÏÅÍ¸µÇÒ Ã¤³Î ¼³Á¤
 ```json
 {
   "slack": {
@@ -708,204 +708,204 @@ openclaw skill auth slack
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: ìŠ¬ëž™ #dev-team ì±„ë„ ìš”ì•½í•´ì¤˜ (ì ì‹¬ì‹œê°„ ë™ì•ˆ)
+User: ½½·¢ #dev-team Ã¤³Î ¿ä¾àÇØÁà (Á¡½É½Ã°£ µ¿¾È)
 
 OpenClaw:
-ðŸ“‹ #dev-team ì±„ë„ ìš”ì•½ (12:00-14:00)
+?? #dev-team Ã¤³Î ¿ä¾à (12:00-14:00)
 
-ðŸ’¬ ì´ ë©”ì‹œì§€: 47ê°œ
-ðŸ‘¥ ì°¸ì—¬ìž: 8ëª…
+?? ÃÑ ¸Þ½ÃÁö: 47°³
+?? Âü¿©ÀÚ: 8¸í
 
-ðŸ”´ ì¤‘ìš” ê²°ì •ì‚¬í•­:
-1. ë°°í¬ ì¼ì • ë³€ê²½: ëª©ìš”ì¼ â†’ ê¸ˆìš”ì¼ë¡œ ì—°ê¸°
-   - ì´ìœ : í…ŒìŠ¤íŠ¸ ì¶”ê°€ í•„ìš”
-   - ê²°ì •ìž: @íŒ€ìž¥
+?? Áß¿ä °áÁ¤»çÇ×:
+1. ¹èÆ÷ ÀÏÁ¤ º¯°æ: ¸ñ¿äÀÏ ¡æ ±Ý¿äÀÏ·Î ¿¬±â
+   - ÀÌÀ¯: Å×½ºÆ® Ãß°¡ ÇÊ¿ä
+   - °áÁ¤ÀÚ: @ÆÀÀå
 
-2. ìƒˆë¡œìš´ ë¼ì´ë¸ŒëŸ¬ë¦¬ ë„ìž… ìŠ¹ì¸
-   - React Query ë„ìž…í•˜ê¸°ë¡œ í•©ì˜
-   - ë§ˆì´ê·¸ë ˆì´ì…˜ ë‹´ë‹¹: @ê¹€ê°œë°œ
+2. »õ·Î¿î ¶óÀÌºê·¯¸® µµÀÔ ½ÂÀÎ
+   - React Query µµÀÔÇÏ±â·Î ÇÕÀÇ
+   - ¸¶ÀÌ±×·¹ÀÌ¼Ç ´ã´ç: @±è°³¹ß
 
-ðŸ“‹ ì•¡ì…˜ ì•„ì´í…œ:
-- [ ] @ê¹€ê°œë°œ: React Query POC ìž‘ì„± (ë‚´ì¼ê¹Œì§€)
-- [ ] @ì´ê¸°íš: ë°°í¬ ì²´í¬ë¦¬ìŠ¤íŠ¸ ì—…ë°ì´íŠ¸
-- [ ] @ë°•ë””ìžì¸: ë¡œë”© ìŠ¤í”¼ë„ˆ ë””ìžì¸ ê²€í† 
+?? ¾×¼Ç ¾ÆÀÌÅÛ:
+- [ ] @±è°³¹ß: React Query POC ÀÛ¼º (³»ÀÏ±îÁö)
+- [ ] @ÀÌ±âÈ¹: ¹èÆ÷ Ã¼Å©¸®½ºÆ® ¾÷µ¥ÀÌÆ®
+- [ ] @¹ÚµðÀÚÀÎ: ·Îµù ½ºÇÇ³Ê µðÀÚÀÎ °ËÅä
 
-â“ ë‚´ê°€ ë‹µë³€í•´ì•¼ í•  ì§ˆë¬¸:
-- "API ì—”ë“œí¬ì¸íŠ¸ ì–¸ì œ ë‚˜ì˜´?" (13:45)
-  â†’ ë‹µë³€ í•„ìš”!
+? ³»°¡ ´äº¯ÇØ¾ß ÇÒ Áú¹®:
+- "API ¿£µåÆ÷ÀÎÆ® ¾ðÁ¦ ³ª¿È?" (13:45)
+  ¡æ ´äº¯ ÇÊ¿ä!
 ```
 
 ---
 
-### ðŸ  ìŠ¤ë§ˆíŠ¸í™ˆ & ë¼ì´í”„ìŠ¤íƒ€ì¼
+### ?? ½º¸¶Æ®È¨ & ¶óÀÌÇÁ½ºÅ¸ÀÏ
 
-#### 11. ìŠ¤ë§ˆíŠ¸í™ˆ ìžì—°ì–´ ì œì–´ ðŸŸ¢
+#### 11. ½º¸¶Æ®È¨ ÀÚ¿¬¾î Á¦¾î ??
 
-ðŸ“– ì„¤ëª…
-"ê±°ì‹¤ ë¶ˆ êº¼" "ì—ì–´ì»¨ 24ë„ë¡œ í•´ì¤˜"ì™€ ê°™ì€ ìžì—°ì–´ ëª…ë ¹ìœ¼ë¡œ Home Assistantë‚˜ IoT ê¸°ê¸°ë¥¼ ì œì–´í•©ë‹ˆë‹¤. ì•±ì„ ì—´ í•„ìš” ì—†ì´ ë©”ì‹ ì €ë¡œ ì§‘ì•ˆì˜ ëª¨ë“  ê¸°ê¸°ë¥¼ ì œì–´í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+?? ¼³¸í
+"°Å½Ç ºÒ ²¨" "¿¡¾îÄÁ 24µµ·Î ÇØÁà"¿Í °°Àº ÀÚ¿¬¾î ¸í·ÉÀ¸·Î Home Assistant³ª IoT ±â±â¸¦ Á¦¾îÇÕ´Ï´Ù. ¾ÛÀ» ¿­ ÇÊ¿ä ¾øÀÌ ¸Þ½ÅÀú·Î Áý¾ÈÀÇ ¸ðµç ±â±â¸¦ Á¦¾îÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì•± ì „í™˜ ì—†ëŠ” ë¹ ë¥¸ ì œì–´
-- ê°€ì¡± ê³µìš© AI ë¦¬ëª¨ì»¨
-- ìŒì„±/í…ìŠ¤íŠ¸ ëª¨ë‘ ì§€ì›
+?? È°¿ë È¿°ú
+- ¾Û ÀüÈ¯ ¾ø´Â ºü¸¥ Á¦¾î
+- °¡Á· °ø¿ë AI ¸®¸ðÄÁ
+- À½¼º/ÅØ½ºÆ® ¸ðµÎ Áö¿ø
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| homeassistant | HA ì—°ë™ | `openclaw skill install homeassistant` |
-| iot | IoT ì œì–´ | `openclaw skill install iot` |
-| nlp | ëª…ë ¹ì–´ íŒŒì‹± | `openclaw skill install nlp` |
+| homeassistant | HA ¿¬µ¿ | `clawhub install homeassistant` |
+| iot | IoT Á¦¾î | `clawhub install iot` |
+| nlp | ¸í·É¾î ÆÄ½Ì | `clawhub install nlp` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: Home Assistant ì„¤ì •
+1´Ü°è: Home Assistant ¼³Á¤
 ```bash
-openclaw skill install homeassistant
+clawhub install homeassistant
 openclaw skill config homeassistant
-# HA URLê³¼ Long-lived access token ìž…ë ¥
+# HA URL°ú Long-lived access token ÀÔ·Â
 ```
 
-2ë‹¨ê³„: ê¸°ê¸° ë“±ë¡
+2´Ü°è: ±â±â µî·Ï
 ```json
 {
   "homeassistant": {
     "url": "http://homeassistant.local:8123",
     "token": "YOUR_TOKEN",
     "rooms": {
-      "ê±°ì‹¤": ["light.living_room", "climate.living_ac"],
-      "ì¹¨ì‹¤": ["light.bedroom", "fan.bedroom"]
+      "°Å½Ç": ["light.living_room", "climate.living_ac"],
+      "Ä§½Ç": ["light.bedroom", "fan.bedroom"]
     }
   }
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: ê±°ì‹¤ ë¶ˆ êº¼ê³  ì—ì–´ì»¨ 24ë„ë¡œ í•´ì¤˜
+User: °Å½Ç ºÒ ²¨°í ¿¡¾îÄÁ 24µµ·Î ÇØÁà
 
 OpenClaw:
-ðŸ  ìŠ¤ë§ˆíŠ¸í™ˆ ëª…ë ¹ ì‹¤í–‰
+?? ½º¸¶Æ®È¨ ¸í·É ½ÇÇà
 
-ê±°ì‹¤:
-âœ… ì „ë“± ë” (Philips Hue x3)
-âœ… ì—ì–´ì»¨ ì„¤ì •: 24Â°C, ëƒ‰ë°© ëª¨ë“œ
-   - í˜„ìž¬ ì˜¨ë„: 27Â°C
-   - ì˜ˆìƒ ë„ë‹¬ ì‹œê°„: 15ë¶„
+°Å½Ç:
+? Àüµî ²û (Philips Hue x3)
+? ¿¡¾îÄÁ ¼³Á¤: 24¡ÆC, ³Ã¹æ ¸ðµå
+   - ÇöÀç ¿Âµµ: 27¡ÆC
+   - ¿¹»ó µµ´Þ ½Ã°£: 15ºÐ
 
-ðŸ’¡ ì œì•ˆ:
-   ì™¸ì¶œ ëª¨ë“œë¡œ ì „í™˜í• ê¹Œìš”? 
-   (ëª¨ë“  ë¶ˆ ë„ê³ , ë³´ì•ˆ ëª¨ë“œ í™œì„±í™”)
+?? Á¦¾È:
+   ¿ÜÃâ ¸ðµå·Î ÀüÈ¯ÇÒ±î¿ä? 
+   (¸ðµç ºÒ ²ô°í, º¸¾È ¸ðµå È°¼ºÈ­)
 
-User: ì‘ ì™¸ì¶œí• ê±°ì•¼
+User: ÀÀ ¿ÜÃâÇÒ°Å¾ß
 
 OpenClaw:
-ðŸšª ì™¸ì¶œ ëª¨ë“œ í™œì„±í™”
+?? ¿ÜÃâ ¸ðµå È°¼ºÈ­
 
-âœ… ëª¨ë“  ì¡°ëª… OFF
-âœ… ì—ì–´ì»¨ OFF
-ðŸ”’ í˜„ê´€ ìž ê¸ˆ í™•ì¸
-ðŸ“¹ ë³´ì•ˆ ì¹´ë©”ë¼ ë…¹í™” ì‹œìž‘
-ðŸ”” ì´ìƒ ê°ì§€ ì‹œ ì•Œë¦¼ ì„¤ì •
+? ¸ðµç Á¶¸í OFF
+? ¿¡¾îÄÁ OFF
+?? Çö°ü Àá±Ý È®ÀÎ
+?? º¸¾È Ä«¸Þ¶ó ³ìÈ­ ½ÃÀÛ
+?? ÀÌ»ó °¨Áö ½Ã ¾Ë¸² ¼³Á¤
 ```
 
 ---
 
-#### 12. ê°€ì¡± ê³µìš© AI ë¹„ì„œ (iMessage) ðŸŸ¢
+#### 12. °¡Á· °ø¿ë AI ºñ¼­ (iMessage) ??
 
-ðŸ“– ì„¤ëª…
-ì• í”Œì˜ iMessageì™€ ì—°ë™í•´ ê°€ì¡±ë“¤ì´ ë”°ë¡œ ì•±ì„ ì„¤ì¹˜í•˜ê±°ë‚˜ ê°€ìž…í•  í•„ìš” ì—†ì´ ë¬¸ìžë¡œ AI ë¹„ì„œë¥¼ íŽ¸í•˜ê²Œ í™œìš©í•©ë‹ˆë‹¤. ê°€ì¡± ê³µìš© ì‡¼í•‘ ë¦¬ìŠ¤íŠ¸, ì¼ì • ê³µìœ , ì•Œë¦¼ ë“±ì„ ë¬¸ìžë¡œ ê´€ë¦¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+?? ¼³¸í
+¾ÖÇÃÀÇ iMessage¿Í ¿¬µ¿ÇØ °¡Á·µéÀÌ µû·Î ¾ÛÀ» ¼³Ä¡ÇÏ°Å³ª °¡ÀÔÇÒ ÇÊ¿ä ¾øÀÌ ¹®ÀÚ·Î AI ºñ¼­¸¦ ÆíÇÏ°Ô È°¿ëÇÕ´Ï´Ù. °¡Á· °ø¿ë ¼îÇÎ ¸®½ºÆ®, ÀÏÁ¤ °øÀ¯, ¾Ë¸² µîÀ» ¹®ÀÚ·Î °ü¸®ÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ê°€ì¡± ëª¨ë‘ê°€ ìµìˆ™í•œ ë¬¸ìž ì¸í„°íŽ˜ì´ìŠ¤
-- ë³„ë„ ì•± ì„¤ì¹˜ ë¶ˆí•„ìš”
-- ì‹¤ì‹œê°„ ê°€ì¡± ê³µìœ  ê¸°ëŠ¥
+?? È°¿ë È¿°ú
+- °¡Á· ¸ðµÎ°¡ ÀÍ¼÷ÇÑ ¹®ÀÚ ÀÎÅÍÆäÀÌ½º
+- º°µµ ¾Û ¼³Ä¡ ºÒÇÊ¿ä
+- ½Ç½Ã°£ °¡Á· °øÀ¯ ±â´É
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| imessage | iMessage ì—°ë™ | `openclaw skill install imessage` |
-| bluebubbles | BlueBubbles ì—°ë™ | `openclaw skill install bluebubbles` |
-| family | ê°€ì¡± ê´€ë¦¬ | `openclaw skill install family` |
+| imessage | iMessage ¿¬µ¿ | `clawhub install imessage` |
+| bluebubbles | BlueBubbles ¿¬µ¿ | `clawhub install bluebubbles` |
+| family | °¡Á· °ü¸® | `clawhub install family` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: BlueBubbles ì„œë²„ ì„¤ì • (Mac í•„ìš”)
+1´Ü°è: BlueBubbles ¼­¹ö ¼³Á¤ (Mac ÇÊ¿ä)
 ```bash
-# Macì—ì„œ BlueBubbles ì„œë²„ ì„¤ì¹˜
+# Mac¿¡¼­ BlueBubbles ¼­¹ö ¼³Ä¡
 # https://bluebubbles.app
 
-openclaw skill install bluebubbles
+clawhub install bluebubbles
 openclaw skill config bluebubbles
 ```
 
-2ë‹¨ê³„: ê°€ì¡± ê·¸ë£¹ ì„¤ì •
+2´Ü°è: °¡Á· ±×·ì ¼³Á¤
 ```json
 {
   "family": {
     "members": [
-      { "name": "ì•„ë¹ ", "phone": "+821012345678" },
-      { "name": "ì—„ë§ˆ", "phone": "+821098765432" },
-      { "name": "ì•„ë“¤", "phone": "+821011223344" }
+      { "name": "¾Æºü", "phone": "+821012345678" },
+      { "name": "¾ö¸¶", "phone": "+821098765432" },
+      { "name": "¾Æµé", "phone": "+821011223344" }
     ],
-    "sharedLists": ["ìž¥ë³´ê¸°", "í• ì¼", "ì•½ì†"]
+    "sharedLists": ["Àåº¸±â", "ÇÒÀÏ", "¾à¼Ó"]
   }
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-ì—„ë§ˆ (iMessage): ìš°ìœ  ì‚¬ì™€
+¾ö¸¶ (iMessage): ¿ìÀ¯ »ç¿Í
 
 OpenClaw:
-ðŸ“ ì‡¼í•‘ ë¦¬ìŠ¤íŠ¸ì— ì¶”ê°€í–ˆìŠµë‹ˆë‹¤
+?? ¼îÇÎ ¸®½ºÆ®¿¡ Ãß°¡Çß½À´Ï´Ù
 
-ðŸ“‹ ìž¥ë³´ê¸° ëª©ë¡:
-â˜‘ï¸ ìš°ìœ 
-â˜ ê³„ëž€
-â˜ ë¹µ
-â˜ íœ´ì§€
+?? Àåº¸±â ¸ñ·Ï:
+?? ¿ìÀ¯
+? °è¶õ
+? »§
+? ÈÞÁö
 
-ðŸ‘¥ ê³µìœ  ì¤‘: ì•„ë¹ , ì—„ë§ˆ, ì•„ë“¤
+?? °øÀ¯ Áß: ¾Æºü, ¾ö¸¶, ¾Æµé
 
-[ì•„ë¹ ] ë‹˜ì´ ìž¥ì„ ë³´ëŸ¬ ê°€ëŠ” ì¤‘ìž…ë‹ˆë‹¤.
-ëª©ë¡ì„ í™•ì¸í•˜ê³  í•„ìš”í•œ ê²ƒì„ ì¶”ê°€í•˜ì„¸ìš”!
+[¾Æºü] ´ÔÀÌ ÀåÀ» º¸·¯ °¡´Â ÁßÀÔ´Ï´Ù.
+¸ñ·ÏÀ» È®ÀÎÇÏ°í ÇÊ¿äÇÑ °ÍÀ» Ãß°¡ÇÏ¼¼¿ä!
 ```
 
 ---
 
-### ðŸ”„ ì½˜í…ì¸  & ë¯¸ë””ì–´ ë³€í™˜
+### ?? ÄÜÅÙÃ÷ & ¹Ìµð¾î º¯È¯
 
-#### 13. ìŠ¤í¬ë¦°ìƒ· â†’ Markdown ìžë™ ë³€í™˜ ðŸŸ¢
+#### 13. ½ºÅ©¸°¼¦ ¡æ Markdown ÀÚµ¿ º¯È¯ ??
 
-ðŸ“– ì„¤ëª…
-íŠ¹ì • ì˜ì—­ì„ ìº¡ì²˜í•˜ë©´ ì´ë¯¸ì§€ì—ì„œ í…ìŠ¤íŠ¸ì™€ êµ¬ì¡°ë¥¼ ì¸ì‹í•˜ì—¬ ë§ˆí¬ë‹¤ìš´ í˜•ì‹ìœ¼ë¡œ ìžë™ ë³€í™˜í•©ë‹ˆë‹¤. ë¬¸ì„œ ìž‘ì„±, íšŒì˜ë¡ ì •ë¦¬, ìžë£Œ ì •ë¦¬ ì‹œ ë§¤ìš° ìœ ìš©í•©ë‹ˆë‹¤.
+?? ¼³¸í
+Æ¯Á¤ ¿µ¿ªÀ» Ä¸Ã³ÇÏ¸é ÀÌ¹ÌÁö¿¡¼­ ÅØ½ºÆ®¿Í ±¸Á¶¸¦ ÀÎ½ÄÇÏ¿© ¸¶Å©´Ù¿î Çü½ÄÀ¸·Î ÀÚµ¿ º¯È¯ÇÕ´Ï´Ù. ¹®¼­ ÀÛ¼º, È¸ÀÇ·Ï Á¤¸®, ÀÚ·á Á¤¸® ½Ã ¸Å¿ì À¯¿ëÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ë¬¸ì„œ ìž‘ì„± ì‹œê°„ 60% ë‹¨ì¶•
-- í‘œ/ì½”ë“œ ë¸”ë¡ ì •í™•í•œ ë³€í™˜
-- í´ë¦½ë³´ë“œì— ë°”ë¡œ ë³µì‚¬
+?? È°¿ë È¿°ú
+- ¹®¼­ ÀÛ¼º ½Ã°£ 60% ´ÜÃà
+- Ç¥/ÄÚµå ºí·Ï Á¤È®ÇÑ º¯È¯
+- Å¬¸³º¸µå¿¡ ¹Ù·Î º¹»ç
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| screenshot | í™”ë©´ ìº¡ì²˜ | `openclaw skill install screenshot` |
-| vision | ì´ë¯¸ì§€ ë¶„ì„ | `openclaw skill install vision` |
-| markdown | ë§ˆí¬ë‹¤ìš´ ë³€í™˜ | `openclaw skill install markdown` |
-| clipboard | í´ë¦½ë³´ë“œ | `openclaw skill install clipboard` |
+| screenshot | È­¸é Ä¸Ã³ | `clawhub install screenshot` |
+| vision | ÀÌ¹ÌÁö ºÐ¼® | `clawhub install vision` |
+| markdown | ¸¶Å©´Ù¿î º¯È¯ | `clawhub install markdown` |
+| clipboard | Å¬¸³º¸µå | `clawhub install clipboard` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: í•«í‚¤ ì„¤ì •
+1´Ü°è: ÇÖÅ° ¼³Á¤
 ```bash
-openclaw skill install screenshot vision markdown clipboard
+clawhub install screenshot vision markdown clipboard
 
-# ì„¤ì •: Ctrl+Shift+S ë¡œ í™œì„±í™”
+# ¼³Á¤: Ctrl+Shift+S ·Î È°¼ºÈ­
 openclaw skill config screenshot
 ```
 
-2ë‹¨ê³„: ë³€í™˜ ê·œì¹™
+2´Ü°è: º¯È¯ ±ÔÄ¢
 ```json
 {
   "screenshot": {
@@ -917,55 +917,55 @@ openclaw skill config screenshot
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: (ì›¹ì‚¬ì´íŠ¸ í‘œ ì˜ì—­ ìº¡ì²˜)
+User: (À¥»çÀÌÆ® Ç¥ ¿µ¿ª Ä¸Ã³)
 
 OpenClaw:
-ðŸ“¸ ìŠ¤í¬ë¦°ìƒ· ë³€í™˜ ì™„ë£Œ
+?? ½ºÅ©¸°¼¦ º¯È¯ ¿Ï·á
 
-ðŸ“ ë§ˆí¬ë‹¤ìš´ ë³€í™˜ ê²°ê³¼:
+?? ¸¶Å©´Ù¿î º¯È¯ °á°ú:
 
-| ì œí’ˆ | ê°€ê²© | ìž¬ê³  |
+| Á¦Ç° | °¡°Ý | Àç°í |
 |------|------|------|
-| MacBook Pro | â‚©2,500,000 | ìžˆìŒ |
-| MacBook Air | â‚©1,500,000 | ì—†ìŒ |
-| iMac | â‚©2,000,000 | ìžˆìŒ |
+| MacBook Pro | \2,500,000 | ÀÖÀ½ |
+| MacBook Air | \1,500,000 | ¾øÀ½ |
+| iMac | \2,000,000 | ÀÖÀ½ |
 
-âœ… í´ë¦½ë³´ë“œì— ë³µì‚¬ ì™„ë£Œ
-ðŸ“Š ì¸ì‹ ì •í™•ë„: 98%
+? Å¬¸³º¸µå¿¡ º¹»ç ¿Ï·á
+?? ÀÎ½Ä Á¤È®µµ: 98%
 
-ðŸ’¡ íŒ: í‘œ í˜•ì‹ì„ ì½”ë“œ ë¸”ë¡ìœ¼ë¡œ ë³€í™˜í•˜ë ¤ë©´ "ì½”ë“œë¡œ ë³€í™˜"ì´ë¼ê³  ë§í•˜ì„¸ìš”.
+?? ÆÁ: Ç¥ Çü½ÄÀ» ÄÚµå ºí·ÏÀ¸·Î º¯È¯ÇÏ·Á¸é "ÄÚµå·Î º¯È¯"ÀÌ¶ó°í ¸»ÇÏ¼¼¿ä.
 ```
 
 ---
 
-#### 14. ë‹¤êµ­ì–´ ì‹¤ì‹œê°„ ë²ˆì—­ ðŸŸ¢
+#### 14. ´Ù±¹¾î ½Ç½Ã°£ ¹ø¿ª ??
 
-ðŸ“– ì„¤ëª…
-í•´ì™¸ í´ë¼ì´ì–¸íŠ¸ë‚˜ ì¹œêµ¬ì™€ ì†Œí†µí•  ë•Œ, ë©”ì‹ ì € ìƒì—ì„œ ì‹¤ì‹œê°„ìœ¼ë¡œ ìžì—°ìŠ¤ëŸ¬ìš´ ë²ˆì—­ì„ ì œê³µí•©ë‹ˆë‹¤. ë¹„ì¦ˆë‹ˆìŠ¤ ë©”ì¼, ë¬¸ì„œ, ì±„íŒ… ëª¨ë‘ ë²ˆì—­ ê°€ëŠ¥í•˜ë©°, ì „ë¬¸ ìš©ì–´ ì‚¬ì „ë„ í•™ìŠµí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+?? ¼³¸í
+ÇØ¿Ü Å¬¶óÀÌ¾ðÆ®³ª Ä£±¸¿Í ¼ÒÅëÇÒ ¶§, ¸Þ½ÅÀú »ó¿¡¼­ ½Ç½Ã°£À¸·Î ÀÚ¿¬½º·¯¿î ¹ø¿ªÀ» Á¦°øÇÕ´Ï´Ù. ºñÁî´Ï½º ¸ÞÀÏ, ¹®¼­, Ã¤ÆÃ ¸ðµÎ ¹ø¿ª °¡´ÉÇÏ¸ç, Àü¹® ¿ë¾î »çÀüµµ ÇÐ½ÀÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì–¸ì–´ ìž¥ë²½ í•´ì†Œ
-- ë¹„ì¦ˆë‹ˆìŠ¤ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ì›í™œ
-- ì „ë¬¸ ë¬¸ì„œ ë²ˆì—­ ì‹œê°„ ë‹¨ì¶•
+?? È°¿ë È¿°ú
+- ¾ð¾î Àåº® ÇØ¼Ò
+- ºñÁî´Ï½º Ä¿¹Â´ÏÄÉÀÌ¼Ç ¿øÈ°
+- Àü¹® ¹®¼­ ¹ø¿ª ½Ã°£ ´ÜÃà
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| translate | ë²ˆì—­ ì—”ì§„ | `openclaw skill install translate` |
-| deepl | DeepL API | `openclaw skill install deepl` |
-| glossary | ìš©ì–´ ì‚¬ì „ | `openclaw skill install glossary` |
+| translate | ¹ø¿ª ¿£Áø | `clawhub install translate` |
+| deepl | DeepL API | `clawhub install deepl` |
+| glossary | ¿ë¾î »çÀü | `clawhub install glossary` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ë²ˆì—­ ìŠ¤í‚¬ ì„¤ì •
+1´Ü°è: ¹ø¿ª ½ºÅ³ ¼³Á¤
 ```bash
-openclaw skill install translate deepl
+clawhub install translate deepl
 openclaw skill config translate
 ```
 
-2ë‹¨ê³„: ì–¸ì–´ ìŒ ì„¤ì •
+2´Ü°è: ¾ð¾î ½Ö ¼³Á¤
 ```json
 {
   "translate": {
@@ -981,64 +981,64 @@ openclaw skill config translate
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: ë²ˆì—­: Please find the attached proposal for your review.
+User: ¹ø¿ª: Please find the attached proposal for your review.
 
 OpenClaw:
-ðŸŒ ë²ˆì—­ ì™„ë£Œ
+?? ¹ø¿ª ¿Ï·á
 
-ì˜ì–´ â†’ í•œêµ­ì–´:
-"ê²€í† ë¥¼ ìœ„í•´ ì²¨ë¶€ëœ ì œì•ˆì„œë¥¼ í™•ì¸í•´ ì£¼ì‹œê¸° ë°”ëžë‹ˆë‹¤."
+¿µ¾î ¡æ ÇÑ±¹¾î:
+"°ËÅä¸¦ À§ÇØ Ã·ºÎµÈ Á¦¾È¼­¸¦ È®ÀÎÇØ ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù."
 
-ðŸ“ ëŒ€ì²´ ë²ˆì—­:
-- ì •ì‹: "ì²¨ë¶€ëœ ì œì•ˆì„œë¥¼ ê²€í† í•´ ì£¼ì‹œë©´ ê°ì‚¬í•˜ê² ìŠµë‹ˆë‹¤."
-- ê°„ê²°: "ì²¨ë¶€ ì œì•ˆì„œ ê²€í†  ë¶€íƒë“œë¦½ë‹ˆë‹¤."
+?? ´ëÃ¼ ¹ø¿ª:
+- Á¤½Ä: "Ã·ºÎµÈ Á¦¾È¼­¸¦ °ËÅäÇØ ÁÖ½Ã¸é °¨»çÇÏ°Ú½À´Ï´Ù."
+- °£°á: "Ã·ºÎ Á¦¾È¼­ °ËÅä ºÎÅ¹µå¸³´Ï´Ù."
 
-ðŸ”¤ ì „ë¬¸ ìš©ì–´:
-- proposal: ì œì•ˆì„œ, ê¸°íšì•ˆ
-- review: ê²€í† , ì‹¬ì‚¬
+?? Àü¹® ¿ë¾î:
+- proposal: Á¦¾È¼­, ±âÈ¹¾È
+- review: °ËÅä, ½É»ç
 
-ðŸ’¾ ìš©ì–´ ì‚¬ì „ì— ì¶”ê°€í• ê¹Œìš”?
+?? ¿ë¾î »çÀü¿¡ Ãß°¡ÇÒ±î¿ä?
 ```
 
 ---
 
-## ðŸŸ¡ ì¤‘ê¸‰ ë ˆë²¨ (26-50)
+## ?? Áß±Þ ·¹º§ (26-50)
 
-> ê¶Œìž¥: ì´ˆê¸‰ ì‚¬ë¡€ 3ê°œ ì´ìƒ ê²½í—˜ í›„ ë„ì „í•˜ì„¸ìš”. ì¶”ê°€ ì„¤ì •ê³¼ API í‚¤ê°€ í•„ìš”í•©ë‹ˆë‹¤.
+> ±ÇÀå: ÃÊ±Þ »ç·Ê 3°³ ÀÌ»ó °æÇè ÈÄ µµÀüÇÏ¼¼¿ä. Ãß°¡ ¼³Á¤°ú API Å°°¡ ÇÊ¿äÇÕ´Ï´Ù.
 
 ---
 
-### ðŸ’¼ ì—…ë¬´ & ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”
+### ?? ¾÷¹« & ºñÁî´Ï½º ÀÚµ¿È­
 
-#### 15. íšŒì˜ ë…¹ìŒ ì „ì‚¬ + ì•¡ì…˜ ì•„ì´í…œ ì¶”ì¶œ ðŸŸ¡
+#### 15. È¸ÀÇ ³ìÀ½ Àü»ç + ¾×¼Ç ¾ÆÀÌÅÛ ÃßÃâ ??
 
-ðŸ“– ì„¤ëª…
-Zoom íšŒì˜ë‚˜ ì˜¤í”„ë¼ì¸ ë¯¸íŒ…ì˜ ë…¹ìŒ íŒŒì¼ì„ ì—…ë¡œë“œí•˜ë©´ í™”ìžë¥¼ êµ¬ë¶„í•˜ì—¬ ì „ì‚¬í•˜ê³ , í•µì‹¬ ë‚´ìš©ì„ ìš”ì•½í•˜ë©°, ì•¡ì…˜ ì•„ì´í…œ(í•  ì¼, ë‹´ë‹¹ìž, ë§ˆê°ì¼)ì„ ìžë™ìœ¼ë¡œ ì¶”ì¶œí•©ë‹ˆë‹¤.
+?? ¼³¸í
+Zoom È¸ÀÇ³ª ¿ÀÇÁ¶óÀÎ ¹ÌÆÃÀÇ ³ìÀ½ ÆÄÀÏÀ» ¾÷·ÎµåÇÏ¸é È­ÀÚ¸¦ ±¸ºÐÇÏ¿© Àü»çÇÏ°í, ÇÙ½É ³»¿ëÀ» ¿ä¾àÇÏ¸ç, ¾×¼Ç ¾ÆÀÌÅÛ(ÇÒ ÀÏ, ´ã´çÀÚ, ¸¶°¨ÀÏ)À» ÀÚµ¿À¸·Î ÃßÃâÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- íšŒì˜ë¡ ìž‘ì„± ì‹œê°„ 80% ì ˆì•½
-- ì•¡ì…˜ ì•„ì´í…œ ëˆ„ë½ ë°©ì§€
-- í™”ìžë³„ ë°œì–¸ ë‚´ìš© ì¶”ì 
+?? È°¿ë È¿°ú
+- È¸ÀÇ·Ï ÀÛ¼º ½Ã°£ 80% Àý¾à
+- ¾×¼Ç ¾ÆÀÌÅÛ ´©¶ô ¹æÁö
+- È­ÀÚº° ¹ß¾ð ³»¿ë ÃßÀû
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| audio | ì˜¤ë””ì˜¤ ì²˜ë¦¬ | `openclaw skill install audio` |
-| whisper | ìŒì„± ì¸ì‹ | `openclaw skill install whisper` |
-| speaker-diarization | í™”ìž êµ¬ë¶„ | `openclaw skill install speaker-diarization` |
-| summarizer | ìš”ì•½ | `openclaw skill install summarizer` |
-| tasks | í•  ì¼ ê´€ë¦¬ | `openclaw skill install tasks` |
+| audio | ¿Àµð¿À Ã³¸® | `clawhub install audio` |
+| whisper | À½¼º ÀÎ½Ä | `clawhub install whisper` |
+| speaker-diarization | È­ÀÚ ±¸ºÐ | `clawhub install speaker-diarization` |
+| summarizer | ¿ä¾à | `clawhub install summarizer` |
+| tasks | ÇÒ ÀÏ °ü¸® | `clawhub install tasks` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ê³ ê¸‰ ìŒì„± ì²˜ë¦¬ ì„¤ì •
+1´Ü°è: °í±Þ À½¼º Ã³¸® ¼³Á¤
 ```bash
-openclaw skill install audio whisper speaker-diarization summarizer tasks
+clawhub install audio whisper speaker-diarization summarizer tasks
 ```
 
-2ë‹¨ê³„: íšŒì˜ í…œí”Œë¦¿ ì„¤ì •
+2´Ü°è: È¸ÀÇ ÅÛÇÃ¸´ ¼³Á¤
 ```json
 {
   "meeting": {
@@ -1049,22 +1049,22 @@ openclaw skill install audio whisper speaker-diarization summarizer tasks
     "participants": {
       "recognition": true,
       "voiceProfiles": {
-        "ê¹€ëŒ€ë¦¬": "voice_kim.wav",
-        "ì´ê³¼ìž¥": "voice_lee.wav"
+        "±è´ë¸®": "voice_kim.wav",
+        "ÀÌ°úÀå": "voice_lee.wav"
       }
     }
   }
 }
 ```
 
-3ë‹¨ê³„: í›„ì²˜ë¦¬ ê·œì¹™
+3´Ü°è: ÈÄÃ³¸® ±ÔÄ¢
 ```javascript
 // meeting-processor.js
 module.exports = async (agent, transcript) => {
-  // ì•¡ì…˜ ì•„ì´í…œ ì¶”ì¶œ
+  // ¾×¼Ç ¾ÆÀÌÅÛ ÃßÃâ
   const actions = await agent.nlp.extractActions(transcript.text);
   
-  // ë‹´ë‹¹ìž ë§¤í•‘
+  // ´ã´çÀÚ ¸ÅÇÎ
   for (const action of actions) {
     if (action.assignee === 'unknown') {
       action.assignee = await agent.memory.findPerson(action.context);
@@ -1079,78 +1079,78 @@ module.exports = async (agent, transcript) => {
 };
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: (íšŒì˜ ë…¹ìŒ íŒŒì¼ 25ë¶„ ì²¨ë¶€)
+User: (È¸ÀÇ ³ìÀ½ ÆÄÀÏ 25ºÐ Ã·ºÎ)
 
 OpenClaw:
-ðŸŽ™ï¸ íšŒì˜ ì „ì‚¬ ì™„ë£Œ
+??? È¸ÀÇ Àü»ç ¿Ï·á
 
-ðŸ“Š ë¶„ì„ ê²°ê³¼:
-- ì´ ì‹œê°„: 25ë¶„ 30ì´ˆ
-- í™”ìž: 4ëª… (ê¹€ëŒ€ë¦¬, ì´ê³¼ìž¥, ë°•ì°¨ìž¥, ì™¸ë¶€ ê¹€ìƒë¬´)
-- ë°œì–¸ëŸ‰: ì´ê³¼ìž¥(40%), ë°•ì°¨ìž¥(25%), ê¹€ëŒ€ë¦¬(20%), ê¹€ìƒë¬´(15%)
+?? ºÐ¼® °á°ú:
+- ÃÑ ½Ã°£: 25ºÐ 30ÃÊ
+- È­ÀÚ: 4¸í (±è´ë¸®, ÀÌ°úÀå, ¹ÚÂ÷Àå, ¿ÜºÎ ±è»ó¹«)
+- ¹ß¾ð·®: ÀÌ°úÀå(40%), ¹ÚÂ÷Àå(25%), ±è´ë¸®(20%), ±è»ó¹«(15%)
 
-ðŸ“ ìš”ì•½:
-Q2 ë§ˆì¼€íŒ… ì „ëžµ íšŒì˜. 
-ì‹ ê·œ ìº íŽ˜ì¸ 2ê°œ ìŠ¹ì¸, ì˜ˆì‚° â‚©5ì–µ í™•ì •.
-ë°•ì°¨ìž¥ì´ ì´ê´„í•˜ë©° 3ì›” ì²«ì§¸ ì£¼ ë¡ ì¹­ ì˜ˆì •.
+?? ¿ä¾à:
+Q2 ¸¶ÄÉÆÃ Àü·« È¸ÀÇ. 
+½Å±Ô Ä·ÆäÀÎ 2°³ ½ÂÀÎ, ¿¹»ê \5¾ï È®Á¤.
+¹ÚÂ÷ÀåÀÌ ÃÑ°ýÇÏ¸ç 3¿ù Ã¹Â° ÁÖ ·ÐÄª ¿¹Á¤.
 
-âœ… ì•¡ì…˜ ì•„ì´í…œ:
+? ¾×¼Ç ¾ÆÀÌÅÛ:
 
-1. ðŸ“ ìº íŽ˜ì¸ ê¸°íšì•ˆ ìž‘ì„±
-   ë‹´ë‹¹: ê¹€ëŒ€ë¦¬
-   ë§ˆê°: 3ì›” 1ì¼
-   ë‚´ìš©: SNS ìº íŽ˜ì¸ ê¸°íšì•ˆ ì´ˆì•ˆ
+1. ?? Ä·ÆäÀÎ ±âÈ¹¾È ÀÛ¼º
+   ´ã´ç: ±è´ë¸®
+   ¸¶°¨: 3¿ù 1ÀÏ
+   ³»¿ë: SNS Ä·ÆäÀÎ ±âÈ¹¾È ÃÊ¾È
 
-2. ðŸ’° ì˜ˆì‚° ì„¸ë¶€ì•ˆ ì‚°ì¶œ
-   ë‹´ë‹¹: ì´ê³¼ìž¥
-   ë§ˆê°: 2ì›” 28ì¼
-   ë‚´ìš©: ì±„ë„ë³„ ì˜ˆì‚° ë°°ë¶„í‘œ
+2. ?? ¿¹»ê ¼¼ºÎ¾È »êÃâ
+   ´ã´ç: ÀÌ°úÀå
+   ¸¶°¨: 2¿ù 28ÀÏ
+   ³»¿ë: Ã¤³Îº° ¿¹»ê ¹èºÐÇ¥
 
-3. ðŸ¤ ì™¸ë¶€ ì—ì´ì „ì‹œ ê³„ì•½
-   ë‹´ë‹¹: ë°•ì°¨ìž¥
-   ë§ˆê°: 3ì›” 5ì¼
-   ë‚´ìš©: 3ì‚¬ ê²¬ì  ë¹„êµ í›„ ê³„ì•½
+3. ?? ¿ÜºÎ ¿¡ÀÌÀü½Ã °è¾à
+   ´ã´ç: ¹ÚÂ÷Àå
+   ¸¶°¨: 3¿ù 5ÀÏ
+   ³»¿ë: 3»ç °ßÀû ºñ±³ ÈÄ °è¾à
 
-ðŸ“§ ìžë™ ë°œì†¡ ì™„ë£Œ:
-   - ì°¸ì„ìž ì „ì›ì—ê²Œ íšŒì˜ë¡ ì „ì†¡
-   - ì•¡ì…˜ ì•„ì´í…œ ë‹´ë‹¹ìžì—ê²Œ ê°œë³„ ì•Œë¦¼
+?? ÀÚµ¿ ¹ß¼Û ¿Ï·á:
+   - Âü¼®ÀÚ Àü¿ø¿¡°Ô È¸ÀÇ·Ï Àü¼Û
+   - ¾×¼Ç ¾ÆÀÌÅÛ ´ã´çÀÚ¿¡°Ô °³º° ¾Ë¸²
 
-ðŸ“Ž Notionì— íšŒì˜ë¡ ì €ìž¥ ì™„ë£Œ
-   ë§í¬: [íšŒì˜ë¡ íŽ˜ì´ì§€]
+?? Notion¿¡ È¸ÀÇ·Ï ÀúÀå ¿Ï·á
+   ¸µÅ©: [È¸ÀÇ·Ï ÆäÀÌÁö]
 ```
 
 ---
 
-#### 16. GitHub PR ì½”ë“œ ë¦¬ë·° ìžë™í™” ðŸŸ¡
+#### 16. GitHub PR ÄÚµå ¸®ºä ÀÚµ¿È­ ??
 
-ðŸ“– ì„¤ëª…
-GitHub PR ë§í¬ë¥¼ ì£¼ë©´ ë³€ê²½ì‚¬í•­ì„ ë¶„ì„í•˜ì—¬ ì½”ë“œ í’ˆì§ˆ ë¬¸ì œì ì„ ì§€ì í•˜ê³ , ë¦¬ë·° ì½”ë©˜íŠ¸ ì´ˆì•ˆì„ ìž‘ì„±í•˜ë©°, ìŠ¹ì¸/ê±°ë¶€ íŒë‹¨ê¹Œì§€ Telegramì´ë‚˜ Slackìœ¼ë¡œ ì „ì†¡í•©ë‹ˆë‹¤.
+?? ¼³¸í
+GitHub PR ¸µÅ©¸¦ ÁÖ¸é º¯°æ»çÇ×À» ºÐ¼®ÇÏ¿© ÄÚµå Ç°Áú ¹®Á¦Á¡À» ÁöÀûÇÏ°í, ¸®ºä ÄÚ¸àÆ® ÃÊ¾ÈÀ» ÀÛ¼ºÇÏ¸ç, ½ÂÀÎ/°ÅºÎ ÆÇ´Ü±îÁö TelegramÀÌ³ª SlackÀ¸·Î Àü¼ÛÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì½”ë“œ ë¦¬ë·° ì‹œê°„ 50% ë‹¨ì¶•
-- ì¼ê´€ëœ ë¦¬ë·° í’ˆì§ˆ
-- ë³´ì•ˆ ì·¨ì•½ì  ì¡°ê¸° ë°œê²¬
+?? È°¿ë È¿°ú
+- ÄÚµå ¸®ºä ½Ã°£ 50% ´ÜÃà
+- ÀÏ°üµÈ ¸®ºä Ç°Áú
+- º¸¾È Ãë¾àÁ¡ Á¶±â ¹ß°ß
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| github | GitHub API | `openclaw skill install github` |
-| code-review | ì½”ë“œ ë¶„ì„ | `openclaw skill install code-review` |
-| security | ë³´ì•ˆ ê²€ì‚¬ | `openclaw skill install security` |
-| telegram | Telegram ì•Œë¦¼ | `openclaw skill install telegram` |
+| github | GitHub API | `clawhub install github` |
+| code-review | ÄÚµå ºÐ¼® | `clawhub install code-review` |
+| security | º¸¾È °Ë»ç | `clawhub install security` |
+| telegram | Telegram ¾Ë¸² | `clawhub install telegram` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: GitHub ì—°ë™
+1´Ü°è: GitHub ¿¬µ¿
 ```bash
-openclaw skill install github code-review security telegram
+clawhub install github code-review security telegram
 openclaw skill auth github
-# GitHub Personal Access Token (repo ê¶Œí•œ)
+# GitHub Personal Access Token (repo ±ÇÇÑ)
 ```
 
-2ë‹¨ê³„: ë¦¬ë·° ê·œì¹™ ì„¤ì •
+2´Ü°è: ¸®ºä ±ÔÄ¢ ¼³Á¤
 ```json
 {
   "github": {
@@ -1173,17 +1173,17 @@ openclaw skill auth github
 }
 ```
 
-3ë‹¨ê³„: PR ì›Œí¬í”Œë¡œìš°
+3´Ü°è: PR ¿öÅ©ÇÃ·Î¿ì
 ```javascript
 // pr-review.js
 module.exports = async (agent, pr) => {
-  // ì½”ë“œ ë¶„ì„
+  // ÄÚµå ºÐ¼®
   const analysis = await agent.codeReview.analyze(pr.diff);
   
-  // ë³´ì•ˆ ê²€ì‚¬
+  // º¸¾È °Ë»ç
   const security = await agent.security.scan(pr.diff);
   
-  // ë¦¬ë·° ì´ˆì•ˆ ìƒì„±
+  // ¸®ºä ÃÊ¾È »ý¼º
   const review = {
     summary: analysis.summary,
     issues: [...analysis.issues, ...security.vulnerabilities],
@@ -1191,84 +1191,84 @@ module.exports = async (agent, pr) => {
     approve: analysis.score > 80 && !security.critical
   };
   
-  // Telegramìœ¼ë¡œ ì „ì†¡
+  // TelegramÀ¸·Î Àü¼Û
   await agent.telegram.send(process.env.REVIEW_CHAT_ID, formatReview(review));
   
   return review;
 };
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-GitHub Webhook (ìžë™):
-ðŸ“¦ ìƒˆ PR ìƒì„±ë¨
+GitHub Webhook (ÀÚµ¿):
+?? »õ PR »ý¼ºµÊ
 Repo: mycompany/web-app
-PR: #123 ê¸°ëŠ¥: ê²°ì œ ëª¨ë“ˆ ì¶”ê°€
-ìž‘ì„±ìž: @dev-junior
+PR: #123 ±â´É: °áÁ¦ ¸ðµâ Ãß°¡
+ÀÛ¼ºÀÚ: @dev-junior
 
-OpenClaw (ìžë™ ë¦¬ë·°):
-ðŸ” PR ë¦¬ë·° ì™„ë£Œ: #123
+OpenClaw (ÀÚµ¿ ¸®ºä):
+?? PR ¸®ºä ¿Ï·á: #123
 
-ðŸ“Š ì½”ë“œ í’ˆì§ˆ ì ìˆ˜: 72/100
+?? ÄÚµå Ç°Áú Á¡¼ö: 72/100
 
-âš ï¸ ë°œê²¬ëœ ë¬¸ì œ:
+?? ¹ß°ßµÈ ¹®Á¦:
 
-[ë³´ì•ˆ] CRITICAL
-- í•˜ë“œì½”ë”©ëœ API í‚¤ ë°œê²¬ (src/config.js:15)
-  â†’ í™˜ê²½ ë³€ìˆ˜ë¡œ ì´ë™ í•„ìš”
+[º¸¾È] CRITICAL
+- ÇÏµåÄÚµùµÈ API Å° ¹ß°ß (src/config.js:15)
+  ¡æ È¯°æ º¯¼ö·Î ÀÌµ¿ ÇÊ¿ä
 
-[ì½”ë“œí’ˆì§ˆ] WARNING x3
-- ì¤‘ë³µ ì½”ë“œ: ê²°ì œ ê²€ì¦ ë¡œì§ (utils.js:45, 89)
-  â†’ ë³„ë„ í•¨ìˆ˜ë¡œ ì¶”ì¶œ ê¶Œìž¥
-- ì£¼ì„ ì—†ëŠ” ë³µìž¡í•œ ë¡œì§ (payment.js:120-150)
-- í…ŒìŠ¤íŠ¸ ëˆ„ë½: ìƒˆë¡œìš´ 3ê°œ í•¨ìˆ˜
+[ÄÚµåÇ°Áú] WARNING x3
+- Áßº¹ ÄÚµå: °áÁ¦ °ËÁõ ·ÎÁ÷ (utils.js:45, 89)
+  ¡æ º°µµ ÇÔ¼ö·Î ÃßÃâ ±ÇÀå
+- ÁÖ¼® ¾ø´Â º¹ÀâÇÑ ·ÎÁ÷ (payment.js:120-150)
+- Å×½ºÆ® ´©¶ô: »õ·Î¿î 3°³ ÇÔ¼ö
 
-[ì„±ëŠ¥] INFO
-- ë°ì´í„°ë² ì´ìŠ¤ ì¿¼ë¦¬ N+1 ë¬¸ì œ ê°€ëŠ¥ì„±
-  â†’ eager loading ê³ ë ¤
+[¼º´É] INFO
+- µ¥ÀÌÅÍº£ÀÌ½º Äõ¸® N+1 ¹®Á¦ °¡´É¼º
+  ¡æ eager loading °í·Á
 
-âœ… ê°œì„  ì œì•ˆ:
-1. API í‚¤ ì¦‰ì‹œ ì œê±° í›„ í™˜ê²½ ë³€ìˆ˜ ì‚¬ìš©
-2. ì¤‘ë³µ ë¡œì§ ë¦¬íŒ©í† ë§
-3. í…ŒìŠ¤íŠ¸ ì½”ë“œ ì¶”ê°€ (ìµœì†Œ 80% ì»¤ë²„ë¦¬ì§€)
+? °³¼± Á¦¾È:
+1. API Å° Áï½Ã Á¦°Å ÈÄ È¯°æ º¯¼ö »ç¿ë
+2. Áßº¹ ·ÎÁ÷ ¸®ÆÑÅä¸µ
+3. Å×½ºÆ® ÄÚµå Ãß°¡ (ÃÖ¼Ò 80% Ä¿¹ö¸®Áö)
 
-ðŸ¤– AI ë¦¬ë·°ì–´ íŒë‹¨: CHANGES_REQUESTED
-   ìˆ˜ë™ ë¦¬ë·° í•„ìš”: ë³´ì•ˆ ì´ìŠˆ ì¡´ìž¬
+?? AI ¸®ºä¾î ÆÇ´Ü: CHANGES_REQUESTED
+   ¼öµ¿ ¸®ºä ÇÊ¿ä: º¸¾È ÀÌ½´ Á¸Àç
 
-[ë¦¬ë·°í•˜ëŸ¬ ê°€ê¸°] [ë³€ê²½ì‚¬í•­ ë³´ê¸°] [ì½”ë©˜íŠ¸ ìž‘ì„±]
+[¸®ºäÇÏ·¯ °¡±â] [º¯°æ»çÇ× º¸±â] [ÄÚ¸àÆ® ÀÛ¼º]
 ```
 
 ---
 
-#### 17. ì‹ ê·œ ê³ ê° ì˜¨ë³´ë”© í’€ ìžë™í™” ðŸŸ¡
+#### 17. ½Å±Ô °í°´ ¿Âº¸µù Ç® ÀÚµ¿È­ ??
 
-ðŸ“– ì„¤ëª…
-ìƒˆ ê³ ê° ì •ë³´ê°€ ìž…ë ¥ë˜ë©´ í´ë” ìƒì„± â†’ í™˜ì˜ ì´ë©”ì¼ ë°œì†¡ â†’ ë¯¸íŒ… ì˜ˆì•½ â†’ íƒœìŠ¤í¬ ìƒì„± â†’ CRM ì—…ë°ì´íŠ¸ê¹Œì§€ ìžë™ìœ¼ë¡œ ì²˜ë¦¬í•©ë‹ˆë‹¤. ê³ ê°ì´ ì „í™”ë¥¼ ëŠëŠ” ìˆœê°„ ëª¨ë“  ì¤€ë¹„ê°€ ì™„ë£Œë©ë‹ˆë‹¤.
+?? ¼³¸í
+»õ °í°´ Á¤º¸°¡ ÀÔ·ÂµÇ¸é Æú´õ »ý¼º ¡æ È¯¿µ ÀÌ¸ÞÀÏ ¹ß¼Û ¡æ ¹ÌÆÃ ¿¹¾à ¡æ ÅÂ½ºÅ© »ý¼º ¡æ CRM ¾÷µ¥ÀÌÆ®±îÁö ÀÚµ¿À¸·Î Ã³¸®ÇÕ´Ï´Ù. °í°´ÀÌ ÀüÈ­¸¦ ²÷´Â ¼ø°£ ¸ðµç ÁØºñ°¡ ¿Ï·áµË´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì˜¨ë³´ë”© ì‹œê°„ 80% ë‹¨ì¶•
-- ê³ ê° ê²½í—˜ í–¥ìƒ
-- ì—…ë¬´ ëˆ„ë½ ë°©ì§€
+?? È°¿ë È¿°ú
+- ¿Âº¸µù ½Ã°£ 80% ´ÜÃà
+- °í°´ °æÇè Çâ»ó
+- ¾÷¹« ´©¶ô ¹æÁö
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| crm | CRM ì—°ë™ | `openclaw skill install crm` |
-| email | ì´ë©”ì¼ ë°œì†¡ | `openclaw skill install email` |
-| calendar | ìº˜ë¦°ë” ì˜ˆì•½ | `openclaw skill install calendar` |
-| drive | êµ¬ê¸€ ë“œë¼ì´ë¸Œ | `openclaw skill install drive` |
-| tasks | í•  ì¼ ê´€ë¦¬ | `openclaw skill install tasks` |
+| crm | CRM ¿¬µ¿ | `clawhub install crm` |
+| email | ÀÌ¸ÞÀÏ ¹ß¼Û | `clawhub install email` |
+| calendar | Ä¶¸°´õ ¿¹¾à | `clawhub install calendar` |
+| drive | ±¸±Û µå¶óÀÌºê | `clawhub install drive` |
+| tasks | ÇÒ ÀÏ °ü¸® | `clawhub install tasks` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: í†µí•© ì„¤ì •
+1´Ü°è: ÅëÇÕ ¼³Á¤
 ```bash
-openclaw skill install crm email calendar drive tasks
+clawhub install crm email calendar drive tasks
 openclaw skill auth crm
 openclaw skill auth drive
 ```
 
-2ë‹¨ê³„: ì˜¨ë³´ë”© ì›Œí¬í”Œë¡œìš°
+2´Ü°è: ¿Âº¸µù ¿öÅ©ÇÃ·Î¿ì
 ```json
 {
   "onboarding": {
@@ -1287,7 +1287,7 @@ openclaw skill auth drive
       {
         "action": "createTask",
         "assignee": "account_manager",
-        "title": "{customer.name} ì´ˆê¸° ë¯¸íŒ… ì¤€ë¹„"
+        "title": "{customer.name} ÃÊ±â ¹ÌÆÃ ÁØºñ"
       },
       {
         "action": "scheduleMeeting",
@@ -1299,77 +1299,77 @@ openclaw skill auth drive
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-CRM (ìžë™ íŠ¸ë¦¬ê±°):
-ðŸ†• ì‹ ê·œ ê³ ê° ë“±ë¡: (ì£¼)í…Œí¬ì†”ë£¨ì…˜
-ë‹´ë‹¹ìž: ê¹€ëŒ€í‘œ
-ì´ë©”ì¼: ceo@techsol.com
-ì—…ì¢…: IT ì„œë¹„ìŠ¤
-ê·œëª¨: 50ëª…
+CRM (ÀÚµ¿ Æ®¸®°Å):
+?? ½Å±Ô °í°´ µî·Ï: (ÁÖ)Å×Å©¼Ö·ç¼Ç
+´ã´çÀÚ: ±è´ëÇ¥
+ÀÌ¸ÞÀÏ: ceo@techsol.com
+¾÷Á¾: IT ¼­ºñ½º
+±Ô¸ð: 50¸í
 
-OpenClaw (ìžë™ ì‹¤í–‰):
-ðŸš€ ì˜¨ë³´ë”© í”„ë¡œì„¸ìŠ¤ ì‹œìž‘
+OpenClaw (ÀÚµ¿ ½ÇÇà):
+?? ¿Âº¸µù ÇÁ·Î¼¼½º ½ÃÀÛ
 
-1ï¸âƒ£ í´ë” ìƒì„± âœ…
-   êµ¬ê¸€ ë“œë¼ì´ë¸Œ: /Customers/í…Œí¬ì†”ë£¨ì…˜/
-   - ê³„ì•½ì„œ/
-   - ë¯¸íŒ…ë…¸íŠ¸/
-   - ìžë£Œ/
+1?? Æú´õ »ý¼º ?
+   ±¸±Û µå¶óÀÌºê: /Customers/Å×Å©¼Ö·ç¼Ç/
+   - °è¾à¼­/
+   - ¹ÌÆÃ³ëÆ®/
+   - ÀÚ·á/
 
-2ï¸âƒ£ í™˜ì˜ ì´ë©”ì¼ ë°œì†¡ âœ…
-   ìˆ˜ì‹ : ceo@techsol.com
-   ì œëª©: í™˜ì˜í•©ë‹ˆë‹¤! í•¨ê»˜ ì„±ìž¥í•´ ë‚˜ê°€ìš”
-   í…œí”Œë¦¿: enterprise_welcome
+2?? È¯¿µ ÀÌ¸ÞÀÏ ¹ß¼Û ?
+   ¼ö½Å: ceo@techsol.com
+   Á¦¸ñ: È¯¿µÇÕ´Ï´Ù! ÇÔ²² ¼ºÀåÇØ ³ª°¡¿ä
+   ÅÛÇÃ¸´: enterprise_welcome
 
-3ï¸âƒ£ íƒœìŠ¤í¬ ìƒì„± âœ…
-   - [ ] ê³„ì • ë§¤ë‹ˆì € ë°°ì • (ê¹€ê³¼ìž¥ ìžë™ í• ë‹¹)
-   - [ ] ì´ˆê¸° ë‹ˆì¦ˆ ë¶„ì„ (3ì¼ ë‚´)
-   - [ ] ë§žì¶¤ ì†”ë£¨ì…˜ ì œì•ˆì„œ ìž‘ì„± (1ì£¼ì¼ ë‚´)
+3?? ÅÂ½ºÅ© »ý¼º ?
+   - [ ] °èÁ¤ ¸Å´ÏÀú ¹èÁ¤ (±è°úÀå ÀÚµ¿ ÇÒ´ç)
+   - [ ] ÃÊ±â ´ÏÁî ºÐ¼® (3ÀÏ ³»)
+   - [ ] ¸ÂÃã ¼Ö·ç¼Ç Á¦¾È¼­ ÀÛ¼º (1ÁÖÀÏ ³»)
 
-4ï¸âƒ£ ë¯¸íŒ… ì˜ˆì•½ âœ…
-   ì¢…ë¥˜: í‚¥ì˜¤í”„ ë¯¸íŒ…
-   ì œì•ˆ: 2ì›” 28ì¼ ì˜¤ì „ 10ì‹œ, 3ì›” 1ì¼ ì˜¤í›„ 2ì‹œ
-   (ê³ ê°ì—ê²Œ ìº˜ë¦°ë” ì´ˆëŒ€ ë°œì†¡)
+4?? ¹ÌÆÃ ¿¹¾à ?
+   Á¾·ù: Å±¿ÀÇÁ ¹ÌÆÃ
+   Á¦¾È: 2¿ù 28ÀÏ ¿ÀÀü 10½Ã, 3¿ù 1ÀÏ ¿ÀÈÄ 2½Ã
+   (°í°´¿¡°Ô Ä¶¸°´õ ÃÊ´ë ¹ß¼Û)
 
-5ï¸âƒ£ CRM ì—…ë°ì´íŠ¸ âœ…
-   ìƒíƒœ: ì˜¨ë³´ë”© ì§„í–‰ ì¤‘
-   ë‹¤ìŒ ì•¡ì…˜: í‚¥ì˜¤í”„ ë¯¸íŒ…
-   ì˜ˆìƒ ë§¤ì¶œ: â‚©5,000,000/ì›”
+5?? CRM ¾÷µ¥ÀÌÆ® ?
+   »óÅÂ: ¿Âº¸µù ÁøÇà Áß
+   ´ÙÀ½ ¾×¼Ç: Å±¿ÀÇÁ ¹ÌÆÃ
+   ¿¹»ó ¸ÅÃâ: \5,000,000/¿ù
 
-ðŸ“Š ì´ ì†Œìš” ì‹œê°„: 45ì´ˆ
+?? ÃÑ ¼Ò¿ä ½Ã°£: 45ÃÊ
 ```
 
 ---
 
-### ðŸ”§ ê°œë°œ & DevOps ìžë™í™”
+### ?? °³¹ß & DevOps ÀÚµ¿È­
 
-#### 18. DevOps ë°˜ë³µì—…ë¬´ ë©”ì‹ ì € ìžë™í™” ðŸŸ¡
+#### 18. DevOps ¹Ýº¹¾÷¹« ¸Þ½ÅÀú ÀÚµ¿È­ ??
 
-ðŸ“– ì„¤ëª…
-ì—ëŸ¬ ë¡œê·¸ ëª¨ë‹ˆí„°ë§, ì˜ì¡´ì„± ì—…ë°ì´íŠ¸ ì•Œë¦¼, ì„œë²„ ìƒíƒœ ì²´í¬ ë“± ë°˜ë³µì ì¸ DevOps ìž‘ì—…ì„ í„°ë¯¸ë„ ì—†ì´ ë©”ì‹ ì €ë¡œ ì²˜ë¦¬í•©ë‹ˆë‹¤. ì„œë²„ ë¬¸ì œ ë°œìƒ ì‹œ ì¦‰ì‹œ ì•Œë¦¼ì„ ë°›ê³  ê°„ë‹¨í•œ ëª…ë ¹ìœ¼ë¡œ ëŒ€ì‘í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+?? ¼³¸í
+¿¡·¯ ·Î±× ¸ð´ÏÅÍ¸µ, ÀÇÁ¸¼º ¾÷µ¥ÀÌÆ® ¾Ë¸², ¼­¹ö »óÅÂ Ã¼Å© µî ¹Ýº¹ÀûÀÎ DevOps ÀÛ¾÷À» ÅÍ¹Ì³Î ¾øÀÌ ¸Þ½ÅÀú·Î Ã³¸®ÇÕ´Ï´Ù. ¼­¹ö ¹®Á¦ ¹ß»ý ½Ã Áï½Ã ¾Ë¸²À» ¹Þ°í °£´ÜÇÑ ¸í·ÉÀ¸·Î ´ëÀÀÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ìž¥ì•  ëŒ€ì‘ ì‹œê°„ ë‹¨ì¶•
-- ë°˜ë³µ ìž‘ì—… ìžë™í™”
-- 24/7 ëª¨ë‹ˆí„°ë§
+?? È°¿ë È¿°ú
+- Àå¾Ö ´ëÀÀ ½Ã°£ ´ÜÃà
+- ¹Ýº¹ ÀÛ¾÷ ÀÚµ¿È­
+- 24/7 ¸ð´ÏÅÍ¸µ
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| monitoring | ì„œë²„ ëª¨ë‹ˆí„°ë§ | `openclaw skill install monitoring` |
-| logs | ë¡œê·¸ ë¶„ì„ | `openclaw skill install logs` |
-| terminal | ëª…ë ¹ ì‹¤í–‰ | `openclaw skill install terminal` |
-| slack | Slack ì•Œë¦¼ | `openclaw skill install slack` |
+| monitoring | ¼­¹ö ¸ð´ÏÅÍ¸µ | `clawhub install monitoring` |
+| logs | ·Î±× ºÐ¼® | `clawhub install logs` |
+| terminal | ¸í·É ½ÇÇà | `clawhub install terminal` |
+| slack | Slack ¾Ë¸² | `clawhub install slack` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ëª¨ë‹ˆí„°ë§ ì„¤ì •
+1´Ü°è: ¸ð´ÏÅÍ¸µ ¼³Á¤
 ```bash
-openclaw skill install monitoring logs terminal slack
+clawhub install monitoring logs terminal slack
 ```
 
-2ë‹¨ê³„: ì•Œë¦¼ ê·œì¹™
+2´Ü°è: ¾Ë¸² ±ÔÄ¢
 ```json
 {
   "monitoring": {
@@ -1389,71 +1389,71 @@ openclaw skill install monitoring logs terminal slack
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-OpenClaw (ìžë™ ì•Œë¦¼):
-ðŸš¨ ìž¥ì•  ê°ì§€: production-api
+OpenClaw (ÀÚµ¿ ¾Ë¸²):
+?? Àå¾Ö °¨Áö: production-api
 
-CPU ì‚¬ìš©ë¥ : 85% (ìž„ê³„ê°’: 80%)
-ì§€ì† ì‹œê°„: 6ë¶„
+CPU »ç¿ë·ü: 85% (ÀÓ°è°ª: 80%)
+Áö¼Ó ½Ã°£: 6ºÐ
 
-ðŸ” ìžë™ ë¶„ì„:
-- ìƒìœ„ í”„ë¡œì„¸ìŠ¤: node (PID 1234) - 60%
-- ìµœê·¼ ë°°í¬: v2.3.1 (2ì‹œê°„ ì „)
-- ì—ëŸ¬ ë¡œê·¸ ì¦ê°€: 400% (ì§€ë‚œ 30ë¶„)
+?? ÀÚµ¿ ºÐ¼®:
+- »óÀ§ ÇÁ·Î¼¼½º: node (PID 1234) - 60%
+- ÃÖ±Ù ¹èÆ÷: v2.3.1 (2½Ã°£ Àü)
+- ¿¡·¯ ·Î±× Áõ°¡: 400% (Áö³­ 30ºÐ)
 
-ðŸ’¡ ì¶”ì • ì›ì¸:
-   v2.3.1 ë°°í¬ í›„ ë©”ëª¨ë¦¬ ëˆ„ìˆ˜ ê°€ëŠ¥ì„±
+?? ÃßÁ¤ ¿øÀÎ:
+   v2.3.1 ¹èÆ÷ ÈÄ ¸Þ¸ð¸® ´©¼ö °¡´É¼º
 
-ðŸ”§ ìžë™ ì¡°ì¹˜ ì œì•ˆ:
-[1. ì„œë²„ ìž¬ì‹œìž‘] [2. ì´ì „ ë²„ì „ ë¡¤ë°±] [3. ìŠ¤ì¼€ì¼ì—…]
+?? ÀÚµ¿ Á¶Ä¡ Á¦¾È:
+[1. ¼­¹ö Àç½ÃÀÛ] [2. ÀÌÀü ¹öÀü ·Ñ¹é] [3. ½ºÄÉÀÏ¾÷]
 
-User: 2ë²ˆ í•´ì¤˜
+User: 2¹ø ÇØÁà
 
 OpenClaw:
-ðŸ”„ ë¡¤ë°± ì‹œìž‘: v2.3.1 â†’ v2.3.0
+?? ·Ñ¹é ½ÃÀÛ: v2.3.1 ¡æ v2.3.0
 
-1. ë¡¤ë°± í™•ì¸ âœ…
-2. ë°°í¬ ì¤‘... â³
-3. í—¬ìŠ¤ì²´í¬ ëŒ€ê¸°... â³
-4. ì™„ë£Œ âœ…
+1. ·Ñ¹é È®ÀÎ ?
+2. ¹èÆ÷ Áß... ?
+3. Çï½ºÃ¼Å© ´ë±â... ?
+4. ¿Ï·á ?
 
-âœ… ë¡¤ë°± ì™„ë£Œ (3ë¶„ 20ì´ˆ)
-CPU ì •ìƒí™”: 85% â†’ 35%
+? ·Ñ¹é ¿Ï·á (3ºÐ 20ÃÊ)
+CPU Á¤»óÈ­: 85% ¡æ 35%
 
-ðŸ“Š ì‚¬í›„ ì¡°ì¹˜:
-- v2.3.1 ë©”ëª¨ë¦¬ ëˆ„ìˆ˜ ì¡°ì‚¬ í•„ìš”
-- ê°œë°œíŒ€ì— ì•Œë¦¼ ë°œì†¡ ì™„ë£Œ
+?? »çÈÄ Á¶Ä¡:
+- v2.3.1 ¸Þ¸ð¸® ´©¼ö Á¶»ç ÇÊ¿ä
+- °³¹ßÆÀ¿¡ ¾Ë¸² ¹ß¼Û ¿Ï·á
 ```
 
 ---
 
-#### 19. ì„œë²„Â·í™ˆëž© í—¬ìŠ¤ ì²´í¬ & ìžê°€ ì¹˜ìœ  ðŸŸ¡
+#### 19. ¼­¹ö¡¤È¨·¦ Çï½º Ã¼Å© & ÀÚ°¡ Ä¡À¯ ??
 
-ðŸ“– ì„¤ëª…
-CPU, ë©”ëª¨ë¦¬, ë””ìŠ¤í¬ ì‚¬ìš©ëŸ‰ì„ ì§€ì†ì ìœ¼ë¡œ ëª¨ë‹ˆí„°ë§í•˜ê³ , ì´ìƒì´ ê°ì§€ë˜ë©´ ìžë™ìœ¼ë¡œ ì•Œë¦¼ì„ ë³´ë‚´ê³  ìž¬ì‹œìž‘ì´ë‚˜ ë¡¤ë°± ë“±ì˜ ì¡°ì¹˜ë¥¼ ì·¨í•©ë‹ˆë‹¤. ë¬´ì¸ ìš´ì˜ì´ ê°€ëŠ¥í•œ ìžê°€ ì¹˜ìœ  ì‹œìŠ¤í…œì„ êµ¬ì¶•í•©ë‹ˆë‹¤.
+?? ¼³¸í
+CPU, ¸Þ¸ð¸®, µð½ºÅ© »ç¿ë·®À» Áö¼ÓÀûÀ¸·Î ¸ð´ÏÅÍ¸µÇÏ°í, ÀÌ»óÀÌ °¨ÁöµÇ¸é ÀÚµ¿À¸·Î ¾Ë¸²À» º¸³»°í Àç½ÃÀÛÀÌ³ª ·Ñ¹é µîÀÇ Á¶Ä¡¸¦ ÃëÇÕ´Ï´Ù. ¹«ÀÎ ¿î¿µÀÌ °¡´ÉÇÑ ÀÚ°¡ Ä¡À¯ ½Ã½ºÅÛÀ» ±¸ÃàÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- 24/7 ì„œë²„ ì•ˆì •ì„± í™•ë³´
-- ìž¥ì•  ìžë™ ë³µêµ¬
-- ê´€ë¦¬ìž ê°œìž… ìµœì†Œí™”
+?? È°¿ë È¿°ú
+- 24/7 ¼­¹ö ¾ÈÁ¤¼º È®º¸
+- Àå¾Ö ÀÚµ¿ º¹±¸
+- °ü¸®ÀÚ °³ÀÔ ÃÖ¼ÒÈ­
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| health | í—¬ìŠ¤ ì²´í¬ | `openclaw skill install health` |
-| docker | Docker ê´€ë¦¬ | `openclaw skill install docker` |
-| systemd | ì„œë¹„ìŠ¤ ê´€ë¦¬ | `openclaw skill install systemd` |
-| healing | ìžë™ ë³µêµ¬ | `openclaw skill install healing` |
+| health | Çï½º Ã¼Å© | `clawhub install health` |
+| docker | Docker °ü¸® | `clawhub install docker` |
+| systemd | ¼­ºñ½º °ü¸® | `clawhub install systemd` |
+| healing | ÀÚµ¿ º¹±¸ | `clawhub install healing` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: í—¬ìŠ¤ ì²´í¬ ì„¤ì •
+1´Ü°è: Çï½º Ã¼Å© ¼³Á¤
 ```bash
-openclaw skill install health docker systemd healing
+clawhub install health docker systemd healing
 ```
 
-2ë‹¨ê³„: ìžê°€ ì¹˜ìœ  ì •ì±…
+2´Ü°è: ÀÚ°¡ Ä¡À¯ Á¤Ã¥
 ```json
 {
   "healing": {
@@ -1479,66 +1479,66 @@ openclaw skill install health docker systemd healing
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-OpenClaw (ìžë™ ê°ì§€):
-âš ï¸ í—¬ìŠ¤ ì²´í¬ ê²½ê³ : homeserver
+OpenClaw (ÀÚµ¿ °¨Áö):
+?? Çï½º Ã¼Å© °æ°í: homeserver
 
-ë””ìŠ¤í¬ ì‚¬ìš©ëŸ‰: 87% (ìž„ê³„ê°’: 85%)
-ë§ˆìš´íŠ¸: /var/log
+µð½ºÅ© »ç¿ë·®: 87% (ÀÓ°è°ª: 85%)
+¸¶¿îÆ®: /var/log
 
-ðŸ”§ ìžë™ ì¡°ì¹˜ ì‹¤í–‰:
-ë¡œê·¸ íŒŒì¼ ì •ë¦¬ (30ì¼ ì´ì „)
+?? ÀÚµ¿ Á¶Ä¡ ½ÇÇà:
+·Î±× ÆÄÀÏ Á¤¸® (30ÀÏ ÀÌÀü)
 
-ì‹¤í–‰ ì¤‘...
-- nginx access.log.1 ì‚­ì œ: 2.1GB
-- app/debug.log ì‚­ì œ: 1.3GB
-- docker ë¡œê·¸ íšŒì „: 800MB
+½ÇÇà Áß...
+- nginx access.log.1 »èÁ¦: 2.1GB
+- app/debug.log »èÁ¦: 1.3GB
+- docker ·Î±× È¸Àü: 800MB
 
-âœ… ì •ë¦¬ ì™„ë£Œ
-ë””ìŠ¤í¬ ì‚¬ìš©ëŸ‰: 87% â†’ 62%
-íšŒë³µëŸ‰: 4.2GB
+? Á¤¸® ¿Ï·á
+µð½ºÅ© »ç¿ë·®: 87% ¡æ 62%
+È¸º¹·®: 4.2GB
 
-ðŸ“§ ê´€ë¦¬ìž ì•Œë¦¼ ë°œì†¡ ì™„ë£Œ
+?? °ü¸®ÀÚ ¾Ë¸² ¹ß¼Û ¿Ï·á
 ```
 
 ---
 
-### ðŸ  ìŠ¤ë§ˆíŠ¸í™ˆ & IoT (ê³ ê¸‰)
+### ?? ½º¸¶Æ®È¨ & IoT (°í±Þ)
 
-#### 20. Home Assistant ê³ ê¸‰ ì—°ë™ ðŸŸ¡
+#### 20. Home Assistant °í±Þ ¿¬µ¿ ??
 
-ðŸ“– ì„¤ëª…
-OpenClawë¥¼ Home Assistant OSì—ì„œ ìš´ì˜í•˜ê³ , ë³µìž¡í•œ ìžë™í™” ê·œì¹™ì„ ìžì—°ì–´ë¡œ ì œì–´í•©ë‹ˆë‹¤. "ì ì‹¬ì‹œê°„ì— ì—ì–´ì»¨ ì¼œê³ , í‡´ê·¼í•˜ë©´ ë¶ˆ ì¼œì¤˜" ê°™ì€ ë³µí•© ì¡°ê±´ì„ ì‰½ê²Œ ì„¤ì •í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+?? ¼³¸í
+OpenClaw¸¦ Home Assistant OS¿¡¼­ ¿î¿µÇÏ°í, º¹ÀâÇÑ ÀÚµ¿È­ ±ÔÄ¢À» ÀÚ¿¬¾î·Î Á¦¾îÇÕ´Ï´Ù. "Á¡½É½Ã°£¿¡ ¿¡¾îÄÁ ÄÑ°í, Åð±ÙÇÏ¸é ºÒ ÄÑÁà" °°Àº º¹ÇÕ Á¶°ÇÀ» ½±°Ô ¼³Á¤ÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ë³µìž¡í•œ ìžë™í™” ê·œì¹™ ìžì—°ì–´ ì„¤ì •
-- ì—¬ëŸ¬ ê¸°ê¸° ì—°ë™
-- ìƒí™© ì¸ì§€í˜• ìŠ¤ë§ˆíŠ¸í™ˆ
+?? È°¿ë È¿°ú
+- º¹ÀâÇÑ ÀÚµ¿È­ ±ÔÄ¢ ÀÚ¿¬¾î ¼³Á¤
+- ¿©·¯ ±â±â ¿¬µ¿
+- »óÈ² ÀÎÁöÇü ½º¸¶Æ®È¨
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| homeassistant | HA ì—°ë™ | `openclaw skill install homeassistant` |
-| automation | ìžë™í™” ê·œì¹™ | `openclaw skill install automation` |
-| geolocation | ìœ„ì¹˜ ê¸°ë°˜ | `openclaw skill install geolocation` |
-| time | ì‹œê°„ ê¸°ë°˜ | `openclaw skill install time` |
+| homeassistant | HA ¿¬µ¿ | `clawhub install homeassistant` |
+| automation | ÀÚµ¿È­ ±ÔÄ¢ | `clawhub install automation` |
+| geolocation | À§Ä¡ ±â¹Ý | `clawhub install geolocation` |
+| time | ½Ã°£ ±â¹Ý | `clawhub install time` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: HA Add-on ì„¤ì¹˜
+1´Ü°è: HA Add-on ¼³Ä¡
 ```bash
-# Home Assistantì—ì„œ
-# ì„¤ì • â†’ ì• ë“œì˜¨ â†’ OpenClaw ì„¤ì¹˜
+# Home Assistant¿¡¼­
+# ¼³Á¤ ¡æ ¾Öµå¿Â ¡æ OpenClaw ¼³Ä¡
 
-openclaw skill install homeassistant automation geolocation time
+clawhub install homeassistant automation geolocation time
 ```
 
-2ë‹¨ê³„: ë³µí•© ìžë™í™” ê·œì¹™
+2´Ü°è: º¹ÇÕ ÀÚµ¿È­ ±ÔÄ¢
 ```javascript
 // advanced-automation.js
 module.exports = {
-  name: "ì ì‹¬ì‹œê°„ ì—ì–´ì»¨ + í‡´ê·¼ ë¶ˆ",
+  name: "Á¡½É½Ã°£ ¿¡¾îÄÁ + Åð±Ù ºÒ",
   triggers: [
     { type: "time", at: "12:00", if: "home" },
     { type: "geolocation", enter: "home_zone", after: "18:00" }
@@ -1550,76 +1550,76 @@ module.exports = {
 };
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: ìƒˆ ìžë™í™” ë§Œë“¤ì–´ì¤˜
+User: »õ ÀÚµ¿È­ ¸¸µé¾îÁà
 
 OpenClaw:
-ðŸ¤– ìƒˆ ìžë™í™” ìƒì„±
+?? »õ ÀÚµ¿È­ »ý¼º
 
-ë¬´ì—‡ì„ ë§Œë“¤ê¹Œìš”?
-[1. ì‹œê°„ ê¸°ë°˜] [2. ìœ„ì¹˜ ê¸°ë°˜] [3. ì„¼ì„œ ê¸°ë°˜] [4. ë³µí•© ì¡°ê±´]
+¹«¾ùÀ» ¸¸µé±î¿ä?
+[1. ½Ã°£ ±â¹Ý] [2. À§Ä¡ ±â¹Ý] [3. ¼¾¼­ ±â¹Ý] [4. º¹ÇÕ Á¶°Ç]
 
-User: 4ë²ˆ
-
-OpenClaw:
-ë³µí•© ì¡°ê±´ ìžë™í™”
-
-ì¡°ê±´ 1: ì–¸ì œ?
-- íŠ¹ì • ì‹œê°„
-- ì¼ì¶œ/ì¼ëª°
-- ì„¼ì„œ ê°ì§€
-- ìœ„ì¹˜ ë³€í™”
-
-User: íŠ¹ì • ì‹œê°„ì´ëž‘ ìœ„ì¹˜ ë‘˜ ë‹¤
+User: 4¹ø
 
 OpenClaw:
-ì¡°ê±´ êµ¬ì„±:
-- ë§¤ì¼ 12:00 AND ì§‘ì— ìžˆì„ ë•Œ
-- OR í‡´ê·¼ í›„ ì§‘ì— ë„ì°©í–ˆì„ ë•Œ (18:00 ì´í›„)
+º¹ÇÕ Á¶°Ç ÀÚµ¿È­
 
-ë™ìž‘:
-- ì—ì–´ì»¨ 24ë„ ON
-- í˜„ê´€ ë¶ˆ ì¼œê¸° (80% ë°ê¸°)
-- í™˜ì˜ ë©”ì‹œì§€ ìž¬ìƒ
+Á¶°Ç 1: ¾ðÁ¦?
+- Æ¯Á¤ ½Ã°£
+- ÀÏÃâ/ÀÏ¸ô
+- ¼¾¼­ °¨Áö
+- À§Ä¡ º¯È­
 
-ì´ëŒ€ë¡œ ì €ìž¥í• ê¹Œìš”?
-[ì €ìž¥] [ìˆ˜ì •] [ì·¨ì†Œ]
+User: Æ¯Á¤ ½Ã°£ÀÌ¶û À§Ä¡ µÑ ´Ù
+
+OpenClaw:
+Á¶°Ç ±¸¼º:
+- ¸ÅÀÏ 12:00 AND Áý¿¡ ÀÖÀ» ¶§
+- OR Åð±Ù ÈÄ Áý¿¡ µµÂøÇßÀ» ¶§ (18:00 ÀÌÈÄ)
+
+µ¿ÀÛ:
+- ¿¡¾îÄÁ 24µµ ON
+- Çö°ü ºÒ ÄÑ±â (80% ¹à±â)
+- È¯¿µ ¸Þ½ÃÁö Àç»ý
+
+ÀÌ´ë·Î ÀúÀåÇÒ±î¿ä?
+[ÀúÀå] [¼öÁ¤] [Ãë¼Ò]
 ```
 
 ---
 
-### ðŸŽ¨ ì½˜í…ì¸  ì œìž‘ & ë§ˆì¼€íŒ…
+### ?? ÄÜÅÙÃ÷ Á¦ÀÛ & ¸¶ÄÉÆÃ
 
-#### 21. ì½˜í…ì¸  ë©€í‹° í”Œëž«í¼ ìž¬í™œìš© ðŸŸ¡
+#### 21. ÄÜÅÙÃ÷ ¸ÖÆ¼ ÇÃ·§Æû ÀçÈ°¿ë ??
 
-ðŸ“– ì„¤ëª…
-í•˜ë‚˜ì˜ í¬ìŠ¤íŠ¸ë¥¼ ìž…ë ¥í•˜ë©´ X(íŠ¸ìœ„í„°) ìŠ¤ë ˆë“œ, LinkedIn, Instagram ìº¡ì…˜, YouTube Shorts ìŠ¤í¬ë¦½íŠ¸ ë“± ê° í”Œëž«í¼ì— ë§žê²Œ ìžë™ìœ¼ë¡œ ë³€í™˜í•©ë‹ˆë‹¤. í•œ ë²ˆì˜ ê¸€ì“°ê¸°ë¡œ ëª¨ë“  ì±„ë„ì„ ì»¤ë²„í•©ë‹ˆë‹¤.
+?? ¼³¸í
+ÇÏ³ªÀÇ Æ÷½ºÆ®¸¦ ÀÔ·ÂÇÏ¸é X(Æ®À§ÅÍ) ½º·¹µå, LinkedIn, Instagram Ä¸¼Ç, YouTube Shorts ½ºÅ©¸³Æ® µî °¢ ÇÃ·§Æû¿¡ ¸Â°Ô ÀÚµ¿À¸·Î º¯È¯ÇÕ´Ï´Ù. ÇÑ ¹øÀÇ ±Û¾²±â·Î ¸ðµç Ã¤³ÎÀ» Ä¿¹öÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì½˜í…ì¸  ì œìž‘ ì‹œê°„ 70% ë‹¨ì¶•
-- í”Œëž«í¼ë³„ ìµœì í™”
-- ì¼ê´€ëœ ë¸Œëžœë”© ìœ ì§€
+?? È°¿ë È¿°ú
+- ÄÜÅÙÃ÷ Á¦ÀÛ ½Ã°£ 70% ´ÜÃà
+- ÇÃ·§Æûº° ÃÖÀûÈ­
+- ÀÏ°üµÈ ºê·£µù À¯Áö
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| content | ì½˜í…ì¸  ìƒì„± | `openclaw skill install content` |
-| twitter | X(Twitter) | `openclaw skill install twitter` |
-| linkedin | LinkedIn | `openclaw skill install linkedin` |
-| instagram | Instagram | `openclaw skill install instagram` |
-| youtube | YouTube | `openclaw skill install youtube` |
+| content | ÄÜÅÙÃ÷ »ý¼º | `clawhub install content` |
+| twitter | X(Twitter) | `clawhub install twitter` |
+| linkedin | LinkedIn | `clawhub install linkedin` |
+| instagram | Instagram | `clawhub install instagram` |
+| youtube | YouTube | `clawhub install youtube` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ì†Œì…œ ë¯¸ë””ì–´ ì—°ë™
+1´Ü°è: ¼Ò¼È ¹Ìµð¾î ¿¬µ¿
 ```bash
-openclaw skill install content twitter linkedin instagram youtube
+clawhub install content twitter linkedin instagram youtube
 openclaw skill auth twitter
 openclaw skill auth linkedin
 ```
 
-2ë‹¨ê³„: ë¸Œëžœë“œ ì„¤ì •
+2´Ü°è: ºê·£µå ¼³Á¤
 ```json
 {
   "content": {
@@ -1637,82 +1637,82 @@ openclaw skill auth linkedin
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: ë¸”ë¡œê·¸ ê¸€ ë©€í‹°í”Œëž«í¼ ë³€í™˜í•´ì¤˜
-(ì²¨ë¶€: "OpenClawë¡œ ê°œë°œ ìƒì‚°ì„± 2ë°° ë†’ì´ê¸°" ë¸”ë¡œê·¸)
+User: ºí·Î±× ±Û ¸ÖÆ¼ÇÃ·§Æû º¯È¯ÇØÁà
+(Ã·ºÎ: "OpenClaw·Î °³¹ß »ý»ê¼º 2¹è ³ôÀÌ±â" ºí·Î±×)
 
 OpenClaw:
-ðŸ“ í…ì¸  ìž¬í™œìš© ì™„ë£Œ
+?? ÅÙÃ÷ ÀçÈ°¿ë ¿Ï·á
 
-ðŸ¦ X (Twitter) - ìŠ¤ë ˆë“œ:
-Tweet 1/5 ðŸ§µ
-OpenClawë¡œ ê°œë°œ ìƒì‚°ì„± 2ë°° ë†’ì´ëŠ” ë°©ë²•
+?? X (Twitter) - ½º·¹µå:
+Tweet 1/5 ??
+OpenClaw·Î °³¹ß »ý»ê¼º 2¹è ³ôÀÌ´Â ¹æ¹ý
 
-AI ë¹„ì„œê°€ ì½”ë“œ ë¦¬ë·°ë¶€í„° ë°°í¬ê¹Œì§€ ìžë™í™”í•´ì¤ë‹ˆë‹¤.
+AI ºñ¼­°¡ ÄÚµå ¸®ºäºÎÅÍ ¹èÆ÷±îÁö ÀÚµ¿È­ÇØÁÝ´Ï´Ù.
 
-#ê°œë°œ #ìƒì‚°ì„± #OpenClaw
+#°³¹ß #»ý»ê¼º #OpenClaw
 
 [2/5] ...
 
-ðŸ’¼ LinkedIn:
-AI ì‹œëŒ€ì˜ ê°œë°œìž ìƒì‚°ì„± í˜ëª… ðŸš€
+?? LinkedIn:
+AI ½Ã´ëÀÇ °³¹ßÀÚ »ý»ê¼º Çõ¸í ??
 
-ìµœê·¼ OpenClawë¥¼ ë„ìž…í•˜ì—¬ ê°œë°œ ì›Œí¬í”Œë¡œìš°ë¥¼ ìžë™í™”í–ˆìŠµë‹ˆë‹¤.
-ê·¸ ê²°ê³¼...
-(ì „ë¬¸ 2800ìž)
+ÃÖ±Ù OpenClaw¸¦ µµÀÔÇÏ¿© °³¹ß ¿öÅ©ÇÃ·Î¿ì¸¦ ÀÚµ¿È­Çß½À´Ï´Ù.
+±× °á°ú...
+(Àü¹® 2800ÀÚ)
 
-#ê°œë°œ #AI #ìƒì‚°ì„± #í…Œí¬
+#°³¹ß #AI #»ý»ê¼º #Å×Å©
 
-ðŸ“¸ Instagram:
-âœ¨ AI ë¹„ì„œì™€ í•¨ê»˜í•˜ëŠ” ê°œë°œ ë¼ì´í”„
+?? Instagram:
+? AI ºñ¼­¿Í ÇÔ²²ÇÏ´Â °³¹ß ¶óÀÌÇÁ
 
-ê°œë°œ â†’ ì½”ë“œ ë¦¬ë·° â†’ ë°°í¬
-ì´ ëª¨ë“  ê²Œ ë©”ì‹ ì €ë¡œ ê°€ëŠ¥í•˜ë‹¤ë©´?
+°³¹ß ¡æ ÄÚµå ¸®ºä ¡æ ¹èÆ÷
+ÀÌ ¸ðµç °Ô ¸Þ½ÅÀú·Î °¡´ÉÇÏ´Ù¸é?
 
-ë§í¬ in bio ðŸ‘†
+¸µÅ© in bio ??
 
-#ê°œë°œìž #ê°œë°œì¼ìƒ #AI #ìƒì‚°ì„±
+#°³¹ßÀÚ #°³¹ßÀÏ»ó #AI #»ý»ê¼º
 
-ðŸŽ¬ YouTube Shorts ìŠ¤í¬ë¦½íŠ¸:
-[0:00] Hook: "ì´ë ‡ê²Œ ê°œë°œí•˜ë©´ ìƒì‚°ì„± 2ë°°"
-[0:05] Problem: "ì½”ë“œ ë¦¬ë·°, ë°°í¬, ëª¨ë‹ˆí„°ë§..."
-[0:15] Solution: "OpenClawê°€ í•œ ë²ˆì—"
-[0:25] CTA: "ëŒ“ê¸€ë¡œ ì•Œë ¤ì¤˜"
+?? YouTube Shorts ½ºÅ©¸³Æ®:
+[0:00] Hook: "ÀÌ·¸°Ô °³¹ßÇÏ¸é »ý»ê¼º 2¹è"
+[0:05] Problem: "ÄÚµå ¸®ºä, ¹èÆ÷, ¸ð´ÏÅÍ¸µ..."
+[0:15] Solution: "OpenClaw°¡ ÇÑ ¹ø¿¡"
+[0:25] CTA: "´ñ±Û·Î ¾Ë·ÁÁà"
 
-âœ… ê²€í†  í›„ ê²Œì‹œí•˜ì‹œê² ìŠµë‹ˆê¹Œ?
-[Xì— ê²Œì‹œ] [LinkedInì— ê²Œì‹œ] [Instagramì— ê²Œì‹œ] [ëª¨ë‘ ê²Œì‹œ]
+? °ËÅä ÈÄ °Ô½ÃÇÏ½Ã°Ú½À´Ï±î?
+[X¿¡ °Ô½Ã] [LinkedIn¿¡ °Ô½Ã] [Instagram¿¡ °Ô½Ã] [¸ðµÎ °Ô½Ã]
 ```
 
 ---
 
-#### 22. ë¸Œëžœë“œ ë©˜ì…˜ ì‹¤ì‹œê°„ ëª¨ë‹ˆí„°ë§ ðŸŸ¡
+#### 22. ºê·£µå ¸à¼Ç ½Ç½Ã°£ ¸ð´ÏÅÍ¸µ ??
 
-ðŸ“– ì„¤ëª…
-X(íŠ¸ìœ„í„°), Reddit ë“±ì—ì„œ ë¸Œëžœë“œë‚˜ í‚¤ì›Œë“œê°€ ì–¸ê¸‰ë˜ë©´ ì‹¤ì‹œê°„ìœ¼ë¡œ ê°ì§€í•˜ê³ , ê°ì • ë¶„ì„(ê¸ì •/ë¶€ì •/ì¤‘ë¦½)ì„ ìˆ˜í–‰í•˜ë©°, ë§¤ì¼ ë¦¬í¬íŠ¸ë¥¼ ì „ì†¡í•©ë‹ˆë‹¤. ìœ„ê¸° ìƒí™©ì„ ì¡°ê¸°ì— ë°œê²¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+?? ¼³¸í
+X(Æ®À§ÅÍ), Reddit µî¿¡¼­ ºê·£µå³ª Å°¿öµå°¡ ¾ð±ÞµÇ¸é ½Ç½Ã°£À¸·Î °¨ÁöÇÏ°í, °¨Á¤ ºÐ¼®(±àÁ¤/ºÎÁ¤/Áß¸³)À» ¼öÇàÇÏ¸ç, ¸ÅÀÏ ¸®Æ÷Æ®¸¦ Àü¼ÛÇÕ´Ï´Ù. À§±â »óÈ²À» Á¶±â¿¡ ¹ß°ßÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì‹¤ì‹œê°„ ë¸Œëžœë“œ ëª¨ë‹ˆí„°ë§
-- ê°ì„± ë¶„ì„ íŠ¸ë Œë“œ íŒŒì•…
-- ìœ„ê¸° ëŒ€ì‘ ì‹œê°„ ë‹¨ì¶•
+?? È°¿ë È¿°ú
+- ½Ç½Ã°£ ºê·£µå ¸ð´ÏÅÍ¸µ
+- °¨¼º ºÐ¼® Æ®·»µå ÆÄ¾Ç
+- À§±â ´ëÀÀ ½Ã°£ ´ÜÃà
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| monitoring | ì†Œì…œ ëª¨ë‹ˆí„°ë§ | `openclaw skill install monitoring` |
-| sentiment | ê°ì„± ë¶„ì„ | `openclaw skill install sentiment` |
-| twitter | X API | `openclaw skill install twitter` |
-| reddit | Reddit API | `openclaw skill install reddit` |
-| report | ë¦¬í¬íŠ¸ ìƒì„± | `openclaw skill install report` |
+| monitoring | ¼Ò¼È ¸ð´ÏÅÍ¸µ | `clawhub install monitoring` |
+| sentiment | °¨¼º ºÐ¼® | `clawhub install sentiment` |
+| twitter | X API | `clawhub install twitter` |
+| reddit | Reddit API | `clawhub install reddit` |
+| report | ¸®Æ÷Æ® »ý¼º | `clawhub install report` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ëª¨ë‹ˆí„°ë§ ì„¤ì •
+1´Ü°è: ¸ð´ÏÅÍ¸µ ¼³Á¤
 ```bash
-openclaw skill install monitoring sentiment twitter reddit report
+clawhub install monitoring sentiment twitter reddit report
 ```
 
-2ë‹¨ê³„: í‚¤ì›Œë“œ ì„¤ì •
+2´Ü°è: Å°¿öµå ¼³Á¤
 ```json
 {
   "brandMonitoring": {
@@ -1731,94 +1731,94 @@ openclaw skill install monitoring sentiment twitter reddit report
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-OpenClaw (ì‹¤ì‹œê°„ ì•Œë¦¼):
-ðŸ”´ ê¸´ê¸‰: ë¶€ì •ì  ë©˜ì…˜ ê¸‰ì¦
+OpenClaw (½Ç½Ã°£ ¾Ë¸²):
+?? ±ä±Þ: ºÎÁ¤Àû ¸à¼Ç ±ÞÁõ
 
-í‚¤ì›Œë“œ: @mycompany
-í”Œëž«í¼: Twitter
-ê°ì„±: ë§¤ìš° ë¶€ì •ì  (0.85)
+Å°¿öµå: @mycompany
+ÇÃ·§Æû: Twitter
+°¨¼º: ¸Å¿ì ºÎÁ¤Àû (0.85)
 
-ðŸ’¬ ì›ë¬¸:
-"@mycompany ì´ë²ˆ ì—…ë°ì´íŠ¸ ê°œíŒì´ë„¤ìš” 
-ì œëŒ€ë¡œ í…ŒìŠ¤íŠ¸ ì•ˆ í–ˆë‚˜ìš”? ë°ì´í„° ë‹¤ ë‚ ì•„ê°”ì–´ìš”"
+?? ¿ø¹®:
+"@mycompany ÀÌ¹ø ¾÷µ¥ÀÌÆ® °³ÆÇÀÌ³×¿ä 
+Á¦´ë·Î Å×½ºÆ® ¾È Çß³ª¿ä? µ¥ÀÌÅÍ ´Ù ³¯¾Æ°¬¾î¿ä"
 
-ðŸ“Š ìƒí™© ë¶„ì„:
-- ìœ ì € íŒ”ë¡œì›Œ: 5,000+
-- ë¦¬íŠ¸ìœ—: 23íšŒ (10ë¶„ ë‚´)
-- ìœ ì‚¬ ë©˜ì…˜: 5ê±´ ì¶”ê°€ ê°ì§€
+?? »óÈ² ºÐ¼®:
+- À¯Àú ÆÈ·Î¿ö: 5,000+
+- ¸®Æ®À­: 23È¸ (10ºÐ ³»)
+- À¯»ç ¸à¼Ç: 5°Ç Ãß°¡ °¨Áö
 
-âš ï¸ ìœ„í—˜ë„: HIGH
-ì¶”ì²œ ì¡°ì¹˜: ì¦‰ì‹œ ë‹µë³€ ë° ì¡°ì‚¬
+?? À§Çèµµ: HIGH
+ÃßÃµ Á¶Ä¡: Áï½Ã ´äº¯ ¹× Á¶»ç
 
-[ë¹ ë¥¸ ë‹µë³€ ë³´ë‚´ê¸°] [ë‚´ë¶€ì— ì•Œë¦¼] [ìƒì„¸ ë¶„ì„ ë³´ê¸°]
+[ºü¸¥ ´äº¯ º¸³»±â] [³»ºÎ¿¡ ¾Ë¸²] [»ó¼¼ ºÐ¼® º¸±â]
 
 ---
 
-OpenClaw (ì¼ì¼ ë¦¬í¬íŠ¸):
-ðŸ“Š ë¸Œëžœë“œ ëª¨ë‹ˆí„°ë§ ë¦¬í¬íŠ¸ (2ì›” 24ì¼)
+OpenClaw (ÀÏÀÏ ¸®Æ÷Æ®):
+?? ºê·£µå ¸ð´ÏÅÍ¸µ ¸®Æ÷Æ® (2¿ù 24ÀÏ)
 
-ðŸ“ˆ ì „ì²´ ë©˜ì…˜: 234ê±´ (+12%)
-ðŸ˜Š ê¸ì •: 156ê±´ (67%)
-ðŸ˜ ì¤‘ë¦½: 58ê±´ (25%)
-ðŸ˜  ë¶€ì •: 20ê±´ (8%)
+?? ÀüÃ¼ ¸à¼Ç: 234°Ç (+12%)
+?? ±àÁ¤: 156°Ç (67%)
+?? Áß¸³: 58°Ç (25%)
+?? ºÎÁ¤: 20°Ç (8%)
 
-ðŸ”¥ í•« í† í”½:
-1. ì‹ ê¸°ëŠ¥ ì¶œì‹œ (ê¸ì • 89%)
-2. ê°€ê²© ì •ì±… (ë¶€ì • 45%)
-3. ê³ ê° ì§€ì› (ê¸ì • 78%)
+?? ÇÖ ÅäÇÈ:
+1. ½Å±â´É Ãâ½Ã (±àÁ¤ 89%)
+2. °¡°Ý Á¤Ã¥ (ºÎÁ¤ 45%)
+3. °í°´ Áö¿ø (±àÁ¤ 78%)
 
-ðŸ† ê²½ìŸì‚¬ ë¹„êµ:
-- MyCompany: 67% ê¸ì •
-- CompetitorA: 54% ê¸ì •
-- CompetitorB: 61% ê¸ì •
+?? °æÀï»ç ºñ±³:
+- MyCompany: 67% ±àÁ¤
+- CompetitorA: 54% ±àÁ¤
+- CompetitorB: 61% ±àÁ¤
 
-ðŸ“‹ ì•¡ì…˜ ì•„ì´í…œ:
-- ê°€ê²© ê´€ë ¨ ë¶€ì • ì˜ê²¬ ì¡°ì‚¬ í•„ìš”
-- ì‹ ê¸°ëŠ¥ ë§ˆì¼€íŒ… ê°•í™” ê¶Œìž¥
+?? ¾×¼Ç ¾ÆÀÌÅÛ:
+- °¡°Ý °ü·Ã ºÎÁ¤ ÀÇ°ß Á¶»ç ÇÊ¿ä
+- ½Å±â´É ¸¶ÄÉÆÃ °­È­ ±ÇÀå
 ```
 
 ---
 
-## ðŸ”´ ê³ ê¸‰ ë ˆë²¨ (51-60)
+## ?? °í±Þ ·¹º§ (51-60)
 
-> ì „ì œì¡°ê±´: ì¤‘ê¸‰ ì‚¬ë¡€ 5ê°œ ì´ìƒ ê²½í—˜, í”„ë¡œê·¸ëž˜ë° ì§€ì‹, ì„œë²„ ê´€ë¦¬ ëŠ¥ë ¥ í•„ìš”
+> ÀüÁ¦Á¶°Ç: Áß±Þ »ç·Ê 5°³ ÀÌ»ó °æÇè, ÇÁ·Î±×·¡¹Ö Áö½Ä, ¼­¹ö °ü¸® ´É·Â ÇÊ¿ä
 
 ---
 
-### ðŸ¤– ë©€í‹° ì—ì´ì „íŠ¸ & ìžìœ¨ ìš´ì˜
+### ?? ¸ÖÆ¼ ¿¡ÀÌÀüÆ® & ÀÚÀ² ¿î¿µ
 
-#### 23. ë©€í‹° ì—ì´ì „íŠ¸ ë“œë¦¼íŒ€ ðŸ”´
+#### 23. ¸ÖÆ¼ ¿¡ÀÌÀüÆ® µå¸²ÆÀ ??
 
-ðŸ“– ì„¤ëª…
-í•˜ë‚˜ì˜ ìš”ì²­ì„ ì˜¤ì¼€ìŠ¤íŠ¸ë ˆì´í„°ê°€ Builder, Reviewer, Deployer ë“± ì „ë¬¸í™”ëœ ì—ì´ì „íŠ¸ì—ê²Œ ë‚˜ëˆ„ì–´ 3ë¶„ ë§Œì— ì™„ë£Œí•˜ëŠ” ì‹œìŠ¤í…œìž…ë‹ˆë‹¤. ì†Œí”„íŠ¸ì›¨ì–´ ê°œë°œ ì „ ê³¼ì •ì„ AI ì—ì´ì „íŠ¸ê°€ í˜‘ì—…í•˜ì—¬ ì²˜ë¦¬í•©ë‹ˆë‹¤.
+?? ¼³¸í
+ÇÏ³ªÀÇ ¿äÃ»À» ¿ÀÄÉ½ºÆ®·¹ÀÌÅÍ°¡ Builder, Reviewer, Deployer µî Àü¹®È­µÈ ¿¡ÀÌÀüÆ®¿¡°Ô ³ª´©¾î 3ºÐ ¸¸¿¡ ¿Ï·áÇÏ´Â ½Ã½ºÅÛÀÔ´Ï´Ù. ¼ÒÇÁÆ®¿þ¾î °³¹ß Àü °úÁ¤À» AI ¿¡ÀÌÀüÆ®°¡ Çù¾÷ÇÏ¿© Ã³¸®ÇÕ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ê°œë°œ ì†ë„ 10ë°° í–¥ìƒ
-- 24/7 ìžë™ ê°œë°œ íŒŒì´í”„ë¼ì¸
-- ì¸ì  ì˜¤ë¥˜ ìµœì†Œí™”
+?? È°¿ë È¿°ú
+- °³¹ß ¼Óµµ 10¹è Çâ»ó
+- 24/7 ÀÚµ¿ °³¹ß ÆÄÀÌÇÁ¶óÀÎ
+- ÀÎÀû ¿À·ù ÃÖ¼ÒÈ­
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| orchestrator | ìž‘ì—… ë¶„ë°° | `openclaw skill install orchestrator` |
-| builder | ì½”ë“œ ìƒì„± | `openclaw skill install builder` |
-| reviewer | ì½”ë“œ ë¦¬ë·° | `openclaw skill install reviewer` |
-| tester | í…ŒìŠ¤íŠ¸ | `openclaw skill install tester` |
-| deployer | ë°°í¬ | `openclaw skill install deployer` |
+| orchestrator | ÀÛ¾÷ ºÐ¹è | `clawhub install orchestrator` |
+| builder | ÄÚµå »ý¼º | `clawhub install builder` |
+| reviewer | ÄÚµå ¸®ºä | `clawhub install reviewer` |
+| tester | Å×½ºÆ® | `clawhub install tester` |
+| deployer | ¹èÆ÷ | `clawhub install deployer` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ì—ì´ì „íŠ¸ í”„ë¡œí•„ ìƒì„±
+1´Ü°è: ¿¡ÀÌÀüÆ® ÇÁ·ÎÇÊ »ý¼º
 ```bash
-# ê° ì—ì´ì „íŠ¸ìš© í”„ë¡œí•„ ìƒì„±
+# °¢ ¿¡ÀÌÀüÆ®¿ë ÇÁ·ÎÇÊ »ý¼º
 openclaw profile create builder
 openclaw profile create reviewer
 openclaw profile create deployer
 ```
 
-2ë‹¨ê³„: ì˜¤ì¼€ìŠ¤íŠ¸ë ˆì´í„° ì„¤ì •
+2´Ü°è: ¿ÀÄÉ½ºÆ®·¹ÀÌÅÍ ¼³Á¤
 ```javascript
 // orchestrator-config.js
 module.exports = {
@@ -1847,109 +1847,109 @@ module.exports = {
 };
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: @orchestrator ë¡œê·¸ì¸ ê¸°ëŠ¥ì— 2FA ì¶”ê°€í•´ì¤˜
+User: @orchestrator ·Î±×ÀÎ ±â´É¿¡ 2FA Ãß°¡ÇØÁà
 
 Orchestrator:
-ðŸŽ¬ ì›Œí¬í”Œë¡œìš° ì‹œìž‘: add-2fa-login
+?? ¿öÅ©ÇÃ·Î¿ì ½ÃÀÛ: add-2fa-login
 
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-STEP 1/3: ë¹Œë“œ
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
+STEP 1/3: ºôµå
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
 
-Builder ðŸ—ï¸:
-ìš”ì²­ ë¶„ì„ ì¤‘...
-- ê¸°ëŠ¥: ë¡œê·¸ì¸ì— 2FA ì¶”ê°€
-- ê¸°ìˆ  ìŠ¤íƒ: React, Node.js, PostgreSQL
-- ì˜ˆìƒ íŒŒì¼: 5ê°œ
+Builder ???:
+¿äÃ» ºÐ¼® Áß...
+- ±â´É: ·Î±×ÀÎ¿¡ 2FA Ãß°¡
+- ±â¼ú ½ºÅÃ: React, Node.js, PostgreSQL
+- ¿¹»ó ÆÄÀÏ: 5°³
 
-ì½”ë“œ ìƒì„± ì¤‘... â³
-âœ… ì™„ë£Œ:
-- auth/two-factor.js (ìƒˆë¡œìš´)
-- components/TwoFactorForm.jsx (ìƒˆë¡œìš´)
-- api/login.js (ìˆ˜ì •)
-- database/migrations/003_add_2fa.sql (ìƒˆë¡œìš´)
-- tests/auth.2fa.test.js (ìƒˆë¡œìš´)
+ÄÚµå »ý¼º Áß... ?
+? ¿Ï·á:
+- auth/two-factor.js (»õ·Î¿î)
+- components/TwoFactorForm.jsx (»õ·Î¿î)
+- api/login.js (¼öÁ¤)
+- database/migrations/003_add_2fa.sql (»õ·Î¿î)
+- tests/auth.2fa.test.js (»õ·Î¿î)
 
-ì»¤ë°‹: "feat: add 2FA to login"
-ë¸Œëžœì¹˜: feature/add-2fa-234
+Ä¿¹Ô: "feat: add 2FA to login"
+ºê·£Ä¡: feature/add-2fa-234
 
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-STEP 2/3: ë¦¬ë·°
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
+STEP 2/3: ¸®ºä
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
 
-Reviewer ðŸ”:
-ì½”ë“œ ë¶„ì„ ì¤‘...
+Reviewer ??:
+ÄÚµå ºÐ¼® Áß...
 
-âœ… í’ˆì§ˆ: 92/100
-âœ… ë³´ì•ˆ: í†µê³¼ (OWASP ê¸°ì¤€)
-âš ï¸ ê²½ê³ : 2ê°œ (ì‚¬ì†Œ)
-   - console.log ë‚¨ì•„ìžˆìŒ
-   - ì£¼ì„ ì¶”ê°€ ê¶Œìž¥
+? Ç°Áú: 92/100
+? º¸¾È: Åë°ú (OWASP ±âÁØ)
+?? °æ°í: 2°³ (»ç¼Ò)
+   - console.log ³²¾ÆÀÖÀ½
+   - ÁÖ¼® Ãß°¡ ±ÇÀå
 
-ë¦¬ë·° ì½”ë©˜íŠ¸ ìž‘ì„± ì™„ë£Œ
-ìŠ¹ì¸: YES
+¸®ºä ÄÚ¸àÆ® ÀÛ¼º ¿Ï·á
+½ÂÀÎ: YES
 
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-STEP 3/3: ë°°í¬
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
+STEP 3/3: ¹èÆ÷
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
 
-Deployer ðŸš€:
-ìŠ¤í…Œì´ì§• ë°°í¬ ì¤‘... â³
-í—¬ìŠ¤ì²´í¬ ì¤‘... âœ…
+Deployer ??:
+½ºÅ×ÀÌÂ¡ ¹èÆ÷ Áß... ?
+Çï½ºÃ¼Å© Áß... ?
 
-ìŠ¤í…Œì´ì§• URL: https://staging.example.com
-í…ŒìŠ¤íŠ¸ ì‹¤í–‰ ì¤‘... âœ… (127/127 í†µê³¼)
+½ºÅ×ÀÌÂ¡ URL: https://staging.example.com
+Å×½ºÆ® ½ÇÇà Áß... ? (127/127 Åë°ú)
 
-í”„ë¡œë•ì…˜ ë°°í¬ ì¤‘... â³
-ì™„ë£Œ! âœ…
+ÇÁ·Î´ö¼Ç ¹èÆ÷ Áß... ?
+¿Ï·á! ?
 
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
 
-ðŸŽ‰ ì›Œí¬í”Œë¡œìš° ì™„ë£Œ (2ë¶„ 45ì´ˆ)
+?? ¿öÅ©ÇÃ·Î¿ì ¿Ï·á (2ºÐ 45ÃÊ)
 
-ë³€ê²½ì‚¬í•­:
-- PR #234 ìƒì„± ë° ë¨¸ì§€
-- í”„ë¡œë•ì…˜ ë°°í¬ ì™„ë£Œ
-- ëª¨ë‹ˆí„°ë§ í™œì„±í™”
+º¯°æ»çÇ×:
+- PR #234 »ý¼º ¹× ¸ÓÁö
+- ÇÁ·Î´ö¼Ç ¹èÆ÷ ¿Ï·á
+- ¸ð´ÏÅÍ¸µ È°¼ºÈ­
 
-ðŸ“Š ë©”íŠ¸ë¦­:
-- ì½”ë“œ ì»¤ë²„ë¦¬ì§€: 94%
-- ë³´ì•ˆ ìŠ¤ìº”: í†µê³¼
-- ë°°í¬ ì†Œìš”: 45ì´ˆ
+?? ¸ÞÆ®¸¯:
+- ÄÚµå Ä¿¹ö¸®Áö: 94%
+- º¸¾È ½ºÄµ: Åë°ú
+- ¹èÆ÷ ¼Ò¿ä: 45ÃÊ
 
-[ëª¨ë‹ˆí„°ë§ ë³´ê¸°] [ë¡¤ë°±] [ì„±ëŠ¥ í…ŒìŠ¤íŠ¸]
+[¸ð´ÏÅÍ¸µ º¸±â] [·Ñ¹é] [¼º´É Å×½ºÆ®]
 ```
 
 ---
 
-#### 24. ê°œë°œìž ì›Œí¬í”Œë¡œìš° ì „ì²´ ìžë™í™” ðŸ”´
+#### 24. °³¹ßÀÚ ¿öÅ©ÇÃ·Î¿ì ÀüÃ¼ ÀÚµ¿È­ ??
 
-ðŸ“– ì„¤ëª…
-"ì´ ê¸°ëŠ¥ ì¶”ê°€í•´"ë¼ê³  ë§í•˜ë©´ ì½”ë“œ ìž‘ì„± â†’ í…ŒìŠ¤íŠ¸ â†’ PR ìƒì„± â†’ ì½”ë“œ ë¦¬ë·° â†’ ë°°í¬ê¹Œì§€ ëª¨ë“  ê³¼ì •ì„ AIê°€ í˜¼ìž ì²˜ë¦¬í•©ë‹ˆë‹¤. ê°œë°œìžëŠ” ìš”êµ¬ì‚¬í•­ë§Œ ì„¤ëª…í•˜ê³  ê²°ê³¼ë¥¼ ê²€ì¦í•˜ê¸°ë§Œ í•˜ë©´ ë©ë‹ˆë‹¤.
+?? ¼³¸í
+"ÀÌ ±â´É Ãß°¡ÇØ"¶ó°í ¸»ÇÏ¸é ÄÚµå ÀÛ¼º ¡æ Å×½ºÆ® ¡æ PR »ý¼º ¡æ ÄÚµå ¸®ºä ¡æ ¹èÆ÷±îÁö ¸ðµç °úÁ¤À» AI°¡ È¥ÀÚ Ã³¸®ÇÕ´Ï´Ù. °³¹ßÀÚ´Â ¿ä±¸»çÇ×¸¸ ¼³¸íÇÏ°í °á°ú¸¦ °ËÁõÇÏ±â¸¸ ÇÏ¸é µË´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ê°œë°œ ì£¼ê¸° 80% ë‹¨ì¶•
-- ì•„ì´ë””ì–´ â†’ í”„ë¡œë•ì…˜ 1ì‹œê°„ ì´ë‚´
-- ë°˜ë³µ ìž‘ì—… ì œë¡œ
+?? È°¿ë È¿°ú
+- °³¹ß ÁÖ±â 80% ´ÜÃà
+- ¾ÆÀÌµð¾î ¡æ ÇÁ·Î´ö¼Ç 1½Ã°£ ÀÌ³»
+- ¹Ýº¹ ÀÛ¾÷ Á¦·Î
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| fullstack | í’€ìŠ¤íƒ ê°œë°œ | `openclaw skill install fullstack` |
-| testing | í…ŒìŠ¤íŠ¸ ìž‘ì„± | `openclaw skill install testing` |
-| cicd | CI/CD | `openclaw skill install cicd` |
-| github | GitHub ê´€ë¦¬ | `openclaw skill install github` |
+| fullstack | Ç®½ºÅÃ °³¹ß | `clawhub install fullstack` |
+| testing | Å×½ºÆ® ÀÛ¼º | `clawhub install testing` |
+| cicd | CI/CD | `clawhub install cicd` |
+| github | GitHub °ü¸® | `clawhub install github` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ê°œë°œ í™˜ê²½ ì„¤ì •
+1´Ü°è: °³¹ß È¯°æ ¼³Á¤
 ```bash
-openclaw skill install fullstack testing cicd github
+clawhub install fullstack testing cicd github
 ```
 
-2ë‹¨ê³„: í”„ë¡œì íŠ¸ í…œí”Œë¦¿
+2´Ü°è: ÇÁ·ÎÁ§Æ® ÅÛÇÃ¸´
 ```json
 {
   "project": {
@@ -1968,23 +1968,23 @@ openclaw skill install fullstack testing cicd github
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: ì‚¬ìš©ìž í”„ë¡œí•„ íŽ˜ì´ì§€ ë§Œë“¤ì–´ì¤˜
-- ì´ë¦„, ì´ë©”ì¼, í”„ë¡œí•„ ì‚¬ì§„ í‘œì‹œ
-- ìˆ˜ì • ê°€ëŠ¥í•´ì•¼ í•¨
-- ëª¨ë°”ì¼ ë°˜ì‘í˜•
+User: »ç¿ëÀÚ ÇÁ·ÎÇÊ ÆäÀÌÁö ¸¸µé¾îÁà
+- ÀÌ¸§, ÀÌ¸ÞÀÏ, ÇÁ·ÎÇÊ »çÁø Ç¥½Ã
+- ¼öÁ¤ °¡´ÉÇØ¾ß ÇÔ
+- ¸ð¹ÙÀÏ ¹ÝÀÀÇü
 
 OpenClaw:
-ðŸš€ ì „ì²´ ê°œë°œ ì›Œí¬í”Œë¡œìš° ì‹œìž‘
+?? ÀüÃ¼ °³¹ß ¿öÅ©ÇÃ·Î¿ì ½ÃÀÛ
 
-[1/5] ìš”êµ¬ì‚¬í•­ ë¶„ì„ âœ…
-- íŽ˜ì´ì§€: ì‚¬ìš©ìž í”„ë¡œí•„
-- ê¸°ëŠ¥: ì¡°íšŒ, ìˆ˜ì •, ì‚¬ì§„ ì—…ë¡œë“œ
-- ë°˜ì‘í˜•: ëª¨ë°”ì¼ ìš°ì„ 
+[1/5] ¿ä±¸»çÇ× ºÐ¼® ?
+- ÆäÀÌÁö: »ç¿ëÀÚ ÇÁ·ÎÇÊ
+- ±â´É: Á¶È¸, ¼öÁ¤, »çÁø ¾÷·Îµå
+- ¹ÝÀÀÇü: ¸ð¹ÙÀÏ ¿ì¼±
 
-[2/5] ì½”ë“œ ìž‘ì„± âœ… (3ë¶„)
-íŒŒì¼ ìƒì„±:
+[2/5] ÄÚµå ÀÛ¼º ? (3ºÐ)
+ÆÄÀÏ »ý¼º:
 - frontend/src/pages/Profile.jsx
 - frontend/src/components/ProfileForm.jsx
 - frontend/src/components/AvatarUpload.jsx
@@ -1993,80 +1993,80 @@ OpenClaw:
 - database/migrations/004_profile_fields.sql
 - tests/profile.test.js
 
-[3/5] í…ŒìŠ¤íŠ¸ ìž‘ì„± ë° ì‹¤í–‰ âœ… (2ë¶„)
-- ë‹¨ìœ„ í…ŒìŠ¤íŠ¸: 12ê°œ ìž‘ì„±
-- í†µí•© í…ŒìŠ¤íŠ¸: 4ê°œ ìž‘ì„±
-- E2E í…ŒìŠ¤íŠ¸: 2ê°œ ìž‘ì„±
-- ì»¤ë²„ë¦¬ì§€: 91%
-- ê²°ê³¼: âœ… ëª¨ë‘ í†µê³¼
+[3/5] Å×½ºÆ® ÀÛ¼º ¹× ½ÇÇà ? (2ºÐ)
+- ´ÜÀ§ Å×½ºÆ®: 12°³ ÀÛ¼º
+- ÅëÇÕ Å×½ºÆ®: 4°³ ÀÛ¼º
+- E2E Å×½ºÆ®: 2°³ ÀÛ¼º
+- Ä¿¹ö¸®Áö: 91%
+- °á°ú: ? ¸ðµÎ Åë°ú
 
-[4/5] PR ìƒì„± ë° ë¦¬ë·° âœ… (1ë¶„)
+[4/5] PR »ý¼º ¹× ¸®ºä ? (1ºÐ)
 - PR #235: "feat: add user profile page"
-- ìžë™ ë¦¬ë·°: í†µê³¼
-- ì²´í¬: í†µê³¼ (8/8)
+- ÀÚµ¿ ¸®ºä: Åë°ú
+- Ã¼Å©: Åë°ú (8/8)
 
-[5/5] ë°°í¬ âœ… (2ë¶„)
-- ìŠ¤í…Œì´ì§•: âœ…
-- í”„ë¡œë•ì…˜: âœ…
-- ëª¨ë‹ˆí„°ë§: í™œì„±í™”
+[5/5] ¹èÆ÷ ? (2ºÐ)
+- ½ºÅ×ÀÌÂ¡: ?
+- ÇÁ·Î´ö¼Ç: ?
+- ¸ð´ÏÅÍ¸µ: È°¼ºÈ­
 
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-ðŸŽ‰ ì™„ë£Œ! (ì´ 8ë¶„)
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
+?? ¿Ï·á! (ÃÑ 8ºÐ)
 
-ðŸ”— ê²°ê³¼ë¬¼:
-- í”„ë¡œë•ì…˜: https://app.example.com/profile
-- ìŠ¤í† ë¦¬ë¶: https://storybook.example.com/profile
-- í…ŒìŠ¤íŠ¸ ë¦¬í¬íŠ¸: [ë§í¬]
+?? °á°ú¹°:
+- ÇÁ·Î´ö¼Ç: https://app.example.com/profile
+- ½ºÅä¸®ºÏ: https://storybook.example.com/profile
+- Å×½ºÆ® ¸®Æ÷Æ®: [¸µÅ©]
 
-âœ¨ í•µì‹¬ ê¸°ëŠ¥:
-- ë°˜ì‘í˜• í”„ë¡œí•„ íŽ˜ì´ì§€
-- ì‹¤ì‹œê°„ ì´ë©”ì¼ ìœ íš¨ì„± ê²€ì‚¬
-- ì´ë¯¸ì§€ ë“œëž˜ê·¸ ì•¤ ë“œë¡­ ì—…ë¡œë“œ
-- ë‚™ê´€ì  ì—…ë°ì´íŠ¸
+? ÇÙ½É ±â´É:
+- ¹ÝÀÀÇü ÇÁ·ÎÇÊ ÆäÀÌÁö
+- ½Ç½Ã°£ ÀÌ¸ÞÀÏ À¯È¿¼º °Ë»ç
+- ÀÌ¹ÌÁö µå·¡±× ¾Ø µå·Ó ¾÷·Îµå
+- ³«°üÀû ¾÷µ¥ÀÌÆ®
 
-ðŸ”§ ê¸°ìˆ  ìŠ¤íƒ:
+?? ±â¼ú ½ºÅÃ:
 - React 18 + TypeScript
 - React Query
-- AWS S3 (ì´ë¯¸ì§€)
+- AWS S3 (ÀÌ¹ÌÁö)
 - Jest + React Testing Library
 
-ðŸ“Š ì„±ëŠ¥:
+?? ¼º´É:
 - First Contentful Paint: 0.8s
-- Lighthouse: 95ì 
-- ë²ˆë“¤ í¬ê¸°: 42KB
+- Lighthouse: 95Á¡
+- ¹øµé Å©±â: 42KB
 
-[ë°”ë¡œ í™•ì¸í•˜ê¸°] [ìˆ˜ì • ìš”ì²­] [ë‹¤ìŒ ê¸°ëŠ¥]
+[¹Ù·Î È®ÀÎÇÏ±â] [¼öÁ¤ ¿äÃ»] [´ÙÀ½ ±â´É]
 ```
 
 ---
 
-#### 25. ë¹„ì¦ˆë‹ˆìŠ¤ ìžìœ¨ ìš´ì˜ ðŸ”´
+#### 25. ºñÁî´Ï½º ÀÚÀ² ¿î¿µ ??
 
-ðŸ“– ì„¤ëª…
-$1,000 ì´ˆê¸° ìžê¸ˆì„ ì£¼ê³  "ì‚¬ì—… ë§Œë“¤ì–´"ë¼ê³  í•˜ë©´, ì›¹ì‚¬ì´íŠ¸ ì œìž‘ â†’ ì œí’ˆ ì†Œì‹± â†’ SNS ê³„ì • ìš´ì˜ â†’ ë§ˆì¼€íŒ… ìº íŽ˜ì¸ ì‹¤í–‰ê¹Œì§€ ìŠ¤ìŠ¤ë¡œ ìš´ì˜í•˜ì—¬ ì‹¤ì œ ìˆ˜ìµì„ ì°½ì¶œí•˜ëŠ” ìžìœ¨ ë¹„ì¦ˆë‹ˆìŠ¤ ì—ì´ì „íŠ¸ìž…ë‹ˆë‹¤.
+?? ¼³¸í
+$1,000 ÃÊ±â ÀÚ±ÝÀ» ÁÖ°í "»ç¾÷ ¸¸µé¾î"¶ó°í ÇÏ¸é, À¥»çÀÌÆ® Á¦ÀÛ ¡æ Á¦Ç° ¼Ò½Ì ¡æ SNS °èÁ¤ ¿î¿µ ¡æ ¸¶ÄÉÆÃ Ä·ÆäÀÎ ½ÇÇà±îÁö ½º½º·Î ¿î¿µÇÏ¿© ½ÇÁ¦ ¼öÀÍÀ» Ã¢ÃâÇÏ´Â ÀÚÀ² ºñÁî´Ï½º ¿¡ÀÌÀüÆ®ÀÔ´Ï´Ù.
 
-ðŸŽ¯ í™œìš© íš¨ê³¼
-- ì™„ì „ ìžìœ¨ ë¹„ì¦ˆë‹ˆìŠ¤ ìš´ì˜
-- 24/7 ìˆ˜ìµ ì°½ì¶œ
-- ì¸ê±´ë¹„ ì ˆê°
+?? È°¿ë È¿°ú
+- ¿ÏÀü ÀÚÀ² ºñÁî´Ï½º ¿î¿µ
+- 24/7 ¼öÀÍ Ã¢Ãâ
+- ÀÎ°Çºñ Àý°¨
 
-ðŸ› ï¸ í•„ìš” ìŠ¤í‚¬
-| ìŠ¤í‚¬ | ìš©ë„ | ì„¤ì¹˜ ëª…ë ¹ì–´ |
+??? ÇÊ¿ä ½ºÅ³
+| ½ºÅ³ | ¿ëµµ | ¼³Ä¡ ¸í·É¾î |
 |------|------|------------|
-| business | ë¹„ì¦ˆë‹ˆìŠ¤ ê¸°íš | `openclaw skill install business` |
-| webdev | ì›¹ ê°œë°œ | `openclaw skill install webdev` |
-| marketing | ë§ˆì¼€íŒ… | `openclaw skill install marketing` |
-| ecommerce | ì´ì»¤ë¨¸ìŠ¤ | `openclaw skill install ecommerce` |
-| analytics | ë¶„ì„ | `openclaw skill install analytics` |
+| business | ºñÁî´Ï½º ±âÈ¹ | `clawhub install business` |
+| webdev | À¥ °³¹ß | `clawhub install webdev` |
+| marketing | ¸¶ÄÉÆÃ | `clawhub install marketing` |
+| ecommerce | ÀÌÄ¿¸Ó½º | `clawhub install ecommerce` |
+| analytics | ºÐ¼® | `clawhub install analytics` |
 
-ðŸ“ ë‹¨ê³„ë³„ ì„¤ì • ë°©ë²•
+?? ´Ü°èº° ¼³Á¤ ¹æ¹ý
 
-1ë‹¨ê³„: ë¹„ì¦ˆë‹ˆìŠ¤ ì—ì´ì „íŠ¸ ì„¤ì •
+1´Ü°è: ºñÁî´Ï½º ¿¡ÀÌÀüÆ® ¼³Á¤
 ```bash
-openclaw skill install business webdev marketing ecommerce analytics
+clawhub install business webdev marketing ecommerce analytics
 ```
 
-2ë‹¨ê³„: ì´ˆê¸° ìžê¸ˆ ë° ëª©í‘œ ì„¤ì •
+2´Ü°è: ÃÊ±â ÀÚ±Ý ¹× ¸ñÇ¥ ¼³Á¤
 ```json
 {
   "business": {
@@ -2080,120 +2080,120 @@ openclaw skill install business webdev marketing ecommerce analytics
 }
 ```
 
-ðŸ’¬ ì‚¬ìš© ì˜ˆì‹œ
+?? »ç¿ë ¿¹½Ã
 ```
-User: $1000ìœ¼ë¡œ ì¹œí™˜ê²½ ì œí’ˆ ì‚¬ì—… ì‹œìž‘í•´ì¤˜
+User: $1000À¸·Î Ä£È¯°æ Á¦Ç° »ç¾÷ ½ÃÀÛÇØÁà
 
 OpenClaw:
-ðŸ’¼ ìžìœ¨ ë¹„ì¦ˆë‹ˆìŠ¤ ì—ì´ì „íŠ¸ í™œì„±í™”
+?? ÀÚÀ² ºñÁî´Ï½º ¿¡ÀÌÀüÆ® È°¼ºÈ­
 
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-WEEK 1: ì‹œìž¥ ì¡°ì‚¬ & ê¸°íš
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
+WEEK 1: ½ÃÀå Á¶»ç & ±âÈ¹
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
 
-ðŸ“Š ì‹œìž¥ ë¶„ì„:
-- íŠ¸ë Œë“œ: ìž¬ì‚¬ìš© ê°€ëŠ¥í•œ ì‹¤ë¦¬ì½˜ ìš©ê¸° ìƒìŠ¹ì„¸
-- ê²½ìŸ: ì¤‘ê°„ ìˆ˜ì¤€, ì°¨ë³„í™” ì—¬ì§€ ìžˆìŒ
-- íƒ€ê²Ÿ: 25-40ì„¸ í™˜ê²½-conscious ì—¬ì„±
+?? ½ÃÀå ºÐ¼®:
+- Æ®·»µå: Àç»ç¿ë °¡´ÉÇÑ ½Ç¸®ÄÜ ¿ë±â »ó½Â¼¼
+- °æÀï: Áß°£ ¼öÁØ, Â÷º°È­ ¿©Áö ÀÖÀ½
+- Å¸°Ù: 25-40¼¼ È¯°æ-conscious ¿©¼º
 
-ðŸ¢ ë¹„ì¦ˆë‹ˆìŠ¤ ëª¨ë¸:
-- D2C ì´ì»¤ë¨¸ìŠ¤
-- ì§ì ‘ ì†Œì‹± (ì¤‘êµ­ ì œì¡°ì—…ì²´)
-- ë§ˆì§„ìœ¨: 60%
+?? ºñÁî´Ï½º ¸ðµ¨:
+- D2C ÀÌÄ¿¸Ó½º
+- Á÷Á¢ ¼Ò½Ì (Áß±¹ Á¦Á¶¾÷Ã¼)
+- ¸¶ÁøÀ²: 60%
 
-ðŸ’° ìžê¸ˆ ë°°ë¶„:
-- ì œí’ˆ ì†Œì‹±: $400
-- ì›¹ì‚¬ì´íŠ¸: $100
-- ë§ˆì¼€íŒ…: $400
-- ìš´ì˜ë¹„: $100
+?? ÀÚ±Ý ¹èºÐ:
+- Á¦Ç° ¼Ò½Ì: $400
+- À¥»çÀÌÆ®: $100
+- ¸¶ÄÉÆÃ: $400
+- ¿î¿µºñ: $100
 
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-WEEK 2: ì œí’ˆ ì†Œì‹± & ì›¹ì‚¬ì´íŠ¸
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
+WEEK 2: Á¦Ç° ¼Ò½Ì & À¥»çÀÌÆ®
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
 
-ðŸ­ ì œì¡°ì—…ì²´ ì„ ì •:
-- 15ê°œ ì—…ì²´ ì—°ë½
-- ìƒ˜í”Œ í’ˆì§ˆ í…ŒìŠ¤íŠ¸
-- ìµœì¢… ì„ ì •: GreenMfg Co.
-- ì²« ì£¼ë¬¸: ì‹¤ë¦¬ì½˜ ë„ì‹œë½ 100ê°œ ($350)
+?? Á¦Á¶¾÷Ã¼ ¼±Á¤:
+- 15°³ ¾÷Ã¼ ¿¬¶ô
+- »ùÇÃ Ç°Áú Å×½ºÆ®
+- ÃÖÁ¾ ¼±Á¤: GreenMfg Co.
+- Ã¹ ÁÖ¹®: ½Ç¸®ÄÜ µµ½Ã¶ô 100°³ ($350)
 
-ðŸŒ ì›¹ì‚¬ì´íŠ¸ êµ¬ì¶•:
-- í”Œëž«í¼: Shopify
-- ë„ë©”ì¸: ecocontainers.co
-- ê²°ì œ: Stripe ì—°ë™
-- ë°°ì†¡: ìžë™í™” ì„¤ì •
+?? À¥»çÀÌÆ® ±¸Ãà:
+- ÇÃ·§Æû: Shopify
+- µµ¸ÞÀÎ: ecocontainers.co
+- °áÁ¦: Stripe ¿¬µ¿
+- ¹è¼Û: ÀÚµ¿È­ ¼³Á¤
 
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-WEEK 3: ë§ˆì¼€íŒ… ì‹¤í–‰
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
+WEEK 3: ¸¶ÄÉÆÃ ½ÇÇà
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
 
-ðŸ“± SNS ê³„ì • ìƒì„±:
-- Instagram: @ecocontainers (íŒ”ë¡œì›Œ 0 â†’ 1,200)
-- TikTok: @ecocontainers (íŒ”ë¡œì›Œ 0 â†’ 3,400)
+?? SNS °èÁ¤ »ý¼º:
+- Instagram: @ecocontainers (ÆÈ·Î¿ö 0 ¡æ 1,200)
+- TikTok: @ecocontainers (ÆÈ·Î¿ö 0 ¡æ 3,400)
 
-ðŸŽ¯ ê´‘ê³  ìº íŽ˜ì¸:
+?? ±¤°í Ä·ÆäÀÎ:
 - Facebook Ads: $200
 - TikTok Ads: $200
 - CTR: 2.3%, CPC: $0.45
 
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-WEEK 4+: ìš´ì˜ & ìµœì í™”
-â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
+WEEK 4+: ¿î¿µ & ÃÖÀûÈ­
+¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬
 
-ðŸ“ˆ ì‹¤ì  (3ê°œì›” í›„):
-- ì´ ë§¤ì¶œ: $4,200
-- ì´ ë¹„ìš©: $1,800
-- ìˆœì´ìµ: $2,400 (+140%)
+?? ½ÇÀû (3°³¿ù ÈÄ):
+- ÃÑ ¸ÅÃâ: $4,200
+- ÃÑ ºñ¿ë: $1,800
+- ¼øÀÌÀÍ: $2,400 (+140%)
 
-ðŸ”„ ìžë™í™”ëœ ìž‘ì—…:
-- ë§¤ì¼: ìž¬ê³  í™•ì¸, ì£¼ë¬¸ ì²˜ë¦¬
-- ì£¼ê°„: ë§ˆì¼€íŒ… ì„±ê³¼ ë¶„ì„, ê´‘ê³  ìµœì í™”
-- ì›”ê°„: ì‹ ì œí’ˆ ê¸°íš, ê³µê¸‰ì—…ì²´ í˜‘ìƒ
+?? ÀÚµ¿È­µÈ ÀÛ¾÷:
+- ¸ÅÀÏ: Àç°í È®ÀÎ, ÁÖ¹® Ã³¸®
+- ÁÖ°£: ¸¶ÄÉÆÃ ¼º°ú ºÐ¼®, ±¤°í ÃÖÀûÈ­
+- ¿ù°£: ½ÅÁ¦Ç° ±âÈ¹, °ø±Þ¾÷Ã¼ Çù»ó
 
-ðŸ“Š í˜„ìž¬ ìƒíƒœ:
-- ì¼ì¼ ë°©ë¬¸ìž: 150ëª…
-- ì „í™˜ìœ¨: 3.2%
-- ê³ ê° ë§Œì¡±ë„: 4.7/5
+?? ÇöÀç »óÅÂ:
+- ÀÏÀÏ ¹æ¹®ÀÚ: 150¸í
+- ÀüÈ¯À²: 3.2%
+- °í°´ ¸¸Á·µµ: 4.7/5
 
-ðŸ’¡ AI ì œì•ˆ:
-"ì‹ ì œí’ˆ(ì‹¤ë¦¬ì½˜ ë¹¨ëŒ€ ì„¸íŠ¸) ì¶”ê°€ ì‹œ 
-ì˜ˆìƒ ì›” ë§¤ì¶œ +$800"
+?? AI Á¦¾È:
+"½ÅÁ¦Ç°(½Ç¸®ÄÜ »¡´ë ¼¼Æ®) Ãß°¡ ½Ã 
+¿¹»ó ¿ù ¸ÅÃâ +$800"
 
-[ì œì•ˆ ìˆ˜ë½] [ìˆ˜ì •] [ìžì„¸ížˆ ë³´ê¸°]
+[Á¦¾È ¼ö¶ô] [¼öÁ¤] [ÀÚ¼¼È÷ º¸±â]
 ```
 
 ---
 
-## ðŸ“Š ì‚¬ë¡€ë³„ ë‚œì´ë„ ìš”ì•½
+## ?? »ç·Êº° ³­ÀÌµµ ¿ä¾à
 
-| ë ˆë²¨ | ì¹´í…Œê³ ë¦¬ | ì‚¬ë¡€ ìˆ˜ | ì£¼ìš” ìŠ¤í‚¬ |
+| ·¹º§ | Ä«Å×°í¸® | »ç·Ê ¼ö | ÁÖ¿ä ½ºÅ³ |
 |------|---------|--------|----------|
-| ðŸŸ¢ ì´ˆê¸‰ | ì´ë©”ì¼/ë©”ì‹œì§€ | 4ê°œ | gmail, email, calendar |
-| ðŸŸ¢ ì´ˆê¸‰ | ì¼ì •/ìƒì‚°ì„± | 2ê°œ | calendar, todoist, notion |
-| ðŸŸ¢ ì´ˆê¸‰ | ë©”ëª¨/ê¸°ë¡ | 3ê°œ | memory, notes, audio |
-| ðŸŸ¢ ì´ˆê¸‰ | ì •ë³´/ëª¨ë‹ˆí„°ë§ | 2ê°œ | tracking, slack |
-| ðŸŸ¢ ì´ˆê¸‰ | ìŠ¤ë§ˆíŠ¸í™ˆ | 2ê°œ | homeassistant, iot |
-| ðŸŸ¢ ì´ˆê¸‰ | ì½˜í…ì¸  | 2ê°œ | screenshot, translate |
-| ðŸŸ¡ ì¤‘ê¸‰ | ì—…ë¬´/ë¹„ì¦ˆë‹ˆìŠ¤ | 4ê°œ | crm, github, meeting |
-| ðŸŸ¡ ì¤‘ê¸‰ | ê°œë°œ/DevOps | 3ê°œ | monitoring, docker, cicd |
-| ðŸŸ¡ ì¤‘ê¸‰ | ìŠ¤ë§ˆíŠ¸í™ˆ ê³ ê¸‰ | 1ê°œ | homeassistant, automation |
-| ðŸŸ¡ ì¤‘ê¸‰ | ë§ˆì¼€íŒ… | 2ê°œ | content, monitoring |
-| ðŸ”´ ê³ ê¸‰ | ë©€í‹° ì—ì´ì „íŠ¸ | 4ê°œ | orchestrator, builder, deployer |
+| ?? ÃÊ±Þ | ÀÌ¸ÞÀÏ/¸Þ½ÃÁö | 4°³ | gmail, email, calendar |
+| ?? ÃÊ±Þ | ÀÏÁ¤/»ý»ê¼º | 2°³ | calendar, todoist, notion |
+| ?? ÃÊ±Þ | ¸Þ¸ð/±â·Ï | 3°³ | memory, notes, audio |
+| ?? ÃÊ±Þ | Á¤º¸/¸ð´ÏÅÍ¸µ | 2°³ | tracking, slack |
+| ?? ÃÊ±Þ | ½º¸¶Æ®È¨ | 2°³ | homeassistant, iot |
+| ?? ÃÊ±Þ | ÄÜÅÙÃ÷ | 2°³ | screenshot, translate |
+| ?? Áß±Þ | ¾÷¹«/ºñÁî´Ï½º | 4°³ | crm, github, meeting |
+| ?? Áß±Þ | °³¹ß/DevOps | 3°³ | monitoring, docker, cicd |
+| ?? Áß±Þ | ½º¸¶Æ®È¨ °í±Þ | 1°³ | homeassistant, automation |
+| ?? Áß±Þ | ¸¶ÄÉÆÃ | 2°³ | content, monitoring |
+| ?? °í±Þ | ¸ÖÆ¼ ¿¡ÀÌÀüÆ® | 4°³ | orchestrator, builder, deployer |
 
 ---
 
-## ðŸŽ¯ ë‹¤ìŒ ë‹¨ê³„
+## ?? ´ÙÀ½ ´Ü°è
 
-ì‹œìž‘í•˜ê¸° ì „ì—:
-1. [ë³´ì•ˆ ì²´í¬ë¦¬ìŠ¤íŠ¸](/security/skill-checklist) í™•ì¸
-2. [ë¹ ë¥¸ ì‹œìž‘ ê°€ì´ë“œ](/quickstart)ë¡œ OpenClaw ì„¤ì¹˜
-3. ì´ˆê¸‰ ì‚¬ë¡€ë¶€í„° í•˜ë‚˜ì”© ì‹œë„
+½ÃÀÛÇÏ±â Àü¿¡:
+1. [º¸¾È Ã¼Å©¸®½ºÆ®](/security/skill-checklist) È®ÀÎ
+2. [ºü¸¥ ½ÃÀÛ °¡ÀÌµå](/quickstart)·Î OpenClaw ¼³Ä¡
+3. ÃÊ±Þ »ç·ÊºÎÅÍ ÇÏ³ª¾¿ ½Ãµµ
 
-íŠ¹ì • ì‚¬ë¡€ êµ¬í˜„ì— ë¬¸ì œê°€ ìžˆìœ¼ë©´:
-- [OpenClaw Discord](https://discord.gg/clawd)ì—ì„œ ì§ˆë¬¸
-- [GitHub Issues](https://github.com/openclaw/openclaw/issues)ì— ë³´ê³ 
-- [ê³µì‹ ë¬¸ì„œ](https://docs.openclaw.ai) ì°¸ê³ 
+Æ¯Á¤ »ç·Ê ±¸Çö¿¡ ¹®Á¦°¡ ÀÖÀ¸¸é:
+- [OpenClaw Discord](https://discord.gg/clawd)¿¡¼­ Áú¹®
+- [GitHub Issues](https://github.com/openclaw/openclaw/issues)¿¡ º¸°í
+- [°ø½Ä ¹®¼­](https://docs.openclaw.ai) Âü°í
 
 ---
 
-> ðŸ’¡ íŒ: ëª¨ë“  ì‚¬ë¡€ëŠ” ì¡°í•©í•˜ì—¬ ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì˜ˆë¥¼ ë“¤ì–´ "ì•„ì¹¨ ë¸Œë¦¬í•‘"ì— "ì´ë©”ì¼ ì¸ë°•ìŠ¤ ì œë¡œ" ê¸°ëŠ¥ì„ í†µí•©í•˜ê±°ë‚˜, "ë©€í‹° ì—ì´ì „íŠ¸"ì— "íšŒì˜ ì „ì‚¬"ë¥¼ ì—°ê²°í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+> ?? ÆÁ: ¸ðµç »ç·Ê´Â Á¶ÇÕÇÏ¿© »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. ¿¹¸¦ µé¾î "¾ÆÄ§ ºê¸®ÇÎ"¿¡ "ÀÌ¸ÞÀÏ ÀÎ¹Ú½º Á¦·Î" ±â´ÉÀ» ÅëÇÕÇÏ°Å³ª, "¸ÖÆ¼ ¿¡ÀÌÀüÆ®"¿¡ "È¸ÀÇ Àü»ç"¸¦ ¿¬°áÇÒ ¼ö ÀÖ½À´Ï´Ù.
