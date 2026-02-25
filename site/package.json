@@ -1,0 +1,24 @@
+{
+  "name": "openclaw-webbook",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "OpenClaw 인터넷 공개용 웹북 - 설치 가이드 및 활용 사례 모음",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "screenshots": "node scripts/capture-screenshots.js",
+    "build:full": "npm run screenshots && npm run build"
+  },
+  "dependencies": {
+    "astro": "^5.0.0",
+    "@astrojs/starlight": "^0.30.0",
+    "sharp": "^0.33.0",
+    "playwright": "^1.50.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.0",
+    "typescript": "^5.4.0"
+  }
+}

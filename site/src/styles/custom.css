@@ -1,0 +1,21 @@
+/* Custom styles for OpenClaw Webbook */
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  .sl-container {
+    padding: 0 1rem;
+  }
+}
+
+/* Security warning box styling */
+.danger {
+  border-left: 4px solid #dc2626;
+  background-color: #fef2f2;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+/* Checklist styling */
+input[type="checkbox"] {
+  margin-right: 0.5rem;
+}
