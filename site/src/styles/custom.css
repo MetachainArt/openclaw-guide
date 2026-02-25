@@ -127,7 +127,7 @@ body {
   font-size: var(--sl-text-base);
   line-height: var(--sl-line-height);
   margin-bottom: 1.25rem;
-  color: var(--sl-color-gray-6);
+  color: var(--sl-color-black);
   word-break: keep-all;
 }
 
@@ -151,11 +151,12 @@ body {
   margin: 1.5rem 0;
   border-radius: 0 10px 10px 0;
   font-size: var(--sl-text-base);
-  color: var(--sl-color-gray-5);
+  color: var(--sl-color-black);
 }
 
 .sl-markdown-content blockquote p {
   margin-bottom: 0.35rem;
+  color: var(--sl-color-black);
 }
 
 /* ── Code Blocks - 세련된 코드 ── */
@@ -316,46 +317,65 @@ starlight-toc a[aria-current='true'] {
   border-width: 0;
   border-left-width: 4px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  color: #1e293b;
 }
 
 .starlight-aside--tip {
   background: linear-gradient(135deg, #ecfdf5, #f0fdf4);
   border-color: #10b981;
+  color: #14532d;
 }
 
 .starlight-aside--caution {
   background: linear-gradient(135deg, #fffbeb, #fef3c7);
   border-color: #f59e0b;
+  color: #713f12;
 }
 
 .starlight-aside--danger {
   background: linear-gradient(135deg, #fef2f2, #fee2e2);
   border-color: #ef4444;
+  color: #7f1d1d;
 }
 
 .starlight-aside--note {
   background: linear-gradient(135deg, #eff6ff, #dbeafe);
   border-color: var(--sl-color-accent);
+  color: #1e3a5f;
 }
 
 :root[data-theme='dark'] .starlight-aside--tip {
   background: linear-gradient(135deg, #052e1660, #04251540);
   border-color: #34d399;
+  color: #a7f3d0;
 }
 
 :root[data-theme='dark'] .starlight-aside--caution {
   background: linear-gradient(135deg, #44220960, #33190740);
   border-color: #fbbf24;
+  color: #fde68a;
 }
 
 :root[data-theme='dark'] .starlight-aside--danger {
   background: linear-gradient(135deg, #3b101360, #2e0a0c40);
   border-color: #f87171;
+  color: #fecaca;
 }
 
 :root[data-theme='dark'] .starlight-aside--note {
   background: linear-gradient(135deg, #0c1d3d60, #0a164040);
   border-color: var(--sl-color-accent);
+  color: #bfdbfe;
+}
+
+:root[data-theme='dark'] .starlight-aside {
+  color: #e2e8f0;
+}
+
+/* Aside 내부 p, li 텍스트도 명시적 색상 */
+.starlight-aside p,
+.starlight-aside li {
+  color: inherit !important;
 }
 
 .starlight-aside__title {
