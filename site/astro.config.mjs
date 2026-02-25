@@ -8,6 +8,7 @@ export default defineConfig({
     starlight({
       title: 'OpenClaw 완벽 가이드',
       description: 'OpenClaw 설치부터 활용까지 - 초급자부터 중급자를 위한 웹북',
+      disable404Route: false,
       social: {
         github: 'https://github.com/openclaw/openclaw',
         discord: 'https://discord.gg/clawd',
