@@ -2,5 +2,5 @@
 node_modules
 .git
 scripts/
-*.md
-!src/**/*.md
+README.md
+QUALITY_REPORT.md
