@@ -1,4 +1,4 @@
----
+﻿---
 title: 활용 사례 카테고리
 description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테고리별로 탐색하세요
 ---
@@ -20,7 +20,7 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
   <h3>업무 자동화 기본기</h3>
   <p class="category-desc">이메일, 일정, 문서, 회의록 자동화</p>
   <div class="category-meta">
-    <span class="case-count">8개 사례</span>
+    <span class="case-count">9개 사례</span>
     <span class="difficulty">🟢 초급</span>
   </div>
   <div class="category-preview">
