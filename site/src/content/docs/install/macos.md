@@ -3,8 +3,8 @@ title: macOS 설치
 description: macOS에서 OpenClaw를 설치하는 방법
 ---
 
-> ⏱️ 예상 소요시간: 20-30분  
-> 🎯 목표: macOS에 OpenClaw 설치 및 실행
+>  예상 소요시간: 20-30분  
+>  목표: macOS에 OpenClaw 설치 및 실행
 
 ## 시스템 요구사항
 

@@ -3,8 +3,8 @@ title: 레포 분석 → 컨텍스트 자동화
 description: 새 레포를 받으면 문서화/요약/온볼딩 가이드를 자동 생성하는 템플릿
 ---
 
-> ?? 목표: GitHub 레포를 입력하면 → 자동으로 프로젝트 이해를 위한 가이드 생성  
-> ?? 예상 소요시간: 초기 설정 30분, 이후 레포당 5-10분
+> 🎯 **목표**: GitHub 레포를 입력하면 → 자동으로 프로젝트 이해를 위한 가이드 생성  
+> ⏱️ **예상 소요시간**: 초기 설정 30분, 이후 레포당 5-10분
 
 ---
 
@@ -12,11 +12,11 @@ description: 새 레포를 받으면 문서화/요약/온볼딩 가이드를 자
 
 새로운 오픈소스 프로젝트나 팀 레포를 받았을 때, OpenClaw가 자동으로 다음을 생성합니다:
 
-1. 읽어야 할 파일 Top 10
-2. 프로젝트 구조 한 장 요약
-3. 실행 방법
-4. 변경/테스트 포인트
-5. 위험 요소 분석 (키, 권한, 외부 호출)
+1. **읽어야 할 파일 Top 10**
+2. **프로젝트 구조 한 장 요약**
+3. **실행 방법**
+4. **변경/테스트 포인트**
+5. **위험 요소 분석** (키, 권한, 외부 호출)
 
 ---
 
@@ -50,18 +50,18 @@ description: 새 레포를 받으면 문서화/요약/온볼딩 가이드를 자
 
 OpenClaw가 다음을 수행:
 
-1. 레포 메타데이터 수집
+1. **레포 메타데이터 수집**
    - README, LICENSE, CONTRIBUTING
    - 최근 커밋, 이슈, PR
    - 의존성 파일 (package.json, requirements.txt 등)
 
-2. 코드 구조 분석
+2. **코드 구조 분석**
    - 디렉토리 구조 파악
    - 주요 소스 파일 식별
    - 테스트 파일 위치
    - 설정 파일 매핑
 
-3. 위험 요소 스캔
+3. **위험 요소 스캔**
    - API 키/비밀번호 노출 여부
    - 외부 네트워크 호출
    - 파일 시스템 접근
@@ -74,19 +74,19 @@ OpenClaw가 다음을 수행:
 ```markdown
 # 프로젝트 분석 리포트: project-name
 
-## ?? 개요
+## 📋 개요
 - 언어: TypeScript
 - 프레임워크: Express.js
 - 라이선스: MIT
 - 마지막 업데이트: 2026-02-20
 
-## ?? 읽어야 할 파일 Top 10
+## 📚 읽어야 할 파일 Top 10
 1. README.md - 프로젝트 소개
 2. src/index.ts - 진입점
 3. src/routes/api.ts - API 라우트
 ...
 
-## ??? 프로젝트 구조
+## 🏗️ 프로젝트 구조
 ```
 src/
 ├── index.ts        # 서버 진입점
@@ -96,18 +96,18 @@ src/
 └── utils/          # 유틸리티
 ```
 
-## ?? 실행 방법
+## 🚀 실행 방법
 ```bash
 npm install
 npm run dev
 ```
 
-## ?? 테스트
+## 🧪 테스트
 ```bash
 npm test
 ```
 
-## ?? 위험 요소
+## ⚠️ 위험 요소
 - 외부 API 호출: api.example.com
 - 파일 쓰기: /tmp/ 디렉토리
 - 환경 변수: API_KEY, DATABASE_URL
@@ -164,22 +164,22 @@ clawhub install repo-analyzer
 
 ## 분석할 내용
 
-1. 핵심 파일 (10개 이내)
+1. **핵심 파일** (10개 이내)
    - 진입점
    - 주요 모듈
    - 설정 파일
    - 테스트 예시
 
-2. 프로젝트 구조
+2. **프로젝트 구조**
    - 디렉토리 트리 (3단계 깊이)
    - 각 디렉토리의 역할
 
-3. 실행 방법
+3. **실행 방법**
    - 설치 단계
    - 개발 서버 실행
    - 프로덕션 빌드
 
-4. 위험 요소
+4. **위험 요소**
    - 민감 데이터 처리
    - 외부 API 호출
    - 파일 시스템 접근
@@ -199,25 +199,25 @@ clawhub install repo-analyzer
 ```
 User: /repo https://github.com/vercel/next.js
 
-OpenClaw: ?? 레포 분석 중...
+OpenClaw: 📊 레포 분석 중...
 - 15,000+ 파일 발견
 - TypeScript 프로젝트 확인
 - 주요 패키지: react, webpack, babel
 
-?? 분석 완료! 리포트를 생성했습니다:
+📝 분석 완료! 리포트를 생성했습니다:
 /nextjs-analysis-20260225.md
 
 요약:
-? 핵심 파일: packages/next/src/server/next.ts
-? 실행: pnpm install && pnpm dev
-? 테스트: pnpm test
-?? 주의: 200+ 외부 의존성
+• 핵심 파일: packages/next/src/server/next.ts
+• 실행: pnpm install && pnpm dev
+• 테스트: pnpm test
+⚠️ 주의: 200+ 외부 의존성
 ```
 
 ### CLI에서
 
 ```bash
-openclaw message "Analyze this repository: https://github.com/vercel/next.js" \
+openclaw message "Analyze this repository" https://github.com/vercel/next.js \
   --output nextjs-guide.md \
   --include-risk-analysis
 ```
@@ -232,7 +232,7 @@ openclaw message "Analyze this repository: https://github.com/vercel/next.js" \
 
 ```bash
 # 팀 설정 동기화
-openclaw message "Create a template from this repo" \
+openclaw repo template --sync \
   --url https://github.com/company/repo-analysis-template
 ```
 
@@ -254,7 +254,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Analyze with OpenClaw
         run: |
-          openclaw message "Analyze current repository and output to report.md"
+          openclaw message "Analyze this repository" . --output report.md
       - name: Upload report
         uses: actions/upload-artifact@v4
         with:
@@ -298,20 +298,20 @@ jobs:
 
 ```bash
 # 깊이 제한
-openclaw message "Analyze <url> up to depth 2"
+openclaw message "Analyze this repository" <url> --max-depth 2
 
 # 파일 수 제한
-openclaw message "Analyze <url> max 50 files"
+openclaw message "Analyze this repository" <url> --max-files 50
 ```
 
 ### 클론 실패
 
 ```bash
 # SSH 대신 HTTPS 사용
-openclaw message "Analyze https://github.com/... via HTTPS"
+openclaw message "Analyze this repository" https://github.com/... --protocol https
 
 # 인증 추가
-openclaw config set github.token $GITHUB_TOKEN
+openclaw message "Analyze this repository" <url> --token $GITHUB_TOKEN
 ```
 
 ---

@@ -3,10 +3,10 @@ title: 빠른 시작 (30분 컷)
 description: 30분 만에 OpenClaw를 설치하고 첫 대화를 나누는 방법
 ---
 
-> ⏱️ 예상 소요시간: 30분  
-> 🎯 목표: OpenClaw 설치 → 첫 실행 → 메신저 연결
+>  예상 소요시간: 30분  
+>  목표: OpenClaw 설치 → 첫 실행 → 메신저 연결
 
-## ✅ 사전 체크리스트
+##  사전 체크리스트
 
 - [ ] Node.js 22+ 설치 확인 (`node --version`)
 - [ ] 터미널/명령 프롬프트 접근 권한
@@ -71,7 +71,7 @@ openclaw onboard --install-daemon
 openclaw doctor
 ```
 
-✅ 녹색 체크마크가 모두 표시되면 성공!
+ 녹색 체크마크가 모두 표시되면 성공!
 
 ---
 
@@ -132,7 +132,7 @@ openclaw channel add telegram
 Hello OpenClaw!
 ```
 
-응답이 오면 성공! 🎉
+응답이 오면 성공! 
 
 ---
 
@@ -159,7 +159,7 @@ http://example.com 웹사이트 요약해줘
 | 목표 | 가이드 |
 |------|--------|
 | 더 많은 채널 연결 | [채널 설정 가이드](/install/channels) |
-| 스킬 설치 | ⚠️ [보안 체크리스트](/security/skill-checklist) 먼저! |
+| 스킬 설치 |  [보안 체크리스트](/security/skill-checklist) 먼저! |
 | 일정 자동화 | [활용 사례: 캘린더](/usecases/calendar-automation) |
 
 ---

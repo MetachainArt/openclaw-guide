@@ -3,8 +3,8 @@ title: Windows/WSL2 설치
 description: Windows에서 OpenClaw를 설치하는 방법 (WSL2 권장)
 ---
 
-> ⏱️ 예상 소요시간: 45분 - 1시간  
-> 🎯 목표: WSL2 환경에 OpenClaw 설치
+>  예상 소요시간: 45분 - 1시간  
+>  목표: WSL2 환경에 OpenClaw 설치
 
 :::danger[중요: WSL2 필수]
 Windows에서 OpenClaw를 실행하려면 WSL2 (Windows Subsystem for Linux)가 필요합니다.
@@ -17,12 +17,12 @@ Windows에서 OpenClaw를 실행하려면 WSL2 (Windows Subsystem for Linux)가 
 WSL2는 Windows 10/11에서 Linux 환경을 실행할 수 있게 해주는 기능입니다. 가상머신보다 가볍고, Windows와 파일을 쉽게 공유할 수 있습니다.
 
 ### WSL2 장점
-- ✅ OpenClaw 완전 호환
-- ✅ 모든 스킬/기능 사용 가능
-- ✅ Windows 파일 탐색기에서 직접 접근
-- ✅ VS Code 통합 지원
+-  OpenClaw 완전 호환
+-  모든 스킬/기능 사용 가능
+-  Windows 파일 탐색기에서 직접 접근
+-  VS Code 통합 지원
 
-### 📺 추천 영상 튜토리얼
+###  추천 영상 튜토리얼
 
 - [Metics Media - Full OpenClaw Setup Tutorial (119K views)](https://www.youtube.com/watch?v=fcZMmP5dsl4)
 - [Adrian Twarog - OpenClaw Tutorial for Beginners (120K views)](https://www.youtube.com/watch?v=u4ydH-QvPeg)

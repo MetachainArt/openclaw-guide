@@ -3,8 +3,8 @@ title: 모델 연결 설정
 description: OpenAI, Anthropic, Google 등 AI 모델 API 연결 및 설정 방법
 ---
 
-> ⏱️ 예상 소요시간: 10-15분  
-> 🎯 목표: AI 모델 API 연결
+>  예상 소요시간: 10-15분  
+>  목표: AI 모델 API 연결
 
 ## 지원 모델 및 API 발급 사이트
 
@@ -48,14 +48,14 @@ gemini-2.0-flash-thinking   # 추론 능력 내장
 3. Billing 메뉴에서 결제 정보 등록 (묻지 않는 한도 $5)
 4. API Keys 메뉴로 이동
 5. Create Key 클릭하여 새 키 생성
-6. 키를 안전한 곳에 복사 (⚠️ 다시 볼 수 없음)
+6. 키를 안전한 곳에 복사 ( 다시 볼 수 없음)
 
 ![Claude API Keys 페이지](/images/screenshots/anthropic-api-keys.png)
 
 ### 2. OpenClaw에 설정
 
 ```bash
-openclaw config edit
+openclaw config
 ```
 
 또는 직접 설정 파일 편집:
@@ -89,7 +89,7 @@ openclaw agent --message "Hello"
 3. Billing 메뉴에서 결제 정보 등록
 4. API Keys → Create new secret key
 5. 키 이름 입력 후 생성
-6. 키를 안전한 곳에 복사 (⚠️ 다시 볼 수 없음)
+6. 키를 안전한 곳에 복사 ( 다시 볼 수 없음)
 
 ![OpenAI API Keys 페이지](/images/screenshots/openai-api-keys.png)
 

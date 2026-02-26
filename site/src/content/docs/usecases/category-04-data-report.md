@@ -1,9 +1,9 @@
-﻿---
+---
 title: "04. 데이터 정리 & 리포트 자동 생성"
 description: 로그/시트/DB 요약, 주간·월간 리포트 - 데이터 기반 의사결정
 ---
 
-> 🟡 중급 레벨  
+> 🟡 **중급 레벨**  
 > 📊 데이터를 자동으로 정리하고 인사이트를 추출
 
 ---
@@ -13,40 +13,40 @@ description: 로그/시트/DB 요약, 주간·월간 리포트 - 데이터 기�
 ### 1. 영수증 사진 → 엑셀 자동 입력
 <a href="#case-1" class="case-link">자세히 보기 →</a>
 
-핵심 효과: 영수증 찍으면 자동으로 지출 내역 입력
-필요 스킬: `vision`, `ocr`, `sheets`, `classifier`
+**핵심 효과**: 영수증 찍으면 자동으로 지출 내역 입력
+**필요 스킬**: `vision`, `ocr`, `sheets`, `classifier`
 
 ---
 
 ### 2. 로그 파일 분석 및 알림
 <a href="#case-2" class="case-link">자세히 보기 →</a>
 
-핵심 효과: 에러 로그를 자동 분석하여 이상 징후 감지
-필요 스킬: `logs`, `analytics`, `alerts`
+**핵심 효과**: 에러 로그를 자동 분석하여 이상 징후 감지
+**필요 스킬**: `logs`, `analytics`, `alerts`
 
 ---
 
 ### 3. 데이터베이스 요약 리포트
 <a href="#case-3" class="case-link">자세히 보기 →</a>
 
-핵심 효과: SQL 쿼리 없이 자연어로 DB 질문하고 리포트 생성
-필요 스킬: `database`, `sql`, `reports`
+**핵심 효과**: SQL 쿼리 없이 자연어로 DB 질문하고 리포트 생성
+**필요 스킬**: `database`, `sql`, `reports`
 
 ---
 
 ### 4. 주간/월간 자동 리포트
 <a href="#case-4" class="case-link">자세히 보기 →</a>
 
-핵심 효과: 다양한 소스의 데이터를 통합하여 리포트 생성
-필요 스킬: `reports`, `scheduler`, `charts`
+**핵심 효과**: 다양한 소스의 데이터를 통합하여 리포트 생성
+**필요 스킬**: `reports`, `scheduler`, `charts`
 
 ---
 
 ### 5. 구글 스프레드시트 자동화
 <a href="#case-5" class="case-link">자세히 보기 →</a>
 
-핵심 효과: 데이터 수집, 정리, 시각화까지 자동화
-필요 스킬: `sheets`, `forms`, `apps-script`
+**핵심 효과**: 데이터 수집, 정리, 시각화까지 자동화
+**필요 스킬**: `sheets`, `forms`, `apps-script`
 
 ---
 

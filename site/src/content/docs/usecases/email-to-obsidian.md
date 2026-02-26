@@ -1,37 +1,37 @@
 ---
-title: ÃÊ±Þ - ÀÌ¸ÞÀÏ ¡æ ¿É½Ãµð¾ð ÀúÀå
-description: ÀÌ¸ÞÀÏÀ» ÀÚµ¿À¸·Î Obsidian¿¡ ÀúÀåÇÏ´Â ¹æ¹ý
+title: ì´ˆê¸‰ - ì´ë©”ì¼ â†’ ì˜µì‹œë””ì–¸ ì €ìž¥
+description: ì´ë©”ì¼ì„ ìžë™ìœ¼ë¡œ Obsidianì— ì €ìž¥í•˜ëŠ” ë°©ë²•
 ---
 
-> ?? ÃÊ±Þ ·¹º§  
-> ?? ¿¹»ó ¼Ò¿ä½Ã°£: 30ºÐ  
-> ?? ¸ñÇ¥: Áß¿ä ÀÌ¸ÞÀÏÀ» ÀÚµ¿À¸·Î Obsidian¿¡ ¾ÆÄ«ÀÌºê
+> ðŸŸ¢ **ì´ˆê¸‰ ë ˆë²¨**  
+> â±ï¸ **ì˜ˆìƒ ì†Œìš”ì‹œê°„**: 30ë¶„  
+> ðŸŽ¯ **ëª©í‘œ**: ì¤‘ìš” ì´ë©”ì¼ì„ ìžë™ìœ¼ë¡œ Obsidianì— ì•„ì¹´ì´ë¸Œ
 
-## °³¿ä
+## ê°œìš”
 
-ÀÌ¸ÞÀÏ ÀÎ¹Ú½º¸¦ Á¤¸®ÇÏ°í Áß¿äÇÑ ¸ÞÀÏÀ» Obsidian¿¡ ÀÚµ¿À¸·Î ÀúÀåÇÏ´Â ¿öÅ©ÇÃ·Î¿ìÀÔ´Ï´Ù.
+ì´ë©”ì¼ ì¸ë°•ìŠ¤ë¥¼ ì •ë¦¬í•˜ê³  ì¤‘ìš”í•œ ë©”ì¼ì„ Obsidianì— ìžë™ìœ¼ë¡œ ì €ìž¥í•˜ëŠ” ì›Œí¬í”Œë¡œìš°ìž…ë‹ˆë‹¤.
 
-## ÀüÁ¦ Á¶°Ç
+## ì „ì œ ì¡°ê±´
 
-- Gmail °èÁ¤
-- Obsidian ¼³Ä¡
-- OpenClaw ½ÇÇà Áß
+- Gmail ê³„ì •
+- Obsidian ì„¤ì¹˜
+- OpenClaw ì‹¤í–‰ ì¤‘
 
-## ¼³Á¤ ¹æ¹ý
+## ì„¤ì • ë°©ë²•
 
-### 1´Ü°è: Gmail ½ºÅ³ ¼³Ä¡
+### 1ë‹¨ê³„: Gmail ìŠ¤í‚¬ ì„¤ì¹˜
 
 ```bash
 clawhub install gmail
 ```
 
-### 2´Ü°è: Obsidian ¿¬µ¿
+### 2ë‹¨ê³„: Obsidian ì—°ë™
 
 ```bash
 clawhub install obsidian
 ```
 
-### 3´Ü°è: ¼³Á¤
+### 3ë‹¨ê³„: ì„¤ì •
 
 ```json
 {
@@ -47,28 +47,28 @@ clawhub install obsidian
 }
 ```
 
-## »ç¿ë ¿¹½Ã
+## ì‚¬ìš© ì˜ˆì‹œ
 
-### ¸Þ½ÃÁö ¸í·É
-
-```
-ÀÌ ¸ÞÀÏÀ» Obsidian¿¡ ÀúÀåÇØÁà
-```
+### ë©”ì‹œì§€ ëª…ë ¹
 
 ```
-¿À´Ã Áß¿äÇÑ ÀÌ¸ÞÀÏÀ» ³ëÆ®·Î ¸¸µé¾îÁà
+ì´ ë©”ì¼ì„ Obsidianì— ì €ìž¥í•´ì¤˜
 ```
 
-### ÀÚµ¿È­ ¼³Á¤
+```
+ì˜¤ëŠ˜ ì¤‘ìš”í•œ ì´ë©”ì¼ì„ ë…¸íŠ¸ë¡œ ë§Œë“¤ì–´ì¤˜
+```
+
+### ìžë™í™” ì„¤ì •
 
 ```bash
-# ¸ÅÀÏ ¹ã ÀÚµ¿ ½ÇÇà
+# ë§¤ì¼ ë°¤ ìžë™ ì‹¤í–‰
 openclaw cron add "0 22 * * *" "email-to-obsidian"
 ```
 
-## °á°ú
+## ê²°ê³¼
 
-Obsidian¿¡ ´ÙÀ½ Çü½ÄÀ¸·Î ÀúÀåµÊ:
+Obsidianì— ë‹¤ìŒ í˜•ì‹ìœ¼ë¡œ ì €ìž¥ë¨:
 
 ```markdown
 ---
@@ -79,11 +79,11 @@ subject: "Important Subject"
 
 # Important Subject
 
-ÀÌ¸ÞÀÏ ³»¿ë ¿ä¾à...
+ì´ë©”ì¼ ë‚´ìš© ìš”ì•½...
 ```
 
 ---
 
-## ´ÙÀ½ ´Ü°è
+## ë‹¤ìŒ ë‹¨ê³„
 
-- [ÀÏÁ¤ ÀÚµ¿ µî·Ï](/usecases/calendar-automation)
+- [ì¼ì • ìžë™ ë“±ë¡](/usecases/calendar-automation)

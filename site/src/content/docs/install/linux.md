@@ -3,12 +3,12 @@ title: Linux 설치
 description: Linux에서 OpenClaw를 설치하는 방법
 ---
 
-> ⏱️ 예상 소요시간: 20-30분  
-> 🎯 목표: Linux에 OpenClaw 설치 및 실행
+>  예상 소요시간: 20-30분  
+>  목표: Linux에 OpenClaw 설치 및 실행
 
 ## 지원 배포판
 
-- Ubuntu 20.04 LTS 이상 ⭐ 권장
+- Ubuntu 20.04 LTS 이상  권장
 - Debian 11+
 - Fedora 38+
 - Arch Linux

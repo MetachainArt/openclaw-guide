@@ -1,9 +1,9 @@
 ﻿---
-title: "⚠️ 보안 경고"
+title: " 보안 경고"
 description: OpenClaw 보안 위험 및 필수 주의사항
 ---
 
-:::danger[🚨 필수 읽기]
+:::danger[ 필수 읽기]
 OpenClaw를 설치하거나 스킬을 사용하기 전에 반드시 이 페이지를 읽으세요.
 
 OpenClaw는 강력한 자율 권한을 가진 도구이며, 2026년 2월 ClawHub에서 341개 이상의 악성 스킬이 발견되었습니다.
@@ -37,11 +37,11 @@ OpenClaw는 강력한 자율 권한을 가진 도구이며, 2026년 2월 ClawHub
 
 OpenClaw는 다음 작업을 자동으로 수행할 수 있습니다:
 
-- ✅ 코드 실행: 임의의 코드 다운로드 및 실행
-- ✅ 파일 접근: 사용자 파일 읽기/쓰기
-- ✅ 네트워크: 외부 서버와 통신
-- ✅ 메시지 전송: 메신저로 메시지 발신
-- ✅ 브라우저 제어: 웹사이트 방문, 데이터 입력
+-  코드 실행: 임의의 코드 다운로드 및 실행
+-  파일 접근: 사용자 파일 읽기/쓰기
+-  네트워크: 외부 서버와 통신
+-  메시지 전송: 메신저로 메시지 발신
+-  브라우저 제어: 웹사이트 방문, 데이터 입력
 
 ### 이런 권한이 왜 필요한가?
 
@@ -59,11 +59,11 @@ OpenClaw는 다음 작업을 자동으로 수행할 수 있습니다:
 
 | 환경 | 위험도 | 권장사항 |
 |------|--------|----------|
-| 메인 컴퓨터 | 🔴 높음 | 민감 데이터 있으면 사용 금지 |
-| WSL2 | 🟡 중간 | 권장되는 최소 격리 |
-| Docker | 🟡 중간 | 컨테이너 격리 |
-| 별도 PC/서버 | 🟢 낮음 | 가장 안전 |
-| VM/클라우드 | 🟢 낮음 | 프로덕션 환경 권장 |
+| 메인 컴퓨터 |  높음 | 민감 데이터 있으면 사용 금지 |
+| WSL2 |  중간 | 권장되는 최소 격리 |
+| Docker |  중간 | 컨테이너 격리 |
+| 별도 PC/서버 |  낮음 | 가장 안전 |
+| VM/클라우드 |  낮음 | 프로덕션 환경 권장 |
 
 ### 2. 최소권한 원칙
 
@@ -130,9 +130,9 @@ openclaw pairing list
 openclaw doctor --security
 
 # 출력 예:
-# ⚠️  DM policy is "open" for Telegram (high risk)
-# ✅  Gateway auth is enabled
-# ⚠️  3 skills from unverified sources installed
+#   DM policy is "open" for Telegram (high risk)
+#   Gateway auth is enabled
+#   3 skills from unverified sources installed
 ```
 
 ---

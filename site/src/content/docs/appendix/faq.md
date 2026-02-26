@@ -1,227 +1,227 @@
----
-title: ÀÚÁÖ ¹¯´Â Áú¹® (FAQ)
-description: OpenClaw ¼³Ä¡ ¹× »ç¿ë Áß ÀÚÁÖ ¹¯´Â Áú¹®°ú ´äº¯
----
-
-> ?? OpenClaw¸¦ ½ÃÀÛÇÏ¸ç ±Ã±ÝÇß´ø Á¡µé
-
+ï»¿---
+title: ìžì£¼ ë¬»ëŠ” ì§ˆë¬¸ (FAQ)
+description: OpenClaw ì„¤ì¹˜ ë° ì‚¬ìš© ì¤‘ ìžì£¼ ë¬»ëŠ” ì§ˆë¬¸ê³¼ ë‹µë³€
 ---
 
-## ?? ½ÃÀÛÇÏ±â
+>  OpenClawë¥¼ ì‹œìž‘í•˜ë©° ê¶ê¸ˆí–ˆë˜ ì ë“¤
 
-### Q1: OpenClaw´Â ¹°·ÐÀÎ°¡¿ä?
+---
 
-A: OpenClaw ¼ÒÇÁÆ®¿þ¾î ÀÚÃ¼´Â ¿ÏÀü ¹°·ÐÀÔ´Ï´Ù (MIT ¶óÀÌ¼±½º). ÇÏÁö¸¸ AI ¸ðµ¨ »ç¿ë·á´Â º°µµÀÔ´Ï´Ù.
+##  ì‹œìž‘í•˜ê¸°
 
-| Ç×¸ñ | ºñ¿ë |
+### Q1: OpenClawëŠ” ë¬¼ë¡ ì¸ê°€ìš”?
+
+A: OpenClaw ì†Œí”„íŠ¸ì›¨ì–´ ìžì²´ëŠ” ì™„ì „ ë¬¼ë¡ ìž…ë‹ˆë‹¤ (MIT ë¼ì´ì„ ìŠ¤). í•˜ì§€ë§Œ AI ëª¨ë¸ ì‚¬ìš©ë£ŒëŠ” ë³„ë„ìž…ë‹ˆë‹¤.
+
+| í•­ëª© | ë¹„ìš© |
 |------|------|
-| OpenClaw ¼ÒÇÁÆ®¿þ¾î | ¹°·Ð |
-| OpenAI/Anthropic µî API | À¯·á (»ç¿ë·® ±âÁØ) |
-| Groq/·ÎÄÃ ¸ðµ¨ | Àú·Å ¶Ç´Â ¹°·Ð |
+| OpenClaw ì†Œí”„íŠ¸ì›¨ì–´ | ë¬¼ë¡  |
+| OpenAI/Anthropic ë“± API | ìœ ë£Œ (ì‚¬ìš©ëŸ‰ ê¸°ì¤€) |
+| Groq/ë¡œì»¬ ëª¨ë¸ | ì €ë ´ ë˜ëŠ” ë¬¼ë¡  |
 
-ÃßÃµ ¹°·Ð Á¶ÇÕ:
-- Groq (Llama 3.3) - $0.09/1M ÅäÅ«
-- Ollama (·ÎÄÃ) - ¹°·Ð (ÀÚÃ¼ GPU ÇÊ¿ä)
-
----
-
-### Q2: Windows¿¡¼­ WSL2 ¾øÀÌ »ç¿ëÇÒ ¼ö ÀÖ³ª¿ä?
-
-A: °­·ÂÈ÷ ±ÇÀåÇÏÁö ¾Ê½À´Ï´Ù.
-
-- ³×ÀÌÆ¼ºê Windows ¼³Ä¡´Â Áö¿øµÇÁö ¾Ê°Å³ª ½É°¢ÇÑ Á¦¾àÀÌ ÀÖ½À´Ï´Ù
-- ÀÏºÎ ½ºÅ³ÀÌ Á¦´ë·Î ÀÛµ¿ÇÏÁö ¾ÊÀ» ¼ö ÀÖ½À´Ï´Ù
-- WSL2´Â Windows 10/11¿¡ ³»ÀåµÇ¾î ÀÖ¾î º°µµ ºñ¿ë ¾øÀÌ »ç¿ë °¡´ÉÇÕ´Ï´Ù
-
-´ë¾È:
-1. WSL2 ¼³Ä¡ (±ÇÀå)
-2. Docker »ç¿ë
-3. º°µµ Linux ¼­¹ö/VM »ç¿ë
+ì¶”ì²œ ë¬¼ë¡  ì¡°í•©:
+- Groq (Llama 3.3) - $0.09/1M í† í°
+- Ollama (ë¡œì»¬) - ë¬¼ë¡  (ìžì²´ GPU í•„ìš”)
 
 ---
 
-### Q3: Claude¿Í OpenClawÀÇ Â÷ÀÌÁ¡Àº ¹«¾ùÀÎ°¡¿ä?
+### Q2: Windowsì—ì„œ WSL2 ì—†ì´ ì‚¬ìš©í•  ìˆ˜ ìžˆë‚˜ìš”?
+
+A: ê°•ë ¥ížˆ ê¶Œìž¥í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
+
+- ë„¤ì´í‹°ë¸Œ Windows ì„¤ì¹˜ëŠ” ì§€ì›ë˜ì§€ ì•Šê±°ë‚˜ ì‹¬ê°í•œ ì œì•½ì´ ìžˆìŠµë‹ˆë‹¤
+- ì¼ë¶€ ìŠ¤í‚¬ì´ ì œëŒ€ë¡œ ìž‘ë™í•˜ì§€ ì•Šì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤
+- WSL2ëŠ” Windows 10/11ì— ë‚´ìž¥ë˜ì–´ ìžˆì–´ ë³„ë„ ë¹„ìš© ì—†ì´ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤
+
+ëŒ€ì•ˆ:
+1. WSL2 ì„¤ì¹˜ (ê¶Œìž¥)
+2. Docker ì‚¬ìš©
+3. ë³„ë„ Linux ì„œë²„/VM ì‚¬ìš©
+
+---
+
+### Q3: Claudeì™€ OpenClawì˜ ì°¨ì´ì ì€ ë¬´ì—‡ì¸ê°€ìš”?
 
 A: 
 
-| ±â´É | Claude (ChatGPT) | OpenClaw |
+| ê¸°ëŠ¥ | Claude (ChatGPT) | OpenClaw |
 |------|------------------|----------|
-| ½ÇÇà À§Ä¡ | Å¬¶ó¿ìµå | ³» ÄÄÇ»ÅÍ |
-| ÆÄÀÏ Á¢±Ù | Á¦ÇÑÀû | ÀüÃ¼ ÆÄÀÏ ½Ã½ºÅÛ |
-| ¸Þ½ÅÀú ¿¬µ¿ | ºÒ°¡ | Telegram/Slack/Discord µî |
-| ÀÚµ¿È­ | Á¦ÇÑÀû | Å©·Ð/ÀÌº¥Æ® ±â¹Ý ÀÚµ¿È­ |
-| È®Àå¼º | ÇÃ·¯±×ÀÎ | 3,500+ ½ºÅ³ |
+| ì‹¤í–‰ ìœ„ì¹˜ | í´ë¼ìš°ë“œ | ë‚´ ì»´í“¨í„° |
+| íŒŒì¼ ì ‘ê·¼ | ì œí•œì  | ì „ì²´ íŒŒì¼ ì‹œìŠ¤í…œ |
+| ë©”ì‹ ì € ì—°ë™ | ë¶ˆê°€ | Telegram/Slack/Discord ë“± |
+| ìžë™í™” | ì œí•œì  | í¬ë¡ /ì´ë²¤íŠ¸ ê¸°ë°˜ ìžë™í™” |
+| í™•ìž¥ì„± | í”ŒëŸ¬ê·¸ì¸ | 3,500+ ìŠ¤í‚¬ |
 
-¿ä¾à: Claude´Â "¶È¶ÈÇÑ ´ëÈ­ »ó´ë", OpenClaw´Â "ÀÏÇÏ´Â AI Á÷¿ø"
-
----
-
-### Q4: ¾î´À Á¤µµÀÇ ±â¼ú ¼öÁØÀÌ ÇÊ¿äÇÑ°¡¿ä?
-
-A: ÃÊ±Þ °³¹ßÀÚ ¼öÁØÀÌ¸é ÃæºÐÇÕ´Ï´Ù.
-
-ÇÊ¿äÇÑ ±â¼ú:
-- ÅÍ¹Ì³Î/¸í·É ÇÁ·ÒÇÁÆ® ±âº» »ç¿ë¹ý
-- Node.js/npm °³³ä ÀÌÇØ
-- API Å° ¹ß±Þ °æÇè
-- (¼±ÅÃ) Docker ±âÃÊ
-
-ÇÁ·Î±×·¡¹Ö ¾øÀÌ ½ÃÀÛ °¡´É:
-- ±âº» ¼³Ä¡´Â ¸í·É¾î º¹»ç-ºÙ¿©³Ö±â¸¸À¸·Î °¡´É
-- ½ºÅ³ ¼³Ä¡µµ ¸í·É¾î ÇÑ ÁÙ
-- º¹ÀâÇÑ ¼³Á¤Àº ¼±ÅÃ»çÇ×
+ìš”ì•½: ClaudeëŠ” "ë˜‘ë˜‘í•œ ëŒ€í™” ìƒëŒ€", OpenClawëŠ” "ì¼í•˜ëŠ” AI ì§ì›"
 
 ---
 
-## ?? ¼³Ä¡ ¹× ¼³Á¤
+### Q4: ì–´ëŠ ì •ë„ì˜ ê¸°ìˆ  ìˆ˜ì¤€ì´ í•„ìš”í•œê°€ìš”?
 
-### Q5: ¼³Ä¡°¡ ¾È µÉ ¶§ ¾î¶»°Ô ÇÏ³ª¿ä?
+A: ì´ˆê¸‰ ê°œë°œìž ìˆ˜ì¤€ì´ë©´ ì¶©ë¶„í•©ë‹ˆë‹¤.
 
-A: ´ÙÀ½ ¼ø¼­´ë·Î È®ÀÎÇÏ¼¼¿ä:
+í•„ìš”í•œ ê¸°ìˆ :
+- í„°ë¯¸ë„/ëª…ë ¹ í”„ë¡¬í”„íŠ¸ ê¸°ë³¸ ì‚¬ìš©ë²•
+- Node.js/npm ê°œë… ì´í•´
+- API í‚¤ ë°œê¸‰ ê²½í—˜
+- (ì„ íƒ) Docker ê¸°ì´ˆ
 
-1. Node.js ¹öÀü È®ÀÎ
+í”„ë¡œê·¸ëž˜ë° ì—†ì´ ì‹œìž‘ ê°€ëŠ¥:
+- ê¸°ë³¸ ì„¤ì¹˜ëŠ” ëª…ë ¹ì–´ ë³µì‚¬-ë¶™ì—¬ë„£ê¸°ë§Œìœ¼ë¡œ ê°€ëŠ¥
+- ìŠ¤í‚¬ ì„¤ì¹˜ë„ ëª…ë ¹ì–´ í•œ ì¤„
+- ë³µìž¡í•œ ì„¤ì •ì€ ì„ íƒì‚¬í•­
+
+---
+
+##  ì„¤ì¹˜ ë° ì„¤ì •
+
+### Q5: ì„¤ì¹˜ê°€ ì•ˆ ë  ë•Œ ì–´ë–»ê²Œ í•˜ë‚˜ìš”?
+
+A: ë‹¤ìŒ ìˆœì„œëŒ€ë¡œ í™•ì¸í•˜ì„¸ìš”:
+
+1. Node.js ë²„ì „ í™•ì¸
    ```bash
-   node --version  # 22+ ÇÊ¿ä
+   node --version  # 22+ í•„ìš”
    ```
 
-2. npm Àü¿ª °æ·Î È®ÀÎ
+2. npm ì „ì—­ ê²½ë¡œ í™•ì¸
    ```bash
    npm prefix -g
-   # PATH¿¡ Ãß°¡ ÇÊ¿äÇÒ ¼ö ÀÖÀ½
+   # PATHì— ì¶”ê°€ í•„ìš”í•  ìˆ˜ ìžˆìŒ
    ```
 
-3. WSL2 ¼³Ä¡ È®ÀÎ (Windows)
+3. WSL2 ì„¤ì¹˜ í™•ì¸ (Windows)
    ```bash
    wsl --version
    ```
 
-4. ±ÇÇÑ ¹®Á¦ (Linux/macOS)
+4. ê¶Œí•œ ë¬¸ì œ (Linux/macOS)
    ```bash
    sudo chown -R $(whoami) ~/.npm
    ```
 
-¿©ÀüÈ÷ ¾È µÇ¸é: [¹®Á¦ ÇØ°á °¡ÀÌµå](/install/troubleshooting) ÂüÁ¶
+ì—¬ì „ížˆ ì•ˆ ë˜ë©´: [ë¬¸ì œ í•´ê²° ê°€ì´ë“œ](/install/troubleshooting) ì°¸ì¡°
 
 ---
 
-### Q6: API Å°´Â ¾îµð¼­ ¹ß±Þ¹Þ³ª¿ä?
+### Q6: API í‚¤ëŠ” ì–´ë””ì„œ ë°œê¸‰ë°›ë‚˜ìš”?
 
-A: °¢ ÇÁ·Î¹ÙÀÌ´õº° ¹ß±ÞÃ³:
+A: ê° í”„ë¡œë°”ì´ë”ë³„ ë°œê¸‰ì²˜:
 
-| ÇÁ·Î¹ÙÀÌ´õ | ¹ß±Þ »çÀÌÆ® | ¹°ŽÒ Å©·¹µ÷ |
+| í”„ë¡œë°”ì´ë” | ë°œê¸‰ ì‚¬ì´íŠ¸ | ë¬¼ë¡Œ í¬ë ˆë”§ |
 |-----------|------------|------------|
 | Anthropic (Claude) | [console.anthropic.com](https://console.anthropic.com) | $5 |
 | OpenAI (GPT) | [platform.openai.com](https://platform.openai.com) | $5 |
 | Google (Gemini) | [aistudio.google.com](https://aistudio.google.com) | $300 |
 | Groq | [console.groq.com](https://console.groq.com) | $20 |
 
-ÃÊ±â ºñ¿ë Àý¾à ÆÁ:
-- Google AI Studio ($300 Å©·¹µ÷)À¸·Î ½ÃÀÛ
-- Groq (ÃÊÀú°¡) Å×½ºÆ®
-- ·ÎÄÃ ¸ðµ¨ (Ollama)·Î ¿¬½À
+ì´ˆê¸° ë¹„ìš© ì ˆì•½ íŒ:
+- Google AI Studio ($300 í¬ë ˆë”§)ìœ¼ë¡œ ì‹œìž‘
+- Groq (ì´ˆì €ê°€) í…ŒìŠ¤íŠ¸
+- ë¡œì»¬ ëª¨ë¸ (Ollama)ë¡œ ì—°ìŠµ
 
 ---
 
-### Q7: ¿©·¯ ÄÄÇ»ÅÍ¿¡¼­ µ¿½Ã¿¡ »ç¿ëÇÒ ¼ö ÀÖ³ª¿ä?
+### Q7: ì—¬ëŸ¬ ì»´í“¨í„°ì—ì„œ ë™ì‹œì— ì‚¬ìš©í•  ìˆ˜ ìžˆë‚˜ìš”?
 
-A: ³×Æ®¿öÅ© ¼³Á¤¿¡ µû¶ó °¡´ÉÇÕ´Ï´Ù.
+A: ë„¤íŠ¸ì›Œí¬ ì„¤ì •ì— ë”°ë¼ ê°€ëŠ¥í•©ë‹ˆë‹¤.
 
-°°Àº ³×Æ®¿öÅ©:
+ê°™ì€ ë„¤íŠ¸ì›Œí¬:
 ```json
-// ¼³Á¤ ÆÄÀÏ¿¡¼­
+// ì„¤ì • íŒŒì¼ì—ì„œ
 "gateway": {
-  "host": "0.0.0.0",  // ¿ÜºÎ Á¢¼Ó Çã¿ë
+  "host": "0.0.0.0",  // ì™¸ë¶€ ì ‘ì† í—ˆìš©
   "port": 18789
 }
 ```
 
-´Ù¸¥ ³×Æ®¿öÅ©/¿ÜºÎ Á¢¼Ó:
-- VPN »ç¿ë ±ÇÀå
-- ¶Ç´Â Å¬¶ó¿ìµå ¼­¹ö¿¡ ¼³Ä¡
-- º¸¾È ÁÖÀÇ: ÀÎÁõ ¼³Á¤ ÇÊ¼ö
+ë‹¤ë¥¸ ë„¤íŠ¸ì›Œí¬/ì™¸ë¶€ ì ‘ì†:
+- VPN ì‚¬ìš© ê¶Œìž¥
+- ë˜ëŠ” í´ë¼ìš°ë“œ ì„œë²„ì— ì„¤ì¹˜
+- ë³´ì•ˆ ì£¼ì˜: ì¸ì¦ ì„¤ì • í•„ìˆ˜
 
 ---
 
-## ?? º¸¾È
+##  ë³´ì•ˆ
 
-### Q8: OpenClaw´Â ¾ÈÀüÇÑ°¡¿ä?
+### Q8: OpenClawëŠ” ì•ˆì „í•œê°€ìš”?
 
-A: °­·ÂÇÑ µµ±¸ÀÌ¹Ç·Î ÁÖÀÇ°¡ ÇÊ¿äÇÕ´Ï´Ù.
+A: ê°•ë ¥í•œ ë„êµ¬ì´ë¯€ë¡œ ì£¼ì˜ê°€ í•„ìš”í•©ë‹ˆë‹¤.
 
-À§Çè ¿ä¼Ò:
-- ÆÄÀÏ ½Ã½ºÅÛ ÀüÃ¼ Á¢±Ù ±ÇÇÑ
-- ÀÓÀÇ ÄÚµå ½ÇÇà °¡´É
-- ¸Þ½ÅÀú¸¦ ÅëÇÑ ¿ÜºÎ Åë½Å
-- 2026³â 2¿ù ±âÁØ 341°³ ÀÌ»ó ¾Ç¼º ½ºÅ³ ¹ß°ß
+ìœ„í—˜ ìš”ì†Œ:
+- íŒŒì¼ ì‹œìŠ¤í…œ ì „ì²´ ì ‘ê·¼ ê¶Œí•œ
+- ìž„ì˜ ì½”ë“œ ì‹¤í–‰ ê°€ëŠ¥
+- ë©”ì‹ ì €ë¥¼ í†µí•œ ì™¸ë¶€ í†µì‹ 
+- 2026ë…„ 2ì›” ê¸°ì¤€ 341ê°œ ì´ìƒ ì•…ì„± ìŠ¤í‚¬ ë°œê²¬
 
-¾ÈÀüÇÏ°Ô »ç¿ëÇÏ´Â ¹æ¹ý:
-1. WSL2/Docker/º°µµ ¼­¹ö¿¡¼­ ½ÇÇà
-2. ½ºÅ³ ¼³Ä¡ Àü ÃâÃ³ È®ÀÎ
-3. ¹Î°¨ÇÑ µ¥ÀÌÅÍ´Â º°µµ È¯°æ¿¡¼­ ºÐ¸®
-4. Á¤±âÀûÀÎ API Å° È¸Àü
+ì•ˆì „í•˜ê²Œ ì‚¬ìš©í•˜ëŠ” ë°©ë²•:
+1. WSL2/Docker/ë³„ë„ ì„œë²„ì—ì„œ ì‹¤í–‰
+2. ìŠ¤í‚¬ ì„¤ì¹˜ ì „ ì¶œì²˜ í™•ì¸
+3. ë¯¼ê°í•œ ë°ì´í„°ëŠ” ë³„ë„ í™˜ê²½ì—ì„œ ë¶„ë¦¬
+4. ì •ê¸°ì ì¸ API í‚¤ íšŒì „
 
-ÇÊ¼ö ÀÐ±â: [º¸¾È °æ°í](/security/warnings)
+í•„ìˆ˜ ì½ê¸°: [ë³´ì•ˆ ê²½ê³ ](/security/warnings)
 
 ---
 
-### Q9: ½ºÅ³ ¼³Ä¡°¡ ¾ÈÀüÇÑÁö ¾î¶»°Ô È®ÀÎÇÏ³ª¿ä?
+### Q9: ìŠ¤í‚¬ ì„¤ì¹˜ê°€ ì•ˆì „í•œì§€ ì–´ë–»ê²Œ í™•ì¸í•˜ë‚˜ìš”?
 
-A: ¼³Ä¡ Àü Ã¼Å©¸®½ºÆ®:
+A: ì„¤ì¹˜ ì „ ì²´í¬ë¦¬ìŠ¤íŠ¸:
 
-- [ ] GitHub ¸®Æ÷ÁöÅä¸® È®ÀÎ
-  - º°(star) ¼ö, ÃÖ±Ù ¾÷µ¥ÀÌÆ®
-  - ÄÚµå ¸®ºä (ÀÇ½É½º·¯¿î ºÎºÐÀº ChatGPT/Claude¿¡°Ô ºÐ¼® ¿äÃ»)
+- [ ] GitHub ë¦¬í¬ì§€í† ë¦¬ í™•ì¸
+  - ë³„(star) ìˆ˜, ìµœê·¼ ì—…ë°ì´íŠ¸
+  - ì½”ë“œ ë¦¬ë·° (ì˜ì‹¬ìŠ¤ëŸ¬ìš´ ë¶€ë¶„ì€ ChatGPT/Claudeì—ê²Œ ë¶„ì„ ìš”ì²­)
   
-- [ ] ±ÇÇÑ ¿ä±¸»çÇ× °ËÅä
-  - °úµµÇÑ ±ÇÇÑ ¿äÃ» ½Ã ÁÖÀÇ
+- [ ] ê¶Œí•œ ìš”êµ¬ì‚¬í•­ ê²€í† 
+  - ê³¼ë„í•œ ê¶Œí•œ ìš”ì²­ ì‹œ ì£¼ì˜
   
-- [ ] Ä¿¹Â´ÏÆ¼ ÆòÆÇ È®ÀÎ
+- [ ] ì»¤ë®¤ë‹ˆí‹° í‰íŒ í™•ì¸
   - Reddit, Discord, GitHub Issues
   
-- [ ] »÷µå¹Ú½º Å×½ºÆ®
-  - ¹Î°¨ÇÏÁö ¾ÊÀº È¯°æ¿¡¼­ ¸ÕÀú Å×½ºÆ®
+- [ ] ìƒŒë“œë°•ìŠ¤ í…ŒìŠ¤íŠ¸
+  - ë¯¼ê°í•˜ì§€ ì•Šì€ í™˜ê²½ì—ì„œ ë¨¼ì € í…ŒìŠ¤íŠ¸
 
-ÀÇ½É½º·¯¿î °æ¿ì: ¼³Ä¡ÇÏÁö ¸¶¼¼¿ä!
+ì˜ì‹¬ìŠ¤ëŸ¬ìš´ ê²½ìš°: ì„¤ì¹˜í•˜ì§€ ë§ˆì„¸ìš”!
 
 ---
 
-### Q10: API Å°°¡ À¯ÃâµÇ¸é ¾î¶»°Ô ÇÏ³ª¿ä?
+### Q10: API í‚¤ê°€ ìœ ì¶œë˜ë©´ ì–´ë–»ê²Œ í•˜ë‚˜ìš”?
 
-A: Áï½Ã Á¶Ä¡:
+A: ì¦‰ì‹œ ì¡°ì¹˜:
 
-1. API Å° Æó±â (ÇØ´ç ÇÁ·Î¹ÙÀÌ´õ ÄÜ¼Ö¿¡¼­)
-2. »õ Å° ¹ß±Þ
-3. OpenClaw ¼³Á¤ ¾÷µ¥ÀÌÆ®
+1. API í‚¤ íê¸° (í•´ë‹¹ í”„ë¡œë°”ì´ë” ì½˜ì†”ì—ì„œ)
+2. ìƒˆ í‚¤ ë°œê¸‰
+3. OpenClaw ì„¤ì • ì—…ë°ì´íŠ¸
    ```bash
-   openclaw config edit
+   openclaw config
    ```
-4. ÀÌÀü Å° »ç¿ë ·Î±× È®ÀÎ (ÇÁ·Î¹ÙÀÌ´õ ÄÜ¼Ö)
-5. ÇÊ¿ä½Ã OpenClaw Àç¼³Ä¡
+4. ì´ì „ í‚¤ ì‚¬ìš© ë¡œê·¸ í™•ì¸ (í”„ë¡œë°”ì´ë” ì½˜ì†”)
+5. í•„ìš”ì‹œ OpenClaw ìž¬ì„¤ì¹˜
 
-¿¹¹æÃ¥:
-- `.env` ÆÄÀÏ git ¾÷·Îµå ±ÝÁö
-- `.gitignore`¿¡ `.env` Ãß°¡
-- Á¤±âÀûÀÎ Å° È¸Àü
+ì˜ˆë°©ì±…:
+- `.env` íŒŒì¼ git ì—…ë¡œë“œ ê¸ˆì§€
+- `.gitignore`ì— `.env` ì¶”ê°€
+- ì •ê¸°ì ì¸ í‚¤ íšŒì „
 
 ---
 
-## ? »ç¿ë ¹× ±â´É
+##  ì‚¬ìš© ë° ê¸°ëŠ¥
 
-### Q11: Telegram ¿Ü¿¡ ´Ù¸¥ ¸Þ½ÅÀúµµ ¿¬°áÇÒ ¼ö ÀÖ³ª¿ä?
+### Q11: Telegram ì™¸ì— ë‹¤ë¥¸ ë©”ì‹ ì €ë„ ì—°ê²°í•  ìˆ˜ ìžˆë‚˜ìš”?
 
-A: ³×, 50+ Ã¤³Î Áö¿ø:
+A: ë„¤, 50+ ì±„ë„ ì§€ì›:
 
-| ¸Þ½ÅÀú | »óÅÂ | Æ¯Â¡ |
+| ë©”ì‹ ì € | ìƒíƒœ | íŠ¹ì§• |
 |--------|------|------|
-| Telegram | ? ¿Ïº® | °¡Àå ÀÎ±â, ¾ÈÁ¤Àû |
-| Slack | ? ¿Ïº® | ¾÷¹«¿ë ÃßÃµ |
-| Discord | ? ¿Ïº® | Ä¿¹Â´ÏÆ¼¿ë |
-| WhatsApp | ? °¡´É | QR ÄÚµå ÀÎÁõ ÇÊ¿ä |
-| iMessage | ?? Á¦ÇÑ | macOS Àü¿ë |
-| Signal | ? °¡´É | signal-cli ÇÊ¿ä |
-| Email | ? °¡´É | IMAP/SMTP |
+| Telegram |  ì™„ë²½ | ê°€ìž¥ ì¸ê¸°, ì•ˆì •ì  |
+| Slack |  ì™„ë²½ | ì—…ë¬´ìš© ì¶”ì²œ |
+| Discord |  ì™„ë²½ | ì»¤ë®¤ë‹ˆí‹°ìš© |
+| WhatsApp |  ê°€ëŠ¥ | QR ì½”ë“œ ì¸ì¦ í•„ìš” |
+| iMessage |  ì œí•œ | macOS ì „ìš© |
+| Signal |  ê°€ëŠ¥ | signal-cli í•„ìš” |
+| Email |  ê°€ëŠ¥ | IMAP/SMTP |
 
-¼³Ä¡ ¿¹½Ã:
+ì„¤ì¹˜ ì˜ˆì‹œ:
 ```bash
 openclaw channel add telegram
 openclaw channel add slack
@@ -230,57 +230,57 @@ openclaw channel add discord
 
 ---
 
-### Q12: ÇÑ±¹¾î·Î ¿Ïº®ÇÏ°Ô »ç¿ëÇÒ ¼ö ÀÖ³ª¿ä?
+### Q12: í•œêµ­ì–´ë¡œ ì™„ë²½í•˜ê²Œ ì‚¬ìš©í•  ìˆ˜ ìžˆë‚˜ìš”?
 
-A: ³×, AI ¸ðµ¨¿¡ µû¶ó ´Ù¸¨´Ï´Ù.
+A: ë„¤, AI ëª¨ë¸ì— ë”°ë¼ ë‹¤ë¦…ë‹ˆë‹¤.
 
-ÇÑ±¹¾î ¿ì¼ö ¸ðµ¨:
-- Claude 3.5/4.x: ÇÑ±¹¾î ¸Å¿ì ¿ì¼ö
-- GPT-4o: ÇÑ±¹¾î ¿ì¼ö
-- Gemini 1.5/3.x: ÇÑ±¹¾î ¾çÈ£
-- ·ÎÄÃ ¸ðµ¨: ÇÑ±¹¾î ¼º´É ¸ðµ¨º° »óÀÌ
+í•œêµ­ì–´ ìš°ìˆ˜ ëª¨ë¸:
+- Claude 3.5/4.x: í•œêµ­ì–´ ë§¤ìš° ìš°ìˆ˜
+- GPT-4o: í•œêµ­ì–´ ìš°ìˆ˜
+- Gemini 1.5/3.x: í•œêµ­ì–´ ì–‘í˜¸
+- ë¡œì»¬ ëª¨ë¸: í•œêµ­ì–´ ì„±ëŠ¥ ëª¨ë¸ë³„ ìƒì´
 
-OpenClaw ÀÚÃ¼:
-- CLI´Â ¿µ¾î
-- ¸Þ½ÃÁö/ÀÀ´äÀº ÇÑ±¹¾î °¡´É
-- ¼³Á¤ ÆÄÀÏÀº ¿µ¾î
-
----
-
-### Q13: ½º¸¶Æ®Æù¿¡¼­µµ »ç¿ëÇÒ ¼ö ÀÖ³ª¿ä?
-
-A: °£Á¢ÀûÀ¸·Î °¡´ÉÇÕ´Ï´Ù.
-
-¹æ¹ý 1: ¸Þ½ÅÀú ¿¬µ¿ (ÃßÃµ)
-- Telegram/Slack ¾Û¿¡¼­ OpenClaw¿Í ´ëÈ­
-- ½º¸¶Æ®Æù¿¡¼­µµ ¸ðµç ±â´É »ç¿ë °¡´É
-
-¹æ¹ý 2: À¥ ´ë½Ãº¸µå
-- ºê¶ó¿ìÀú¿¡¼­ `http://ÄÄÇ»ÅÍIP:18789` Á¢¼Ó
-- °°Àº ³×Æ®¿öÅ© ÇÊ¿ä (¶Ç´Â VPN)
-
-¹æ¹ý 3: Å¬¶ó¿ìµå ¼­¹ö
-- AWS/GCP µî¿¡ OpenClaw ¼³Ä¡
-- ¾îµð¼­³ª Á¢¼Ó °¡´É
-
-³×ÀÌÆ¼ºê ¾Û: ÇöÀç ¾øÀ½ (¸Þ½ÅÀú ¿¬µ¿ »ç¿ë)
+OpenClaw ìžì²´:
+- CLIëŠ” ì˜ì–´
+- ë©”ì‹œì§€/ì‘ë‹µì€ í•œêµ­ì–´ ê°€ëŠ¥
+- ì„¤ì • íŒŒì¼ì€ ì˜ì–´
 
 ---
 
-### Q14: ÀÚµ¿È­´Â ¾î¶»°Ô ¼³Á¤ÇÏ³ª¿ä?
+### Q13: ìŠ¤ë§ˆíŠ¸í°ì—ì„œë„ ì‚¬ìš©í•  ìˆ˜ ìžˆë‚˜ìš”?
 
-A: 3°¡Áö ¹æ¹ý:
+A: ê°„ì ‘ì ìœ¼ë¡œ ê°€ëŠ¥í•©ë‹ˆë‹¤.
 
-1. Å©·Ð (Cron) - ½Ã°£ ±â¹Ý
+ë°©ë²• 1: ë©”ì‹ ì € ì—°ë™ (ì¶”ì²œ)
+- Telegram/Slack ì•±ì—ì„œ OpenClawì™€ ëŒ€í™”
+- ìŠ¤ë§ˆíŠ¸í°ì—ì„œë„ ëª¨ë“  ê¸°ëŠ¥ ì‚¬ìš© ê°€ëŠ¥
+
+ë°©ë²• 2: ì›¹ ëŒ€ì‹œë³´ë“œ
+- ë¸Œë¼ìš°ì €ì—ì„œ `http://ì»´í“¨í„°IP:18789` ì ‘ì†
+- ê°™ì€ ë„¤íŠ¸ì›Œí¬ í•„ìš” (ë˜ëŠ” VPN)
+
+ë°©ë²• 3: í´ë¼ìš°ë“œ ì„œë²„
+- AWS/GCP ë“±ì— OpenClaw ì„¤ì¹˜
+- ì–´ë””ì„œë‚˜ ì ‘ì† ê°€ëŠ¥
+
+ë„¤ì´í‹°ë¸Œ ì•±: í˜„ìž¬ ì—†ìŒ (ë©”ì‹ ì € ì—°ë™ ì‚¬ìš©)
+
+---
+
+### Q14: ìžë™í™”ëŠ” ì–´ë–»ê²Œ ì„¤ì •í•˜ë‚˜ìš”?
+
+A: 3ê°€ì§€ ë°©ë²•:
+
+1. í¬ë¡  (Cron) - ì‹œê°„ ê¸°ë°˜
 ```bash
-# ¸ÅÀÏ ¾ÆÄ§ 8½Ã ºê¸®ÇÎ
+# ë§¤ì¼ ì•„ì¹¨ 8ì‹œ ë¸Œë¦¬í•‘
 openclaw cron add "0 8 * * *" "daily-briefing"
 
-# ¸ÅÁÖ ¿ù¿äÀÏ ¸®Æ÷Æ®
+# ë§¤ì£¼ ì›”ìš”ì¼ ë¦¬í¬íŠ¸
 openclaw cron add "0 9 * * 1" "weekly-report"
 ```
 
-2. ÀÌº¥Æ® ±â¹Ý - Æ¯Á¤ »óÈ² ¹ß»ý ½Ã
+2. ì´ë²¤íŠ¸ ê¸°ë°˜ - íŠ¹ì • ìƒí™© ë°œìƒ ì‹œ
 ```json
 {
   "triggers": {
@@ -290,7 +290,7 @@ openclaw cron add "0 9 * * 1" "weekly-report"
 }
 ```
 
-3. ÇÏÆ®ºñÆ® (Heartbeat) - ¿¡ÀÌÀüÆ® ÁÖ±âÀû ½ÇÇà
+3. í•˜íŠ¸ë¹„íŠ¸ (Heartbeat) - ì—ì´ì „íŠ¸ ì£¼ê¸°ì  ì‹¤í–‰
 ```json
 {
   "heartbeat": {
@@ -300,182 +300,182 @@ openclaw cron add "0 9 * * 1" "weekly-report"
 }
 ```
 
-»ó¼¼ °¡ÀÌµå: [È°¿ë »ç·Ê Ä«Å×°í¸®](/usecases)
+ìƒì„¸ ê°€ì´ë“œ: [í™œìš© ì‚¬ë¡€ ì¹´í…Œê³ ë¦¬](/usecases)
 
 ---
 
-## ?? ºñ¿ë
+##  ë¹„ìš©
 
-### Q15: ÇÑ ´Þ¿¡ ¾ó¸¶³ª ºñ¿ëÀÌ µå³ª¿ä?
+### Q15: í•œ ë‹¬ì— ì–¼ë§ˆë‚˜ ë¹„ìš©ì´ ë“œë‚˜ìš”?
 
-A: »ç¿ë·®¿¡ µû¶ó ´Ù¸¨´Ï´Ù.
+A: ì‚¬ìš©ëŸ‰ì— ë”°ë¼ ë‹¤ë¦…ë‹ˆë‹¤.
 
-°¡º­¿î »ç¿ë (¿ù $1-5):
-- °³ÀÎ¿ë ÀÏÁ¤/ÀÌ¸ÞÀÏ ÀÚµ¿È­
-- Groq ¶Ç´Â Gemini 3.0 Flash »ç¿ë
+ê°€ë²¼ìš´ ì‚¬ìš© (ì›” $1-5):
+- ê°œì¸ìš© ì¼ì •/ì´ë©”ì¼ ìžë™í™”
+- Groq ë˜ëŠ” Gemini 3.0 Flash ì‚¬ìš©
 
-º¸Åë »ç¿ë (¿ù $10-30):
-- ¾÷¹«¿ë ´Ù¾çÇÑ ÀÚµ¿È­
-- Claude Sonnet/GPT-4o »ç¿ë
-- ÇÏ·ç 50-100È¸ API È£Ãâ
+ë³´í†µ ì‚¬ìš© (ì›” $10-30):
+- ì—…ë¬´ìš© ë‹¤ì–‘í•œ ìžë™í™”
+- Claude Sonnet/GPT-4o ì‚¬ìš©
+- í•˜ë£¨ 50-100íšŒ API í˜¸ì¶œ
 
-¹«°Å¿î »ç¿ë (¿ù $50+):
-- °³¹ß ¿öÅ©ÇÃ·Î¿ì ÀÚµ¿È­
-- Claude Opus/GPT-5.3 Codex »ç¿ë
-- ´ë¿ë·® ¹®¼­ Ã³¸®
+ë¬´ê±°ìš´ ì‚¬ìš© (ì›” $50+):
+- ê°œë°œ ì›Œí¬í”Œë¡œìš° ìžë™í™”
+- Claude Opus/GPT-5.3 Codex ì‚¬ìš©
+- ëŒ€ìš©ëŸ‰ ë¬¸ì„œ ì²˜ë¦¬
 
-ºñ¿ë Àý¾à ÆÁ:
-- Groq »ç¿ë (Anthropic ´ëºñ 1/30 °¡°Ý)
-- Ä³½Ì È°¿ë (µ¿ÀÏ ÇÁ·ÒÇÁÆ® Àç»ç¿ë)
-- ÅäÅ« ¼ö ¸ð´ÏÅÍ¸µ
+ë¹„ìš© ì ˆì•½ íŒ:
+- Groq ì‚¬ìš© (Anthropic ëŒ€ë¹„ 1/30 ê°€ê²©)
+- ìºì‹± í™œìš© (ë™ì¼ í”„ë¡¬í”„íŠ¸ ìž¬ì‚¬ìš©)
+- í† í° ìˆ˜ ëª¨ë‹ˆí„°ë§
 
 ---
 
-### Q16: ¹«·á·Î »ç¿ëÇÏ·Á¸é ¾î¶² ¸ðµ¨À» ¼±ÅÃÇØ¾ß ÇÏ³ª¿ä?
+### Q16: ë¬´ë£Œë¡œ ì‚¬ìš©í•˜ë ¤ë©´ ì–´ë–¤ ëª¨ë¸ì„ ì„ íƒí•´ì•¼ í•˜ë‚˜ìš”?
 
-A: ¿ÏÀü ¹«·á ¶Ç´Â ÃÊÀú°¡ ¿É¼Ç:
+A: ì™„ì „ ë¬´ë£Œ ë˜ëŠ” ì´ˆì €ê°€ ì˜µì…˜:
 
-| ¿É¼Ç | Á¶°Ç | ¼º´É |
+| ì˜µì…˜ | ì¡°ê±´ | ì„±ëŠ¥ |
 |------|------|------|
-| Ollama (·ÎÄÃ) | ÀÚÃ¼ GPU ÇÊ¿ä | Áß°£ |
-| Groq Llama 3.3 | $0.09/1M ÅäÅ« | ¿ì¼ö |
-| Gemini 3.0 Flash | $0.15/1M ÅäÅ« | ¿ì¼ö |
-| Google AI Studio | $300 ¹«·á Å©·¹µ÷ | ÃÖ°í |
+| Ollama (ë¡œì»¬) | ìžì²´ GPU í•„ìš” | ì¤‘ê°„ |
+| Groq Llama 3.3 | $0.09/1M í† í° | ìš°ìˆ˜ |
+| Gemini 3.0 Flash | $0.15/1M í† í° | ìš°ìˆ˜ |
+| Google AI Studio | $300 ë¬´ë£Œ í¬ë ˆë”§ | ìµœê³  |
 
-ÃÊ±â ÃßÃµ:
-1. Google AI Studio ($300 Å©·¹µ÷)À¸·Î ½ÃÀÛ
-2. GroqÀ¸·Î ÀüÈ¯ÇÏ¿© À¯Áö
+ì´ˆê¸° ì¶”ì²œ:
+1. Google AI Studio ($300 í¬ë ˆë”§)ìœ¼ë¡œ ì‹œìž‘
+2. Groqìœ¼ë¡œ ì „í™˜í•˜ì—¬ ìœ ì§€
 
 ---
 
-## ?? ¹®Á¦ ÇØ°á
+##  ë¬¸ì œ í•´ê²°
 
-### Q17: OpenClaw°¡ ÀÀ´äÇÏÁö ¾ÊÀ» ¶§
+### Q17: OpenClawê°€ ì‘ë‹µí•˜ì§€ ì•Šì„ ë•Œ
 
-A: ´Ü°èº° È®ÀÎ:
+A: ë‹¨ê³„ë³„ í™•ì¸:
 
-1. °ÔÀÌÆ®¿þÀÌ »óÅÂ È®ÀÎ
+1. ê²Œì´íŠ¸ì›¨ì´ ìƒíƒœ í™•ì¸
    ```bash
    openclaw status
    ```
 
-2. ÇÁ·Î¼¼½º È®ÀÎ
+2. í”„ë¡œì„¸ìŠ¤ í™•ì¸
    ```bash
    ps aux | grep openclaw
    ```
 
-3. Àç½ÃÀÛ
+3. ìž¬ì‹œìž‘
    ```bash
    openclaw gateway stop
    openclaw gateway start
    ```
 
-4. ·Î±× È®ÀÎ
+4. ë¡œê·¸ í™•ì¸
    ```bash
    openclaw logs --tail 100
    ```
 
-5. Æ÷Æ® º¯°æ (Ãæµ¹ ½Ã)
+5. í¬íŠ¸ ë³€ê²½ (ì¶©ëŒ ì‹œ)
    ```bash
    openclaw gateway --port 18790
    ```
 
 ---
 
-### Q18: ¸Þ½ÅÀú¿¡¼­ ÀÀ´äÀÌ ¾È ¿Ã ¶§
+### Q18: ë©”ì‹ ì €ì—ì„œ ì‘ë‹µì´ ì•ˆ ì˜¬ ë•Œ
 
-A: È®ÀÎ »çÇ×:
+A: í™•ì¸ ì‚¬í•­:
 
-1. °ÔÀÌÆ®¿þÀÌ ½ÇÇà Áß
+1. ê²Œì´íŠ¸ì›¨ì´ ì‹¤í–‰ ì¤‘
    ```bash
-   openclaw status  # running È®ÀÎ
+   openclaw status  # running í™•ì¸
    ```
 
-2. Ã¤³Î ¼³Á¤ È®ÀÎ
+2. ì±„ë„ ì„¤ì • í™•ì¸
    ```bash
    openclaw channel list
    ```
 
-3. À¥ÈÅ URL È®ÀÎ (Telegram BotFather)
-   - Æ÷Æ® Æ÷¿öµù ÇÊ¿äÇÒ ¼ö ÀÖÀ½
+3. ì›¹í›… URL í™•ì¸ (Telegram BotFather)
+   - í¬íŠ¸ í¬ì›Œë”© í•„ìš”í•  ìˆ˜ ìžˆìŒ
 
-4. DM Á¤Ã¥ È®ÀÎ
+4. DM ì •ì±… í™•ì¸
    ```json
-   "dmPolicy": "open"  // ¶Ç´Â "pairing"ÀÌ¸é ½ÂÀÎ ÇÊ¿ä
+   "dmPolicy": "open"  // ë˜ëŠ” "pairing"ì´ë©´ ìŠ¹ì¸ í•„ìš”
    ```
 
-5. ¹æÈ­º®/º¸¾È ±×·ì (Å¬¶ó¿ìµå »ç¿ë ½Ã)
-   - Æ÷Æ® 18789 °³¹æ
+5. ë°©í™”ë²½/ë³´ì•ˆ ê·¸ë£¹ (í´ë¼ìš°ë“œ ì‚¬ìš© ì‹œ)
+   - í¬íŠ¸ 18789 ê°œë°©
 
 ---
 
-### Q19: ½ºÅ³ÀÌ Á¦´ë·Î ÀÛµ¿ÇÏÁö ¾ÊÀ» ¶§
+### Q19: ìŠ¤í‚¬ì´ ì œëŒ€ë¡œ ìž‘ë™í•˜ì§€ ì•Šì„ ë•Œ
 
-A: µð¹ö±ë ´Ü°è:
+A: ë””ë²„ê¹… ë‹¨ê³„:
 
-1. ½ºÅ³ ·Î±× È®ÀÎ
+1. ìŠ¤í‚¬ ë¡œê·¸ í™•ì¸
    ```bash
    openclaw logs --skill <skill-name>
    ```
 
-2. ÀÇÁ¸¼º È®ÀÎ
+2. ì˜ì¡´ì„± í™•ì¸
    ```bash
    openclaw skill check <skill-name>
    ```
 
-3. Àç¼³Ä¡
+3. ìž¬ì„¤ì¹˜
    ```bash
    openclaw skill remove <skill-name>
    clawhub install <skill-name>
    ```
 
-4. ¼³Á¤ ÆÄÀÏ È®ÀÎ
+4. ì„¤ì • íŒŒì¼ í™•ì¸
    ```bash
    cat ~/.openclaw/skills/<skill-name>/config.json
    ```
 
-5. GitHub Issues È®ÀÎ
-   - ÇØ´ç ½ºÅ³ ¸®Æ÷ÁöÅä¸® È®ÀÎ
+5. GitHub Issues í™•ì¸
+   - í•´ë‹¹ ìŠ¤í‚¬ ë¦¬í¬ì§€í† ë¦¬ í™•ì¸
 
 ---
 
-## ?? ¾÷µ¥ÀÌÆ® ¹× ¹Ì·¡
+## ðŸ†• ì—…ë°ì´íŠ¸ ë° ë¯¸ëž˜
 
-### Q20: OpenClaw´Â °è¼Ó ¾÷µ¥ÀÌÆ®µÇ³ª¿ä?
+### Q20: OpenClawëŠ” ê³„ì† ì—…ë°ì´íŠ¸ë˜ë‚˜ìš”?
 
-A: ³×, È°¹ßÈ÷ °³¹ß ÁßÀÔ´Ï´Ù.
+A: ë„¤, í™œë°œížˆ ê°œë°œ ì¤‘ìž…ë‹ˆë‹¤.
 
-ÃÖ±Ù ¾÷µ¥ÀÌÆ® (2026³â 2¿ù ±âÁØ):
-- ¸ÖÆ¼ ¿¡ÀÌÀüÆ® ±â´É °­È­
-- º¸¾È ÆÐÄ¡ (¾Ç¼º ½ºÅ³ ´ëÀÀ)
-- »õ·Î¿î Ã¤³Î Áö¿ø
-- ¼º´É °³¼±
+ìµœê·¼ ì—…ë°ì´íŠ¸ (2026ë…„ 2ì›” ê¸°ì¤€):
+- ë©€í‹° ì—ì´ì „íŠ¸ ê¸°ëŠ¥ ê°•í™”
+- ë³´ì•ˆ íŒ¨ì¹˜ (ì•…ì„± ìŠ¤í‚¬ ëŒ€ì‘)
+- ìƒˆë¡œìš´ ì±„ë„ ì§€ì›
+- ì„±ëŠ¥ ê°œì„ 
 
-¾÷µ¥ÀÌÆ® ¹æ¹ý:
+ì—…ë°ì´íŠ¸ ë°©ë²•:
 ```bash
-# npmÀ¸·Î ¼³Ä¡ÇÑ °æ¿ì
+# npmìœ¼ë¡œ ì„¤ì¹˜í•œ ê²½ìš°
 npm update -g openclaw
 
-# ¶Ç´Â Àç¼³Ä¡
+# ë˜ëŠ” ìž¬ì„¤ì¹˜
 npm uninstall -g openclaw
 npm install -g openclaw
 ```
-¾÷µ¥ÀÌÆ® ¹æ¹ý:
+ì—…ë°ì´íŠ¸ ë°©ë²•:
 ```bash
-# npmÀ¸·Î ¼³Ä¡ÇÑ °æ¿ì
+# npmìœ¼ë¡œ ì„¤ì¹˜í•œ ê²½ìš°
 npm update -g openclaw
 
-# ¶Ç´Â Àç¼³Ä¡
+# ë˜ëŠ” ìž¬ì„¤ì¹˜
 npm uninstall -g openclaw
 npm install -g openclaw
 ```
 
 ---
 
-## ?? ´õ ¾Ë¾Æº¸±â
+##  ë” ì•Œì•„ë³´ê¸°
 
-- [ºü¸¥ ½ÃÀÛ (30ºÐ)](/quickstart)
-- [¼³Ä¡ °¡ÀÌµå](/install/prerequisites)
-- [º¸¾È °¡ÀÌµå](/security/warnings)
-- [È°¿ë »ç·Ê](/usecases)
+- [ë¹ ë¥¸ ì‹œìž‘ (30ë¶„)](/quickstart)
+- [ì„¤ì¹˜ ê°€ì´ë“œ](/install/prerequisites)
+- [ë³´ì•ˆ ê°€ì´ë“œ](/security/warnings)
+- [í™œìš© ì‚¬ë¡€](/usecases)
 

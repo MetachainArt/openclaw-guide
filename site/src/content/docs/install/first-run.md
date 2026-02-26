@@ -1,72 +1,72 @@
----
-title: ÃÖÃÊ ½ÇÇà ¹× ¼³Á¤
-description: OpenClaw¸¦ Ã³À½ ½ÇÇàÇÏ°í ±âº» ¼³Á¤À» ¿Ï·áÇÏ´Â ¹æ¹ı
----
-
-> ?? ¿¹»ó ¼Ò¿ä½Ã°£: 15-20ºĞ  
-> ?? ¸ñÇ¥: ¿Âº¼µù ¿Ï·á ¡æ Ã¹ ´ëÈ­
-
+ï»¿---
+title: ìµœì´ˆ ì‹¤í–‰ ë° ì„¤ì •
+description: OpenClawë¥¼ ì²˜ìŒ ì‹¤í–‰í•˜ê³  ê¸°ë³¸ ì„¤ì •ì„ ì™„ë£Œí•˜ëŠ” ë°©ë²•
 ---
 
-## ¿Âº¼µù ¸¶¹ı»ç
+>  ì˜ˆìƒ ì†Œìš”ì‹œê°„: 15-20ë¶„  
+>  ëª©í‘œ: ì˜¨ë³¼ë”© ì™„ë£Œ â†’ ì²« ëŒ€í™”
 
-OpenClaw´Â ´ëÈ­Çü CLI ¸¶¹ı»ç·Î ÃÊ±â ¼³Á¤À» ¾È³»ÇÕ´Ï´Ù.
+---
+
+## ì˜¨ë³¼ë”© ë§ˆë²•ì‚¬
+
+OpenClawëŠ” ëŒ€í™”í˜• CLI ë§ˆë²•ì‚¬ë¡œ ì´ˆê¸° ì„¤ì •ì„ ì•ˆë‚´í•©ë‹ˆë‹¤.
 
 ```bash
 openclaw onboard --install-daemon
 ```
 
-### `--install-daemon` ¿É¼Ç
+### `--install-daemon` ì˜µì…˜
 
-- macOS: `launchd` ¼­ºñ½º·Î µî·Ï
-- Linux: `systemd` »ç¿ëÀÚ ¼­ºñ½º·Î µî·Ï
-- Windows: Windows ¼­ºñ½º·Î µî·Ï (WSL2¿¡¼­ systemd »ç¿ë ½Ã)
+- macOS: `launchd` ì„œë¹„ìŠ¤ë¡œ ë“±ë¡
+- Linux: `systemd` ì‚¬ìš©ì ì„œë¹„ìŠ¤ë¡œ ë“±ë¡
+- Windows: Windows ì„œë¹„ìŠ¤ë¡œ ë“±ë¡ (WSL2ì—ì„œ systemd ì‚¬ìš© ì‹œ)
 
 ---
 
-## ¿Âº¼µù ´Ü°èº° ¾È³»
+## ì˜¨ë³¼ë”© ë‹¨ê³„ë³„ ì•ˆë‚´
 
-### 1´Ü°è: È¯¿µ ¸Ş½ÃÁö
+### 1ë‹¨ê³„: í™˜ì˜ ë©”ì‹œì§€
 
 ```
-?? OpenClaw Onboarding
+ OpenClaw Onboarding
 
 Welcome! This wizard will help you set up your personal AI assistant.
 
 Press Enter to continue...
 ```
 
-### 2´Ü°è: °ÔÀÌÆ®¿şÀÌ ¼³Á¤
+### 2ë‹¨ê³„: ê²Œì´íŠ¸ì›¨ì´ ì„¤ì •
 
 ```
 ? Gateway port (18789): 
 ```
 
-- ±âº»°ª `18789` ±ÇÀå
-- ÀÌ¹Ì »ç¿ë ÁßÀÌ¸é ´Ù¸¥ Æ÷Æ® ÀÔ·Â
+- ê¸°ë³¸ê°’ `18789` ê¶Œì¥
+- ì´ë¯¸ ì‚¬ìš© ì¤‘ì´ë©´ ë‹¤ë¥¸ í¬íŠ¸ ì…ë ¥
 
-### 3´Ü°è: ÀÎÁõ ¼³Á¤
+### 3ë‹¨ê³„: ì¸ì¦ ì„¤ì •
 
 ```
 ? Authentication mode:
-  ? token (recommended for personal use)
+  â–¸ token (recommended for personal use)
     oauth
     password
 ```
 
-| ¸ğµå | »ç¿ë »ç·Ê | º¸¾È |
+| ëª¨ë“œ | ì‚¬ìš© ì‚¬ë¡€ | ë³´ì•ˆ |
 |------|----------|------|
-| token | °³ÀÎ¿ë | ??? API Å° ÇüÅÂ |
-| oauth | ÆÀ/Á¶Á÷ | ???? OAuth ÇÁ·Î¹ÙÀÌ´õ |
-| password | °ø°³ ¼­¹ö | ????? »ç¿ëÀÚ¸í/ºñ¹Ğ¹øÈ£ |
+| token | ê°œì¸ìš© |  API í‚¤ í˜•íƒœ |
+| oauth | íŒ€/ì¡°ì§ |  OAuth í”„ë¡œë°”ì´ë” |
+| password | ê³µê°œ ì„œë²„ |  ì‚¬ìš©ìëª…/ë¹„ë°€ë²ˆí˜¸ |
 
-±ÇÀå: °³ÀÎ¿ëÀ¸·Î `token` ¼±ÅÃ
+ê¶Œì¥: ê°œì¸ìš©ìœ¼ë¡œ `token` ì„ íƒ
 
-### 4´Ü°è: ¸ğµ¨ ÇÁ·Î¹ÙÀÌ´õ ¼³Á¤
+### 4ë‹¨ê³„: ëª¨ë¸ í”„ë¡œë°”ì´ë” ì„¤ì •
 
 ```
 ? Select your AI model provider:
-  ? Anthropic (Claude)
+  â–¸ Anthropic (Claude)
     OpenAI (GPT)
     Groq
     Google (Gemini)
@@ -74,45 +74,45 @@ Press Enter to continue...
     Other
 ```
 
-#### Anthropic Claude ¼±ÅÃ ½Ã
+#### Anthropic Claude ì„ íƒ ì‹œ
 
 ```
 ? Anthropic API key: sk-ant-...
 ? Default model:
-  ? claude-3-5-sonnet-20241022 (balanced)
+  â–¸ claude-3-5-sonnet-20241022 (balanced)
     claude-3-opus-20240229 (powerful, slower)
     claude-3-haiku-20240307 (fast, cheaper)
 ```
 
-±ÇÀå ¼³Á¤:
-- ÀÏ¹İ: `claude-3-5-sonnet-20241022`
-- º¹ÀâÇÑ ÀÛ¾÷: `claude-3-opus-20240229`
+ê¶Œì¥ ì„¤ì •:
+- ì¼ë°˜: `claude-3-5-sonnet-20241022`
+- ë³µì¡í•œ ì‘ì—…: `claude-3-opus-20240229`
 
-#### OpenAI ¼±ÅÃ ½Ã
+#### OpenAI ì„ íƒ ì‹œ
 
 ```
 ? OpenAI API key: sk-...
 ? Default model:
-  ? gpt-4o
+  â–¸ gpt-4o
     gpt-4o-mini (cheaper)
     gpt-4-turbo
 ```
 
-### 5´Ü°è: Ãß°¡ ¸ğµ¨ (¼±ÅÃ)
+### 5ë‹¨ê³„: ì¶”ê°€ ëª¨ë¸ (ì„ íƒ)
 
 ```
 ? Configure additional model providers? (y/N)
 ```
 
-¿©·¯ ÇÁ·Î¹ÙÀÌ´õ¸¦ ¼³Á¤ÇÏ¸é Æú¿À¹ö(Àå¾Ö ½Ã ÀÚµ¿ ÀüÈ¯)°¡ °¡´ÉÇÕ´Ï´Ù.
+ì—¬ëŸ¬ í”„ë¡œë°”ì´ë”ë¥¼ ì„¤ì •í•˜ë©´ í´ì˜¤ë²„(ì¥ì•  ì‹œ ìë™ ì „í™˜)ê°€ ê°€ëŠ¥í•©ë‹ˆë‹¤.
 
-### 6´Ü°è: Ã¤³Î ¼³Á¤ (¼±ÅÃ)
+### 6ë‹¨ê³„: ì±„ë„ ì„¤ì • (ì„ íƒ)
 
 ```
 ? Enable channels? (y/N)
 ```
 
-³ªÁß¿¡ ¼³Á¤ÇÒ ¼öµµ ÀÖ½À´Ï´Ù. ¹Ù·Î ¼³Á¤ÇÏ·Á¸é:
+ë‚˜ì¤‘ì— ì„¤ì •í•  ìˆ˜ë„ ìˆìŠµë‹ˆë‹¤. ë°”ë¡œ ì„¤ì •í•˜ë ¤ë©´:
 
 ```
 ? Select channels to configure:
@@ -122,18 +122,18 @@ Press Enter to continue...
   [ ] WhatsApp
 ```
 
-### 7´Ü°è: µ¥¸ó ¼³Ä¡ È®ÀÎ
+### 7ë‹¨ê³„: ë°ëª¬ ì„¤ì¹˜ í™•ì¸
 
 ```
 ? Install Gateway as a service? (Y/n)
 ```
 
-±ÇÀå: `Y` (½Ã½ºÅÛ ½ÃÀÛ ½Ã ÀÚµ¿ ½ÇÇà)
+ê¶Œì¥: `Y` (ì‹œìŠ¤í…œ ì‹œì‘ ì‹œ ìë™ ì‹¤í–‰)
 
-### 8´Ü°è: ¿Ï·á
+### 8ë‹¨ê³„: ì™„ë£Œ
 
 ```
-? Onboarding complete!
+ Onboarding complete!
 
 Your OpenClaw Gateway is now running at:
   http://127.0.0.1:18789
@@ -146,19 +146,19 @@ Next steps:
 
 ---
 
-## ¼³Ä¡ È®ÀÎ
+## ì„¤ì¹˜ í™•ì¸
 
-### ±âº» »óÅÂ È®ÀÎ
+### ê¸°ë³¸ ìƒíƒœ í™•ì¸
 
 ```bash
-# ¹öÀü È®ÀÎ
+# ë²„ì „ í™•ì¸
 openclaw --version
 
-# »óÅÂ È®ÀÎ
+# ìƒíƒœ í™•ì¸
 openclaw status
 ```
 
-Ãâ·Â ¿¹:
+ì¶œë ¥ ì˜ˆ:
 ```
 Gateway: running
 Version: 2026.1.29
@@ -167,157 +167,157 @@ Uptime: 5m 30s
 Channels: 0 connected
 ```
 
-### ÀÇ»ç(Doctor) Áø´Ü
+### ì˜ì‚¬(Doctor) ì§„ë‹¨
 
 ```bash
 openclaw doctor
 ```
 
-¹®Á¦°¡ ÀÖÀ¸¸é ¼öÁ¤ ¹æ¹ıÀ» ¾È³»ÇÕ´Ï´Ù.
+ë¬¸ì œê°€ ìˆìœ¼ë©´ ìˆ˜ì • ë°©ë²•ì„ ì•ˆë‚´í•©ë‹ˆë‹¤.
 
-### ´ë½Ãº¸µå Á¢¼Ó
+### ëŒ€ì‹œë³´ë“œ ì ‘ì†
 
 ```bash
-# ºê¶ó¿ìÀú¿¡¼­ ¿­±â
+# ë¸Œë¼ìš°ì €ì—ì„œ ì—´ê¸°
 openclaw dashboard
 
-# ¶Ç´Â Á÷Á¢ Á¢¼Ó
+# ë˜ëŠ” ì§ì ‘ ì ‘ì†
 open http://127.0.0.1:18789
 ```
 
 ---
 
-## ±âº» ¸í·É¾î
+## ê¸°ë³¸ ëª…ë ¹ì–´
 
-### °ÔÀÌÆ®¿ş¾î Á¦¾î
+### ê²Œì´íŠ¸ì›¨ì–´ ì œì–´
 
 ```bash
-# ½ÃÀÛ
+# ì‹œì‘
 openclaw gateway --port 18789
 
-# ¹é±×¶ó¿îµå µ¥¸ó ½ÃÀÛ
+# ë°±ê·¸ë¼ìš´ë“œ ë°ëª¬ ì‹œì‘
 openclaw gateway start
 
-# ÁßÁö
+# ì¤‘ì§€
 openclaw gateway stop
 
-# Àç½ÃÀÛ
+# ì¬ì‹œì‘
 openclaw gateway restart
 
-# ·Î±× È®ÀÎ
+# ë¡œê·¸ í™•ì¸
 openclaw gateway logs
 ```
 
-### ¿¡ÀÌÀüÆ®¿Í ´ëÈ­
+### ì—ì´ì „íŠ¸ì™€ ëŒ€í™”
 
 ```bash
-# ´ëÈ­ ¸ğµå
+# ëŒ€í™” ëª¨ë“œ
 openclaw agent
 
-# ÇÑ ¹øÀÇ ¸Ş½ÃÁö
+# í•œ ë²ˆì˜ ë©”ì‹œì§€
 openclaw agent --message "Hello, what can you do?"
 
-# °í±Ş Ãß·Ğ ¸ğµå
+# ê³ ê¸‰ ì¶”ë¡  ëª¨ë“œ
 openclaw agent --message "Complex task" --thinking high
 ```
 
-### ¼³Á¤ ÆÄÀÏ ÆíÁı
+### ì„¤ì • íŒŒì¼ í¸ì§‘
 
 ```bash
-# ±âº» ¼³Á¤ ¿­±â
-openclaw config edit
+# ê¸°ë³¸ ì„¤ì • ì—´ê¸°
+openclaw config
 
-# ¶Ç´Â Á÷Á¢ ÆíÁı
+# ë˜ëŠ” ì§ì ‘ í¸ì§‘
 nano ~/.openclaw/openclaw.json
 ```
 
 ---
 
-## È¯°æ º¯¼ö
+## í™˜ê²½ ë³€ìˆ˜
 
-### ÁÖ¿ä º¯¼ö
+### ì£¼ìš” ë³€ìˆ˜
 
-| º¯¼ö | ¼³¸í | ¿¹½Ã |
+| ë³€ìˆ˜ | ì„¤ëª… | ì˜ˆì‹œ |
 |------|------|------|
-| `OPENCLAW_HOME` | ³½ºÎ °æ·Î º£ÀÌ½º | `~/.openclaw` |
-| `OPENCLAW_STATE_DIR` | »óÅÂ ÀúÀå À§Ä¡ | `~/.openclaw/state` |
-| `OPENCLAW_CONFIG_PATH` | ¼³Á¤ ÆÄÀÏ °æ·Î | `~/.openclaw/openclaw.json` |
-| `OPENCLAW_PROFILE` | ÇÁ·ÎÇÊ ÀÌ¸§ | `work`, `personal` |
+| `OPENCLAW_HOME` | ë‚¸ë¶€ ê²½ë¡œ ë² ì´ìŠ¤ | `~/.openclaw` |
+| `OPENCLAW_STATE_DIR` | ìƒíƒœ ì €ì¥ ìœ„ì¹˜ | `~/.openclaw/state` |
+| `OPENCLAW_CONFIG_PATH` | ì„¤ì • íŒŒì¼ ê²½ë¡œ | `~/.openclaw/openclaw.json` |
+| `OPENCLAW_PROFILE` | í”„ë¡œí•„ ì´ë¦„ | `work`, `personal` |
 
-### »ç¿ë ¿¹
+### ì‚¬ìš© ì˜ˆ
 
 ```bash
-# ´Ù¸¥ ÇÁ·ÎÇÊ·Î ½ÇÇà
+# ë‹¤ë¥¸ í”„ë¡œí•„ë¡œ ì‹¤í–‰
 OPENCLAW_PROFILE=work openclaw dashboard
 
-# ¿ÜºÎ ¼³Á¤ »ç¿ë
+# ì™¸ë¶€ ì„¤ì • ì‚¬ìš©
 OPENCLAW_CONFIG_PATH=/mnt/config/openclaw.json openclaw gateway
 ```
 
 ---
 
-## ´ÙÀ½ ´Ü°è
+## ë‹¤ìŒ ë‹¨ê³„
 
-### Ã¤³Î ¿¬°á
+### ì±„ë„ ì—°ê²°
 
-- [Telegram ¼³Á¤](/channels/telegram)
-- [Slack ¼³Á¤](/channels/slack)
-- [Discord ¼³Á¤](/channels/discord)
+- [Telegram ì„¤ì •](/channels/telegram)
+- [Slack ì„¤ì •](/channels/slack)
+- [Discord ì„¤ì •](/channels/discord)
 
-### ½ºÅ³ ¼³Ä¡
+### ìŠ¤í‚¬ ì„¤ì¹˜
 
-?? [º¸¾È Ã¼Å©¸®½ºÆ®](/security/skill-checklist) È®ÀÎ ÈÄ:
+ [ë³´ì•ˆ ì²´í¬ë¦¬ìŠ¤íŠ¸](/security/skill-checklist) í™•ì¸ í›„:
 
 ```bash
-openclaw skill list          # »ç¿ë °¡´ÉÇÑ ½ºÅ³ ¸ñ·Ï
-clawhub install web   # À¥ ½ºÅ³ ¼³Ä¡
+openclaw skill list          # ì‚¬ìš© ê°€ëŠ¥í•œ ìŠ¤í‚¬ ëª©ë¡
+clawhub install web   # ì›¹ ìŠ¤í‚¬ ì„¤ì¹˜
 ```
 
-### ÇĞ½À
+### í•™ìŠµ
 
-- [È°¿ë »ç·Ê ¸ğÀ½](/usecases/all-cases)
-- [º¸¾È °¡ÀÌµå](/security/warnings)
+- [í™œìš© ì‚¬ë¡€ ëª¨ìŒ](/usecases/all-cases)
+- [ë³´ì•ˆ ê°€ì´ë“œ](/security/warnings)
 
 ---
 
-## ¹®Á¦ ÇØ°á
+## ë¬¸ì œ í•´ê²°
 
-### °ÔÀÌÆ®¿şÀÌ°¡ ½ÃÀÛµÇÁö ¾ÊÀ½
+### ê²Œì´íŠ¸ì›¨ì´ê°€ ì‹œì‘ë˜ì§€ ì•ŠìŒ
 
 ```bash
-# Æ÷Æ® Ãæµ¹ È®ÀÎ
+# í¬íŠ¸ ì¶©ëŒ í™•ì¸
 lsof -i :18789
 
-# ´Ù¸¥ Æ÷Æ®·Î ½ÃÀÛ
+# ë‹¤ë¥¸ í¬íŠ¸ë¡œ ì‹œì‘
 openclaw gateway --port 18790
 ```
 
-### ¼³Á¤ ÆÄÀÏ ¿À·ù
+### ì„¤ì • íŒŒì¼ ì˜¤ë¥˜
 
 ```bash
-# ¼³Á¤ °ËÁõ
+# ì„¤ì • ê²€ì¦
 openclaw config validate
 
-# ±âº»°ªÀ¸·Î Àç¼³Á¤
+# ê¸°ë³¸ê°’ìœ¼ë¡œ ì¬ì„¤ì •
 openclaw config reset
 
-# ¹é¾÷¿¡¼­ º¹¿ø
+# ë°±ì—…ì—ì„œ ë³µì›
 cp ~/.openclaw/openclaw.json.backup ~/.openclaw/openclaw.json
 ```
 
-### API Å° ¿À·ù
+### API í‚¤ ì˜¤ë¥˜
 
 ```bash
-# ¼³Á¤¿¡¼­ Å° ¾÷µ¥ÀÌÆ®
-openclaw config edit
+# ì„¤ì •ì—ì„œ í‚¤ ì—…ë°ì´íŠ¸
+openclaw config
 
-# ¶Ç´Â È¯°æ º¯¼ö·Î ÀÓ½Ã ¼³Á¤
+# ë˜ëŠ” í™˜ê²½ ë³€ìˆ˜ë¡œ ì„ì‹œ ì„¤ì •
 export ANTHROPIC_API_KEY=sk-ant-...
 ```
 
 ---
 
-## ¼³Á¤ ÆÄÀÏ ¿¹½Ã
+## ì„¤ì • íŒŒì¼ ì˜ˆì‹œ
 
 `~/.openclaw/openclaw.json`:
 

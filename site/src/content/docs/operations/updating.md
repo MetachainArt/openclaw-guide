@@ -3,8 +3,8 @@ title: 업데이트
 description: OpenClaw를 최신 버전으로 업데이트하는 방법
 ---
 
-> ⏱️ 예상 소요시간: 10분  
-> 🎯 목표: 안전한 업데이트
+>  예상 소요시간: 10분  
+>  목표: 안전한 업데이트
 
 ## 업데이트 확인
 
@@ -71,7 +71,7 @@ npm install -g openclaw@2026.1.15
 
 ## 보안 업데이트
 
-⚠️ 보안 패치는 즉시 적용하세요
+ 보안 패치는 즉시 적용하세요
 
 - [OpenClaw Security Advisories](https://github.com/openclaw/openclaw/security)
 - [Changelog](https://github.com/openclaw/openclaw/blob/main/CHANGELOG.md)

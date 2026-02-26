@@ -3,8 +3,8 @@ title: 설치 전 준비
 description: OpenClaw 설치 전에 확인해야 할 사항들
 ---
 
-> ⏱️ 예상 소요시간: 15-30분  
-> 🎯 목표: 설치 환경 준비 및 계획 수립
+>  예상 소요시간: 15-30분  
+>  목표: 설치 환경 준비 및 계획 수립
 
 ## 시스템 요구사항
 
@@ -27,7 +27,7 @@ description: OpenClaw 설치 전에 확인해야 할 사항들
 
 ## OS별 권장사항
 
-### 🍎 macOS
+###  macOS
 
 지원 버전: macOS 12 (Monterey) 이상
 
@@ -45,7 +45,7 @@ macOS 특징:
 - 메뉴 바 앱 사용 가능
 - iOS/Android 노드 연동 지원
 
-### 🐧 Linux
+###  Linux
 
 지원 배포판:
 - Ubuntu 20.04 LTS 이상
@@ -63,7 +63,7 @@ sudo apt-get install -y build-essential curl git
 sudo dnf install -y gcc-c++ make curl git
 ```
 
-### 🪟 Windows
+###  Windows
 
 :::danger[중요: WSL2 사용 권장]
 Windows에서는 WSL2 (Windows Subsystem for Linux) 사용을 강력히 권장합니다.
@@ -86,7 +86,7 @@ OpenClaw는 LLM API가 필요합니다. 다음 중 하나 이상 준비하세요
 
 | 프로바이더 | 모델 예시 | 특징 |
 |-----------|----------|------|
-| Anthropic | Claude 3.5 Sonnet/Opus | 🏆 권장 (긴 컨텍스트, 프롬프트 인젝션 저항) |
+| Anthropic | Claude 3.5 Sonnet/Opus |  권장 (긴 컨텍스트, 프롬프트 인젝션 저항) |
 | OpenAI | GPT-4o, GPT-4o-mini | 빠른 응답, 널리 사용됨 |
 | Groq | Llama 3, Mixtral | 저렴한 가격, 빠른 속도 |
 | Gemini | Gemini 1.5 Pro/Flash | Google 에코시스템 |
@@ -111,10 +111,10 @@ OpenClaw는 LLM API가 필요합니다. 다음 중 하나 이상 준비하세요
 
 | 방식 | 난이도 | 권장 대상 | 특징 |
 |------|--------|----------|------|
-| 인스톨러 스크립트 | ⭐ 쉬움 | 대부분의 사용자 | 권장 방식. 자동 설정 |
-| npm/pnpm | ⭐⭐ 중간 | Node.js 개발자 | 직접 버전 관리 |
-| Docker | ⭐⭐ 중간 | 서버/홈랩 운영자 | 격리, 이식성 |
-| 소스 빌드 | ⭐⭐⭐ 어려움 | 개발자/기여자 | 최신 기능, 커스터마이징 |
+| 인스톨러 스크립트 |  쉬움 | 대부분의 사용자 | 권장 방식. 자동 설정 |
+| npm/pnpm |  중간 | Node.js 개발자 | 직접 버전 관리 |
+| Docker |  중간 | 서버/홈랩 운영자 | 격리, 이식성 |
+| 소스 빌드 |  어려움 | 개발자/기여자 | 최신 기능, 커스터마이징 |
 
 ---
 
@@ -153,7 +153,7 @@ OpenClaw는 강력한 권한을 가집니다. 설치 전 보안 계획을 세우
 
 모든 준비가 끝났다면 설치를 시작하세요:
 
-[🚀 macOS 설치](/install/macos)  
-[🐧 Linux 설치](/install/linux)  
-[🪟 Windows 설치](/install/windows)  
-[🐳 Docker 설치](/install/docker)
+[ macOS 설치](/install/macos)  
+[ Linux 설치](/install/linux)  
+[ Windows 설치](/install/windows)  
+[ Docker 설치](/install/docker)

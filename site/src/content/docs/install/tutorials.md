@@ -3,13 +3,13 @@ title: 설치 튜토리얼 모음
 description: YouTube 및 블로그 설치 가이드 모음
 ---
 
-> 📺 동영상과 블로그 튜토리얼로 쉽게 설치하기
+>  동영상과 블로그 튜토리얼로 쉽게 설치하기
 
 이 페이지에서는 OpenClaw 설치에 도움이 되는 다양한 튜토리얼을 소개합니다.
 
 ---
 
-## 🎥 YouTube 튜토리얼
+##  YouTube 튜토리얼
 
 ### 1. Metics Media - Full OpenClaw Setup Tutorial
 조회수: 119K | 길이: 17분  
@@ -61,7 +61,7 @@ description: YouTube 및 블로그 설치 가이드 모음
 
 ---
 
-## 📝 한국어 블로그 튜토리얼
+##  한국어 블로그 튜토리얼
 
 ### Windows 설치
 
@@ -134,7 +134,7 @@ description: YouTube 및 블로그 설치 가이드 모음
 
 ---
 
-## 📚 공식 문서
+##  공식 문서
 
 ### OpenClaw 공식 문서
 링크: [docs.openclaw.ai](https://docs.openclaw.ai)
@@ -147,7 +147,7 @@ description: YouTube 및 블로그 설치 가이드 모음
 
 ---
 
-## 🔗 외국어 리소스
+##  외국어 리소스
 
 ### Medium - 완벽 설치 가이드 (영어)
 링크: [Medium Article](https://medium.com/@guljabeen222/how-to-install-openclaw-2026-the-complete-step-by-step-guide-516b74c163b9)
@@ -186,7 +186,7 @@ description: YouTube 및 블로그 설치 가이드 모음
 
 ---
 
-## 📊 튜토리얼 비교
+##  튜토리얼 비교
 
 | 튜토리얼 | 플랫폼 | 난이도 | 소요시간 | 특징 |
 |---------|--------|--------|----------|------|
@@ -200,7 +200,7 @@ description: YouTube 및 블로그 설치 가이드 모음
 
 ---
 
-## 💡 추천 학습 경로
+##  추천 학습 경로
 
 ### 완전 초보자
 1. [Adrian Twarog 영상](https://www.youtube.com/watch?v=u4ydH-QvPeg) (8분) - 개념 이해

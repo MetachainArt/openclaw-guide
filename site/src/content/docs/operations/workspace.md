@@ -3,8 +3,8 @@ title: 업무 분리 패턴 (워크스페이스 & 서브 에이전트)
 description: 프로젝트별 격리, 권한 분리, 서브 에이전트 구축을 위한 완벽 가이드
 ---
 
-> ⏱️ 예상 소요시간: 1-2시간 (기본 설정 30분 + 고급 패턴 1시간)  
-> 🎯 목표: 
+>  예상 소요시간: 1-2시간 (기본 설정 30분 + 고급 패턴 1시간)  
+>  목표: 
 > - 개인/업무 환경 완전 분리
 > - 팀/프로젝트별 독립 에이전트 구축
 > - 보안 권한 세분화 및 최소화
@@ -14,28 +14,28 @@ description: 프로젝트별 격리, 권한 분리, 서브 에이전트 구축�
 
 ## 1. 왜 업무 분리가 필요한가?
 
-### ⚠️ 문제 상황
+###  문제 상황
 
 하나의 OpenClaw 인스턴스로 모든 것을 처리할 때 발생하는 문제들:
 
 ```
-❌ 보안 문제
+ 보안 문제
 - 개인 이메일과 회사 이메일이 섞임
 - 민감한 API 키가 노출될 위험
 - 팀원이 내 개인 데이터에 접근 가능
 
-❌ 설정 충돌
+ 설정 충돌
 - 프로젝트 A용 설정이 프로젝트 B에 영향
 - 채널 연결이 꼬여 메시지가 잘못 감
 - 스킬 버전 충돌
 
-❌ 관리 복잡성
+ 관리 복잡성
 - 누가 어떤 작업을 했는지 추적 불가
 - 로그가 섞여 디버깅 어려움
 - 백업/복원 시 모든 것이 한꺼번에 처리됨
 ```
 
-### ✅ 해결책: 업무 분리 패턴
+###  해결책: 업무 분리 패턴
 
 | 분리 레벨 | 사용 사례 | 구현 방법 |
 |-----------|----------|----------|
@@ -251,13 +251,13 @@ Step 3: 빠른 전환 설정
 # OpenClaw 프로필 전환 함수
 oc-personal() {
   export OPENCLAW_PROFILE=personal
-  echo "✅ 개인용 프로필 활성화 (포트: 18790)"
+  echo " 개인용 프로필 활성화 (포트: 18790)"
   openclaw status
 }
 
 oc-work() {
   export OPENCLAW_PROFILE=work
-  echo "✅ 업무용 프로필 활성화 (포트: 18791)"
+  echo " 업무용 프로필 활성화 (포트: 18791)"
   openclaw status
 }
 
@@ -270,11 +270,11 @@ alias ocw='oc-work'
 ```bash
 # 개인용으로 전환
 ocp
-# 출력: ✅ 개인용 프로필 활성화 (포트: 18790)
+# 출력:  개인용 프로필 활성화 (포트: 18790)
 
 # 업무용으로 전환
 ocw
-# 출력: ✅ 업무용 프로필 활성화 (포트: 18791)
+# 출력:  업무용 프로필 활성화 (포트: 18791)
 ```
 
 ---
@@ -386,7 +386,7 @@ switch_workspace() {
     local workspace=$1
     
     if [ ! -d "$WORKSPACE_DIR/$workspace" ]; then
-        echo "❌ 워크스페이스 '$workspace'가 존재하지 않습니다"
+        echo " 워크스페이스 '$workspace'가 존재하지 않습니다"
         echo "생성하시겠습니까? (y/n)"
         read answer
         if [ "$answer" = "y" ]; then
@@ -413,8 +413,8 @@ switch_workspace() {
     export OPENCLAW_WORKSPACE=$workspace
     export OPENCLAW_CONFIG_PATH="$WORKSPACE_DIR/$workspace/.openclaw/openclaw.json"
     
-    echo "✅ 워크스페이스 '$workspace' 활성화"
-    echo "🌐 Gateway: http://localhost:$(grep GATEWAY_PORT .env | cut -d= -f2)"
+    echo " 워크스페이스 '$workspace' 활성화"
+    echo " Gateway: http://localhost:$(grep GATEWAY_PORT .env | cut -d= -f2)"
     
     # 상태 확인
     docker-compose ps
@@ -435,8 +435,8 @@ create_workspace() {
     # OpenClaw 디렉토리 생성
     mkdir -p .openclaw
     
-    echo "✅ 새 워크스페이스 '$workspace' 생성 완료"
-    echo "⚙️ .env 파일을 편집한 후 'workspace-switch $workspace'를 실행하세요"
+    echo " 새 워크스페이스 '$workspace' 생성 완료"
+    echo " .env 파일을 편집한 후 'workspace-switch $workspace'를 실행하세요"
 }
 
 # 메인
@@ -448,8 +448,8 @@ switch_workspace $1
 # 워크스페이스 전환
 workspace-switch company-a
 # 출력:
-# ✅ 워크스페이스 'company-a' 활성화
-# 🌐 Gateway: http://localhost:18791
+#  워크스페이스 'company-a' 활성화
+#  Gateway: http://localhost:18791
 
 # 다른 워크스페이스로 전환
 workspace-switch personal
@@ -474,7 +474,7 @@ workspace-switch personal
 
 | 구분 | 프로필 | 서브 에이전트 |
 |------|--------|---------------|
-| 동시 실행 | ❌ 한 번에 하나만 | ✅ 동시에 여러 개 |
+| 동시 실행 |  한 번에 하나만 |  동시에 여러 개 |
 | 통신 | 불가능 | 에이전트 간 통신 가능 |
 | 상위 제어 | 없음 | 오케스트레이터가 관리 |
 | 사용 사례 | 환경 전환 | 역할 기반 자동화 |
@@ -698,54 +698,54 @@ User (Slack #dev-requests):
 @orchestrator 로그인 페이지에 "비밀번호 찾기" 기능 추가해줘
 
 Orchestrator:
-🎬 워크플로우 #1234 시작
+ 워크플로우 #1234 시작
 "비밀번호 찾기 기능 추가"
 
-[14:32:05] Builder 🔨:
+[14:32:05] Builder :
    코드 생성 중...
    - forgot-password/page.tsx
    - forgot-password/form.tsx
    - api/auth/forgot-password.ts
    - tests/forgot-password.test.tsx
    
-   ✅ 완료 (2분 15초)
+    완료 (2분 15초)
    PR #567 생성됨
 
-[14:34:20] Reviewer 🔍:
+[14:34:20] Reviewer :
    코드 리뷰 중...
-   - 보안 검사: ✅ 통과
-   - 성능 검사: ✅ 통과
-   - 스타일 검사: ⚠️ 2개 경고
+   - 보안 검사:  통과
+   - 성능 검사:  통과
+   - 스타일 검사:  2개 경고
    
-   ✅ 승인 (1분 30초)
+    승인 (1분 30초)
 
-[14:35:50] Tester 🧪:
+[14:35:50] Tester :
    테스트 실행 중...
-   - 단위 테스트: 12/12 ✅
-   - 통합 테스트: 4/4 ✅
-   - E2E 테스트: 2/2 ✅
+   - 단위 테스트: 12/12 
+   - 통합 테스트: 4/4 
+   - E2E 테스트: 2/2 
    - 커버리지: 87%
    
-   ✅ 통과 (45초)
+    통과 (45초)
 
-[14:36:35] Deployer 🚀:
+[14:36:35] Deployer :
    스테이징 배포 중...
-   - 빌드: ✅
-   - 배포: ✅
-   - 스모크 테스트: ✅
+   - 빌드: 
+   - 배포: 
+   - 스모크 테스트: 
    
-   ✅ 완료 (1분 10초)
+    완료 (1분 10초)
    URL: https://staging.example.com/forgot-password
 
 ━━━━━━━━━━━━━━━━━━━━━━
-🎉 워크플로우 #1234 완료 (총 4분 40초)
+ 워크플로우 #1234 완료 (총 4분 40초)
 
-📊 결과:
+ 결과:
 - PR: #567 (대기 중)
 - 스테이징: https://staging.example.com/forgot-password
 - 테스트 커버리지: 87%
 
-👥 다음 조치:
+ 다음 조치:
 - 수동 리뷰 후 PR 머지
 - 프로덕션 배포 승인 필요
 
@@ -759,37 +759,37 @@ User:
 @orchestrator 프로덕션 장애! 결제가 안 됨 - 핫픽스 필요
 
 Orchestrator:
-🚨 긴급 핫픽스 워크플로우 #1235
+ 긴급 핫픽스 워크플로우 #1235
 
-⚡ 고속 모드 활성화 (리뷰/테스트 축소)
+ 고속 모드 활성화 (리뷰/테스트 축소)
 
-[14:40:10] Builder 🔨:
+[14:40:10] Builder :
    긴급 수정 중...
    - payment/gateway.ts 수정
    - 결제 검증 로직 롤백
    
-   ✅ 완료 (30초)
+    완료 (30초)
 
-[14:40:40] Reviewer 🔍 (자동):
-   - 보안 검사: ✅ 통과
+[14:40:40] Reviewer  (자동):
+   - 보안 검사:  통과
    - 자동 승인 (핫픽스 모드)
 
-[14:40:50] Tester 🧪 (핵심만):
-   - 결제 플로우 테스트: ✅
+[14:40:50] Tester  (핵심만):
+   - 결제 플로우 테스트: 
    
-   ✅ 통과 (20초)
+    통과 (20초)
 
-[14:41:10] Deployer 🚀:
+[14:41:10] Deployer :
    프로덕션 배포 중...
-   - 롤링 배포: ✅
-   - 헬스체크: ✅
+   - 롤링 배포: 
+   - 헬스체크: 
    
-   ✅ 완료 (40초)
+    완료 (40초)
 
 ━━━━━━━━━━━━━━━━━━━━━━
-🎉 핫픽스 #1235 완료 (총 1분 30초)
+ 핫픽스 #1235 완료 (총 1분 30초)
 
-⚠️ 사후 조치 필요:
+ 사후 조치 필요:
 - 원인 분석 및 롱텀 픽스 개발
 - 장애 보고서 작성
 - 테스트 커버리지 보완

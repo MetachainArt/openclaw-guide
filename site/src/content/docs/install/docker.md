@@ -3,14 +3,14 @@ title: Docker 설치
 description: Docker로 OpenClaw를 설치하는 방법
 ---
 
-> ⏱️ 예상 소요시간: 20-30분  
-> 🎯 목표: Docker로 OpenClaw 실행
+>  예상 소요시간: 20-30분  
+>  목표: Docker로 OpenClaw 실행
 
 ## Docker로 설치하기
 
 Docker는 OpenClaw를 격리된 환경에서 실행하는 가장 안전한 방법입니다.
 
-📺 참고: [Leenit 기술블로그 - Docker로 5분만에 OpenClaw 시작하기](https://blog.leenit.kr/install-openclaw-with-docker/)
+ 참고: [Leenit 기술블로그 - Docker로 5분만에 OpenClaw 시작하기](https://blog.leenit.kr/install-openclaw-with-docker/)
 
 
 ### 요구사항

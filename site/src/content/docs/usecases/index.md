@@ -1,9 +1,9 @@
-﻿---
+---
 title: 활용 사례 카테고리
 description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테고리별로 탐색하세요
 ---
 
-> 🎯 총 60+가지 실제 활용 사례  
+> 🎯 **총 60+가지 실제 활용 사례**  
 > 🟢 초급 / 🟡 중급 / 🔴 고급  
 > 각 카테고리를 클릭하여 상세 사례를 확인하세요
 
@@ -218,11 +218,11 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
 
 ## 🚀 시작하기
 
-처음이신가요? [🟢 초급 사례부터 시작하기](/usecases/category-01-work-automation)
+**처음이신가요?** [🟢 초급 사례부터 시작하기](/usecases/category-01-work-automation)
 
-경험자이신가요? [🔴 고급 사례 도전하기](/usecases/category-10-multi-agent)
+**경험자이신가요?** [🔴 고급 사례 도전하기](/usecases/category-10-multi-agent)
 
-특정 기능을 찾으시나요? 페이지 상단의 검색 기능을 사용하세요
+**특정 기능을 찾으시나요?** 페이지 상단의 검색 기능을 사용하세요
 
 ---
 
@@ -312,6 +312,7 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
   background: #e8f0fe;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
+  border: 1px solid #e5e7eb;
   font-weight: 500;
 }
 
@@ -332,6 +333,7 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
   border: 1px solid #e5e7eb;
+  font-weight: 500;
 }
 
 .stats-container {
@@ -347,7 +349,6 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
   border-radius: 12px;
   background: #ffffff;
   border: 1px solid #e2e8f0;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
 .stat-icon {
@@ -358,18 +359,19 @@ description: OpenClaw로 할 수 있는 60+가지 실제 활용 사례 - 카테�
 .stat-number {
   font-size: 2.5rem;
   font-weight: 700;
-  color: #111827;
+  color: #111827 !important;
+  -webkit-text-fill-color: #111827 !important;
 }
 
 .stat-label {
   font-size: 1rem;
-  color: #374151;
+  color: #4b5563;
   margin-top: 0.25rem;
 }
 
 .stat-desc {
   font-size: 0.75rem;
-  color: #6b7280;
+  color: #1a56db;
   margin-top: 0.5rem;
 }
 

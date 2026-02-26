@@ -3,7 +3,7 @@ title: OpenClaw 완벽 가이드
 description: OpenClaw 설치부터 활용까지 - 초급자부터 중급자를 위한 웹북
 ---
 
-> ⚠️ 중요 보안 경고  
+>  중요 보안 경고  
 > OpenClaw는 강력한 자율 AI 에이전트입니다. 스킬 마켓플레이스(ClawHub)에서 악성 스킬이 발견된 바 있습니다(2026년 2월, 341개 이상의 악성 스킬 확인).  
 > 스킬 설치 전 반드시 출처/권한/실행 명령을 검증하고, 민감정보가 있는 환경에서는 격리(WSL/별도 서버/최소권한)를 적용하세요.
 
@@ -22,12 +22,12 @@ OpenClaw(구 Moltbot/Clawdbot)는 사용자의 컴퓨터에서 로컬로 실행�
 
 ### 주요 특징
 
-- 🔒 로컬 실행: 모든 데이터가 내 컴퓨터에 저장
-- 🔗 멀티 채널: WhatsApp, Telegram, Slack, Discord, iMessage 등 50+ 연동
-- 🤖 자율 실행: 크론 작업, 이벤트 기반 자동화
-- 🧩 스킬 확장: 3,500+ 커뮤니티 스킬
-- 🌐 브라우저 제어: Playwright 기반 웹 자동화
-- 🎤 음성 지원: 음성 명령 및 응답
+-  로컬 실행: 모든 데이터가 내 컴퓨터에 저장
+-  멀티 채널: WhatsApp, Telegram, Slack, Discord, iMessage 등 50+ 연동
+-  자율 실행: 크론 작업, 이벤트 기반 자동화
+-  스킬 확장: 3,500+ 커뮤니티 스킬
+-  브라우저 제어: Playwright 기반 웹 자동화
+-  음성 지원: 음성 명령 및 응답
 
 ## 누구를 위한 책인가?
 
@@ -62,7 +62,7 @@ openclaw onboard --install-daemon
 
 ## 보안 경고 (필수 읽기)
 
-:::danger[⚠️ ClawHub 보안 사고 (2026년 2월)]
+:::danger[ ClawHub 보안 사고 (2026년 2월)]
 - 341개 이상의 악성 스킬이 ClawHub에서 발견됨 (Koi Security 보고)
 - 일부 스킬은 SSH 키, 암호화폐 지갑, 브라우저 비밀번호를 훔쳐감
 - 조치: 스킬 설치 전 반드시 소스코드 확인, 샌드박스 환경에서 테스트
@@ -79,9 +79,9 @@ openclaw onboard --install-daemon
 
 아래 버튼 중 하나를 선택하여 시작하세요:
 
-[🚀 30분 만에 시작하기](/quickstart)  
-[📦 상세 설치 가이드](/install/prerequisites)  
-[🔒 보안 가이드 먼저 보기](/security/warnings)
+[ 30분 만에 시작하기](/quickstart)  
+[ 상세 설치 가이드](/install/prerequisites)  
+[ 보안 가이드 먼저 보기](/security/warnings)
 
 ---
 
