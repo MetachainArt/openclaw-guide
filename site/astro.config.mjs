@@ -91,6 +91,14 @@ export default defineConfig({
       customCss: ['./src/styles/custom.css'],
       head: [
         {
+          tag: 'script',
+          attrs: {
+            async: true,
+            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4327440469164693',
+            crossorigin: 'anonymous',
+          },
+        },
+        {
           tag: 'meta',
           attrs: {
             name: 'viewport',
